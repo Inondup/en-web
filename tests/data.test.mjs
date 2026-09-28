@@ -12,7 +12,13 @@ test('课程包含 50 课，每课有 100 个词和对应语法', () => {
   for (const lesson of lessons) {
     assert.equal(lesson.words.length, 100);
     assert.ok(lesson.targetWords.length === 100);
-    assert.ok(lesson.words.every(word => word.word && word.zh && word.ipaBrE && word.ipaAmE));
+    assert.ok(lesson.words.every(word => (
+      word.word
+      && Array.isArray(word.pos) && word.pos.length > 0
+      && typeof word.zh === 'string' && /[\u4e00-\u9fff]/.test(word.zh)
+      && /^\/.+\/$/.test(word.ipaBrE)
+      && /^\/.+\/$/.test(word.ipaAmE)
+    )));
     assert.ok(lesson.words.every(word => ['extension', 'activation'].includes(word.role)));
     assert.equal(lesson.stats.extensionWords + lesson.stats.activationWords, 100);
     assert.equal(lesson.passage.highlightedWords.length, 30);

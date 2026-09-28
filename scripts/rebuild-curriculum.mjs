@@ -8,6 +8,7 @@ const ecdictPath = path.join(root, 'src/data/vocabulary.json');
 const wordbankDir = path.join(root, 'src/data/oxford5000');
 const lessonsDir = path.join(root, 'src/data/lessons');
 const wordbankPath = path.join(wordbankDir, 'wordbank.json');
+const translationsPath = path.join(wordbankDir, 'translations.json');
 
 const stagePlans = [
   { start: 1, end: 10, extension: 60 },
@@ -72,6 +73,15 @@ function readEcdict() {
   return new Map(rows.filter(row => isWord(row.word)).map(row => [row.word.toLowerCase(), row]));
 }
 
+let curatedTranslations = null;
+function readTranslations() {
+  if (curatedTranslations) return curatedTranslations;
+  curatedTranslations = fs.existsSync(translationsPath)
+    ? JSON.parse(fs.readFileSync(translationsPath))
+    : {};
+  return curatedTranslations;
+}
+
 function makePos(type) {
   const normalized = clean(type).toLowerCase();
   if (normalized.includes('verb')) return ['verb'];
@@ -112,9 +122,16 @@ function collocationsFor(word, pos) {
 }
 
 function zhFor(word, ecdict, type) {
-  const translation = clean(ecdict?.translation).replace(/\s+(?:n|v|a|ad|prep|conj|vt|vi|aux)\.?\s+/gi, '；');
-  if (translation) return translation.slice(0, 90);
-  return `${type || '词汇'}：${word}`;
+  const curated = readTranslations()[word.toLowerCase()];
+  if (curated?.zh) return curated.zh;
+  const fromVocab = clean(ecdict?.translation)
+    .replace(/\[[^\]]*\]/g, '')
+    .replace(/\s+(?:n|v|a|ad|prep|conj|vt|vi|aux)\.?\s+/gi, '；')
+    .replace(/；+/g, '；')
+    .replace(/^；|；$/g, '')
+    .trim();
+  if (fromVocab) return fromVocab.slice(0, 60);
+  throw new Error(`Missing Chinese translation for "${word}"`);
 }
 
 function chooseExample(word, type) {
@@ -137,6 +154,18 @@ function roleCountsFor(lessonId) {
 function topicScore(item, sceneKey, ecdict) {
   const haystack = `${item.word} ${ecdict.get(item.word.toLowerCase())?.translation || ''}`.toLowerCase();
   return sceneTerms[sceneKey].reduce((score, term) => score + (haystack.includes(term) ? 1 : 0), 0);
+}
+
+// Deterministic per-word rank so rebuilds stay reproducible (the curriculum is
+// fixed at build time) while avoiding any alphabetical or frequency ordering.
+function shuffleRank(word) {
+  let hash = 0x811c9dc5;
+  const seeded = `${word}::shiyu-oxford-2026`;
+  for (let i = 0; i < seeded.length; i += 1) {
+    hash ^= seeded.charCodeAt(i);
+    hash = Math.imul(hash, 0x01000193);
+  }
+  return (hash >>> 0) / 0xffffffff;
 }
 
 function buildWordbank() {
@@ -163,11 +192,18 @@ function buildWordbank() {
   const assigned = [];
   const take = (pool, count, sceneKey) => {
     const available = pool.filter(item => !assigned.includes(item)).sort((a, b) => (
-      topicScore(b, sceneKey, ecdict) - topicScore(a, sceneKey, ecdict) || a.word.localeCompare(b.word)
+      topicScore(b, sceneKey, ecdict) - topicScore(a, sceneKey, ecdict)
+      || shuffleRank(a.word) - shuffleRank(b.word)
     ));
     const result = available.slice(0, count);
     for (const item of result) pool.splice(pool.indexOf(item), 1);
-    if (result.length < count) result.push(...sourceWords.filter(item => !assigned.includes(item) && !result.includes(item)).slice(0, count - result.length));
+    if (result.length < count) {
+      const filler = sourceWords
+        .filter(item => !assigned.includes(item) && !result.includes(item))
+        .sort((a, b) => shuffleRank(a.word) - shuffleRank(b.word))
+        .slice(0, count - result.length);
+      result.push(...filler);
+    }
     assigned.push(...result);
     return result;
   };
@@ -177,7 +213,10 @@ function buildWordbank() {
     const sceneKey = sceneFor(lesson.id)[0];
     const extension = take(extensionPool, counts.extension, sceneKey).map(item => ({ item, role: 'extension' }));
     const activation = take(activationPool, counts.activation, sceneKey).map(item => ({ item, role: 'activation' }));
-    lesson.__assignedWords = [...extension, ...activation];
+    // Interleave roles by the same deterministic rank so a lesson never opens
+    // with a solid alphabetical or single-role block.
+    lesson.__assignedWords = [...extension, ...activation]
+      .sort((a, b) => shuffleRank(a.item.word) - shuffleRank(b.item.word));
   }
 
   const records = existingLessons.flatMap(lesson => lesson.__assignedWords.map(({ item, role }) => {

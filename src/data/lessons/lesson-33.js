@@ -9,228 +9,157 @@ export default {
   "grammarId": 33,
   "words": [
     {
-      "word": "merger",
-      "ipaBrE": "/ˈmɜːdʒə(r)/",
-      "ipaAmE": "/ˈmɜːrdʒər/",
-      "ipa": "/ˈmɜːdʒə(r)/",
+      "word": "descend",
+      "ipaBrE": "/dɪˈsend/",
+      "ipaAmE": "/dɪˈsend/",
+      "ipa": "/dɪˈsend/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "合并, 归并 [经] 购并",
+      "zh": "vi. 下降, 世代相传, 屈尊, 袭击；vt. 下降",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a merger",
-        "the role of merger",
-        "merger and evidence"
+        "descend a plan",
+        "descend carefully",
+        "descend with others"
       ],
       "wordFamily": [
-        "merger",
-        "mergers",
-        "merg"
+        "descend",
+        "descended",
+        "descending",
+        "descends"
       ],
-      "example": "This merger matters when people need to make a clear decision.",
+      "example": "We can descend the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "merit",
-      "ipaBrE": "/ˈmerɪt/",
-      "ipaAmE": "/ˈmerɪt/",
-      "ipa": "/ˈmerɪt/",
+      "word": "orientation",
+      "ipaBrE": "/ˌɔːriənˈteɪʃn/",
+      "ipaAmE": "/ˌɔːriənˈteɪʃn/",
+      "ipa": "/ˌɔːriənˈteɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "优点, 功绩, 价值, 功过, 真相；值得；应受",
+      "zh": "n. 定方位, 适应, 向东方；n. 方向； 方向",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a merit",
-        "the role of merit",
-        "merit and evidence"
+        "a orientation",
+        "the role of orientation",
+        "orientation and evidence"
       ],
       "wordFamily": [
-        "merit",
-        "merits",
-        "merited",
-        "meriting"
+        "orientation",
+        "orientations",
+        "orientate"
       ],
-      "example": "This merit matters when people need to make a clear decision.",
+      "example": "This orientation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "metaphor",
-      "ipaBrE": "/ˈmetəfɔː(r)/",
-      "ipaAmE": "/ˈmetəfɔːr/",
-      "ipa": "/ˈmetəfɔː(r)/",
+      "word": "donor",
+      "ipaBrE": "/ˈdəʊnə(r)/",
+      "ipaAmE": "/ˈdəʊnər/",
+      "ipa": "/ˈdəʊnə(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "隐喻",
+      "zh": "n. 捐赠人； 给体; 供体",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a donor",
+        "the role of donor",
+        "donor and evidence"
+      ],
+      "wordFamily": [
+        "donor",
+        "donors"
+      ],
+      "example": "This donor matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "genius",
+      "ipaBrE": "/ˈdʒiːniəs/",
+      "ipaAmE": "/ˈdʒiːniəs/",
+      "ipa": "/ˈdʒiːniəs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 天才, 天赋, 精神, 神魔； 特征",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a metaphor",
-        "the role of metaphor",
-        "metaphor and evidence"
+        "a genius",
+        "the role of genius",
+        "genius and evidence"
       ],
       "wordFamily": [
-        "metaphor",
-        "metaphors"
+        "genius",
+        "geniuses",
+        "geniu"
       ],
-      "example": "This metaphor matters when people need to make a clear decision.",
+      "example": "This genius matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "methodology",
-      "ipaBrE": "/ˌmeθəˈdɒlədʒi/",
-      "ipaAmE": "/ˌmeθəˈdɑːlədʒi/",
-      "ipa": "/ˌmeθəˈdɒlədʒi/",
+      "word": "tale",
+      "ipaBrE": "/teɪl/",
+      "ipaAmE": "/teɪl/",
+      "ipa": "/teɪl/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：methodology",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a methodology",
-        "the role of methodology",
-        "methodology and evidence"
-      ],
-      "wordFamily": [
-        "methodology"
-      ],
-      "example": "This methodology matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "midst",
-      "ipaBrE": "/mɪdst/",
-      "ipaAmE": "/mɪdst/",
-      "ipa": "/mɪdst/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "中间；在...中间",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a midst",
-        "the role of midst",
-        "midst and evidence"
-      ],
-      "wordFamily": [
-        "midst"
-      ],
-      "example": "This midst matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "migration",
-      "ipaBrE": "/maɪˈɡreɪʃn/",
-      "ipaAmE": "/maɪˈɡreɪʃn/",
-      "ipa": "/maɪˈɡreɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "移民, 移往, 移动 [计] 迁移",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a migration",
-        "the role of migration",
-        "migration and evidence"
-      ],
-      "wordFamily": [
-        "migration",
-        "migrations",
-        "migrate"
-      ],
-      "example": "This migration matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "militant",
-      "ipaBrE": "/ˈmɪlɪtənt/",
-      "ipaAmE": "/ˈmɪlɪtənt/",
-      "ipa": "/ˈmɪlɪtənt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：militant",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a militant approach",
-        "remain militant",
-        "militant enough"
-      ],
-      "wordFamily": [
-        "militant"
-      ],
-      "example": "A militant approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "military",
-      "ipaBrE": "/ˈmɪlətri/",
-      "ipaAmE": "/ˈmɪləteri/",
-      "ipa": "/ˈmɪlətri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "军队；军事的, 军人的, 适于战争的",
+      "zh": "n. 故事, 谎言, 谣言, 陈述, 叙述； 虚语, 诽语, 谣言",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a military approach",
-        "remain military",
-        "military enough"
+        "a tale",
+        "the role of tale",
+        "tale and evidence"
       ],
       "wordFamily": [
-        "military"
+        "tale",
+        "tales"
       ],
-      "example": "A military approach makes the situation easier to explain.",
+      "example": "This tale matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "militia",
-      "ipaBrE": "/məˈlɪʃə/",
-      "ipaAmE": "/məˈlɪʃə/",
-      "ipa": "/məˈlɪʃə/",
+      "word": "humorous",
+      "ipaBrE": "/ˈhjuːmərəs/",
+      "ipaAmE": "/ˈhjuːmərəs/",
+      "ipa": "/ˈhjuːmərəs/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "义勇军, 民兵组织, 国民军",
-      "cefr": "C1",
+      "zh": "a. 富幽默感的, 滑稽的, 诙谐的",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a militia",
-        "the role of militia",
-        "militia and evidence"
+        "a humorous approach",
+        "remain humorous",
+        "humorous enough"
       ],
       "wordFamily": [
-        "militia",
-        "militias"
+        "humorous",
+        "humorou"
       ],
-      "example": "This militia matters when people need to make a clear decision.",
+      "example": "A humorous approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -241,7 +170,7 @@ export default {
       "pos": [
         "noun"
       ],
-      "zh": "压榨机, 磨坊, 制造厂；碾磨, 磨细, 搅拌, 使乱转；乱转, 被碾磨",
+      "zh": "n. 压榨机, 磨坊, 制造厂；vt. 碾磨, 磨细, 搅拌, 使乱转；vi. 乱转, 被碾磨",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
@@ -261,968 +190,871 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "miner",
-      "ipaBrE": "/ˈmaɪnə(r)/",
-      "ipaAmE": "/ˈmaɪnər/",
-      "ipa": "/ˈmaɪnə(r)/",
+      "word": "approach",
+      "ipaBrE": "/əˈprəʊtʃ/",
+      "ipaAmE": "/əˈprəʊtʃ/",
+      "ipa": "/əˈprəʊtʃ/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：miner",
+      "zh": "n. 接近, 入门；vt. 接近, 近似, 找...商量；vi. 靠近",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a miner",
-        "the role of miner",
-        "miner and evidence"
+        "a approach",
+        "the role of approach",
+        "approach and evidence"
       ],
       "wordFamily": [
-        "miner",
-        "min"
+        "approach",
+        "approaches",
+        "approached",
+        "approaching"
       ],
-      "example": "This miner matters when people need to make a clear decision.",
+      "example": "This approach matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mineral",
-      "ipaBrE": "/ˈmɪnərəl/",
-      "ipaAmE": "/ˈmɪnərəl/",
-      "ipa": "/ˈmɪnərəl/",
+      "word": "corridor",
+      "ipaBrE": "/ˈkɒrɪdɔː(r)/",
+      "ipaAmE": "/ˈkɔːrɪdɔːr/",
+      "ipa": "/ˈkɒrɪdɔː(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "矿物, 无机物, 苏打水；矿物的, 似矿物的",
+      "zh": "n. 走廊, 回廊, 人口密集地带",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mineral",
-        "the role of mineral",
-        "mineral and evidence"
+        "a corridor",
+        "the role of corridor",
+        "corridor and evidence"
       ],
       "wordFamily": [
-        "mineral",
-        "minerals"
+        "corridor",
+        "corridors"
       ],
-      "example": "This mineral matters when people need to make a clear decision.",
+      "example": "This corridor matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minimal",
-      "ipaBrE": "/ˈmɪnɪml/",
-      "ipaAmE": "/ˈmɪnɪml/",
-      "ipa": "/ˈmɪnɪml/",
+      "word": "influential",
+      "ipaBrE": "/ˌɪnfluˈenʃl/",
+      "ipaAmE": "/ˌɪnfluˈenʃl/",
+      "ipa": "/ˌɪnfluˈenʃl/",
       "pos": [
         "adjective"
       ],
-      "zh": "最小的, 极微的, 最小限度的 [医] 最小的, 最低的",
+      "zh": "a. 有影响的, 有势力的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minimal approach",
-        "remain minimal",
-        "minimal enough"
+        "a influential approach",
+        "remain influential",
+        "influential enough"
       ],
       "wordFamily": [
-        "minimal"
+        "influential"
       ],
-      "example": "A minimal approach makes the situation easier to explain.",
+      "example": "A influential approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minimize",
-      "ipaBrE": "/ˈmɪnɪmaɪz/",
-      "ipaAmE": "/ˈmɪnɪmaɪz/",
-      "ipa": "/ˈmɪnɪmaɪz/",
+      "word": "fixture",
+      "ipaBrE": "/ˈfɪkstʃə(r)/",
+      "ipaAmE": "/ˈfɪkstʃər/",
+      "ipa": "/ˈfɪkstʃə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 固定(状态), 固定物, 设备； 夹具",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a fixture",
+        "the role of fixture",
+        "fixture and evidence"
+      ],
+      "wordFamily": [
+        "fixture"
+      ],
+      "example": "This fixture matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "imagination",
+      "ipaBrE": "/ɪˌmædʒɪˈneɪʃn/",
+      "ipaAmE": "/ɪˌmædʒɪˈneɪʃn/",
+      "ipa": "/ɪˌmædʒɪˈneɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 想像, 听觉, 想像力； 想像",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a imagination",
+        "the role of imagination",
+        "imagination and evidence"
+      ],
+      "wordFamily": [
+        "imagination",
+        "imaginations",
+        "imaginate"
+      ],
+      "example": "This imagination matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "mainland",
+      "ipaBrE": "/ðə ˈmeɪnlænd/",
+      "ipaAmE": "/ðə ˈmeɪnlænd/",
+      "ipa": "/ðə ˈmeɪnlænd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大陆, 本土； 大陆",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a mainland",
+        "the role of mainland",
+        "mainland and evidence"
+      ],
+      "wordFamily": [
+        "mainland"
+      ],
+      "example": "This mainland matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "spectator",
+      "ipaBrE": "/spekˈteɪtə(r)/",
+      "ipaAmE": "/ˈspekteɪtər/",
+      "ipa": "/spekˈteɪtə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 观众, 目击者, 旁观者",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a spectator",
+        "the role of spectator",
+        "spectator and evidence"
+      ],
+      "wordFamily": [
+        "spectator",
+        "spectators"
+      ],
+      "example": "This spectator matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "praise",
+      "ipaBrE": "/preɪz/",
+      "ipaAmE": "/preɪz/",
+      "ipa": "/preɪz/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 赞美, 称赞, 崇拜；vt. 称赞, 赞美；vi. 赞扬, 表扬",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a praise",
+        "the role of praise",
+        "praise and evidence"
+      ],
+      "wordFamily": [
+        "praise",
+        "praised",
+        "praising",
+        "praises"
+      ],
+      "example": "This praise matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "dig",
+      "ipaBrE": "/dɪɡ/",
+      "ipaAmE": "/dɪɡ/",
+      "ipa": "/dɪɡ/",
       "pos": [
         "verb"
       ],
-      "zh": "将...减到最少；最小化；最小化 [计] 最小化",
+      "zh": "vt. 挖, 翻土, 发掘；vi. 挖掘；n. 挖掘； 数字, 数位",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "dig a plan",
+        "dig carefully",
+        "dig with others"
+      ],
+      "wordFamily": [
+        "dig",
+        "dug",
+        "digging",
+        "digs"
+      ],
+      "example": "We can dig the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "correspondence",
+      "ipaBrE": "/ˌkɒrəˈspɒndəns/",
+      "ipaAmE": "/ˌkɔːrəˈspɑːndəns/",
+      "ipa": "/ˌkɒrəˈspɒndəns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 相符, 通信, 信件； 对应, 相对",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "minimize a plan",
-        "minimize carefully",
-        "minimize with others"
+        "a correspondence",
+        "the role of correspondence",
+        "correspondence and evidence"
       ],
       "wordFamily": [
-        "minimize",
-        "minimizing",
-        "minimized",
-        "minimizes"
+        "correspondence"
       ],
-      "example": "We can minimize the next step together.",
+      "example": "This correspondence matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minimum",
-      "ipaBrE": "/ˈmɪnɪməm/",
-      "ipaAmE": "/ˈmɪnɪməm/",
-      "ipa": "/ˈmɪnɪməm/",
+      "word": "upper",
+      "ipaBrE": "/ˈʌpə(r)/",
+      "ipaAmE": "/ˈʌpər/",
+      "ipa": "/ˈʌpə(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "最小的, 最低的；最小值 [计] 最小值",
+      "zh": "a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的；n. 鞋帮, 上齿",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minimum approach",
-        "remain minimum",
-        "minimum enough"
+        "a upper approach",
+        "remain upper",
+        "upper enough"
       ],
       "wordFamily": [
-        "minimum",
-        "minima"
+        "upper",
+        "uppers",
+        "upp"
       ],
-      "example": "A minimum approach makes the situation easier to explain.",
+      "example": "A upper approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mining",
-      "ipaBrE": "/ˈmaɪnɪŋ/",
-      "ipaAmE": "/ˈmaɪnɪŋ/",
-      "ipa": "/ˈmaɪnɪŋ/",
+      "word": "lawn",
+      "ipaBrE": "/lɔːn/",
+      "ipaAmE": "/lɔːn/",
+      "ipa": "/lɔːn/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：mining",
+      "zh": "n. 草地, 草坪, 上等细麻布； 细筛",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mining",
-        "the role of mining",
-        "mining and evidence"
+        "a lawn",
+        "the role of lawn",
+        "lawn and evidence"
       ],
       "wordFamily": [
-        "mining",
-        "min"
+        "lawn",
+        "lawns"
       ],
-      "example": "This mining matters when people need to make a clear decision.",
+      "example": "This lawn matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minister",
-      "ipaBrE": "/ˈmɪnɪstə(r)/",
-      "ipaAmE": "/ˈmɪnɪstər/",
-      "ipa": "/ˈmɪnɪstə(r)/",
+      "word": "governance",
+      "ipaBrE": "/ˈɡʌvənəns/",
+      "ipaAmE": "/ˈɡʌvərnəns/",
+      "ipa": "/ˈɡʌvənəns/",
       "pos": [
         "noun"
       ],
-      "zh": "部长, 牧师, 公使；服侍, 救助, 主持宗教仪式",
+      "zh": "n. 统治, 统辖, 管理； 统治, 管理, 支配",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a governance",
+        "the role of governance",
+        "governance and evidence"
+      ],
+      "wordFamily": [
+        "governance"
+      ],
+      "example": "This governance matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "scholarship",
+      "ipaBrE": "/ˈskɒləʃɪp/",
+      "ipaAmE": "/ˈskɑːlərʃɪp/",
+      "ipa": "/ˈskɒləʃɪp/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 学问, 学术成就, 奖学金",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minister",
-        "the role of minister",
-        "minister and evidence"
+        "a scholarship",
+        "the role of scholarship",
+        "scholarship and evidence"
       ],
       "wordFamily": [
-        "minister",
-        "ministers",
-        "ministering",
-        "ministered"
+        "scholarship",
+        "scholarships"
       ],
-      "example": "This minister matters when people need to make a clear decision.",
+      "example": "This scholarship matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "ministry",
-      "ipaBrE": "/ˈmɪnɪstri/",
-      "ipaAmE": "/ˈmɪnɪstri/",
-      "ipa": "/ˈmɪnɪstri/",
+      "word": "ensure",
+      "ipaBrE": "/ɪnˈʃɔː(r)/",
+      "ipaAmE": "/ɪnˈʃʊr/",
+      "ipa": "/ɪnˈʃɔː(r)/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "部, 内阁, 服务 [经] 部",
-      "cefr": "C1",
+      "zh": "vt. 确定, 保证, 担保, 保护； 确保, 确定",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a ministry",
-        "the role of ministry",
-        "ministry and evidence"
+        "ensure a plan",
+        "ensure carefully",
+        "ensure with others"
       ],
       "wordFamily": [
-        "ministry",
-        "ministries"
+        "ensure",
+        "ensuring",
+        "ensures",
+        "ensured"
       ],
-      "example": "This ministry matters when people need to make a clear decision.",
+      "example": "We can ensure the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minor",
-      "ipaBrE": "/ˈmaɪnə(r)/",
-      "ipaAmE": "/ˈmaɪnər/",
-      "ipa": "/ˈmaɪnə(r)/",
+      "word": "legislative",
+      "ipaBrE": "/ˈledʒɪslətɪv/",
+      "ipaAmE": "/ˈledʒɪsleɪtɪv/",
+      "ipa": "/ˈledʒɪslətɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "未成年人, 副修科目；较小的, 二流的, 未成年的；副修 [计] 次要",
-      "cefr": "B2",
+      "zh": "n. 立法机构；a. 立法的, 有立法权的",
+      "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minor approach",
-        "remain minor",
-        "minor enough"
+        "a legislative approach",
+        "remain legislative",
+        "legislative enough"
       ],
       "wordFamily": [
-        "minor",
-        "minors"
+        "legislative"
       ],
-      "example": "A minor approach makes the situation easier to explain.",
+      "example": "A legislative approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minority",
-      "ipaBrE": "/maɪˈnɒrəti/",
-      "ipaAmE": "/maɪˈnɔːrəti/",
-      "ipa": "/maɪˈnɒrəti/",
+      "word": "spectrum",
+      "ipaBrE": "/ˈspektrəm/",
+      "ipaAmE": "/ˈspektrəm/",
+      "ipa": "/ˈspektrəm/",
       "pos": [
         "noun"
       ],
-      "zh": "少数, 未成年, 少数民族；少数的, 属于少数派的",
-      "cefr": "B2",
+      "zh": "n. 光谱, 范围, 系列； 光谱",
+      "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minority",
-        "the role of minority",
-        "minority and evidence"
+        "a spectrum",
+        "the role of spectrum",
+        "spectrum and evidence"
       ],
       "wordFamily": [
-        "minority",
-        "minorities",
-        "minor"
+        "spectrum",
+        "spectra"
       ],
-      "example": "This minority matters when people need to make a clear decision.",
+      "example": "This spectrum matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minute",
-      "ipaBrE": "/maɪˈnjuːt/",
-      "ipaAmE": "/maɪˈnuːt/",
-      "ipa": "/maɪˈnjuːt/",
+      "word": "sincere",
+      "ipaBrE": "/sɪnˈsɪə(r)/",
+      "ipaAmE": "/sɪnˈsɪr/",
+      "ipa": "/sɪnˈsɪə(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "分, 分钟, 片刻, 备忘录, 笔记；记录, 摘录, 测定时间；微小的, 详细的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a minute approach",
-        "remain minute",
-        "minute enough"
-      ],
-      "wordFamily": [
-        "minute",
-        "minutes"
-      ],
-      "example": "A minute approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "miracle",
-      "ipaBrE": "/ˈmɪrəkl/",
-      "ipaAmE": "/ˈmɪrəkl/",
-      "ipa": "/ˈmɪrəkl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "奇迹, 奇事",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a miracle",
-        "the role of miracle",
-        "miracle and evidence"
-      ],
-      "wordFamily": [
-        "miracle",
-        "miracles"
-      ],
-      "example": "This miracle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "miserable",
-      "ipaBrE": "/ˈmɪzrəbl/",
-      "ipaAmE": "/ˈmɪzrəbl/",
-      "ipa": "/ˈmɪzrəbl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：miserable",
+      "zh": "a. 诚实的, 正直的, 真挚的, 纯净的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a miserable approach",
-        "remain miserable",
-        "miserable enough"
+        "a sincere approach",
+        "remain sincere",
+        "sincere enough"
       ],
       "wordFamily": [
-        "miserable",
-        "miser"
+        "sincere"
       ],
-      "example": "A miserable approach makes the situation easier to explain.",
+      "example": "A sincere approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "misery",
-      "ipaBrE": "/ˈmɪzəri/",
-      "ipaAmE": "/ˈmɪzəri/",
-      "ipa": "/ˈmɪzəri/",
+      "word": "attain",
+      "ipaBrE": "/əˈteɪn/",
+      "ipaAmE": "/əˈteɪn/",
+      "ipa": "/əˈteɪn/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "noun：misery",
+      "zh": "vt. 达到, 获得；vi. 达到",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a misery",
-        "the role of misery",
-        "misery and evidence"
+        "attain a plan",
+        "attain carefully",
+        "attain with others"
       ],
       "wordFamily": [
-        "misery"
+        "attain",
+        "attained",
+        "attaining",
+        "attains"
       ],
-      "example": "This misery matters when people need to make a clear decision.",
+      "example": "We can attain the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "misleading",
-      "ipaBrE": "/ˌmɪsˈliːdɪŋ/",
-      "ipaAmE": "/ˌmɪsˈliːdɪŋ/",
-      "ipa": "/ˌmɪsˈliːdɪŋ/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：misleading",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a misleading approach",
-        "remain misleading",
-        "misleading enough"
-      ],
-      "wordFamily": [
-        "misleading",
-        "mislead"
-      ],
-      "example": "A misleading approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "missile",
-      "ipaBrE": "/ˈmɪsaɪl/",
-      "ipaAmE": "/ˈmɪsl/",
-      "ipa": "/ˈmɪsaɪl/",
+      "word": "basement",
+      "ipaBrE": "/ˈbeɪsmənt/",
+      "ipaAmE": "/ˈbeɪsmənt/",
+      "ipa": "/ˈbeɪsmənt/",
       "pos": [
         "noun"
       ],
-      "zh": "发射物, 导弹, 飞弹, 火箭；可发射的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a missile",
-        "the role of missile",
-        "missile and evidence"
-      ],
-      "wordFamily": [
-        "missile",
-        "missiles"
-      ],
-      "example": "This missile matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "mission",
-      "ipaBrE": "/ɪmˈpɒsəbl/",
-      "ipaAmE": "/ɪmˈpɑːsəbl/",
-      "ipa": "/ɪmˈpɒsəbl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "任务, 代表团, 使命, 传教团；派遣, 向...传教",
+      "zh": "n. 地下室, 墙脚； 地下室",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mission",
-        "the role of mission",
-        "mission and evidence"
+        "a basement",
+        "the role of basement",
+        "basement and evidence"
       ],
       "wordFamily": [
-        "mission",
-        "missions"
+        "basement",
+        "basements",
+        "base"
       ],
-      "example": "This mission matters when people need to make a clear decision.",
+      "example": "This basement matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mixed",
-      "ipaBrE": "/mɪkst/",
-      "ipaAmE": "/mɪkst/",
-      "ipa": "/mɪkst/",
+      "word": "reward",
+      "ipaBrE": "/rɪˈwɔːd/",
+      "ipaAmE": "/rɪˈwɔːrd/",
+      "ipa": "/rɪˈwɔːd/",
       "pos": [
-        "adjective"
+        "noun"
       ],
-      "zh": "混合的, 形形色色的, 弄糊涂的 [计] 混合的",
+      "zh": "n. 报酬, 酬谢, 赏金；vt. 奖赏, 酬谢, 给...应有报应",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mixed approach",
-        "remain mixed",
-        "mixed enough"
+        "a reward",
+        "the role of reward",
+        "reward and evidence"
       ],
       "wordFamily": [
-        "mixed",
-        "mix",
-        "dp"
+        "reward",
+        "rewards",
+        "rewarded",
+        "rewarding"
       ],
-      "example": "A mixed approach makes the situation easier to explain.",
+      "example": "This reward matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mob",
-      "ipaBrE": "/mɒb/",
-      "ipaAmE": "/mɑːb/",
-      "ipa": "/mɒb/",
+      "word": "capable",
+      "ipaBrE": "/ˈkeɪpəbl/",
+      "ipaAmE": "/ˈkeɪpəbl/",
+      "ipa": "/ˈkeɪpəbl/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "noun：mob",
-      "cefr": "C1",
+      "zh": "a. 有能力的, 能的, 能干的",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mob",
-        "the role of mob",
-        "mob and evidence"
+        "a capable approach",
+        "remain capable",
+        "capable enough"
       ],
       "wordFamily": [
-        "mob"
+        "capable",
+        "cap"
       ],
-      "example": "This mob matters when people need to make a clear decision.",
+      "example": "A capable approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mobility",
-      "ipaBrE": "/məʊˈbɪləti/",
-      "ipaAmE": "/məʊˈbɪləti/",
-      "ipa": "/məʊˈbɪləti/",
+      "word": "convincing",
+      "ipaBrE": "/kənˈvɪnsɪŋ/",
+      "ipaAmE": "/kənˈvɪnsɪŋ/",
+      "ipa": "/kənˈvɪnsɪŋ/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "noun：mobility",
-      "cefr": "C1",
+      "zh": "a. 使人信服的, 有力的, 令人心悦诚服的",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mobility",
-        "the role of mobility",
-        "mobility and evidence"
+        "a convincing approach",
+        "remain convincing",
+        "convincing enough"
       ],
       "wordFamily": [
-        "mobility",
-        "mobil"
+        "convincing",
+        "convinc"
       ],
-      "example": "This mobility matters when people need to make a clear decision.",
+      "example": "A convincing approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "pressure",
-      "ipaBrE": "/ˈpreʃə(r)/",
-      "ipaAmE": "/ˈpreʃər/",
-      "ipa": "/ˈpreʃə(r)/",
+      "word": "translation",
+      "ipaBrE": "/trænzˈleɪʃn/",
+      "ipaAmE": "/trænzˈleɪʃn/",
+      "ipa": "/trænzˈleɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "压, 榨, 按, 强制, 压力, 压迫, 压强；迫使, 使增压, 密封",
+      "zh": "n. 翻译, 译文, 转化, 调任, 平移, 转译； 转换",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a pressure",
-        "the role of pressure",
-        "pressure and evidence"
+        "a translation",
+        "the role of translation",
+        "translation and evidence"
       ],
       "wordFamily": [
-        "pressure",
-        "pressures",
-        "pressured",
-        "pressuring"
+        "translation",
+        "translations",
+        "translate"
       ],
-      "example": "This pressure matters when people need to make a clear decision.",
+      "example": "This translation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "pretend",
-      "ipaBrE": "/prɪˈtend/",
-      "ipaAmE": "/prɪˈtend/",
-      "ipa": "/prɪˈtend/",
+      "word": "violent",
+      "ipaBrE": "/ˈvaɪələnt/",
+      "ipaAmE": "/ˈvaɪələnt/",
+      "ipa": "/ˈvaɪələnt/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "假装, 伪称, 自命, 自称",
+      "zh": "a. 暴力的, 猛烈的, 激烈的, 极端的, 凶暴的",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "pretend a plan",
-        "pretend carefully",
-        "pretend with others"
+        "a violent approach",
+        "remain violent",
+        "violent enough"
       ],
       "wordFamily": [
-        "pretend",
-        "pretending",
-        "pretended",
-        "pretends"
+        "violent"
       ],
-      "example": "We can pretend the next step together.",
+      "example": "A violent approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "pretty",
-      "ipaBrE": "/ˈprɪti/",
-      "ipaAmE": "/ˈprɪti/",
-      "ipa": "/ˈprɪti/",
+      "word": "fiction",
+      "ipaBrE": "/ˈfɪkʃn/",
+      "ipaAmE": "/ˈfɪkʃn/",
+      "ipa": "/ˈfɪkʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小说, 虚构故事； 虚构的事实, 捏造, 拟制",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a fiction",
+        "the role of fiction",
+        "fiction and evidence"
+      ],
+      "wordFamily": [
+        "fiction",
+        "fictions",
+        "ficte"
+      ],
+      "example": "This fiction matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "shift",
+      "ipaBrE": "/ʃɪft/",
+      "ipaAmE": "/ʃɪft/",
+      "ipa": "/ʃɪft/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位；vt. 替换, 转移, 改变, 推卸, 变速",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a shift",
+        "the role of shift",
+        "shift and evidence"
+      ],
+      "wordFamily": [
+        "shift",
+        "shifts",
+        "shifted",
+        "shifting"
+      ],
+      "example": "This shift matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "clever",
+      "ipaBrE": "/ˈklevə(r)/",
+      "ipaAmE": "/ˈklevər/",
+      "ipa": "/ˈklevə(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "漂亮的, 优美的, 机灵的, 狡猾的, 恰当的 adv. 相当, 颇",
+      "zh": "a. 聪明的, 精明的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a clever approach",
+        "remain clever",
+        "clever enough"
+      ],
+      "wordFamily": [
+        "clever",
+        "cleverer",
+        "cleverest",
+        "clev"
+      ],
+      "example": "A clever approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "absolutely",
+      "ipaBrE": "/ˈæbsəluːtli/",
+      "ipaAmE": "/ˈæbsəluːtli/",
+      "ipa": "/ˈæbsəluːtli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 完全地, 绝对地, 确确实实地",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "absolutely a plan",
+        "absolutely carefully",
+        "absolutely with others"
+      ],
+      "wordFamily": [
+        "absolutely",
+        "absolute"
+      ],
+      "example": "We can absolutely the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "man",
+      "ipaBrE": "/mæn/",
+      "ipaAmE": "/mæn/",
+      "ipa": "/mæn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 男人, 人类, 人；vt. 为...配备人手, 操纵, 使振奋； 城域网, 手册",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a pretty approach",
-        "remain pretty",
-        "pretty enough"
+        "a man",
+        "the role of man",
+        "man and evidence"
       ],
       "wordFamily": [
-        "pretty",
-        "prettiest",
-        "prettier"
+        "man",
+        "men",
+        "manned",
+        "manning"
       ],
-      "example": "A pretty approach makes the situation easier to explain.",
+      "example": "This man matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "prevent",
-      "ipaBrE": "/prɪˈvent/",
-      "ipaAmE": "/prɪˈvent/",
-      "ipa": "/prɪˈvent/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "预防, 防止, 阻止, 妨碍",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "prevent a plan",
-        "prevent carefully",
-        "prevent with others"
-      ],
-      "wordFamily": [
-        "prevent",
-        "preventing",
-        "prevented",
-        "prevents"
-      ],
-      "example": "We can prevent the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "previous",
-      "ipaBrE": "/ˈpriːviəs/",
-      "ipaAmE": "/ˈpriːviəs/",
-      "ipa": "/ˈpriːviəs/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "早先的, 前面的, 过急的 [法] 以前的, 生前的, 前述的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a previous approach",
-        "remain previous",
-        "previous enough"
-      ],
-      "wordFamily": [
-        "previous",
-        "previou"
-      ],
-      "example": "A previous approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "previously",
-      "ipaBrE": "/ˈpriːviəsli/",
-      "ipaAmE": "/ˈpriːviəsli/",
-      "ipa": "/ˈpriːviəsli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先 [计] 先前地",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "previously a plan",
-        "previously carefully",
-        "previously with others"
-      ],
-      "wordFamily": [
-        "previously",
-        "previous"
-      ],
-      "example": "We can previously the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "priest",
-      "ipaBrE": "/priːst/",
-      "ipaAmE": "/priːst/",
-      "ipa": "/priːst/",
+      "word": "paragraph",
+      "ipaBrE": "/ˈpærəɡrɑːf/",
+      "ipaAmE": "/ˈpærəɡræf/",
+      "ipa": "/ˈpærəɡrɑːf/",
       "pos": [
         "noun"
       ],
-      "zh": "祭司, 牧师, 神父, 神质人员, 僧侣, 泰斗",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a priest",
-        "the role of priest",
-        "priest and evidence"
-      ],
-      "wordFamily": [
-        "priest",
-        "priests"
-      ],
-      "example": "This priest matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "primary",
-      "ipaBrE": "/ˈpraɪməri/",
-      "ipaAmE": "/ˈpraɪmeri/",
-      "ipa": "/ˈpraɪməri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "最主要者, 原色；主要的, 初期的, 根本的, 原始的, 首要的, 基本的 [计] 初等量; 主要的; 一次的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a primary approach",
-        "remain primary",
-        "primary enough"
-      ],
-      "wordFamily": [
-        "primary",
-        "primaries"
-      ],
-      "example": "A primary approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prince",
-      "ipaBrE": "/prɪns/",
-      "ipaAmE": "/prɪns/",
-      "ipa": "/prɪns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prince",
-        "the role of prince",
-        "prince and evidence"
-      ],
-      "wordFamily": [
-        "prince",
-        "princes"
-      ],
-      "example": "This prince matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "princess",
-      "ipaBrE": "/ˈprɪnses/",
-      "ipaAmE": "/ˈprɪnses/",
-      "ipa": "/ˈprɪnses/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：princess",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a princess",
-        "the role of princess",
-        "princess and evidence"
-      ],
-      "wordFamily": [
-        "princess",
-        "princes"
-      ],
-      "example": "This princess matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "printer",
-      "ipaBrE": "/ˈprɪntə(r)/",
-      "ipaAmE": "/ˈprɪntər/",
-      "ipa": "/ˈprɪntə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：printer",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a printer",
-        "the role of printer",
-        "printer and evidence"
-      ],
-      "wordFamily": [
-        "printer",
-        "print"
-      ],
-      "example": "This printer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "printing",
-      "ipaBrE": "/ˈprɪntɪŋ/",
-      "ipaAmE": "/ˈprɪntɪŋ/",
-      "ipa": "/ˈprɪntɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：printing",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a printing",
-        "the role of printing",
-        "printing and evidence"
-      ],
-      "wordFamily": [
-        "printing",
-        "print"
-      ],
-      "example": "This printing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prison",
-      "ipaBrE": "/ˈprɪzn/",
-      "ipaAmE": "/ˈprɪzn/",
-      "ipa": "/ˈprɪzn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "监狱, 监禁, 拘留所；监禁",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prison",
-        "the role of prison",
-        "prison and evidence"
-      ],
-      "wordFamily": [
-        "prison",
-        "prisons"
-      ],
-      "example": "This prison matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prisoner",
-      "ipaBrE": "/ˈprɪznə(r)/",
-      "ipaAmE": "/ˈprɪznər/",
-      "ipa": "/ˈprɪznə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "囚犯, 犯人, 战俘 [法] 犯人, 囚犯, 扣押犯",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prisoner",
-        "the role of prisoner",
-        "prisoner and evidence"
-      ],
-      "wordFamily": [
-        "prisoner",
-        "prisoners",
-        "prison"
-      ],
-      "example": "This prisoner matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "private",
-      "ipaBrE": "/ˈpraɪvət/",
-      "ipaAmE": "/ˈpraɪvət/",
-      "ipa": "/ˈpraɪvət/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "私人的, 秘密的, 私立的, 隐蔽的；士兵, 隐士, 阴部 [计] 私人的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a private approach",
-        "remain private",
-        "private enough"
-      ],
-      "wordFamily": [
-        "private",
-        "privates"
-      ],
-      "example": "A private approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prize",
-      "ipaBrE": "/praɪz/",
-      "ipaAmE": "/praɪz/",
-      "ipa": "/praɪz/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "奖赏, 奖金, 奖品, 战利品, 捕获；得奖的；珍视, 估价, 捕获, 撬, 撬动",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prize",
-        "the role of prize",
-        "prize and evidence"
-      ],
-      "wordFamily": [
-        "prize",
-        "prizes",
-        "prized",
-        "prizing"
-      ],
-      "example": "This prize matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "probably",
-      "ipaBrE": "/ˈprɒbəbli/",
-      "ipaAmE": "/ˈprɑːbəbli/",
-      "ipa": "/ˈprɒbəbli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "大概, 或许",
+      "zh": "n. 段落, 短评；vt. 将...分段, 分段落；vi. 写短讯； 段落",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "probably a plan",
-        "probably carefully",
-        "probably with others"
+        "a paragraph",
+        "the role of paragraph",
+        "paragraph and evidence"
       ],
       "wordFamily": [
-        "probably",
-        "probab"
+        "paragraph"
       ],
-      "example": "We can probably the next step together.",
+      "example": "This paragraph matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "process",
-      "ipaBrE": "/ˈprəʊses/",
-      "ipaAmE": "/ˈprɑːses/",
-      "ipa": "/ˈprəʊses/",
+      "word": "gun",
+      "ipaBrE": "/ɡʌn/",
+      "ipaAmE": "/ɡʌn/",
+      "ipa": "/ɡʌn/",
       "pos": [
         "noun"
       ],
-      "zh": "程序, 进行, 过程；加工, 使...接受处理, 对...处置, 对...起诉；经加工的, 有特殊光效的 [计] 进程",
+      "zh": "n. 枪； 枪",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a process",
-        "the role of process",
-        "process and evidence"
+        "a gun",
+        "the role of gun",
+        "gun and evidence"
       ],
       "wordFamily": [
-        "process",
-        "processes",
-        "processed",
-        "processing"
+        "gun",
+        "guns",
+        "gunned",
+        "gunning"
       ],
-      "example": "This process matters when people need to make a clear decision.",
+      "example": "This gun matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nobody",
+      "ipaBrE": "/ˈnəʊbədi/",
+      "ipaAmE": "/ˈnəʊbədi/",
+      "ipa": "/ˈnəʊbədi/",
+      "pos": [
+        "pronoun"
+      ],
+      "zh": "n. 小人物, 无名小卒；pron. 无人, 没有人",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a nobody",
+        "the role of nobody",
+        "nobody and evidence"
+      ],
+      "wordFamily": [
+        "nobody",
+        "nobodies"
+      ],
+      "example": "This nobody matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "summer",
+      "ipaBrE": "/ˈsʌmə(r)/",
+      "ipaAmE": "/ˈsʌmər/",
+      "ipa": "/ˈsʌmə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 夏季, 全盛时期；vi. 避暑, 过夏天； 加法器",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a summer",
+        "the role of summer",
+        "summer and evidence"
+      ],
+      "wordFamily": [
+        "summer",
+        "summers",
+        "summering",
+        "summered"
+      ],
+      "example": "This summer matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -1233,7 +1065,7 @@ export default {
       "pos": [
         "noun"
       ],
-      "zh": "生产者, 制作者, 制作人 [化] 发生器; (炉煤气)发生炉; 制气炉; 生产者",
+      "zh": "n. 生产者, 制作者, 制作人； 发生器; (炉煤气)发生炉; 制气炉; 生产者",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
@@ -1252,1603 +1084,1692 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "product",
-      "ipaBrE": "/ˈprɒdʌkt/",
-      "ipaAmE": "/ˈprɑːdʌkt/",
-      "ipa": "/ˈprɒdʌkt/",
+      "word": "therefore",
+      "ipaBrE": "/ˈðeəfɔː(r)/",
+      "ipaAmE": "/ˈðerfɔːr/",
+      "ipa": "/ˈðeəfɔː(r)/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 因此, 所以",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "therefore a plan",
+        "therefore carefully",
+        "therefore with others"
+      ],
+      "wordFamily": [
+        "therefore"
+      ],
+      "example": "We can therefore the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "flour",
+      "ipaBrE": "/ˈflaʊə(r)/",
+      "ipaAmE": "/ˈflaʊər/",
+      "ipa": "/ˈflaʊə(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "产品, 结果, 乘积 [化] 生产物",
+      "zh": "n. 面粉, 粉沫, 碎粉； 面粉, 麦粉",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a flour",
+        "the role of flour",
+        "flour and evidence"
+      ],
+      "wordFamily": [
+        "flour",
+        "flours",
+        "floured",
+        "flouring"
+      ],
+      "example": "This flour matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "fine",
+      "ipaBrE": "/faɪn/",
+      "ipaAmE": "/faɪn/",
+      "ipa": "/faɪn/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 罚款, 罚金, 晴天, 精细；a. 好的, 晴朗的, 健康的, 细小的, 精细的；vt. 罚款, 精炼, 澄清",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a product",
-        "the role of product",
-        "product and evidence"
+        "a fine approach",
+        "remain fine",
+        "fine enough"
       ],
       "wordFamily": [
-        "product",
-        "products"
+        "fine",
+        "finest",
+        "fined",
+        "fines"
       ],
-      "example": "This product matters when people need to make a clear decision.",
+      "example": "A fine approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "production",
-      "ipaBrE": "/prəˈdʌkʃn/",
-      "ipaAmE": "/prəˈdʌkʃn/",
-      "ipa": "/prəˈdʌkʃn/",
+      "word": "option",
+      "ipaBrE": "/ˈɒpʃn/",
+      "ipaAmE": "/ˈɑːpʃn/",
+      "ipa": "/ˈɒpʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "制造, 生产, 产物 [医] 产生, 生成",
-      "cefr": "B1",
+      "zh": "n. 选择权, 挑选, 选项； 选项",
+      "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a production",
-        "the role of production",
-        "production and evidence"
+        "a option",
+        "the role of option",
+        "option and evidence"
       ],
       "wordFamily": [
-        "production",
-        "productions",
-        "producte"
+        "option",
+        "options"
       ],
-      "example": "This production matters when people need to make a clear decision.",
+      "example": "This option matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "profession",
-      "ipaBrE": "/prəˈfeʃn/",
-      "ipaAmE": "/prəˈfeʃn/",
-      "ipa": "/prəˈfeʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "职业, 表白, 声明 [化] 工种; 职业",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a profession",
-        "the role of profession",
-        "profession and evidence"
-      ],
-      "wordFamily": [
-        "profession",
-        "professions"
-      ],
-      "example": "This profession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "professional",
-      "ipaBrE": "/prəˈfeʃənl/",
-      "ipaAmE": "/prəˈfeʃənl/",
-      "ipa": "/prəˈfeʃənl/",
+      "word": "possible",
+      "ipaBrE": "/ˈpɒsəbl/",
+      "ipaAmE": "/ˈpɑːsəbl/",
+      "ipa": "/ˈpɒsəbl/",
       "pos": [
         "adjective"
       ],
-      "zh": "专业人才；专业的, 职业的",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a professional approach",
-        "remain professional",
-        "professional enough"
-      ],
-      "wordFamily": [
-        "professional",
-        "professionals"
-      ],
-      "example": "A professional approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "professor",
-      "ipaBrE": "/prəˈfesə(r)/",
-      "ipaAmE": "/prəˈfesər/",
-      "ipa": "/prəˈfesə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "教授",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a professor",
-        "the role of professor",
-        "professor and evidence"
-      ],
-      "wordFamily": [
-        "professor",
-        "professors"
-      ],
-      "example": "This professor matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "profile",
-      "ipaBrE": "/ˈprəʊfaɪl/",
-      "ipaAmE": "/ˈprəʊfaɪl/",
-      "ipa": "/ˈprəʊfaɪl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "侧面, 轮廓, 传略；描绘...轮廓, 写...的传略 [计] 提问档; 剖面图法; 剖面法",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a profile",
-        "the role of profile",
-        "profile and evidence"
-      ],
-      "wordFamily": [
-        "profile",
-        "profiles",
-        "profiling",
-        "profiled"
-      ],
-      "example": "This profile matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "profit",
-      "ipaBrE": "/ˈprɒfɪt/",
-      "ipaAmE": "/ˈprɑːfɪt/",
-      "ipa": "/ˈprɒfɪt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "利润, 赢利, 利益；有益, 获利, 赚钱；有益于",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a profit",
-        "the role of profit",
-        "profit and evidence"
-      ],
-      "wordFamily": [
-        "profit",
-        "profits",
-        "profiting",
-        "profited"
-      ],
-      "example": "This profit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "program",
-      "ipaBrE": "/ˈprəʊɡræm/",
-      "ipaAmE": "/ˈprəʊɡræm/",
-      "ipa": "/ˈprəʊɡræm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "节目, 节目单, 程序, 纲要, 大纲, 计划；规划, 拟...计划；安排节目, 编程序 [计] 程序",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a program",
-        "the role of program",
-        "program and evidence"
-      ],
-      "wordFamily": [
-        "program",
-        "programs",
-        "programming",
-        "programmed"
-      ],
-      "example": "This program matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "programme",
-      "ipaBrE": "/ˈprəʊɡræm/",
-      "ipaAmE": "/ˈprəʊɡræm/",
-      "ipa": "/ˈprəʊɡræm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "节目, 节目单, 程序, 纲要, 大纲, 计划；规划, 拟...计划；安排节目, 编程序",
+      "zh": "a. 可能的, 潜在的, 合适的；n. 可能性, 可能的事物",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a programme",
-        "the role of programme",
-        "programme and evidence"
+        "a possible approach",
+        "remain possible",
+        "possible enough"
       ],
       "wordFamily": [
-        "programme",
-        "programmes",
-        "programmed",
-        "programming"
+        "possible"
       ],
-      "example": "This programme matters when people need to make a clear decision.",
+      "example": "A possible approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "progress",
-      "ipaBrE": "/ˈprəʊɡres/",
-      "ipaAmE": "/ˈprɑːɡrəs/",
-      "ipa": "/ˈprəʊɡres/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "进步, 发展, 前进；进步, 进行",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a progress",
-        "the role of progress",
-        "progress and evidence"
-      ],
-      "wordFamily": [
-        "progress",
-        "progressing",
-        "progressed",
-        "progresses"
-      ],
-      "example": "This progress matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "promise",
-      "ipaBrE": "/ˈprɒmɪs/",
-      "ipaAmE": "/ˈprɑːmɪs/",
-      "ipa": "/ˈprɒmɪs/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "诺言, 约定的事情, 有指望；允诺, 约定, 预示；允诺, 有前途, 有指望",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a promise",
-        "the role of promise",
-        "promise and evidence"
-      ],
-      "wordFamily": [
-        "promise",
-        "promised",
-        "promises",
-        "promising"
-      ],
-      "example": "This promise matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "promote",
-      "ipaBrE": "/prəˈməʊt/",
-      "ipaAmE": "/prəˈməʊt/",
-      "ipa": "/prəˈməʊt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "促进, 晋升, 创办, 推销 [经] 促进, 推广, 推销",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "promote a plan",
-        "promote carefully",
-        "promote with others"
-      ],
-      "wordFamily": [
-        "promote",
-        "promoted",
-        "promoting",
-        "promotes"
-      ],
-      "example": "We can promote the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "pronounce",
-      "ipaBrE": "/prəˈnaʊns/",
-      "ipaAmE": "/prəˈnaʊns/",
-      "ipa": "/prəˈnaʊns/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：pronounce",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "pronounce a plan",
-        "pronounce carefully",
-        "pronounce with others"
-      ],
-      "wordFamily": [
-        "pronounce"
-      ],
-      "example": "We can pronounce the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "proper",
-      "ipaBrE": "/ˈprɒpə(r)/",
-      "ipaAmE": "/ˈprɑːpər/",
-      "ipa": "/ˈprɒpə(r)/",
+      "word": "rich",
+      "ipaBrE": "/rɪtʃ/",
+      "ipaAmE": "/rɪtʃ/",
+      "ipa": "/rɪtʃ/",
       "pos": [
         "adjective"
       ],
-      "zh": "适当的, 固有的, 高尚的, 专属的 adv. 完全地, 彻底地",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a proper approach",
-        "remain proper",
-        "proper enough"
-      ],
-      "wordFamily": [
-        "proper",
-        "prop"
-      ],
-      "example": "A proper approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "properly",
-      "ipaBrE": "/ˈprɒpəli/",
-      "ipaAmE": "/ˈprɑːpərli/",
-      "ipa": "/ˈprɒpəli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "适当地, 相当地",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "properly a plan",
-        "properly carefully",
-        "properly with others"
-      ],
-      "wordFamily": [
-        "properly",
-        "proper"
-      ],
-      "example": "We can properly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "property",
-      "ipaBrE": "/ˈprɒpəti/",
-      "ipaAmE": "/ˈprɑːpərti/",
-      "ipa": "/ˈprɒpəti/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "财产, 所有权, 性质, 属性 [计] 属性",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a property",
-        "the role of property",
-        "property and evidence"
-      ],
-      "wordFamily": [
-        "property",
-        "properties"
-      ],
-      "example": "This property matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "protect",
-      "ipaBrE": "/prəˈtekt/",
-      "ipaAmE": "/prəˈtekt/",
-      "ipa": "/prəˈtekt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "防卫, 保护, 警戒 [法] 庇护, 保护, 警戒",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "protect a plan",
-        "protect carefully",
-        "protect with others"
-      ],
-      "wordFamily": [
-        "protect",
-        "protected",
-        "protecting",
-        "protects"
-      ],
-      "example": "We can protect the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "protest",
-      "ipaBrE": "/ˈprəʊtest/",
-      "ipaAmE": "/ˈprəʊtest/",
-      "ipa": "/ˈprəʊtest/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "抗议, 反对, 抗议书, 断言；反对, 抗议, 断言",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a protest",
-        "the role of protest",
-        "protest and evidence"
-      ],
-      "wordFamily": [
-        "protest",
-        "protests",
-        "protested",
-        "protesting"
-      ],
-      "example": "This protest matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "proud",
-      "ipaBrE": "/praʊd/",
-      "ipaAmE": "/praʊd/",
-      "ipa": "/praʊd/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a proud approach",
-        "remain proud",
-        "proud enough"
-      ],
-      "wordFamily": [
-        "proud",
-        "proudest",
-        "prouder"
-      ],
-      "example": "A proud approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prove",
-      "ipaBrE": "/pruːv/",
-      "ipaAmE": "/pruːv/",
-      "ipa": "/pruːv/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "证明, 查验, 检验, 勘探, 显示；证明是",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "prove a plan",
-        "prove carefully",
-        "prove with others"
-      ],
-      "wordFamily": [
-        "prove",
-        "proved",
-        "proving",
-        "proves"
-      ],
-      "example": "We can prove the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "provide",
-      "ipaBrE": "/prəˈvaɪd/",
-      "ipaAmE": "/prəˈvaɪd/",
-      "ipa": "/prəˈvaɪd/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "提供, 供应, 规定, 预备；作准备, 抚养, 规定",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "provide a plan",
-        "provide carefully",
-        "provide with others"
-      ],
-      "wordFamily": [
-        "provide",
-        "provided",
-        "provides",
-        "providing"
-      ],
-      "example": "We can provide the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "pub",
-      "ipaBrE": "/pʌb/",
-      "ipaAmE": "/pʌb/",
-      "ipa": "/pʌb/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：pub",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a pub",
-        "the role of pub",
-        "pub and evidence"
-      ],
-      "wordFamily": [
-        "pub"
-      ],
-      "example": "This pub matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "publish",
-      "ipaBrE": "/ˈpʌblɪʃ/",
-      "ipaAmE": "/ˈpʌblɪʃ/",
-      "ipa": "/ˈpʌblɪʃ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "出版, 发行, 公开, 发表, 宣传, 公布；出版, 发行",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "publish a plan",
-        "publish carefully",
-        "publish with others"
-      ],
-      "wordFamily": [
-        "publish",
-        "published",
-        "publishing",
-        "publishes"
-      ],
-      "example": "We can publish the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "pull",
-      "ipaBrE": "/pʊl/",
-      "ipaAmE": "/pʊl/",
-      "ipa": "/pʊl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "拉, 拖, 拔, 牵, 撕开, 吸引；拉, 拖, 拔, 有吸引力；拉, 拖, 拔, 拉力, 牵引力, 划船, 吸引",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a pull",
-        "the role of pull",
-        "pull and evidence"
-      ],
-      "wordFamily": [
-        "pull",
-        "pulled",
-        "pulling",
-        "pulls"
-      ],
-      "example": "This pull matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "punish",
-      "ipaBrE": "/ˈpʌnɪʃ/",
-      "ipaAmE": "/ˈpʌnɪʃ/",
-      "ipa": "/ˈpʌnɪʃ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "处罚, 惩罚, 严厉对待；惩罚",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "punish a plan",
-        "punish carefully",
-        "punish with others"
-      ],
-      "wordFamily": [
-        "punish",
-        "punished",
-        "punishing",
-        "punishes"
-      ],
-      "example": "We can punish the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "punishment",
-      "ipaBrE": "/ˈpʌnɪʃmənt/",
-      "ipaAmE": "/ˈpʌnɪʃmənt/",
-      "ipa": "/ˈpʌnɪʃmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "处罚, 刑罚, 惩罚 [法] 罚, 处罚, 刑罚",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a punishment",
-        "the role of punishment",
-        "punishment and evidence"
-      ],
-      "wordFamily": [
-        "punishment",
-        "punishments",
-        "punish"
-      ],
-      "example": "This punishment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "purple",
-      "ipaBrE": "/ˈpɜːpl/",
-      "ipaAmE": "/ˈpɜːrpl/",
-      "ipa": "/ˈpɜːpl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "紫色, 帝位；紫色的, 帝王的, 华而不实的；(使)成紫色",
+      "zh": "a. 富裕的, 富饶的, 浓厚的, 贵重的",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a purple approach",
-        "remain purple",
-        "purple enough"
+        "a rich approach",
+        "remain rich",
+        "rich enough"
       ],
       "wordFamily": [
-        "purple",
-        "purples",
-        "purpled",
-        "purpling"
+        "rich",
+        "richer",
+        "richest"
       ],
-      "example": "A purple approach makes the situation easier to explain.",
+      "example": "A rich approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "purpose",
-      "ipaBrE": "/ˈpɜːpəs/",
-      "ipaAmE": "/ˈpɜːrpəs/",
-      "ipa": "/ˈpɜːpəs/",
+      "word": "wine",
+      "ipaBrE": "/waɪn/",
+      "ipaAmE": "/waɪn/",
+      "ipa": "/waɪn/",
       "pos": [
         "noun"
       ],
-      "zh": "目的, 意向, 决心, 用途, 效果, 论题；意欲, 企图, 计划",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a purpose",
-        "the role of purpose",
-        "purpose and evidence"
-      ],
-      "wordFamily": [
-        "purpose",
-        "purposes",
-        "purposing",
-        "purposed"
-      ],
-      "example": "This purpose matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "push",
-      "ipaBrE": "/pʊʃ/",
-      "ipaAmE": "/pʊʃ/",
-      "ipa": "/pʊʃ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "推, 推动, 奋斗, 攻击, 进取心；推, 推动, 使伸出, 推行, 逼迫, 增加；推, 推进, 增加, 努力争取",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a push",
-        "the role of push",
-        "push and evidence"
-      ],
-      "wordFamily": [
-        "push",
-        "pushed",
-        "pushing",
-        "pushes"
-      ],
-      "example": "This push matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "put",
-      "ipaBrE": "/pʊt/",
-      "ipaAmE": "/pʊt/",
-      "ipa": "/pʊt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予；出发, 航行, 发芽；掷, 股票出售权, 笨蛋；固定不动的 [计] 发送文件",
+      "zh": "n. 葡萄酒, 果酒, 暗红色；v. (请)喝酒",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "put a plan",
-        "put carefully",
-        "put with others"
+        "a wine",
+        "the role of wine",
+        "wine and evidence"
       ],
       "wordFamily": [
-        "put",
+        "wine",
+        "wines",
+        "wined",
+        "wining"
+      ],
+      "example": "This wine matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "keyboard",
+      "ipaBrE": "/ˈkiːbɔːd/",
+      "ipaAmE": "/ˈkiːbɔːrd/",
+      "ipa": "/ˈkiːbɔːd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 键盘； 键盘",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a keyboard",
+        "the role of keyboard",
+        "keyboard and evidence"
+      ],
+      "wordFamily": [
+        "keyboard"
+      ],
+      "example": "This keyboard matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "player",
+      "ipaBrE": "/ˈpleɪə(r)/",
+      "ipaAmE": "/ˈpleɪər/",
+      "ipa": "/ˈpleɪə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 竞赛者, 上场队员, 游戏者, 演员； 交易者",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a player",
+        "the role of player",
+        "player and evidence"
+      ],
+      "wordFamily": [
+        "player",
+        "players",
+        "play"
+      ],
+      "example": "This player matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "take",
+      "ipaBrE": "/teɪk/",
+      "ipaAmE": "/teɪk/",
+      "ipa": "/teɪk/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "take a plan",
+        "take carefully",
+        "take with others"
+      ],
+      "wordFamily": [
+        "take",
+        "took",
+        "taken",
+        "taking"
+      ],
+      "example": "We can take the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "bit",
+      "ipaBrE": "/bɪt/",
+      "ipaAmE": "/bɪt/",
+      "ipa": "/bɪt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 少量, 马嚼子, 辅币；vt. 给马上嚼子, 控制；bite的过去式和过去分词； 比特, 二进制数位, 机内测试",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a bit",
+        "the role of bit",
+        "bit and evidence"
+      ],
+      "wordFamily": [
+        "bit",
+        "bits",
+        "bite",
+        "pd"
+      ],
+      "example": "This bit matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "able",
+      "ipaBrE": "/ˈeɪbl/",
+      "ipaAmE": "/ˈeɪbl/",
+      "ipa": "/ˈeɪbl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 能干的, 能够的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a able approach",
+        "remain able",
+        "able enough"
+      ],
+      "wordFamily": [
+        "able"
+      ],
+      "example": "A able approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "army",
+      "ipaBrE": "/ˈɑːmi/",
+      "ipaAmE": "/ˈɑːrmi/",
+      "ipa": "/ˈɑːmi/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 军队, 陆军",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a army",
+        "the role of army",
+        "army and evidence"
+      ],
+      "wordFamily": [
+        "army",
+        "armies"
+      ],
+      "example": "This army matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "exhibition",
+      "ipaBrE": "/ˌeksɪˈbɪʃn/",
+      "ipaAmE": "/ˌeksɪˈbɪʃn/",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 表现, 展览会, 展览品； 投药, 展览, 展出",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a exhibition",
+        "the role of exhibition",
+        "exhibition and evidence"
+      ],
+      "wordFamily": [
+        "exhibition",
+        "exhibitions",
+        "exhibite"
+      ],
+      "example": "This exhibition matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "crazy",
+      "ipaBrE": "/ˈkreɪzi/",
+      "ipaAmE": "/ˈkreɪzi/",
+      "ipa": "/ˈkreɪzi/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 发狂的, 狂热的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a crazy approach",
+        "remain crazy",
+        "crazy enough"
+      ],
+      "wordFamily": [
+        "crazy",
+        "craziest",
+        "crazier",
+        "crazies"
+      ],
+      "example": "A crazy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "communication",
+      "ipaBrE": "/kəˌmjuːnɪˈkeɪʃn/",
+      "ipaAmE": "/kəˌmjuːnɪˈkeɪʃn/",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 交流, 交通, 通讯； 通信",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a communication",
+        "the role of communication",
+        "communication and evidence"
+      ],
+      "wordFamily": [
+        "communication",
+        "communications",
+        "communicate"
+      ],
+      "example": "This communication matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "couple",
+      "ipaBrE": "/ˈkʌpl/",
+      "ipaAmE": "/ˈkʌpl/",
+      "ipa": "/ˈkʌpl/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 对, 夫妇, 数个；vt. 使成双, 连接, 使成婚, 把...联系起来；vi. 结合, 成婚",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a couple",
+        "the role of couple",
+        "couple and evidence"
+      ],
+      "wordFamily": [
+        "couple",
+        "couples",
+        "coupled",
+        "coupling"
+      ],
+      "example": "This couple matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "site",
+      "ipaBrE": "/saɪt/",
+      "ipaAmE": "/saɪt/",
+      "ipa": "/saɪt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 位置, 场所, 地点；vt. 给...择址",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a site",
+        "the role of site",
+        "site and evidence"
+      ],
+      "wordFamily": [
+        "site",
+        "sites",
+        "sited",
+        "siting"
+      ],
+      "example": "This site matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "honest",
+      "ipaBrE": "/ˈɒnɪst/",
+      "ipaAmE": "/ˈɑːnɪst/",
+      "ipa": "/ˈɒnɪst/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 诚实的, 坦直的, 可靠的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a honest approach",
+        "remain honest",
+        "honest enough"
+      ],
+      "wordFamily": [
+        "honest"
+      ],
+      "example": "A honest approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "formal",
+      "ipaBrE": "/ˈfɔːml/",
+      "ipaAmE": "/ˈfɔːrml/",
+      "ipa": "/ˈfɔːml/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的；n. 正式的社交活动",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a formal approach",
+        "remain formal",
+        "formal enough"
+      ],
+      "wordFamily": [
+        "formal"
+      ],
+      "example": "A formal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "true",
+      "ipaBrE": "/truː/",
+      "ipaAmE": "/truː/",
+      "ipa": "/truː/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 真实的, 正确的, 忠诚的, 可靠的, 纯粹的, 正式的；n. 真实, 准确；adv. 真实地, 准确地",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a true approach",
+        "remain true",
+        "true enough"
+      ],
+      "wordFamily": [
+        "true",
+        "truer",
+        "truest",
+        "truing"
+      ],
+      "example": "A true approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "necessarily",
+      "ipaBrE": "/ˈnesəsərəli/",
+      "ipaAmE": "/ˌnesəˈserəli/",
+      "ipa": "/ˈnesəsərəli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 必然地, 必须地, 必要地",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "necessarily a plan",
+        "necessarily carefully",
+        "necessarily with others"
+      ],
+      "wordFamily": [
+        "necessarily",
+        "necessari"
+      ],
+      "example": "We can necessarily the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "graduate",
+      "ipaBrE": "/ˈɡrædʒuət/",
+      "ipaAmE": "/ˈɡrædʒuət/",
+      "ipa": "/ˈɡrædʒuət/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 毕业生, 量杯；a. 已得学位的, 研究生的, 毕业的；vi. 毕业, 得学位, 逐渐变为",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a graduate",
+        "the role of graduate",
+        "graduate and evidence"
+      ],
+      "wordFamily": [
+        "graduate",
+        "graduates",
+        "graduated",
+        "graduating"
+      ],
+      "example": "This graduate matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "worldwide",
+      "ipaBrE": "/ˌwɜːldˈwaɪd/",
+      "ipaAmE": "/ˌwɜːrldˈwaɪd/",
+      "ipa": "/ˌwɜːldˈwaɪd/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 全世界的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a worldwide approach",
+        "remain worldwide",
+        "worldwide enough"
+      ],
+      "wordFamily": [
+        "worldwide"
+      ],
+      "example": "A worldwide approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "friendship",
+      "ipaBrE": "/ˈfrendʃɪp/",
+      "ipaAmE": "/ˈfrendʃɪp/",
+      "ipa": "/ˈfrendʃɪp/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 友谊, 友爱, 友善",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a friendship",
+        "the role of friendship",
+        "friendship and evidence"
+      ],
+      "wordFamily": [
+        "friendship",
+        "friendships"
+      ],
+      "example": "This friendship matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "advanced",
+      "ipaBrE": "/ədˈvɑːnst/",
+      "ipaAmE": "/ədˈvænst/",
+      "ipa": "/ədˈvɑːnst/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 在前的, 高级的, 先进的, 年老的； 预付的, 预支的, 垫付的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a advanced approach",
+        "remain advanced",
+        "advanced enough"
+      ],
+      "wordFamily": [
+        "advanced",
+        "advance",
         "dp",
-        "putting",
-        "puts"
+        "advanc"
       ],
-      "example": "We can put the next step together.",
+      "example": "A advanced approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "qualification",
-      "ipaBrE": "/ˌkwɒlɪfɪˈkeɪʃn/",
-      "ipaAmE": "/ˌkwɑːlɪfɪˈkeɪʃn/",
-      "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+      "word": "corner",
+      "ipaBrE": "/ˈkɔːnə(r)/",
+      "ipaAmE": "/ˈkɔːrnər/",
+      "ipa": "/ˈkɔːnə(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：qualification",
+      "zh": "n. 角落, 转角, 窘境；vt. 迫至一隅, 垄断, 使陷入绝境；vi. 相交成角, 垄断； 边角",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a corner",
+        "the role of corner",
+        "corner and evidence"
+      ],
+      "wordFamily": [
+        "corner",
+        "corners",
+        "cornered",
+        "cornering"
+      ],
+      "example": "This corner matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "expect",
+      "ipaBrE": "/ɪkˈspekt/",
+      "ipaAmE": "/ɪkˈspekt/",
+      "ipa": "/ɪkˈspekt/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 预期, 盼望, 期待",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "expect a plan",
+        "expect carefully",
+        "expect with others"
+      ],
+      "wordFamily": [
+        "expect",
+        "expected",
+        "expecting",
+        "expects"
+      ],
+      "example": "We can expect the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "tin",
+      "ipaBrE": "/tɪn/",
+      "ipaAmE": "/tɪn/",
+      "ipa": "/tɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 锡, 马口铁, 罐头；vt. 在...镀锡于；a. 锡制的； tin阅读程序",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a qualification",
-        "the role of qualification",
-        "qualification and evidence"
+        "a tin",
+        "the role of tin",
+        "tin and evidence"
       ],
       "wordFamily": [
-        "qualification",
-        "qualificate"
+        "tin"
       ],
-      "example": "This qualification matters when people need to make a clear decision.",
+      "example": "This tin matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "qualified",
-      "ipaBrE": "/ˈkwɒlɪfaɪd/",
-      "ipaAmE": "/ˈkwɑːlɪfaɪd/",
-      "ipa": "/ˈkwɒlɪfaɪd/",
+      "word": "luck",
+      "ipaBrE": "/lʌk/",
+      "ipaAmE": "/lʌk/",
+      "ipa": "/lʌk/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 运气, 幸运, 好运, 侥幸；vi. 靠好运成功",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a luck",
+        "the role of luck",
+        "luck and evidence"
+      ],
+      "wordFamily": [
+        "luck"
+      ],
+      "example": "This luck matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "organizer",
+      "ipaBrE": "/ˈɔːɡənaɪzə(r)/",
+      "ipaAmE": "/ˈɔːrɡənaɪzər/",
+      "ipa": "/ˈɔːɡənaɪzə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 组织者, 编制者, 创立者, 组织导体； 组织导体, 机化中心(胚)",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a organizer",
+        "the role of organizer",
+        "organizer and evidence"
+      ],
+      "wordFamily": [
+        "organizer",
+        "organizers",
+        "organiz"
+      ],
+      "example": "This organizer matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "breath",
+      "ipaBrE": "/breθ/",
+      "ipaAmE": "/breθ/",
+      "ipa": "/breθ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 呼吸, 气息, 瞬间； 呼气, 呵气, 口气, 呼吸",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a breath",
+        "the role of breath",
+        "breath and evidence"
+      ],
+      "wordFamily": [
+        "breath",
+        "breaths"
+      ],
+      "example": "This breath matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "flying",
+      "ipaBrE": "/ˈflaɪɪŋ/",
+      "ipaAmE": "/ˈflaɪɪŋ/",
+      "ipa": "/ˈflaɪɪŋ/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：qualified",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a qualified approach",
-        "remain qualified",
-        "qualified enough"
-      ],
-      "wordFamily": [
-        "qualified",
-        "qualifi"
-      ],
-      "example": "A qualified approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "qualify",
-      "ipaBrE": "/ˈkwɒlɪfaɪ/",
-      "ipaAmE": "/ˈkwɑːlɪfaɪ/",
-      "ipa": "/ˈkwɒlɪfaɪ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "取得资格, 有资格；使有资格, 使合格, 限定, 限制, 准予",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "qualify a plan",
-        "qualify carefully",
-        "qualify with others"
-      ],
-      "wordFamily": [
-        "qualify",
-        "qualified",
-        "qualifies",
-        "qualifying"
-      ],
-      "example": "We can qualify the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quality",
-      "ipaBrE": "/ˈkwɒləti/",
-      "ipaAmE": "/ˈkwɑːləti/",
-      "ipa": "/ˈkwɒləti/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "品质, 特性, 才能, 质量；优质的 [计] 品质",
+      "zh": "a. 飞的, 飘扬的, 飞速的；n. 飞行, 飞花",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a quality",
-        "the role of quality",
-        "quality and evidence"
+        "a flying approach",
+        "remain flying",
+        "flying enough"
       ],
       "wordFamily": [
-        "quality",
-        "qualities",
-        "qual"
+        "flying",
+        "fly"
       ],
-      "example": "This quality matters when people need to make a clear decision.",
+      "example": "A flying approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quantity",
-      "ipaBrE": "/ˈkwɒntəti/",
-      "ipaAmE": "/ˈkwɑːntəti/",
-      "ipa": "/ˈkwɒntəti/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "量, 数量, 总量 [计] 数量; 量",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quantity",
-        "the role of quantity",
-        "quantity and evidence"
-      ],
-      "wordFamily": [
-        "quantity",
-        "quantities",
-        "quant"
-      ],
-      "example": "This quantity matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "queen",
-      "ipaBrE": "/kwiːn/",
-      "ipaAmE": "/kwiːn/",
-      "ipa": "/kwiːn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：queen",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a queen",
-        "the role of queen",
-        "queen and evidence"
-      ],
-      "wordFamily": [
-        "queen"
-      ],
-      "example": "This queen matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "question",
-      "ipaBrE": "/ˈkwestʃən/",
-      "ipaAmE": "/ˈkwestʃən/",
-      "ipa": "/ˈkwestʃən/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "问题, 询问；询问, 审问, 怀疑 [计] 询问",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a question",
-        "the role of question",
-        "question and evidence"
-      ],
-      "wordFamily": [
-        "question",
-        "questions",
-        "questioned",
-        "questioning"
-      ],
-      "example": "This question matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "queue",
-      "ipaBrE": "/kjuː/",
-      "ipaAmE": "/kjuː/",
-      "ipa": "/kjuː/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：queue",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a queue",
-        "the role of queue",
-        "queue and evidence"
-      ],
-      "wordFamily": [
-        "queue"
-      ],
-      "example": "This queue matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quick",
-      "ipaBrE": "/kwɪk/",
-      "ipaAmE": "/kwɪk/",
-      "ipa": "/kwɪk/",
+      "word": "sure",
+      "ipaBrE": "/ʃɔː(r)/",
+      "ipaAmE": "/ʃʊr/",
+      "ipa": "/ʃɔː(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "快的, 迅速的, 敏捷的, 灵敏的, 急速的 adv. 快；新长出的肉, 要害, 核心, 感觉敏锐部位",
+      "zh": "a. 确信, 必然的, 必定的；adv. 当然, 确实地, 无疑地",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a quick approach",
-        "remain quick",
-        "quick enough"
+        "a sure approach",
+        "remain sure",
+        "sure enough"
       ],
       "wordFamily": [
-        "quick",
-        "quicker",
-        "quickest"
+        "sure",
+        "surest",
+        "surer"
       ],
-      "example": "A quick approach makes the situation easier to explain.",
+      "example": "A sure approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quickly",
-      "ipaBrE": "/ˈkwɪkli/",
-      "ipaAmE": "/ˈkwɪkli/",
-      "ipa": "/ˈkwɪkli/",
+      "word": "themselves",
+      "ipaBrE": "/ðəmˈselvz/",
+      "ipaAmE": "/ðəmˈselvz/",
+      "ipa": "/ðəmˈselvz/",
+      "pos": [
+        "pronoun"
+      ],
+      "zh": "pron. 他们自己, 她们自己, 它们自己",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a themselves",
+        "the role of themselves",
+        "themselves and evidence"
+      ],
+      "wordFamily": [
+        "themselves",
+        "themselve"
+      ],
+      "example": "This themselves matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "exactly",
+      "ipaBrE": "/ɪɡˈzæktli/",
+      "ipaAmE": "/ɪɡˈzæktli/",
+      "ipa": "/ɪɡˈzæktli/",
       "pos": [
         "verb"
       ],
-      "zh": "很快地",
+      "zh": "adv. 确切地, 精确地, 恰好, 完全地, 确实, 恰恰正是, 确实如此",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "exactly a plan",
+        "exactly carefully",
+        "exactly with others"
+      ],
+      "wordFamily": [
+        "exactly",
+        "exact"
+      ],
+      "example": "We can exactly the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "maybe",
+      "ipaBrE": "/ˈmeɪbi/",
+      "ipaAmE": "/ˈmeɪbi/",
+      "ipa": "/ˈmeɪbi/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 也许, 大概；n. 可能性",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "quickly a plan",
-        "quickly carefully",
-        "quickly with others"
+        "maybe a plan",
+        "maybe carefully",
+        "maybe with others"
       ],
       "wordFamily": [
-        "quickly",
-        "quick"
+        "maybe"
       ],
-      "example": "We can quickly the next step together.",
+      "example": "We can maybe the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quiet",
-      "ipaBrE": "/ˈkwaɪət/",
-      "ipaAmE": "/ˈkwaɪət/",
-      "ipa": "/ˈkwaɪət/",
+      "word": "entertainment",
+      "ipaBrE": "/ˌentəˈteɪnmənt/",
+      "ipaAmE": "/ˌentərˈteɪnmənt/",
+      "ipa": "/ˌentəˈteɪnmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 娱乐, 款待, 娱乐表演",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a entertainment",
+        "the role of entertainment",
+        "entertainment and evidence"
+      ],
+      "wordFamily": [
+        "entertainment",
+        "entertainments",
+        "entertain"
+      ],
+      "example": "This entertainment matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "against",
+      "ipaBrE": "/əˈɡeɪnst/",
+      "ipaAmE": "/əˈɡeɪnst/",
+      "ipa": "/əˈɡeɪnst/",
+      "pos": [
+        "preposition"
+      ],
+      "zh": "prep. 反对, 对着, 倚靠",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a against",
+        "the role of against",
+        "against and evidence"
+      ],
+      "wordFamily": [
+        "against"
+      ],
+      "example": "This against matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "sixteen",
+      "ipaBrE": "/ˌsɪksˈtiːn/",
+      "ipaAmE": "/ˌsɪksˈtiːn/",
+      "ipa": "/ˌsɪksˈtiːn/",
+      "pos": [
+        "number"
+      ],
+      "zh": "num. 十六, 十六个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a sixteen",
+        "the role of sixteen",
+        "sixteen and evidence"
+      ],
+      "wordFamily": [
+        "sixteen"
+      ],
+      "example": "This sixteen matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "between",
+      "ipaBrE": "/bɪˈtwiːn/",
+      "ipaAmE": "/bɪˈtwiːn/",
+      "ipa": "/bɪˈtwiːn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "prep. 在...之间",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "between a plan",
+        "between carefully",
+        "between with others"
+      ],
+      "wordFamily": [
+        "between"
+      ],
+      "example": "We can between the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "have",
+      "ipaBrE": "/hæv/",
+      "ipaAmE": "/hæv/",
+      "ipa": "/hæv/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 有, 怀有, 拿, 进行；aux. 已经",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "have a plan",
+        "have carefully",
+        "have with others"
+      ],
+      "wordFamily": [
+        "have",
+        "having",
+        "had",
+        "has"
+      ],
+      "example": "We can have the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "steal",
+      "ipaBrE": "/stiːl/",
+      "ipaAmE": "/stiːl/",
+      "ipa": "/stiːl/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 剽窃；偷偷地做；偷窃；vi. 窃取；偷偷地行动；偷垒；n. 偷窃；便宜货；偷垒；断球",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "steal a plan",
+        "steal carefully",
+        "steal with others"
+      ],
+      "wordFamily": [
+        "steal",
+        "stolen",
+        "stole",
+        "stealing"
+      ],
+      "example": "We can steal the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pleasure",
+      "ipaBrE": "/ˈpleʒə(r)/",
+      "ipaAmE": "/ˈpleʒər/",
+      "ipa": "/ˈpleʒə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望；v. (使)高兴",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a pleasure",
+        "the role of pleasure",
+        "pleasure and evidence"
+      ],
+      "wordFamily": [
+        "pleasure",
+        "pleasures",
+        "pleasuring"
+      ],
+      "example": "This pleasure matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "area",
+      "ipaBrE": "/ˈeəriə/",
+      "ipaAmE": "/ˈeriə/",
+      "ipa": "/ˈeəriə/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 区域, 面积, 范围, 空地； 区域",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a area",
+        "the role of area",
+        "area and evidence"
+      ],
+      "wordFamily": [
+        "area",
+        "areas"
+      ],
+      "example": "This area matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "theme",
+      "ipaBrE": "/θiːm/",
+      "ipaAmE": "/θiːm/",
+      "ipa": "/θiːm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 主题, 话题, 题目",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a theme",
+        "the role of theme",
+        "theme and evidence"
+      ],
+      "wordFamily": [
+        "theme",
+        "themes"
+      ],
+      "example": "This theme matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "contact",
+      "ipaBrE": "/ˈkɒntækt/",
+      "ipaAmE": "/ˈkɑːntækt/",
+      "ipa": "/ˈkɒntækt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 联系, 交际, 熟人, 接触；vi. 接触, 联系；vt. 使接触",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a contact",
+        "the role of contact",
+        "contact and evidence"
+      ],
+      "wordFamily": [
+        "contact",
+        "contacts",
+        "contacted",
+        "contacting"
+      ],
+      "example": "This contact matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "movement",
+      "ipaBrE": "/ˈmuːvmənt/",
+      "ipaAmE": "/ˈmuːvmənt/",
+      "ipa": "/ˈmuːvmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 运动, 动作, 运转, 移动, 倾向, 变化, 活动, 乐章； 运动",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a movement",
+        "the role of movement",
+        "movement and evidence"
+      ],
+      "wordFamily": [
+        "movement",
+        "movements",
+        "move"
+      ],
+      "example": "This movement matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "import",
+      "ipaBrE": "/ˈɪmpɔːt/",
+      "ipaAmE": "/ˈɪmpɔːrt/",
+      "ipa": "/ˈɪmpɔːt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 进口货, 进口, 输入, 含义, 重要性；vt. 输入, 引入, 进口, 含...的意思, 重要；vi. 有关系",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a import",
+        "the role of import",
+        "import and evidence"
+      ],
+      "wordFamily": [
+        "import",
+        "imports",
+        "imported",
+        "importing"
+      ],
+      "example": "This import matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "divorced",
+      "ipaBrE": "/dɪˈvɔːst/",
+      "ipaAmE": "/dɪˈvɔːrst/",
+      "ipa": "/dɪˈvɔːst/",
       "pos": [
         "adjective"
       ],
-      "zh": "安静, 闲适, 平静；安静的, 静止的, 寂静的, 朴素的, 从容的, 暗中的；平静下来；使平静, 使平息, 使安心, 安慰",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quiet approach",
-        "remain quiet",
-        "quiet enough"
-      ],
-      "wordFamily": [
-        "quiet",
-        "quieter",
-        "quietest",
-        "quieted"
-      ],
-      "example": "A quiet approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quietly",
-      "ipaBrE": "/ˈkwaɪətli/",
-      "ipaAmE": "/ˈkwaɪətli/",
-      "ipa": "/ˈkwaɪətli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "安静地, 沉着地, 秘密地",
+      "zh": "a. 离婚的",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "quietly a plan",
-        "quietly carefully",
-        "quietly with others"
+        "a divorced approach",
+        "remain divorced",
+        "divorced enough"
       ],
       "wordFamily": [
-        "quietly",
-        "quiet"
+        "divorced",
+        "divorc"
       ],
-      "example": "We can quietly the next step together.",
+      "example": "A divorced approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quit",
-      "ipaBrE": "/kwɪt/",
-      "ipaAmE": "/kwɪt/",
-      "ipa": "/kwɪt/",
+      "word": "helpful",
+      "ipaBrE": "/ˈhelpfl/",
+      "ipaAmE": "/ˈhelpfl/",
+      "ipa": "/ˈhelpfl/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "离开, 辞职, 停止；离开, 放弃, 使解除, 停止；离开 [计] 结束, 退出",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "quit a plan",
-        "quit carefully",
-        "quit with others"
-      ],
-      "wordFamily": [
-        "quit",
-        "pd",
-        "quitting",
-        "quits"
-      ],
-      "example": "We can quit the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quite",
-      "ipaBrE": "/kwaɪt/",
-      "ipaAmE": "/kwaɪt/",
-      "ipa": "/kwaɪt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "相当, 完全, 十分",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "quite a plan",
-        "quite carefully",
-        "quite with others"
-      ],
-      "wordFamily": [
-        "quite"
-      ],
-      "example": "We can quite the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quotation",
-      "ipaBrE": "/kwəʊˈteɪʃn/",
-      "ipaAmE": "/kwəʊˈteɪʃn/",
-      "ipa": "/kwəʊˈteɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：quotation",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quotation",
-        "the role of quotation",
-        "quotation and evidence"
-      ],
-      "wordFamily": [
-        "quotation",
-        "quotate"
-      ],
-      "example": "This quotation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quote",
-      "ipaBrE": "/kwəʊt/",
-      "ipaAmE": "/kwəʊt/",
-      "ipa": "/kwəʊt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "引用；引述, 举证, 报(价)；引用",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quote",
-        "the role of quote",
-        "quote and evidence"
-      ],
-      "wordFamily": [
-        "quote",
-        "quoted",
-        "quoting",
-        "quotes"
-      ],
-      "example": "This quote matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "race",
-      "ipaBrE": "/reɪs/",
-      "ipaAmE": "/reɪs/",
-      "ipa": "/reɪs/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "种族, 人种, 赛跑, 比赛, 急流, 人类, 同道, 姜根；赛跑, 竞赛, 疾走；与...赛跑, 使疾走, 使猛转 [计] 竞争; 追赶; 欧州高级通信研究开发计划",
+      "zh": "a. 有帮助的, 有益的, 有用的",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a race",
-        "the role of race",
-        "race and evidence"
+        "a helpful approach",
+        "remain helpful",
+        "helpful enough"
       ],
       "wordFamily": [
-        "race",
-        "races",
-        "racing",
-        "raced"
+        "helpful"
       ],
-      "example": "This race matters when people need to make a clear decision.",
+      "example": "A helpful approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "racing",
-      "ipaBrE": "/ˈreɪsɪŋ/",
-      "ipaAmE": "/ˈreɪsɪŋ/",
-      "ipa": "/ˈreɪsɪŋ/",
+      "word": "fresh",
+      "ipaBrE": "/freʃ/",
+      "ipaAmE": "/freʃ/",
+      "ipa": "/freʃ/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "noun：racing",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a racing",
-        "the role of racing",
-        "racing and evidence"
-      ],
-      "wordFamily": [
-        "racing",
-        "rac"
-      ],
-      "example": "This racing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "radio",
-      "ipaBrE": "/ˈreɪdiəʊ/",
-      "ipaAmE": "/ˈreɪdiəʊ/",
-      "ipa": "/ˈreɪdiəʊ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "无线电, 收音机, 无线电报, 无线电广播, 无线电台；用无线电发送",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a radio",
-        "the role of radio",
-        "radio and evidence"
-      ],
-      "wordFamily": [
-        "radio",
-        "radios",
-        "radioing",
-        "radioed"
-      ],
-      "example": "This radio matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "railway",
-      "ipaBrE": "/ˈreɪlweɪ/",
-      "ipaAmE": "/ˈreɪlweɪ/",
-      "ipa": "/ˈreɪlweɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：railway",
+      "zh": "a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的；adv. 最新地, 刚刚；n. 开始, 泛滥",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a railway",
-        "the role of railway",
-        "railway and evidence"
+        "a fresh approach",
+        "remain fresh",
+        "fresh enough"
       ],
       "wordFamily": [
-        "railway"
+        "fresh",
+        "fresher",
+        "freshest"
       ],
-      "example": "This railway matters when people need to make a clear decision.",
+      "example": "A fresh approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rain",
-      "ipaBrE": "/reɪn/",
-      "ipaAmE": "/reɪn/",
-      "ipa": "/reɪn/",
+      "word": "spending",
+      "ipaBrE": "/ˈspendɪŋ/",
+      "ipaAmE": "/ˈspendɪŋ/",
+      "ipa": "/ˈspendɪŋ/",
       "pos": [
         "noun"
       ],
-      "zh": "雨, 下雨, 雨天；下雨；使大量落下",
+      "zh": "n. 经费, 开销； 开支, 开销, 经费",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a spending",
+        "the role of spending",
+        "spending and evidence"
+      ],
+      "wordFamily": [
+        "spending",
+        "spend"
+      ],
+      "example": "This spending matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "celebration",
+      "ipaBrE": "/ˌselɪˈbreɪʃn/",
+      "ipaAmE": "/ˌselɪˈbreɪʃn/",
+      "ipa": "/ˌselɪˈbreɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 庆祝, 庆典",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a celebration",
+        "the role of celebration",
+        "celebration and evidence"
+      ],
+      "wordFamily": [
+        "celebration",
+        "celebrations",
+        "celebrate"
+      ],
+      "example": "This celebration matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cat",
+      "ipaBrE": "/kæt/",
+      "ipaAmE": "/kæt/",
+      "ipa": "/kæt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 猫, 恶妇；vi. 呕吐；计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a rain",
-        "the role of rain",
-        "rain and evidence"
+        "a cat",
+        "the role of cat",
+        "cat and evidence"
       ],
       "wordFamily": [
-        "rain",
-        "raining",
-        "rains",
-        "rained"
+        "cat",
+        "cats",
+        "catting",
+        "catted"
       ],
-      "example": "This rain matters when people need to make a clear decision.",
+      "example": "This cat matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nurse",
+      "ipaBrE": "/nɜːs/",
+      "ipaAmE": "/nɜːrs/",
+      "ipa": "/nɜːs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 护士, 保姆, 奶妈；vt. 看护, 照顾, 培养；vi. 喂奶, 看护病人",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a nurse",
+        "the role of nurse",
+        "nurse and evidence"
+      ],
+      "wordFamily": [
+        "nurse",
+        "nurses",
+        "nursing",
+        "nursed"
+      ],
+      "example": "This nurse matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "jazz",
+      "ipaBrE": "/dʒæz/",
+      "ipaAmE": "/dʒæz/",
+      "ipa": "/dʒæz/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 爵士乐, 喧闹；a. 爵士乐的, 喧吵的；vi. 演奏爵士乐, 跳爵士舞, 游荡；vt. 奏爵士乐, 使活泼",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a jazz",
+        "the role of jazz",
+        "jazz and evidence"
+      ],
+      "wordFamily": [
+        "jazz",
+        "jazzing",
+        "jazzed",
+        "jazzes"
+      ],
+      "example": "This jazz matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "scientist",
+      "ipaBrE": "/ˈsaɪəntɪst/",
+      "ipaAmE": "/ˈsaɪəntɪst/",
+      "ipa": "/ˈsaɪəntɪst/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 科学家； 科学家",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a scientist",
+        "the role of scientist",
+        "scientist and evidence"
+      ],
+      "wordFamily": [
+        "scientist",
+        "scientists"
+      ],
+      "example": "This scientist matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     }
   ],
   "passage": {
     "title": "What makes a story work",
     "paragraphs": [
-      "Imagine that you are handling learning, books, film, cultural difference, the environment, cities, AI, media, and uncertainty. The first move is to define the situation, identify the people involved, and choose a reasonable outcome. This is the kind of culture-knowledge exchange that rewards precise but natural language. Start with merger, merit, metaphor, methodology, midst, migration, militant, military, militia, mill.",
-      "A useful response does not need to sound dramatic. You can acknowledge a concern, explain the reason, propose an alternative, and check whether the other person agrees. Here, the useful terms include miner, mineral, minimal, minimize, minimum, mining, minister, ministry, minor, minority. The order matters because it keeps the conversation moving.",
-      "Use the vocabulary set to make the situation your own. The final terms are minute, miracle, miserable, misery, misleading, missile, mission, mixed, mob, mobility. Add one detail from your experience. The goal is not to sound perfect; it is to make a clear decision and explain it."
+      "Imagine that you are handling learning, books, film, cultural difference, the environment, cities, AI, media, and uncertainty. The first move is to define the situation, identify the people involved, and choose a reasonable outcome. This is the kind of culture-knowledge exchange that rewards precise but natural language. Start with descend, orientation, donor, genius, tale, humorous, mill, approach, corridor, influential.",
+      "A useful response does not need to sound dramatic. You can acknowledge a concern, explain the reason, propose an alternative, and check whether the other person agrees. Here, the useful terms include fixture, imagination, mainland, spectator, praise, dig, correspondence, upper, lawn, governance. The order matters because it keeps the conversation moving.",
+      "Use the vocabulary set to make the situation your own. The final terms are scholarship, ensure, legislative, spectrum, sincere, attain, basement, reward, capable, convincing. Add one detail from your experience. The goal is not to sound perfect; it is to make a clear decision and explain it."
     ],
     "translation": [
       "一个真实的culture-knowledge任务通常从一个小决定开始。本课通过learning, books, film, cultural difference, the environment, cities, AI, media, and uncertainty相关的情境，理解如何解释选择，并让下一步切实可行。",
       "情况变化时，清晰的表达者可以停顿、请求澄清，并用证据回应。与其把所有新表达硬塞进一句话，不如在对话、例句和后续任务中反复遇见实用语言。",
-      "请用这组词把情境变成自己的经历，从merger, merit, metaphor, methodology, midst, migration, militant, military, militia, mill中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
+      "请用这组词把情境变成自己的经历，从descend, orientation, donor, genius, tale, humorous, mill, approach, corridor, influential中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
     ],
     "highlightedWords": [
-      "merger",
-      "merit",
-      "metaphor",
-      "methodology",
-      "midst",
-      "migration",
-      "militant",
-      "military",
-      "militia",
+      "descend",
+      "orientation",
+      "donor",
+      "genius",
+      "tale",
+      "humorous",
       "mill",
-      "miner",
-      "mineral",
-      "minimal",
-      "minimize",
-      "minimum",
-      "mining",
-      "minister",
-      "ministry",
-      "minor",
-      "minority",
-      "minute",
-      "miracle",
-      "miserable",
-      "misery",
-      "misleading",
-      "missile",
-      "mission",
-      "mixed",
-      "mob",
-      "mobility"
+      "approach",
+      "corridor",
+      "influential",
+      "fixture",
+      "imagination",
+      "mainland",
+      "spectator",
+      "praise",
+      "dig",
+      "correspondence",
+      "upper",
+      "lawn",
+      "governance",
+      "scholarship",
+      "ensure",
+      "legislative",
+      "spectrum",
+      "sincere",
+      "attain",
+      "basement",
+      "reward",
+      "capable",
+      "convincing"
     ]
   },
   "topic": "culture-knowledge",
   "targetWords": [
     {
-      "word": "merger",
-      "ipaBrE": "/ˈmɜːdʒə(r)/",
-      "ipaAmE": "/ˈmɜːrdʒər/",
-      "ipa": "/ˈmɜːdʒə(r)/",
+      "word": "descend",
+      "ipaBrE": "/dɪˈsend/",
+      "ipaAmE": "/dɪˈsend/",
+      "ipa": "/dɪˈsend/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "合并, 归并 [经] 购并",
+      "zh": "vi. 下降, 世代相传, 屈尊, 袭击；vt. 下降",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a merger",
-        "the role of merger",
-        "merger and evidence"
+        "descend a plan",
+        "descend carefully",
+        "descend with others"
       ],
       "wordFamily": [
-        "merger",
-        "mergers",
-        "merg"
+        "descend",
+        "descended",
+        "descending",
+        "descends"
       ],
-      "example": "This merger matters when people need to make a clear decision.",
+      "example": "We can descend the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "merit",
-      "ipaBrE": "/ˈmerɪt/",
-      "ipaAmE": "/ˈmerɪt/",
-      "ipa": "/ˈmerɪt/",
+      "word": "orientation",
+      "ipaBrE": "/ˌɔːriənˈteɪʃn/",
+      "ipaAmE": "/ˌɔːriənˈteɪʃn/",
+      "ipa": "/ˌɔːriənˈteɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "优点, 功绩, 价值, 功过, 真相；值得；应受",
+      "zh": "n. 定方位, 适应, 向东方；n. 方向； 方向",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a merit",
-        "the role of merit",
-        "merit and evidence"
+        "a orientation",
+        "the role of orientation",
+        "orientation and evidence"
       ],
       "wordFamily": [
-        "merit",
-        "merits",
-        "merited",
-        "meriting"
+        "orientation",
+        "orientations",
+        "orientate"
       ],
-      "example": "This merit matters when people need to make a clear decision.",
+      "example": "This orientation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "metaphor",
-      "ipaBrE": "/ˈmetəfɔː(r)/",
-      "ipaAmE": "/ˈmetəfɔːr/",
-      "ipa": "/ˈmetəfɔː(r)/",
+      "word": "donor",
+      "ipaBrE": "/ˈdəʊnə(r)/",
+      "ipaAmE": "/ˈdəʊnər/",
+      "ipa": "/ˈdəʊnə(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "隐喻",
+      "zh": "n. 捐赠人； 给体; 供体",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a donor",
+        "the role of donor",
+        "donor and evidence"
+      ],
+      "wordFamily": [
+        "donor",
+        "donors"
+      ],
+      "example": "This donor matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "genius",
+      "ipaBrE": "/ˈdʒiːniəs/",
+      "ipaAmE": "/ˈdʒiːniəs/",
+      "ipa": "/ˈdʒiːniəs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 天才, 天赋, 精神, 神魔； 特征",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a metaphor",
-        "the role of metaphor",
-        "metaphor and evidence"
+        "a genius",
+        "the role of genius",
+        "genius and evidence"
       ],
       "wordFamily": [
-        "metaphor",
-        "metaphors"
+        "genius",
+        "geniuses",
+        "geniu"
       ],
-      "example": "This metaphor matters when people need to make a clear decision.",
+      "example": "This genius matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "methodology",
-      "ipaBrE": "/ˌmeθəˈdɒlədʒi/",
-      "ipaAmE": "/ˌmeθəˈdɑːlədʒi/",
-      "ipa": "/ˌmeθəˈdɒlədʒi/",
+      "word": "tale",
+      "ipaBrE": "/teɪl/",
+      "ipaAmE": "/teɪl/",
+      "ipa": "/teɪl/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：methodology",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a methodology",
-        "the role of methodology",
-        "methodology and evidence"
-      ],
-      "wordFamily": [
-        "methodology"
-      ],
-      "example": "This methodology matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "midst",
-      "ipaBrE": "/mɪdst/",
-      "ipaAmE": "/mɪdst/",
-      "ipa": "/mɪdst/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "中间；在...中间",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a midst",
-        "the role of midst",
-        "midst and evidence"
-      ],
-      "wordFamily": [
-        "midst"
-      ],
-      "example": "This midst matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "migration",
-      "ipaBrE": "/maɪˈɡreɪʃn/",
-      "ipaAmE": "/maɪˈɡreɪʃn/",
-      "ipa": "/maɪˈɡreɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "移民, 移往, 移动 [计] 迁移",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a migration",
-        "the role of migration",
-        "migration and evidence"
-      ],
-      "wordFamily": [
-        "migration",
-        "migrations",
-        "migrate"
-      ],
-      "example": "This migration matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "militant",
-      "ipaBrE": "/ˈmɪlɪtənt/",
-      "ipaAmE": "/ˈmɪlɪtənt/",
-      "ipa": "/ˈmɪlɪtənt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：militant",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a militant approach",
-        "remain militant",
-        "militant enough"
-      ],
-      "wordFamily": [
-        "militant"
-      ],
-      "example": "A militant approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "military",
-      "ipaBrE": "/ˈmɪlətri/",
-      "ipaAmE": "/ˈmɪləteri/",
-      "ipa": "/ˈmɪlətri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "军队；军事的, 军人的, 适于战争的",
+      "zh": "n. 故事, 谎言, 谣言, 陈述, 叙述； 虚语, 诽语, 谣言",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a military approach",
-        "remain military",
-        "military enough"
+        "a tale",
+        "the role of tale",
+        "tale and evidence"
       ],
       "wordFamily": [
-        "military"
+        "tale",
+        "tales"
       ],
-      "example": "A military approach makes the situation easier to explain.",
+      "example": "This tale matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "militia",
-      "ipaBrE": "/məˈlɪʃə/",
-      "ipaAmE": "/məˈlɪʃə/",
-      "ipa": "/məˈlɪʃə/",
+      "word": "humorous",
+      "ipaBrE": "/ˈhjuːmərəs/",
+      "ipaAmE": "/ˈhjuːmərəs/",
+      "ipa": "/ˈhjuːmərəs/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "义勇军, 民兵组织, 国民军",
-      "cefr": "C1",
+      "zh": "a. 富幽默感的, 滑稽的, 诙谐的",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a militia",
-        "the role of militia",
-        "militia and evidence"
+        "a humorous approach",
+        "remain humorous",
+        "humorous enough"
       ],
       "wordFamily": [
-        "militia",
-        "militias"
+        "humorous",
+        "humorou"
       ],
-      "example": "This militia matters when people need to make a clear decision.",
+      "example": "A humorous approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -2859,7 +2780,7 @@ export default {
       "pos": [
         "noun"
       ],
-      "zh": "压榨机, 磨坊, 制造厂；碾磨, 磨细, 搅拌, 使乱转；乱转, 被碾磨",
+      "zh": "n. 压榨机, 磨坊, 制造厂；vt. 碾磨, 磨细, 搅拌, 使乱转；vi. 乱转, 被碾磨",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
@@ -2879,968 +2800,871 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "miner",
-      "ipaBrE": "/ˈmaɪnə(r)/",
-      "ipaAmE": "/ˈmaɪnər/",
-      "ipa": "/ˈmaɪnə(r)/",
+      "word": "approach",
+      "ipaBrE": "/əˈprəʊtʃ/",
+      "ipaAmE": "/əˈprəʊtʃ/",
+      "ipa": "/əˈprəʊtʃ/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：miner",
+      "zh": "n. 接近, 入门；vt. 接近, 近似, 找...商量；vi. 靠近",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a miner",
-        "the role of miner",
-        "miner and evidence"
+        "a approach",
+        "the role of approach",
+        "approach and evidence"
       ],
       "wordFamily": [
-        "miner",
-        "min"
+        "approach",
+        "approaches",
+        "approached",
+        "approaching"
       ],
-      "example": "This miner matters when people need to make a clear decision.",
+      "example": "This approach matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mineral",
-      "ipaBrE": "/ˈmɪnərəl/",
-      "ipaAmE": "/ˈmɪnərəl/",
-      "ipa": "/ˈmɪnərəl/",
+      "word": "corridor",
+      "ipaBrE": "/ˈkɒrɪdɔː(r)/",
+      "ipaAmE": "/ˈkɔːrɪdɔːr/",
+      "ipa": "/ˈkɒrɪdɔː(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "矿物, 无机物, 苏打水；矿物的, 似矿物的",
+      "zh": "n. 走廊, 回廊, 人口密集地带",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mineral",
-        "the role of mineral",
-        "mineral and evidence"
+        "a corridor",
+        "the role of corridor",
+        "corridor and evidence"
       ],
       "wordFamily": [
-        "mineral",
-        "minerals"
+        "corridor",
+        "corridors"
       ],
-      "example": "This mineral matters when people need to make a clear decision.",
+      "example": "This corridor matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minimal",
-      "ipaBrE": "/ˈmɪnɪml/",
-      "ipaAmE": "/ˈmɪnɪml/",
-      "ipa": "/ˈmɪnɪml/",
+      "word": "influential",
+      "ipaBrE": "/ˌɪnfluˈenʃl/",
+      "ipaAmE": "/ˌɪnfluˈenʃl/",
+      "ipa": "/ˌɪnfluˈenʃl/",
       "pos": [
         "adjective"
       ],
-      "zh": "最小的, 极微的, 最小限度的 [医] 最小的, 最低的",
+      "zh": "a. 有影响的, 有势力的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minimal approach",
-        "remain minimal",
-        "minimal enough"
+        "a influential approach",
+        "remain influential",
+        "influential enough"
       ],
       "wordFamily": [
-        "minimal"
+        "influential"
       ],
-      "example": "A minimal approach makes the situation easier to explain.",
+      "example": "A influential approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minimize",
-      "ipaBrE": "/ˈmɪnɪmaɪz/",
-      "ipaAmE": "/ˈmɪnɪmaɪz/",
-      "ipa": "/ˈmɪnɪmaɪz/",
+      "word": "fixture",
+      "ipaBrE": "/ˈfɪkstʃə(r)/",
+      "ipaAmE": "/ˈfɪkstʃər/",
+      "ipa": "/ˈfɪkstʃə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 固定(状态), 固定物, 设备； 夹具",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a fixture",
+        "the role of fixture",
+        "fixture and evidence"
+      ],
+      "wordFamily": [
+        "fixture"
+      ],
+      "example": "This fixture matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "imagination",
+      "ipaBrE": "/ɪˌmædʒɪˈneɪʃn/",
+      "ipaAmE": "/ɪˌmædʒɪˈneɪʃn/",
+      "ipa": "/ɪˌmædʒɪˈneɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 想像, 听觉, 想像力； 想像",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a imagination",
+        "the role of imagination",
+        "imagination and evidence"
+      ],
+      "wordFamily": [
+        "imagination",
+        "imaginations",
+        "imaginate"
+      ],
+      "example": "This imagination matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "mainland",
+      "ipaBrE": "/ðə ˈmeɪnlænd/",
+      "ipaAmE": "/ðə ˈmeɪnlænd/",
+      "ipa": "/ðə ˈmeɪnlænd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大陆, 本土； 大陆",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a mainland",
+        "the role of mainland",
+        "mainland and evidence"
+      ],
+      "wordFamily": [
+        "mainland"
+      ],
+      "example": "This mainland matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "spectator",
+      "ipaBrE": "/spekˈteɪtə(r)/",
+      "ipaAmE": "/ˈspekteɪtər/",
+      "ipa": "/spekˈteɪtə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 观众, 目击者, 旁观者",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a spectator",
+        "the role of spectator",
+        "spectator and evidence"
+      ],
+      "wordFamily": [
+        "spectator",
+        "spectators"
+      ],
+      "example": "This spectator matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "praise",
+      "ipaBrE": "/preɪz/",
+      "ipaAmE": "/preɪz/",
+      "ipa": "/preɪz/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 赞美, 称赞, 崇拜；vt. 称赞, 赞美；vi. 赞扬, 表扬",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a praise",
+        "the role of praise",
+        "praise and evidence"
+      ],
+      "wordFamily": [
+        "praise",
+        "praised",
+        "praising",
+        "praises"
+      ],
+      "example": "This praise matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "dig",
+      "ipaBrE": "/dɪɡ/",
+      "ipaAmE": "/dɪɡ/",
+      "ipa": "/dɪɡ/",
       "pos": [
         "verb"
       ],
-      "zh": "将...减到最少；最小化；最小化 [计] 最小化",
+      "zh": "vt. 挖, 翻土, 发掘；vi. 挖掘；n. 挖掘； 数字, 数位",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "dig a plan",
+        "dig carefully",
+        "dig with others"
+      ],
+      "wordFamily": [
+        "dig",
+        "dug",
+        "digging",
+        "digs"
+      ],
+      "example": "We can dig the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "correspondence",
+      "ipaBrE": "/ˌkɒrəˈspɒndəns/",
+      "ipaAmE": "/ˌkɔːrəˈspɑːndəns/",
+      "ipa": "/ˌkɒrəˈspɒndəns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 相符, 通信, 信件； 对应, 相对",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "minimize a plan",
-        "minimize carefully",
-        "minimize with others"
+        "a correspondence",
+        "the role of correspondence",
+        "correspondence and evidence"
       ],
       "wordFamily": [
-        "minimize",
-        "minimizing",
-        "minimized",
-        "minimizes"
+        "correspondence"
       ],
-      "example": "We can minimize the next step together.",
+      "example": "This correspondence matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minimum",
-      "ipaBrE": "/ˈmɪnɪməm/",
-      "ipaAmE": "/ˈmɪnɪməm/",
-      "ipa": "/ˈmɪnɪməm/",
+      "word": "upper",
+      "ipaBrE": "/ˈʌpə(r)/",
+      "ipaAmE": "/ˈʌpər/",
+      "ipa": "/ˈʌpə(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "最小的, 最低的；最小值 [计] 最小值",
+      "zh": "a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的；n. 鞋帮, 上齿",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minimum approach",
-        "remain minimum",
-        "minimum enough"
+        "a upper approach",
+        "remain upper",
+        "upper enough"
       ],
       "wordFamily": [
-        "minimum",
-        "minima"
+        "upper",
+        "uppers",
+        "upp"
       ],
-      "example": "A minimum approach makes the situation easier to explain.",
+      "example": "A upper approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mining",
-      "ipaBrE": "/ˈmaɪnɪŋ/",
-      "ipaAmE": "/ˈmaɪnɪŋ/",
-      "ipa": "/ˈmaɪnɪŋ/",
+      "word": "lawn",
+      "ipaBrE": "/lɔːn/",
+      "ipaAmE": "/lɔːn/",
+      "ipa": "/lɔːn/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：mining",
+      "zh": "n. 草地, 草坪, 上等细麻布； 细筛",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mining",
-        "the role of mining",
-        "mining and evidence"
+        "a lawn",
+        "the role of lawn",
+        "lawn and evidence"
       ],
       "wordFamily": [
-        "mining",
-        "min"
+        "lawn",
+        "lawns"
       ],
-      "example": "This mining matters when people need to make a clear decision.",
+      "example": "This lawn matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minister",
-      "ipaBrE": "/ˈmɪnɪstə(r)/",
-      "ipaAmE": "/ˈmɪnɪstər/",
-      "ipa": "/ˈmɪnɪstə(r)/",
+      "word": "governance",
+      "ipaBrE": "/ˈɡʌvənəns/",
+      "ipaAmE": "/ˈɡʌvərnəns/",
+      "ipa": "/ˈɡʌvənəns/",
       "pos": [
         "noun"
       ],
-      "zh": "部长, 牧师, 公使；服侍, 救助, 主持宗教仪式",
+      "zh": "n. 统治, 统辖, 管理； 统治, 管理, 支配",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a governance",
+        "the role of governance",
+        "governance and evidence"
+      ],
+      "wordFamily": [
+        "governance"
+      ],
+      "example": "This governance matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "scholarship",
+      "ipaBrE": "/ˈskɒləʃɪp/",
+      "ipaAmE": "/ˈskɑːlərʃɪp/",
+      "ipa": "/ˈskɒləʃɪp/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 学问, 学术成就, 奖学金",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minister",
-        "the role of minister",
-        "minister and evidence"
+        "a scholarship",
+        "the role of scholarship",
+        "scholarship and evidence"
       ],
       "wordFamily": [
-        "minister",
-        "ministers",
-        "ministering",
-        "ministered"
+        "scholarship",
+        "scholarships"
       ],
-      "example": "This minister matters when people need to make a clear decision.",
+      "example": "This scholarship matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "ministry",
-      "ipaBrE": "/ˈmɪnɪstri/",
-      "ipaAmE": "/ˈmɪnɪstri/",
-      "ipa": "/ˈmɪnɪstri/",
+      "word": "ensure",
+      "ipaBrE": "/ɪnˈʃɔː(r)/",
+      "ipaAmE": "/ɪnˈʃʊr/",
+      "ipa": "/ɪnˈʃɔː(r)/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "部, 内阁, 服务 [经] 部",
-      "cefr": "C1",
+      "zh": "vt. 确定, 保证, 担保, 保护； 确保, 确定",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a ministry",
-        "the role of ministry",
-        "ministry and evidence"
+        "ensure a plan",
+        "ensure carefully",
+        "ensure with others"
       ],
       "wordFamily": [
-        "ministry",
-        "ministries"
+        "ensure",
+        "ensuring",
+        "ensures",
+        "ensured"
       ],
-      "example": "This ministry matters when people need to make a clear decision.",
+      "example": "We can ensure the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minor",
-      "ipaBrE": "/ˈmaɪnə(r)/",
-      "ipaAmE": "/ˈmaɪnər/",
-      "ipa": "/ˈmaɪnə(r)/",
+      "word": "legislative",
+      "ipaBrE": "/ˈledʒɪslətɪv/",
+      "ipaAmE": "/ˈledʒɪsleɪtɪv/",
+      "ipa": "/ˈledʒɪslətɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "未成年人, 副修科目；较小的, 二流的, 未成年的；副修 [计] 次要",
-      "cefr": "B2",
+      "zh": "n. 立法机构；a. 立法的, 有立法权的",
+      "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minor approach",
-        "remain minor",
-        "minor enough"
+        "a legislative approach",
+        "remain legislative",
+        "legislative enough"
       ],
       "wordFamily": [
-        "minor",
-        "minors"
+        "legislative"
       ],
-      "example": "A minor approach makes the situation easier to explain.",
+      "example": "A legislative approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minority",
-      "ipaBrE": "/maɪˈnɒrəti/",
-      "ipaAmE": "/maɪˈnɔːrəti/",
-      "ipa": "/maɪˈnɒrəti/",
+      "word": "spectrum",
+      "ipaBrE": "/ˈspektrəm/",
+      "ipaAmE": "/ˈspektrəm/",
+      "ipa": "/ˈspektrəm/",
       "pos": [
         "noun"
       ],
-      "zh": "少数, 未成年, 少数民族；少数的, 属于少数派的",
-      "cefr": "B2",
+      "zh": "n. 光谱, 范围, 系列； 光谱",
+      "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a minority",
-        "the role of minority",
-        "minority and evidence"
+        "a spectrum",
+        "the role of spectrum",
+        "spectrum and evidence"
       ],
       "wordFamily": [
-        "minority",
-        "minorities",
-        "minor"
+        "spectrum",
+        "spectra"
       ],
-      "example": "This minority matters when people need to make a clear decision.",
+      "example": "This spectrum matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "minute",
-      "ipaBrE": "/maɪˈnjuːt/",
-      "ipaAmE": "/maɪˈnuːt/",
-      "ipa": "/maɪˈnjuːt/",
+      "word": "sincere",
+      "ipaBrE": "/sɪnˈsɪə(r)/",
+      "ipaAmE": "/sɪnˈsɪr/",
+      "ipa": "/sɪnˈsɪə(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "分, 分钟, 片刻, 备忘录, 笔记；记录, 摘录, 测定时间；微小的, 详细的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a minute approach",
-        "remain minute",
-        "minute enough"
-      ],
-      "wordFamily": [
-        "minute",
-        "minutes"
-      ],
-      "example": "A minute approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "miracle",
-      "ipaBrE": "/ˈmɪrəkl/",
-      "ipaAmE": "/ˈmɪrəkl/",
-      "ipa": "/ˈmɪrəkl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "奇迹, 奇事",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a miracle",
-        "the role of miracle",
-        "miracle and evidence"
-      ],
-      "wordFamily": [
-        "miracle",
-        "miracles"
-      ],
-      "example": "This miracle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "miserable",
-      "ipaBrE": "/ˈmɪzrəbl/",
-      "ipaAmE": "/ˈmɪzrəbl/",
-      "ipa": "/ˈmɪzrəbl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：miserable",
+      "zh": "a. 诚实的, 正直的, 真挚的, 纯净的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a miserable approach",
-        "remain miserable",
-        "miserable enough"
+        "a sincere approach",
+        "remain sincere",
+        "sincere enough"
       ],
       "wordFamily": [
-        "miserable",
-        "miser"
+        "sincere"
       ],
-      "example": "A miserable approach makes the situation easier to explain.",
+      "example": "A sincere approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "misery",
-      "ipaBrE": "/ˈmɪzəri/",
-      "ipaAmE": "/ˈmɪzəri/",
-      "ipa": "/ˈmɪzəri/",
+      "word": "attain",
+      "ipaBrE": "/əˈteɪn/",
+      "ipaAmE": "/əˈteɪn/",
+      "ipa": "/əˈteɪn/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "noun：misery",
+      "zh": "vt. 达到, 获得；vi. 达到",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a misery",
-        "the role of misery",
-        "misery and evidence"
+        "attain a plan",
+        "attain carefully",
+        "attain with others"
       ],
       "wordFamily": [
-        "misery"
+        "attain",
+        "attained",
+        "attaining",
+        "attains"
       ],
-      "example": "This misery matters when people need to make a clear decision.",
+      "example": "We can attain the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "misleading",
-      "ipaBrE": "/ˌmɪsˈliːdɪŋ/",
-      "ipaAmE": "/ˌmɪsˈliːdɪŋ/",
-      "ipa": "/ˌmɪsˈliːdɪŋ/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：misleading",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a misleading approach",
-        "remain misleading",
-        "misleading enough"
-      ],
-      "wordFamily": [
-        "misleading",
-        "mislead"
-      ],
-      "example": "A misleading approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "missile",
-      "ipaBrE": "/ˈmɪsaɪl/",
-      "ipaAmE": "/ˈmɪsl/",
-      "ipa": "/ˈmɪsaɪl/",
+      "word": "basement",
+      "ipaBrE": "/ˈbeɪsmənt/",
+      "ipaAmE": "/ˈbeɪsmənt/",
+      "ipa": "/ˈbeɪsmənt/",
       "pos": [
         "noun"
       ],
-      "zh": "发射物, 导弹, 飞弹, 火箭；可发射的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a missile",
-        "the role of missile",
-        "missile and evidence"
-      ],
-      "wordFamily": [
-        "missile",
-        "missiles"
-      ],
-      "example": "This missile matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "mission",
-      "ipaBrE": "/ɪmˈpɒsəbl/",
-      "ipaAmE": "/ɪmˈpɑːsəbl/",
-      "ipa": "/ɪmˈpɒsəbl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "任务, 代表团, 使命, 传教团；派遣, 向...传教",
+      "zh": "n. 地下室, 墙脚； 地下室",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mission",
-        "the role of mission",
-        "mission and evidence"
+        "a basement",
+        "the role of basement",
+        "basement and evidence"
       ],
       "wordFamily": [
-        "mission",
-        "missions"
+        "basement",
+        "basements",
+        "base"
       ],
-      "example": "This mission matters when people need to make a clear decision.",
+      "example": "This basement matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mixed",
-      "ipaBrE": "/mɪkst/",
-      "ipaAmE": "/mɪkst/",
-      "ipa": "/mɪkst/",
+      "word": "reward",
+      "ipaBrE": "/rɪˈwɔːd/",
+      "ipaAmE": "/rɪˈwɔːrd/",
+      "ipa": "/rɪˈwɔːd/",
       "pos": [
-        "adjective"
+        "noun"
       ],
-      "zh": "混合的, 形形色色的, 弄糊涂的 [计] 混合的",
+      "zh": "n. 报酬, 酬谢, 赏金；vt. 奖赏, 酬谢, 给...应有报应",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mixed approach",
-        "remain mixed",
-        "mixed enough"
+        "a reward",
+        "the role of reward",
+        "reward and evidence"
       ],
       "wordFamily": [
-        "mixed",
-        "mix",
-        "dp"
+        "reward",
+        "rewards",
+        "rewarded",
+        "rewarding"
       ],
-      "example": "A mixed approach makes the situation easier to explain.",
+      "example": "This reward matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mob",
-      "ipaBrE": "/mɒb/",
-      "ipaAmE": "/mɑːb/",
-      "ipa": "/mɒb/",
+      "word": "capable",
+      "ipaBrE": "/ˈkeɪpəbl/",
+      "ipaAmE": "/ˈkeɪpəbl/",
+      "ipa": "/ˈkeɪpəbl/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "noun：mob",
-      "cefr": "C1",
+      "zh": "a. 有能力的, 能的, 能干的",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mob",
-        "the role of mob",
-        "mob and evidence"
+        "a capable approach",
+        "remain capable",
+        "capable enough"
       ],
       "wordFamily": [
-        "mob"
+        "capable",
+        "cap"
       ],
-      "example": "This mob matters when people need to make a clear decision.",
+      "example": "A capable approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "mobility",
-      "ipaBrE": "/məʊˈbɪləti/",
-      "ipaAmE": "/məʊˈbɪləti/",
-      "ipa": "/məʊˈbɪləti/",
+      "word": "convincing",
+      "ipaBrE": "/kənˈvɪnsɪŋ/",
+      "ipaAmE": "/kənˈvɪnsɪŋ/",
+      "ipa": "/kənˈvɪnsɪŋ/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "noun：mobility",
-      "cefr": "C1",
+      "zh": "a. 使人信服的, 有力的, 令人心悦诚服的",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a mobility",
-        "the role of mobility",
-        "mobility and evidence"
+        "a convincing approach",
+        "remain convincing",
+        "convincing enough"
       ],
       "wordFamily": [
-        "mobility",
-        "mobil"
+        "convincing",
+        "convinc"
       ],
-      "example": "This mobility matters when people need to make a clear decision.",
+      "example": "A convincing approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "pressure",
-      "ipaBrE": "/ˈpreʃə(r)/",
-      "ipaAmE": "/ˈpreʃər/",
-      "ipa": "/ˈpreʃə(r)/",
+      "word": "translation",
+      "ipaBrE": "/trænzˈleɪʃn/",
+      "ipaAmE": "/trænzˈleɪʃn/",
+      "ipa": "/trænzˈleɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "压, 榨, 按, 强制, 压力, 压迫, 压强；迫使, 使增压, 密封",
+      "zh": "n. 翻译, 译文, 转化, 调任, 平移, 转译； 转换",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a pressure",
-        "the role of pressure",
-        "pressure and evidence"
+        "a translation",
+        "the role of translation",
+        "translation and evidence"
       ],
       "wordFamily": [
-        "pressure",
-        "pressures",
-        "pressured",
-        "pressuring"
+        "translation",
+        "translations",
+        "translate"
       ],
-      "example": "This pressure matters when people need to make a clear decision.",
+      "example": "This translation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "pretend",
-      "ipaBrE": "/prɪˈtend/",
-      "ipaAmE": "/prɪˈtend/",
-      "ipa": "/prɪˈtend/",
+      "word": "violent",
+      "ipaBrE": "/ˈvaɪələnt/",
+      "ipaAmE": "/ˈvaɪələnt/",
+      "ipa": "/ˈvaɪələnt/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "假装, 伪称, 自命, 自称",
+      "zh": "a. 暴力的, 猛烈的, 激烈的, 极端的, 凶暴的",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "pretend a plan",
-        "pretend carefully",
-        "pretend with others"
+        "a violent approach",
+        "remain violent",
+        "violent enough"
       ],
       "wordFamily": [
-        "pretend",
-        "pretending",
-        "pretended",
-        "pretends"
+        "violent"
       ],
-      "example": "We can pretend the next step together.",
+      "example": "A violent approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "pretty",
-      "ipaBrE": "/ˈprɪti/",
-      "ipaAmE": "/ˈprɪti/",
-      "ipa": "/ˈprɪti/",
+      "word": "fiction",
+      "ipaBrE": "/ˈfɪkʃn/",
+      "ipaAmE": "/ˈfɪkʃn/",
+      "ipa": "/ˈfɪkʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小说, 虚构故事； 虚构的事实, 捏造, 拟制",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a fiction",
+        "the role of fiction",
+        "fiction and evidence"
+      ],
+      "wordFamily": [
+        "fiction",
+        "fictions",
+        "ficte"
+      ],
+      "example": "This fiction matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "shift",
+      "ipaBrE": "/ʃɪft/",
+      "ipaAmE": "/ʃɪft/",
+      "ipa": "/ʃɪft/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位；vt. 替换, 转移, 改变, 推卸, 变速",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a shift",
+        "the role of shift",
+        "shift and evidence"
+      ],
+      "wordFamily": [
+        "shift",
+        "shifts",
+        "shifted",
+        "shifting"
+      ],
+      "example": "This shift matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "clever",
+      "ipaBrE": "/ˈklevə(r)/",
+      "ipaAmE": "/ˈklevər/",
+      "ipa": "/ˈklevə(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "漂亮的, 优美的, 机灵的, 狡猾的, 恰当的 adv. 相当, 颇",
+      "zh": "a. 聪明的, 精明的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a clever approach",
+        "remain clever",
+        "clever enough"
+      ],
+      "wordFamily": [
+        "clever",
+        "cleverer",
+        "cleverest",
+        "clev"
+      ],
+      "example": "A clever approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "absolutely",
+      "ipaBrE": "/ˈæbsəluːtli/",
+      "ipaAmE": "/ˈæbsəluːtli/",
+      "ipa": "/ˈæbsəluːtli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 完全地, 绝对地, 确确实实地",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "absolutely a plan",
+        "absolutely carefully",
+        "absolutely with others"
+      ],
+      "wordFamily": [
+        "absolutely",
+        "absolute"
+      ],
+      "example": "We can absolutely the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "man",
+      "ipaBrE": "/mæn/",
+      "ipaAmE": "/mæn/",
+      "ipa": "/mæn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 男人, 人类, 人；vt. 为...配备人手, 操纵, 使振奋； 城域网, 手册",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a pretty approach",
-        "remain pretty",
-        "pretty enough"
+        "a man",
+        "the role of man",
+        "man and evidence"
       ],
       "wordFamily": [
-        "pretty",
-        "prettiest",
-        "prettier"
+        "man",
+        "men",
+        "manned",
+        "manning"
       ],
-      "example": "A pretty approach makes the situation easier to explain.",
+      "example": "This man matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "prevent",
-      "ipaBrE": "/prɪˈvent/",
-      "ipaAmE": "/prɪˈvent/",
-      "ipa": "/prɪˈvent/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "预防, 防止, 阻止, 妨碍",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "prevent a plan",
-        "prevent carefully",
-        "prevent with others"
-      ],
-      "wordFamily": [
-        "prevent",
-        "preventing",
-        "prevented",
-        "prevents"
-      ],
-      "example": "We can prevent the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "previous",
-      "ipaBrE": "/ˈpriːviəs/",
-      "ipaAmE": "/ˈpriːviəs/",
-      "ipa": "/ˈpriːviəs/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "早先的, 前面的, 过急的 [法] 以前的, 生前的, 前述的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a previous approach",
-        "remain previous",
-        "previous enough"
-      ],
-      "wordFamily": [
-        "previous",
-        "previou"
-      ],
-      "example": "A previous approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "previously",
-      "ipaBrE": "/ˈpriːviəsli/",
-      "ipaAmE": "/ˈpriːviəsli/",
-      "ipa": "/ˈpriːviəsli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先 [计] 先前地",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "previously a plan",
-        "previously carefully",
-        "previously with others"
-      ],
-      "wordFamily": [
-        "previously",
-        "previous"
-      ],
-      "example": "We can previously the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "priest",
-      "ipaBrE": "/priːst/",
-      "ipaAmE": "/priːst/",
-      "ipa": "/priːst/",
+      "word": "paragraph",
+      "ipaBrE": "/ˈpærəɡrɑːf/",
+      "ipaAmE": "/ˈpærəɡræf/",
+      "ipa": "/ˈpærəɡrɑːf/",
       "pos": [
         "noun"
       ],
-      "zh": "祭司, 牧师, 神父, 神质人员, 僧侣, 泰斗",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a priest",
-        "the role of priest",
-        "priest and evidence"
-      ],
-      "wordFamily": [
-        "priest",
-        "priests"
-      ],
-      "example": "This priest matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "primary",
-      "ipaBrE": "/ˈpraɪməri/",
-      "ipaAmE": "/ˈpraɪmeri/",
-      "ipa": "/ˈpraɪməri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "最主要者, 原色；主要的, 初期的, 根本的, 原始的, 首要的, 基本的 [计] 初等量; 主要的; 一次的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a primary approach",
-        "remain primary",
-        "primary enough"
-      ],
-      "wordFamily": [
-        "primary",
-        "primaries"
-      ],
-      "example": "A primary approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prince",
-      "ipaBrE": "/prɪns/",
-      "ipaAmE": "/prɪns/",
-      "ipa": "/prɪns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prince",
-        "the role of prince",
-        "prince and evidence"
-      ],
-      "wordFamily": [
-        "prince",
-        "princes"
-      ],
-      "example": "This prince matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "princess",
-      "ipaBrE": "/ˈprɪnses/",
-      "ipaAmE": "/ˈprɪnses/",
-      "ipa": "/ˈprɪnses/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：princess",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a princess",
-        "the role of princess",
-        "princess and evidence"
-      ],
-      "wordFamily": [
-        "princess",
-        "princes"
-      ],
-      "example": "This princess matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "printer",
-      "ipaBrE": "/ˈprɪntə(r)/",
-      "ipaAmE": "/ˈprɪntər/",
-      "ipa": "/ˈprɪntə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：printer",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a printer",
-        "the role of printer",
-        "printer and evidence"
-      ],
-      "wordFamily": [
-        "printer",
-        "print"
-      ],
-      "example": "This printer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "printing",
-      "ipaBrE": "/ˈprɪntɪŋ/",
-      "ipaAmE": "/ˈprɪntɪŋ/",
-      "ipa": "/ˈprɪntɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：printing",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a printing",
-        "the role of printing",
-        "printing and evidence"
-      ],
-      "wordFamily": [
-        "printing",
-        "print"
-      ],
-      "example": "This printing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prison",
-      "ipaBrE": "/ˈprɪzn/",
-      "ipaAmE": "/ˈprɪzn/",
-      "ipa": "/ˈprɪzn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "监狱, 监禁, 拘留所；监禁",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prison",
-        "the role of prison",
-        "prison and evidence"
-      ],
-      "wordFamily": [
-        "prison",
-        "prisons"
-      ],
-      "example": "This prison matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prisoner",
-      "ipaBrE": "/ˈprɪznə(r)/",
-      "ipaAmE": "/ˈprɪznər/",
-      "ipa": "/ˈprɪznə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "囚犯, 犯人, 战俘 [法] 犯人, 囚犯, 扣押犯",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prisoner",
-        "the role of prisoner",
-        "prisoner and evidence"
-      ],
-      "wordFamily": [
-        "prisoner",
-        "prisoners",
-        "prison"
-      ],
-      "example": "This prisoner matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "private",
-      "ipaBrE": "/ˈpraɪvət/",
-      "ipaAmE": "/ˈpraɪvət/",
-      "ipa": "/ˈpraɪvət/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "私人的, 秘密的, 私立的, 隐蔽的；士兵, 隐士, 阴部 [计] 私人的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a private approach",
-        "remain private",
-        "private enough"
-      ],
-      "wordFamily": [
-        "private",
-        "privates"
-      ],
-      "example": "A private approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prize",
-      "ipaBrE": "/praɪz/",
-      "ipaAmE": "/praɪz/",
-      "ipa": "/praɪz/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "奖赏, 奖金, 奖品, 战利品, 捕获；得奖的；珍视, 估价, 捕获, 撬, 撬动",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a prize",
-        "the role of prize",
-        "prize and evidence"
-      ],
-      "wordFamily": [
-        "prize",
-        "prizes",
-        "prized",
-        "prizing"
-      ],
-      "example": "This prize matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "probably",
-      "ipaBrE": "/ˈprɒbəbli/",
-      "ipaAmE": "/ˈprɑːbəbli/",
-      "ipa": "/ˈprɒbəbli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "大概, 或许",
+      "zh": "n. 段落, 短评；vt. 将...分段, 分段落；vi. 写短讯； 段落",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "probably a plan",
-        "probably carefully",
-        "probably with others"
+        "a paragraph",
+        "the role of paragraph",
+        "paragraph and evidence"
       ],
       "wordFamily": [
-        "probably",
-        "probab"
+        "paragraph"
       ],
-      "example": "We can probably the next step together.",
+      "example": "This paragraph matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "process",
-      "ipaBrE": "/ˈprəʊses/",
-      "ipaAmE": "/ˈprɑːses/",
-      "ipa": "/ˈprəʊses/",
+      "word": "gun",
+      "ipaBrE": "/ɡʌn/",
+      "ipaAmE": "/ɡʌn/",
+      "ipa": "/ɡʌn/",
       "pos": [
         "noun"
       ],
-      "zh": "程序, 进行, 过程；加工, 使...接受处理, 对...处置, 对...起诉；经加工的, 有特殊光效的 [计] 进程",
+      "zh": "n. 枪； 枪",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a process",
-        "the role of process",
-        "process and evidence"
+        "a gun",
+        "the role of gun",
+        "gun and evidence"
       ],
       "wordFamily": [
-        "process",
-        "processes",
-        "processed",
-        "processing"
+        "gun",
+        "guns",
+        "gunned",
+        "gunning"
       ],
-      "example": "This process matters when people need to make a clear decision.",
+      "example": "This gun matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nobody",
+      "ipaBrE": "/ˈnəʊbədi/",
+      "ipaAmE": "/ˈnəʊbədi/",
+      "ipa": "/ˈnəʊbədi/",
+      "pos": [
+        "pronoun"
+      ],
+      "zh": "n. 小人物, 无名小卒；pron. 无人, 没有人",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a nobody",
+        "the role of nobody",
+        "nobody and evidence"
+      ],
+      "wordFamily": [
+        "nobody",
+        "nobodies"
+      ],
+      "example": "This nobody matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "summer",
+      "ipaBrE": "/ˈsʌmə(r)/",
+      "ipaAmE": "/ˈsʌmər/",
+      "ipa": "/ˈsʌmə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 夏季, 全盛时期；vi. 避暑, 过夏天； 加法器",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a summer",
+        "the role of summer",
+        "summer and evidence"
+      ],
+      "wordFamily": [
+        "summer",
+        "summers",
+        "summering",
+        "summered"
+      ],
+      "example": "This summer matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -3851,7 +3675,7 @@ export default {
       "pos": [
         "noun"
       ],
-      "zh": "生产者, 制作者, 制作人 [化] 发生器; (炉煤气)发生炉; 制气炉; 生产者",
+      "zh": "n. 生产者, 制作者, 制作人； 发生器; (炉煤气)发生炉; 制气炉; 生产者",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
@@ -3870,1375 +3694,1535 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "product",
-      "ipaBrE": "/ˈprɒdʌkt/",
-      "ipaAmE": "/ˈprɑːdʌkt/",
-      "ipa": "/ˈprɒdʌkt/",
+      "word": "therefore",
+      "ipaBrE": "/ˈðeəfɔː(r)/",
+      "ipaAmE": "/ˈðerfɔːr/",
+      "ipa": "/ˈðeəfɔː(r)/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 因此, 所以",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "therefore a plan",
+        "therefore carefully",
+        "therefore with others"
+      ],
+      "wordFamily": [
+        "therefore"
+      ],
+      "example": "We can therefore the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "flour",
+      "ipaBrE": "/ˈflaʊə(r)/",
+      "ipaAmE": "/ˈflaʊər/",
+      "ipa": "/ˈflaʊə(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "产品, 结果, 乘积 [化] 生产物",
+      "zh": "n. 面粉, 粉沫, 碎粉； 面粉, 麦粉",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a flour",
+        "the role of flour",
+        "flour and evidence"
+      ],
+      "wordFamily": [
+        "flour",
+        "flours",
+        "floured",
+        "flouring"
+      ],
+      "example": "This flour matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "fine",
+      "ipaBrE": "/faɪn/",
+      "ipaAmE": "/faɪn/",
+      "ipa": "/faɪn/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 罚款, 罚金, 晴天, 精细；a. 好的, 晴朗的, 健康的, 细小的, 精细的；vt. 罚款, 精炼, 澄清",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a product",
-        "the role of product",
-        "product and evidence"
+        "a fine approach",
+        "remain fine",
+        "fine enough"
       ],
       "wordFamily": [
-        "product",
-        "products"
+        "fine",
+        "finest",
+        "fined",
+        "fines"
       ],
-      "example": "This product matters when people need to make a clear decision.",
+      "example": "A fine approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "production",
-      "ipaBrE": "/prəˈdʌkʃn/",
-      "ipaAmE": "/prəˈdʌkʃn/",
-      "ipa": "/prəˈdʌkʃn/",
+      "word": "option",
+      "ipaBrE": "/ˈɒpʃn/",
+      "ipaAmE": "/ˈɑːpʃn/",
+      "ipa": "/ˈɒpʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "制造, 生产, 产物 [医] 产生, 生成",
-      "cefr": "B1",
+      "zh": "n. 选择权, 挑选, 选项； 选项",
+      "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a production",
-        "the role of production",
-        "production and evidence"
+        "a option",
+        "the role of option",
+        "option and evidence"
       ],
       "wordFamily": [
-        "production",
-        "productions",
-        "producte"
+        "option",
+        "options"
       ],
-      "example": "This production matters when people need to make a clear decision.",
+      "example": "This option matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "profession",
-      "ipaBrE": "/prəˈfeʃn/",
-      "ipaAmE": "/prəˈfeʃn/",
-      "ipa": "/prəˈfeʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "职业, 表白, 声明 [化] 工种; 职业",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a profession",
-        "the role of profession",
-        "profession and evidence"
-      ],
-      "wordFamily": [
-        "profession",
-        "professions"
-      ],
-      "example": "This profession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "professional",
-      "ipaBrE": "/prəˈfeʃənl/",
-      "ipaAmE": "/prəˈfeʃənl/",
-      "ipa": "/prəˈfeʃənl/",
+      "word": "possible",
+      "ipaBrE": "/ˈpɒsəbl/",
+      "ipaAmE": "/ˈpɑːsəbl/",
+      "ipa": "/ˈpɒsəbl/",
       "pos": [
         "adjective"
       ],
-      "zh": "专业人才；专业的, 职业的",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a professional approach",
-        "remain professional",
-        "professional enough"
-      ],
-      "wordFamily": [
-        "professional",
-        "professionals"
-      ],
-      "example": "A professional approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "professor",
-      "ipaBrE": "/prəˈfesə(r)/",
-      "ipaAmE": "/prəˈfesər/",
-      "ipa": "/prəˈfesə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "教授",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a professor",
-        "the role of professor",
-        "professor and evidence"
-      ],
-      "wordFamily": [
-        "professor",
-        "professors"
-      ],
-      "example": "This professor matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "profile",
-      "ipaBrE": "/ˈprəʊfaɪl/",
-      "ipaAmE": "/ˈprəʊfaɪl/",
-      "ipa": "/ˈprəʊfaɪl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "侧面, 轮廓, 传略；描绘...轮廓, 写...的传略 [计] 提问档; 剖面图法; 剖面法",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a profile",
-        "the role of profile",
-        "profile and evidence"
-      ],
-      "wordFamily": [
-        "profile",
-        "profiles",
-        "profiling",
-        "profiled"
-      ],
-      "example": "This profile matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "profit",
-      "ipaBrE": "/ˈprɒfɪt/",
-      "ipaAmE": "/ˈprɑːfɪt/",
-      "ipa": "/ˈprɒfɪt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "利润, 赢利, 利益；有益, 获利, 赚钱；有益于",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a profit",
-        "the role of profit",
-        "profit and evidence"
-      ],
-      "wordFamily": [
-        "profit",
-        "profits",
-        "profiting",
-        "profited"
-      ],
-      "example": "This profit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "program",
-      "ipaBrE": "/ˈprəʊɡræm/",
-      "ipaAmE": "/ˈprəʊɡræm/",
-      "ipa": "/ˈprəʊɡræm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "节目, 节目单, 程序, 纲要, 大纲, 计划；规划, 拟...计划；安排节目, 编程序 [计] 程序",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a program",
-        "the role of program",
-        "program and evidence"
-      ],
-      "wordFamily": [
-        "program",
-        "programs",
-        "programming",
-        "programmed"
-      ],
-      "example": "This program matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "programme",
-      "ipaBrE": "/ˈprəʊɡræm/",
-      "ipaAmE": "/ˈprəʊɡræm/",
-      "ipa": "/ˈprəʊɡræm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "节目, 节目单, 程序, 纲要, 大纲, 计划；规划, 拟...计划；安排节目, 编程序",
+      "zh": "a. 可能的, 潜在的, 合适的；n. 可能性, 可能的事物",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a programme",
-        "the role of programme",
-        "programme and evidence"
+        "a possible approach",
+        "remain possible",
+        "possible enough"
       ],
       "wordFamily": [
-        "programme",
-        "programmes",
-        "programmed",
-        "programming"
+        "possible"
       ],
-      "example": "This programme matters when people need to make a clear decision.",
+      "example": "A possible approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "progress",
-      "ipaBrE": "/ˈprəʊɡres/",
-      "ipaAmE": "/ˈprɑːɡrəs/",
-      "ipa": "/ˈprəʊɡres/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "进步, 发展, 前进；进步, 进行",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a progress",
-        "the role of progress",
-        "progress and evidence"
-      ],
-      "wordFamily": [
-        "progress",
-        "progressing",
-        "progressed",
-        "progresses"
-      ],
-      "example": "This progress matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "promise",
-      "ipaBrE": "/ˈprɒmɪs/",
-      "ipaAmE": "/ˈprɑːmɪs/",
-      "ipa": "/ˈprɒmɪs/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "诺言, 约定的事情, 有指望；允诺, 约定, 预示；允诺, 有前途, 有指望",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a promise",
-        "the role of promise",
-        "promise and evidence"
-      ],
-      "wordFamily": [
-        "promise",
-        "promised",
-        "promises",
-        "promising"
-      ],
-      "example": "This promise matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "promote",
-      "ipaBrE": "/prəˈməʊt/",
-      "ipaAmE": "/prəˈməʊt/",
-      "ipa": "/prəˈməʊt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "促进, 晋升, 创办, 推销 [经] 促进, 推广, 推销",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "promote a plan",
-        "promote carefully",
-        "promote with others"
-      ],
-      "wordFamily": [
-        "promote",
-        "promoted",
-        "promoting",
-        "promotes"
-      ],
-      "example": "We can promote the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "pronounce",
-      "ipaBrE": "/prəˈnaʊns/",
-      "ipaAmE": "/prəˈnaʊns/",
-      "ipa": "/prəˈnaʊns/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：pronounce",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "pronounce a plan",
-        "pronounce carefully",
-        "pronounce with others"
-      ],
-      "wordFamily": [
-        "pronounce"
-      ],
-      "example": "We can pronounce the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "proper",
-      "ipaBrE": "/ˈprɒpə(r)/",
-      "ipaAmE": "/ˈprɑːpər/",
-      "ipa": "/ˈprɒpə(r)/",
+      "word": "rich",
+      "ipaBrE": "/rɪtʃ/",
+      "ipaAmE": "/rɪtʃ/",
+      "ipa": "/rɪtʃ/",
       "pos": [
         "adjective"
       ],
-      "zh": "适当的, 固有的, 高尚的, 专属的 adv. 完全地, 彻底地",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a proper approach",
-        "remain proper",
-        "proper enough"
-      ],
-      "wordFamily": [
-        "proper",
-        "prop"
-      ],
-      "example": "A proper approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "properly",
-      "ipaBrE": "/ˈprɒpəli/",
-      "ipaAmE": "/ˈprɑːpərli/",
-      "ipa": "/ˈprɒpəli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "适当地, 相当地",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "properly a plan",
-        "properly carefully",
-        "properly with others"
-      ],
-      "wordFamily": [
-        "properly",
-        "proper"
-      ],
-      "example": "We can properly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "property",
-      "ipaBrE": "/ˈprɒpəti/",
-      "ipaAmE": "/ˈprɑːpərti/",
-      "ipa": "/ˈprɒpəti/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "财产, 所有权, 性质, 属性 [计] 属性",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a property",
-        "the role of property",
-        "property and evidence"
-      ],
-      "wordFamily": [
-        "property",
-        "properties"
-      ],
-      "example": "This property matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "protect",
-      "ipaBrE": "/prəˈtekt/",
-      "ipaAmE": "/prəˈtekt/",
-      "ipa": "/prəˈtekt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "防卫, 保护, 警戒 [法] 庇护, 保护, 警戒",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "protect a plan",
-        "protect carefully",
-        "protect with others"
-      ],
-      "wordFamily": [
-        "protect",
-        "protected",
-        "protecting",
-        "protects"
-      ],
-      "example": "We can protect the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "protest",
-      "ipaBrE": "/ˈprəʊtest/",
-      "ipaAmE": "/ˈprəʊtest/",
-      "ipa": "/ˈprəʊtest/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "抗议, 反对, 抗议书, 断言；反对, 抗议, 断言",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a protest",
-        "the role of protest",
-        "protest and evidence"
-      ],
-      "wordFamily": [
-        "protest",
-        "protests",
-        "protested",
-        "protesting"
-      ],
-      "example": "This protest matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "proud",
-      "ipaBrE": "/praʊd/",
-      "ipaAmE": "/praʊd/",
-      "ipa": "/praʊd/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a proud approach",
-        "remain proud",
-        "proud enough"
-      ],
-      "wordFamily": [
-        "proud",
-        "proudest",
-        "prouder"
-      ],
-      "example": "A proud approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "prove",
-      "ipaBrE": "/pruːv/",
-      "ipaAmE": "/pruːv/",
-      "ipa": "/pruːv/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "证明, 查验, 检验, 勘探, 显示；证明是",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "prove a plan",
-        "prove carefully",
-        "prove with others"
-      ],
-      "wordFamily": [
-        "prove",
-        "proved",
-        "proving",
-        "proves"
-      ],
-      "example": "We can prove the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "provide",
-      "ipaBrE": "/prəˈvaɪd/",
-      "ipaAmE": "/prəˈvaɪd/",
-      "ipa": "/prəˈvaɪd/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "提供, 供应, 规定, 预备；作准备, 抚养, 规定",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "provide a plan",
-        "provide carefully",
-        "provide with others"
-      ],
-      "wordFamily": [
-        "provide",
-        "provided",
-        "provides",
-        "providing"
-      ],
-      "example": "We can provide the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "pub",
-      "ipaBrE": "/pʌb/",
-      "ipaAmE": "/pʌb/",
-      "ipa": "/pʌb/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：pub",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a pub",
-        "the role of pub",
-        "pub and evidence"
-      ],
-      "wordFamily": [
-        "pub"
-      ],
-      "example": "This pub matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "publish",
-      "ipaBrE": "/ˈpʌblɪʃ/",
-      "ipaAmE": "/ˈpʌblɪʃ/",
-      "ipa": "/ˈpʌblɪʃ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "出版, 发行, 公开, 发表, 宣传, 公布；出版, 发行",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "publish a plan",
-        "publish carefully",
-        "publish with others"
-      ],
-      "wordFamily": [
-        "publish",
-        "published",
-        "publishing",
-        "publishes"
-      ],
-      "example": "We can publish the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "pull",
-      "ipaBrE": "/pʊl/",
-      "ipaAmE": "/pʊl/",
-      "ipa": "/pʊl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "拉, 拖, 拔, 牵, 撕开, 吸引；拉, 拖, 拔, 有吸引力；拉, 拖, 拔, 拉力, 牵引力, 划船, 吸引",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a pull",
-        "the role of pull",
-        "pull and evidence"
-      ],
-      "wordFamily": [
-        "pull",
-        "pulled",
-        "pulling",
-        "pulls"
-      ],
-      "example": "This pull matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "punish",
-      "ipaBrE": "/ˈpʌnɪʃ/",
-      "ipaAmE": "/ˈpʌnɪʃ/",
-      "ipa": "/ˈpʌnɪʃ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "处罚, 惩罚, 严厉对待；惩罚",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "punish a plan",
-        "punish carefully",
-        "punish with others"
-      ],
-      "wordFamily": [
-        "punish",
-        "punished",
-        "punishing",
-        "punishes"
-      ],
-      "example": "We can punish the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "punishment",
-      "ipaBrE": "/ˈpʌnɪʃmənt/",
-      "ipaAmE": "/ˈpʌnɪʃmənt/",
-      "ipa": "/ˈpʌnɪʃmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "处罚, 刑罚, 惩罚 [法] 罚, 处罚, 刑罚",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a punishment",
-        "the role of punishment",
-        "punishment and evidence"
-      ],
-      "wordFamily": [
-        "punishment",
-        "punishments",
-        "punish"
-      ],
-      "example": "This punishment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "purple",
-      "ipaBrE": "/ˈpɜːpl/",
-      "ipaAmE": "/ˈpɜːrpl/",
-      "ipa": "/ˈpɜːpl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "紫色, 帝位；紫色的, 帝王的, 华而不实的；(使)成紫色",
+      "zh": "a. 富裕的, 富饶的, 浓厚的, 贵重的",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a purple approach",
-        "remain purple",
-        "purple enough"
+        "a rich approach",
+        "remain rich",
+        "rich enough"
       ],
       "wordFamily": [
-        "purple",
-        "purples",
-        "purpled",
-        "purpling"
+        "rich",
+        "richer",
+        "richest"
       ],
-      "example": "A purple approach makes the situation easier to explain.",
+      "example": "A rich approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "purpose",
-      "ipaBrE": "/ˈpɜːpəs/",
-      "ipaAmE": "/ˈpɜːrpəs/",
-      "ipa": "/ˈpɜːpəs/",
+      "word": "wine",
+      "ipaBrE": "/waɪn/",
+      "ipaAmE": "/waɪn/",
+      "ipa": "/waɪn/",
       "pos": [
         "noun"
       ],
-      "zh": "目的, 意向, 决心, 用途, 效果, 论题；意欲, 企图, 计划",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a purpose",
-        "the role of purpose",
-        "purpose and evidence"
-      ],
-      "wordFamily": [
-        "purpose",
-        "purposes",
-        "purposing",
-        "purposed"
-      ],
-      "example": "This purpose matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "push",
-      "ipaBrE": "/pʊʃ/",
-      "ipaAmE": "/pʊʃ/",
-      "ipa": "/pʊʃ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "推, 推动, 奋斗, 攻击, 进取心；推, 推动, 使伸出, 推行, 逼迫, 增加；推, 推进, 增加, 努力争取",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a push",
-        "the role of push",
-        "push and evidence"
-      ],
-      "wordFamily": [
-        "push",
-        "pushed",
-        "pushing",
-        "pushes"
-      ],
-      "example": "This push matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "put",
-      "ipaBrE": "/pʊt/",
-      "ipaAmE": "/pʊt/",
-      "ipa": "/pʊt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予；出发, 航行, 发芽；掷, 股票出售权, 笨蛋；固定不动的 [计] 发送文件",
+      "zh": "n. 葡萄酒, 果酒, 暗红色；v. (请)喝酒",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "put a plan",
-        "put carefully",
-        "put with others"
+        "a wine",
+        "the role of wine",
+        "wine and evidence"
       ],
       "wordFamily": [
-        "put",
+        "wine",
+        "wines",
+        "wined",
+        "wining"
+      ],
+      "example": "This wine matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "keyboard",
+      "ipaBrE": "/ˈkiːbɔːd/",
+      "ipaAmE": "/ˈkiːbɔːrd/",
+      "ipa": "/ˈkiːbɔːd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 键盘； 键盘",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a keyboard",
+        "the role of keyboard",
+        "keyboard and evidence"
+      ],
+      "wordFamily": [
+        "keyboard"
+      ],
+      "example": "This keyboard matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "player",
+      "ipaBrE": "/ˈpleɪə(r)/",
+      "ipaAmE": "/ˈpleɪər/",
+      "ipa": "/ˈpleɪə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 竞赛者, 上场队员, 游戏者, 演员； 交易者",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a player",
+        "the role of player",
+        "player and evidence"
+      ],
+      "wordFamily": [
+        "player",
+        "players",
+        "play"
+      ],
+      "example": "This player matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "take",
+      "ipaBrE": "/teɪk/",
+      "ipaAmE": "/teɪk/",
+      "ipa": "/teɪk/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "take a plan",
+        "take carefully",
+        "take with others"
+      ],
+      "wordFamily": [
+        "take",
+        "took",
+        "taken",
+        "taking"
+      ],
+      "example": "We can take the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "bit",
+      "ipaBrE": "/bɪt/",
+      "ipaAmE": "/bɪt/",
+      "ipa": "/bɪt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 少量, 马嚼子, 辅币；vt. 给马上嚼子, 控制；bite的过去式和过去分词； 比特, 二进制数位, 机内测试",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a bit",
+        "the role of bit",
+        "bit and evidence"
+      ],
+      "wordFamily": [
+        "bit",
+        "bits",
+        "bite",
+        "pd"
+      ],
+      "example": "This bit matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "able",
+      "ipaBrE": "/ˈeɪbl/",
+      "ipaAmE": "/ˈeɪbl/",
+      "ipa": "/ˈeɪbl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 能干的, 能够的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a able approach",
+        "remain able",
+        "able enough"
+      ],
+      "wordFamily": [
+        "able"
+      ],
+      "example": "A able approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "army",
+      "ipaBrE": "/ˈɑːmi/",
+      "ipaAmE": "/ˈɑːrmi/",
+      "ipa": "/ˈɑːmi/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 军队, 陆军",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a army",
+        "the role of army",
+        "army and evidence"
+      ],
+      "wordFamily": [
+        "army",
+        "armies"
+      ],
+      "example": "This army matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "exhibition",
+      "ipaBrE": "/ˌeksɪˈbɪʃn/",
+      "ipaAmE": "/ˌeksɪˈbɪʃn/",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 表现, 展览会, 展览品； 投药, 展览, 展出",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a exhibition",
+        "the role of exhibition",
+        "exhibition and evidence"
+      ],
+      "wordFamily": [
+        "exhibition",
+        "exhibitions",
+        "exhibite"
+      ],
+      "example": "This exhibition matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "crazy",
+      "ipaBrE": "/ˈkreɪzi/",
+      "ipaAmE": "/ˈkreɪzi/",
+      "ipa": "/ˈkreɪzi/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 发狂的, 狂热的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a crazy approach",
+        "remain crazy",
+        "crazy enough"
+      ],
+      "wordFamily": [
+        "crazy",
+        "craziest",
+        "crazier",
+        "crazies"
+      ],
+      "example": "A crazy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "communication",
+      "ipaBrE": "/kəˌmjuːnɪˈkeɪʃn/",
+      "ipaAmE": "/kəˌmjuːnɪˈkeɪʃn/",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 交流, 交通, 通讯； 通信",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a communication",
+        "the role of communication",
+        "communication and evidence"
+      ],
+      "wordFamily": [
+        "communication",
+        "communications",
+        "communicate"
+      ],
+      "example": "This communication matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "couple",
+      "ipaBrE": "/ˈkʌpl/",
+      "ipaAmE": "/ˈkʌpl/",
+      "ipa": "/ˈkʌpl/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 对, 夫妇, 数个；vt. 使成双, 连接, 使成婚, 把...联系起来；vi. 结合, 成婚",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a couple",
+        "the role of couple",
+        "couple and evidence"
+      ],
+      "wordFamily": [
+        "couple",
+        "couples",
+        "coupled",
+        "coupling"
+      ],
+      "example": "This couple matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "site",
+      "ipaBrE": "/saɪt/",
+      "ipaAmE": "/saɪt/",
+      "ipa": "/saɪt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 位置, 场所, 地点；vt. 给...择址",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a site",
+        "the role of site",
+        "site and evidence"
+      ],
+      "wordFamily": [
+        "site",
+        "sites",
+        "sited",
+        "siting"
+      ],
+      "example": "This site matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "honest",
+      "ipaBrE": "/ˈɒnɪst/",
+      "ipaAmE": "/ˈɑːnɪst/",
+      "ipa": "/ˈɒnɪst/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 诚实的, 坦直的, 可靠的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a honest approach",
+        "remain honest",
+        "honest enough"
+      ],
+      "wordFamily": [
+        "honest"
+      ],
+      "example": "A honest approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "formal",
+      "ipaBrE": "/ˈfɔːml/",
+      "ipaAmE": "/ˈfɔːrml/",
+      "ipa": "/ˈfɔːml/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的；n. 正式的社交活动",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a formal approach",
+        "remain formal",
+        "formal enough"
+      ],
+      "wordFamily": [
+        "formal"
+      ],
+      "example": "A formal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "true",
+      "ipaBrE": "/truː/",
+      "ipaAmE": "/truː/",
+      "ipa": "/truː/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 真实的, 正确的, 忠诚的, 可靠的, 纯粹的, 正式的；n. 真实, 准确；adv. 真实地, 准确地",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a true approach",
+        "remain true",
+        "true enough"
+      ],
+      "wordFamily": [
+        "true",
+        "truer",
+        "truest",
+        "truing"
+      ],
+      "example": "A true approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "necessarily",
+      "ipaBrE": "/ˈnesəsərəli/",
+      "ipaAmE": "/ˌnesəˈserəli/",
+      "ipa": "/ˈnesəsərəli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 必然地, 必须地, 必要地",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "necessarily a plan",
+        "necessarily carefully",
+        "necessarily with others"
+      ],
+      "wordFamily": [
+        "necessarily",
+        "necessari"
+      ],
+      "example": "We can necessarily the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "graduate",
+      "ipaBrE": "/ˈɡrædʒuət/",
+      "ipaAmE": "/ˈɡrædʒuət/",
+      "ipa": "/ˈɡrædʒuət/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 毕业生, 量杯；a. 已得学位的, 研究生的, 毕业的；vi. 毕业, 得学位, 逐渐变为",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a graduate",
+        "the role of graduate",
+        "graduate and evidence"
+      ],
+      "wordFamily": [
+        "graduate",
+        "graduates",
+        "graduated",
+        "graduating"
+      ],
+      "example": "This graduate matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "worldwide",
+      "ipaBrE": "/ˌwɜːldˈwaɪd/",
+      "ipaAmE": "/ˌwɜːrldˈwaɪd/",
+      "ipa": "/ˌwɜːldˈwaɪd/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 全世界的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a worldwide approach",
+        "remain worldwide",
+        "worldwide enough"
+      ],
+      "wordFamily": [
+        "worldwide"
+      ],
+      "example": "A worldwide approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "friendship",
+      "ipaBrE": "/ˈfrendʃɪp/",
+      "ipaAmE": "/ˈfrendʃɪp/",
+      "ipa": "/ˈfrendʃɪp/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 友谊, 友爱, 友善",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a friendship",
+        "the role of friendship",
+        "friendship and evidence"
+      ],
+      "wordFamily": [
+        "friendship",
+        "friendships"
+      ],
+      "example": "This friendship matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "advanced",
+      "ipaBrE": "/ədˈvɑːnst/",
+      "ipaAmE": "/ədˈvænst/",
+      "ipa": "/ədˈvɑːnst/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 在前的, 高级的, 先进的, 年老的； 预付的, 预支的, 垫付的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a advanced approach",
+        "remain advanced",
+        "advanced enough"
+      ],
+      "wordFamily": [
+        "advanced",
+        "advance",
         "dp",
-        "putting",
-        "puts"
+        "advanc"
       ],
-      "example": "We can put the next step together.",
+      "example": "A advanced approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "qualification",
-      "ipaBrE": "/ˌkwɒlɪfɪˈkeɪʃn/",
-      "ipaAmE": "/ˌkwɑːlɪfɪˈkeɪʃn/",
-      "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+      "word": "corner",
+      "ipaBrE": "/ˈkɔːnə(r)/",
+      "ipaAmE": "/ˈkɔːrnər/",
+      "ipa": "/ˈkɔːnə(r)/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：qualification",
+      "zh": "n. 角落, 转角, 窘境；vt. 迫至一隅, 垄断, 使陷入绝境；vi. 相交成角, 垄断； 边角",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a corner",
+        "the role of corner",
+        "corner and evidence"
+      ],
+      "wordFamily": [
+        "corner",
+        "corners",
+        "cornered",
+        "cornering"
+      ],
+      "example": "This corner matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "expect",
+      "ipaBrE": "/ɪkˈspekt/",
+      "ipaAmE": "/ɪkˈspekt/",
+      "ipa": "/ɪkˈspekt/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 预期, 盼望, 期待",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "expect a plan",
+        "expect carefully",
+        "expect with others"
+      ],
+      "wordFamily": [
+        "expect",
+        "expected",
+        "expecting",
+        "expects"
+      ],
+      "example": "We can expect the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "tin",
+      "ipaBrE": "/tɪn/",
+      "ipaAmE": "/tɪn/",
+      "ipa": "/tɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 锡, 马口铁, 罐头；vt. 在...镀锡于；a. 锡制的； tin阅读程序",
       "cefr": "B1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a qualification",
-        "the role of qualification",
-        "qualification and evidence"
+        "a tin",
+        "the role of tin",
+        "tin and evidence"
       ],
       "wordFamily": [
-        "qualification",
-        "qualificate"
+        "tin"
       ],
-      "example": "This qualification matters when people need to make a clear decision.",
+      "example": "This tin matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "qualified",
-      "ipaBrE": "/ˈkwɒlɪfaɪd/",
-      "ipaAmE": "/ˈkwɑːlɪfaɪd/",
-      "ipa": "/ˈkwɒlɪfaɪd/",
+      "word": "luck",
+      "ipaBrE": "/lʌk/",
+      "ipaAmE": "/lʌk/",
+      "ipa": "/lʌk/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 运气, 幸运, 好运, 侥幸；vi. 靠好运成功",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a luck",
+        "the role of luck",
+        "luck and evidence"
+      ],
+      "wordFamily": [
+        "luck"
+      ],
+      "example": "This luck matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "organizer",
+      "ipaBrE": "/ˈɔːɡənaɪzə(r)/",
+      "ipaAmE": "/ˈɔːrɡənaɪzər/",
+      "ipa": "/ˈɔːɡənaɪzə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 组织者, 编制者, 创立者, 组织导体； 组织导体, 机化中心(胚)",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a organizer",
+        "the role of organizer",
+        "organizer and evidence"
+      ],
+      "wordFamily": [
+        "organizer",
+        "organizers",
+        "organiz"
+      ],
+      "example": "This organizer matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "breath",
+      "ipaBrE": "/breθ/",
+      "ipaAmE": "/breθ/",
+      "ipa": "/breθ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 呼吸, 气息, 瞬间； 呼气, 呵气, 口气, 呼吸",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a breath",
+        "the role of breath",
+        "breath and evidence"
+      ],
+      "wordFamily": [
+        "breath",
+        "breaths"
+      ],
+      "example": "This breath matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "flying",
+      "ipaBrE": "/ˈflaɪɪŋ/",
+      "ipaAmE": "/ˈflaɪɪŋ/",
+      "ipa": "/ˈflaɪɪŋ/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：qualified",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a qualified approach",
-        "remain qualified",
-        "qualified enough"
-      ],
-      "wordFamily": [
-        "qualified",
-        "qualifi"
-      ],
-      "example": "A qualified approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "qualify",
-      "ipaBrE": "/ˈkwɒlɪfaɪ/",
-      "ipaAmE": "/ˈkwɑːlɪfaɪ/",
-      "ipa": "/ˈkwɒlɪfaɪ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "取得资格, 有资格；使有资格, 使合格, 限定, 限制, 准予",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "qualify a plan",
-        "qualify carefully",
-        "qualify with others"
-      ],
-      "wordFamily": [
-        "qualify",
-        "qualified",
-        "qualifies",
-        "qualifying"
-      ],
-      "example": "We can qualify the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quality",
-      "ipaBrE": "/ˈkwɒləti/",
-      "ipaAmE": "/ˈkwɑːləti/",
-      "ipa": "/ˈkwɒləti/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "品质, 特性, 才能, 质量；优质的 [计] 品质",
+      "zh": "a. 飞的, 飘扬的, 飞速的；n. 飞行, 飞花",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a quality",
-        "the role of quality",
-        "quality and evidence"
+        "a flying approach",
+        "remain flying",
+        "flying enough"
       ],
       "wordFamily": [
-        "quality",
-        "qualities",
-        "qual"
+        "flying",
+        "fly"
       ],
-      "example": "This quality matters when people need to make a clear decision.",
+      "example": "A flying approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quantity",
-      "ipaBrE": "/ˈkwɒntəti/",
-      "ipaAmE": "/ˈkwɑːntəti/",
-      "ipa": "/ˈkwɒntəti/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "量, 数量, 总量 [计] 数量; 量",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quantity",
-        "the role of quantity",
-        "quantity and evidence"
-      ],
-      "wordFamily": [
-        "quantity",
-        "quantities",
-        "quant"
-      ],
-      "example": "This quantity matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "queen",
-      "ipaBrE": "/kwiːn/",
-      "ipaAmE": "/kwiːn/",
-      "ipa": "/kwiːn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：queen",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a queen",
-        "the role of queen",
-        "queen and evidence"
-      ],
-      "wordFamily": [
-        "queen"
-      ],
-      "example": "This queen matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "question",
-      "ipaBrE": "/ˈkwestʃən/",
-      "ipaAmE": "/ˈkwestʃən/",
-      "ipa": "/ˈkwestʃən/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "问题, 询问；询问, 审问, 怀疑 [计] 询问",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a question",
-        "the role of question",
-        "question and evidence"
-      ],
-      "wordFamily": [
-        "question",
-        "questions",
-        "questioned",
-        "questioning"
-      ],
-      "example": "This question matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "queue",
-      "ipaBrE": "/kjuː/",
-      "ipaAmE": "/kjuː/",
-      "ipa": "/kjuː/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：queue",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a queue",
-        "the role of queue",
-        "queue and evidence"
-      ],
-      "wordFamily": [
-        "queue"
-      ],
-      "example": "This queue matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quick",
-      "ipaBrE": "/kwɪk/",
-      "ipaAmE": "/kwɪk/",
-      "ipa": "/kwɪk/",
+      "word": "sure",
+      "ipaBrE": "/ʃɔː(r)/",
+      "ipaAmE": "/ʃʊr/",
+      "ipa": "/ʃɔː(r)/",
       "pos": [
         "adjective"
       ],
-      "zh": "快的, 迅速的, 敏捷的, 灵敏的, 急速的 adv. 快；新长出的肉, 要害, 核心, 感觉敏锐部位",
+      "zh": "a. 确信, 必然的, 必定的；adv. 当然, 确实地, 无疑地",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a quick approach",
-        "remain quick",
-        "quick enough"
+        "a sure approach",
+        "remain sure",
+        "sure enough"
       ],
       "wordFamily": [
-        "quick",
-        "quicker",
-        "quickest"
+        "sure",
+        "surest",
+        "surer"
       ],
-      "example": "A quick approach makes the situation easier to explain.",
+      "example": "A sure approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quickly",
-      "ipaBrE": "/ˈkwɪkli/",
-      "ipaAmE": "/ˈkwɪkli/",
-      "ipa": "/ˈkwɪkli/",
+      "word": "themselves",
+      "ipaBrE": "/ðəmˈselvz/",
+      "ipaAmE": "/ðəmˈselvz/",
+      "ipa": "/ðəmˈselvz/",
+      "pos": [
+        "pronoun"
+      ],
+      "zh": "pron. 他们自己, 她们自己, 它们自己",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a themselves",
+        "the role of themselves",
+        "themselves and evidence"
+      ],
+      "wordFamily": [
+        "themselves",
+        "themselve"
+      ],
+      "example": "This themselves matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "exactly",
+      "ipaBrE": "/ɪɡˈzæktli/",
+      "ipaAmE": "/ɪɡˈzæktli/",
+      "ipa": "/ɪɡˈzæktli/",
       "pos": [
         "verb"
       ],
-      "zh": "很快地",
+      "zh": "adv. 确切地, 精确地, 恰好, 完全地, 确实, 恰恰正是, 确实如此",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "exactly a plan",
+        "exactly carefully",
+        "exactly with others"
+      ],
+      "wordFamily": [
+        "exactly",
+        "exact"
+      ],
+      "example": "We can exactly the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "maybe",
+      "ipaBrE": "/ˈmeɪbi/",
+      "ipaAmE": "/ˈmeɪbi/",
+      "ipa": "/ˈmeɪbi/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 也许, 大概；n. 可能性",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "quickly a plan",
-        "quickly carefully",
-        "quickly with others"
+        "maybe a plan",
+        "maybe carefully",
+        "maybe with others"
       ],
       "wordFamily": [
-        "quickly",
-        "quick"
+        "maybe"
       ],
-      "example": "We can quickly the next step together.",
+      "example": "We can maybe the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quiet",
-      "ipaBrE": "/ˈkwaɪət/",
-      "ipaAmE": "/ˈkwaɪət/",
-      "ipa": "/ˈkwaɪət/",
+      "word": "entertainment",
+      "ipaBrE": "/ˌentəˈteɪnmənt/",
+      "ipaAmE": "/ˌentərˈteɪnmənt/",
+      "ipa": "/ˌentəˈteɪnmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 娱乐, 款待, 娱乐表演",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a entertainment",
+        "the role of entertainment",
+        "entertainment and evidence"
+      ],
+      "wordFamily": [
+        "entertainment",
+        "entertainments",
+        "entertain"
+      ],
+      "example": "This entertainment matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "against",
+      "ipaBrE": "/əˈɡeɪnst/",
+      "ipaAmE": "/əˈɡeɪnst/",
+      "ipa": "/əˈɡeɪnst/",
+      "pos": [
+        "preposition"
+      ],
+      "zh": "prep. 反对, 对着, 倚靠",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a against",
+        "the role of against",
+        "against and evidence"
+      ],
+      "wordFamily": [
+        "against"
+      ],
+      "example": "This against matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "sixteen",
+      "ipaBrE": "/ˌsɪksˈtiːn/",
+      "ipaAmE": "/ˌsɪksˈtiːn/",
+      "ipa": "/ˌsɪksˈtiːn/",
+      "pos": [
+        "number"
+      ],
+      "zh": "num. 十六, 十六个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a sixteen",
+        "the role of sixteen",
+        "sixteen and evidence"
+      ],
+      "wordFamily": [
+        "sixteen"
+      ],
+      "example": "This sixteen matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "between",
+      "ipaBrE": "/bɪˈtwiːn/",
+      "ipaAmE": "/bɪˈtwiːn/",
+      "ipa": "/bɪˈtwiːn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "prep. 在...之间",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "between a plan",
+        "between carefully",
+        "between with others"
+      ],
+      "wordFamily": [
+        "between"
+      ],
+      "example": "We can between the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "have",
+      "ipaBrE": "/hæv/",
+      "ipaAmE": "/hæv/",
+      "ipa": "/hæv/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 有, 怀有, 拿, 进行；aux. 已经",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "have a plan",
+        "have carefully",
+        "have with others"
+      ],
+      "wordFamily": [
+        "have",
+        "having",
+        "had",
+        "has"
+      ],
+      "example": "We can have the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "steal",
+      "ipaBrE": "/stiːl/",
+      "ipaAmE": "/stiːl/",
+      "ipa": "/stiːl/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 剽窃；偷偷地做；偷窃；vi. 窃取；偷偷地行动；偷垒；n. 偷窃；便宜货；偷垒；断球",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "steal a plan",
+        "steal carefully",
+        "steal with others"
+      ],
+      "wordFamily": [
+        "steal",
+        "stolen",
+        "stole",
+        "stealing"
+      ],
+      "example": "We can steal the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pleasure",
+      "ipaBrE": "/ˈpleʒə(r)/",
+      "ipaAmE": "/ˈpleʒər/",
+      "ipa": "/ˈpleʒə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望；v. (使)高兴",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a pleasure",
+        "the role of pleasure",
+        "pleasure and evidence"
+      ],
+      "wordFamily": [
+        "pleasure",
+        "pleasures",
+        "pleasuring"
+      ],
+      "example": "This pleasure matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "area",
+      "ipaBrE": "/ˈeəriə/",
+      "ipaAmE": "/ˈeriə/",
+      "ipa": "/ˈeəriə/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 区域, 面积, 范围, 空地； 区域",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a area",
+        "the role of area",
+        "area and evidence"
+      ],
+      "wordFamily": [
+        "area",
+        "areas"
+      ],
+      "example": "This area matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "theme",
+      "ipaBrE": "/θiːm/",
+      "ipaAmE": "/θiːm/",
+      "ipa": "/θiːm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 主题, 话题, 题目",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a theme",
+        "the role of theme",
+        "theme and evidence"
+      ],
+      "wordFamily": [
+        "theme",
+        "themes"
+      ],
+      "example": "This theme matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "contact",
+      "ipaBrE": "/ˈkɒntækt/",
+      "ipaAmE": "/ˈkɑːntækt/",
+      "ipa": "/ˈkɒntækt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 联系, 交际, 熟人, 接触；vi. 接触, 联系；vt. 使接触",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a contact",
+        "the role of contact",
+        "contact and evidence"
+      ],
+      "wordFamily": [
+        "contact",
+        "contacts",
+        "contacted",
+        "contacting"
+      ],
+      "example": "This contact matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "movement",
+      "ipaBrE": "/ˈmuːvmənt/",
+      "ipaAmE": "/ˈmuːvmənt/",
+      "ipa": "/ˈmuːvmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 运动, 动作, 运转, 移动, 倾向, 变化, 活动, 乐章； 运动",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a movement",
+        "the role of movement",
+        "movement and evidence"
+      ],
+      "wordFamily": [
+        "movement",
+        "movements",
+        "move"
+      ],
+      "example": "This movement matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "import",
+      "ipaBrE": "/ˈɪmpɔːt/",
+      "ipaAmE": "/ˈɪmpɔːrt/",
+      "ipa": "/ˈɪmpɔːt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 进口货, 进口, 输入, 含义, 重要性；vt. 输入, 引入, 进口, 含...的意思, 重要；vi. 有关系",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a import",
+        "the role of import",
+        "import and evidence"
+      ],
+      "wordFamily": [
+        "import",
+        "imports",
+        "imported",
+        "importing"
+      ],
+      "example": "This import matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "divorced",
+      "ipaBrE": "/dɪˈvɔːst/",
+      "ipaAmE": "/dɪˈvɔːrst/",
+      "ipa": "/dɪˈvɔːst/",
       "pos": [
         "adjective"
       ],
-      "zh": "安静, 闲适, 平静；安静的, 静止的, 寂静的, 朴素的, 从容的, 暗中的；平静下来；使平静, 使平息, 使安心, 安慰",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quiet approach",
-        "remain quiet",
-        "quiet enough"
-      ],
-      "wordFamily": [
-        "quiet",
-        "quieter",
-        "quietest",
-        "quieted"
-      ],
-      "example": "A quiet approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quietly",
-      "ipaBrE": "/ˈkwaɪətli/",
-      "ipaAmE": "/ˈkwaɪətli/",
-      "ipa": "/ˈkwaɪətli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "安静地, 沉着地, 秘密地",
+      "zh": "a. 离婚的",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "quietly a plan",
-        "quietly carefully",
-        "quietly with others"
+        "a divorced approach",
+        "remain divorced",
+        "divorced enough"
       ],
       "wordFamily": [
-        "quietly",
-        "quiet"
+        "divorced",
+        "divorc"
       ],
-      "example": "We can quietly the next step together.",
+      "example": "A divorced approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quit",
-      "ipaBrE": "/kwɪt/",
-      "ipaAmE": "/kwɪt/",
-      "ipa": "/kwɪt/",
+      "word": "helpful",
+      "ipaBrE": "/ˈhelpfl/",
+      "ipaAmE": "/ˈhelpfl/",
+      "ipa": "/ˈhelpfl/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "离开, 辞职, 停止；离开, 放弃, 使解除, 停止；离开 [计] 结束, 退出",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "quit a plan",
-        "quit carefully",
-        "quit with others"
-      ],
-      "wordFamily": [
-        "quit",
-        "pd",
-        "quitting",
-        "quits"
-      ],
-      "example": "We can quit the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quite",
-      "ipaBrE": "/kwaɪt/",
-      "ipaAmE": "/kwaɪt/",
-      "ipa": "/kwaɪt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "相当, 完全, 十分",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "quite a plan",
-        "quite carefully",
-        "quite with others"
-      ],
-      "wordFamily": [
-        "quite"
-      ],
-      "example": "We can quite the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quotation",
-      "ipaBrE": "/kwəʊˈteɪʃn/",
-      "ipaAmE": "/kwəʊˈteɪʃn/",
-      "ipa": "/kwəʊˈteɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：quotation",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quotation",
-        "the role of quotation",
-        "quotation and evidence"
-      ],
-      "wordFamily": [
-        "quotation",
-        "quotate"
-      ],
-      "example": "This quotation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quote",
-      "ipaBrE": "/kwəʊt/",
-      "ipaAmE": "/kwəʊt/",
-      "ipa": "/kwəʊt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "引用；引述, 举证, 报(价)；引用",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a quote",
-        "the role of quote",
-        "quote and evidence"
-      ],
-      "wordFamily": [
-        "quote",
-        "quoted",
-        "quoting",
-        "quotes"
-      ],
-      "example": "This quote matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "race",
-      "ipaBrE": "/reɪs/",
-      "ipaAmE": "/reɪs/",
-      "ipa": "/reɪs/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "种族, 人种, 赛跑, 比赛, 急流, 人类, 同道, 姜根；赛跑, 竞赛, 疾走；与...赛跑, 使疾走, 使猛转 [计] 竞争; 追赶; 欧州高级通信研究开发计划",
+      "zh": "a. 有帮助的, 有益的, 有用的",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a race",
-        "the role of race",
-        "race and evidence"
+        "a helpful approach",
+        "remain helpful",
+        "helpful enough"
       ],
       "wordFamily": [
-        "race",
-        "races",
-        "racing",
-        "raced"
+        "helpful"
       ],
-      "example": "This race matters when people need to make a clear decision.",
+      "example": "A helpful approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "racing",
-      "ipaBrE": "/ˈreɪsɪŋ/",
-      "ipaAmE": "/ˈreɪsɪŋ/",
-      "ipa": "/ˈreɪsɪŋ/",
+      "word": "fresh",
+      "ipaBrE": "/freʃ/",
+      "ipaAmE": "/freʃ/",
+      "ipa": "/freʃ/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "noun：racing",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a racing",
-        "the role of racing",
-        "racing and evidence"
-      ],
-      "wordFamily": [
-        "racing",
-        "rac"
-      ],
-      "example": "This racing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "radio",
-      "ipaBrE": "/ˈreɪdiəʊ/",
-      "ipaAmE": "/ˈreɪdiəʊ/",
-      "ipa": "/ˈreɪdiəʊ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "无线电, 收音机, 无线电报, 无线电广播, 无线电台；用无线电发送",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "culture-knowledge",
-      "collocations": [
-        "a radio",
-        "the role of radio",
-        "radio and evidence"
-      ],
-      "wordFamily": [
-        "radio",
-        "radios",
-        "radioing",
-        "radioed"
-      ],
-      "example": "This radio matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "railway",
-      "ipaBrE": "/ˈreɪlweɪ/",
-      "ipaAmE": "/ˈreɪlweɪ/",
-      "ipa": "/ˈreɪlweɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：railway",
+      "zh": "a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的；adv. 最新地, 刚刚；n. 开始, 泛滥",
       "cefr": "A2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a railway",
-        "the role of railway",
-        "railway and evidence"
+        "a fresh approach",
+        "remain fresh",
+        "fresh enough"
       ],
       "wordFamily": [
-        "railway"
+        "fresh",
+        "fresher",
+        "freshest"
       ],
-      "example": "This railway matters when people need to make a clear decision.",
+      "example": "A fresh approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rain",
-      "ipaBrE": "/reɪn/",
-      "ipaAmE": "/reɪn/",
-      "ipa": "/reɪn/",
+      "word": "spending",
+      "ipaBrE": "/ˈspendɪŋ/",
+      "ipaAmE": "/ˈspendɪŋ/",
+      "ipa": "/ˈspendɪŋ/",
       "pos": [
         "noun"
       ],
-      "zh": "雨, 下雨, 雨天；下雨；使大量落下",
+      "zh": "n. 经费, 开销； 开支, 开销, 经费",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a spending",
+        "the role of spending",
+        "spending and evidence"
+      ],
+      "wordFamily": [
+        "spending",
+        "spend"
+      ],
+      "example": "This spending matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "celebration",
+      "ipaBrE": "/ˌselɪˈbreɪʃn/",
+      "ipaAmE": "/ˌselɪˈbreɪʃn/",
+      "ipa": "/ˌselɪˈbreɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 庆祝, 庆典",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a celebration",
+        "the role of celebration",
+        "celebration and evidence"
+      ],
+      "wordFamily": [
+        "celebration",
+        "celebrations",
+        "celebrate"
+      ],
+      "example": "This celebration matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cat",
+      "ipaBrE": "/kæt/",
+      "ipaAmE": "/kæt/",
+      "ipa": "/kæt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 猫, 恶妇；vi. 呕吐；计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版",
       "cefr": "A1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a rain",
-        "the role of rain",
-        "rain and evidence"
+        "a cat",
+        "the role of cat",
+        "cat and evidence"
       ],
       "wordFamily": [
-        "rain",
-        "raining",
-        "rains",
-        "rained"
+        "cat",
+        "cats",
+        "catting",
+        "catted"
       ],
-      "example": "This rain matters when people need to make a clear decision.",
+      "example": "This cat matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nurse",
+      "ipaBrE": "/nɜːs/",
+      "ipaAmE": "/nɜːrs/",
+      "ipa": "/nɜːs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 护士, 保姆, 奶妈；vt. 看护, 照顾, 培养；vi. 喂奶, 看护病人",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a nurse",
+        "the role of nurse",
+        "nurse and evidence"
+      ],
+      "wordFamily": [
+        "nurse",
+        "nurses",
+        "nursing",
+        "nursed"
+      ],
+      "example": "This nurse matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "jazz",
+      "ipaBrE": "/dʒæz/",
+      "ipaAmE": "/dʒæz/",
+      "ipa": "/dʒæz/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 爵士乐, 喧闹；a. 爵士乐的, 喧吵的；vi. 演奏爵士乐, 跳爵士舞, 游荡；vt. 奏爵士乐, 使活泼",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a jazz",
+        "the role of jazz",
+        "jazz and evidence"
+      ],
+      "wordFamily": [
+        "jazz",
+        "jazzing",
+        "jazzed",
+        "jazzes"
+      ],
+      "example": "This jazz matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "scientist",
+      "ipaBrE": "/ˈsaɪəntɪst/",
+      "ipaAmE": "/ˈsaɪəntɪst/",
+      "ipa": "/ˈsaɪəntɪst/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 科学家； 科学家",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "culture-knowledge",
+      "collocations": [
+        "a scientist",
+        "the role of scientist",
+        "scientist and evidence"
+      ],
+      "wordFamily": [
+        "scientist",
+        "scientists"
+      ],
+      "example": "This scientist matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     }
   ],
   "focusWords": [
-    "merger",
-    "merit",
-    "metaphor",
-    "methodology",
-    "midst",
-    "migration",
-    "militant",
-    "military",
-    "militia",
+    "descend",
+    "orientation",
+    "donor",
+    "genius",
+    "tale",
+    "humorous",
     "mill",
-    "miner",
-    "mineral"
+    "approach",
+    "corridor",
+    "influential",
+    "fixture",
+    "imagination"
   ],
   "practice": {
     "multipleChoice": [
       {
         "question": "Which expression best fits the culture-knowledge situation?",
         "options": [
-          "a merger",
-          "a merit",
+          "descend a plan",
+          "a orientation",
           "ignore the context"
         ],
         "answer": 0,
-        "explanation": "Use merger in a phrase rather than studying it in isolation."
+        "explanation": "Use descend in a phrase rather than studying it in isolation."
       }
     ],
     "cloze": [
       {
         "sentence": "A clear speaker can ___ the next step and explain the reason.",
-        "answer": "merger",
+        "answer": "descend",
         "wordBank": [
-          "merger",
-          "merit",
+          "descend",
+          "orientation",
           "forget"
         ]
       }
     ],
     "translation": [
       {
-        "prompt": "请用 merger 和 merit 说清楚本课场景中的一个下一步。",
-        "answer": "Use merger and merit to explain the next step in this situation."
+        "prompt": "请用 descend 和 orientation 说清楚本课场景中的一个下一步。",
+        "answer": "Use descend and orientation to explain the next step in this situation."
       }
     ]
   },

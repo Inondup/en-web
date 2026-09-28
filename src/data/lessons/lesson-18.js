@@ -9,181 +9,1407 @@ export default {
   "grammarId": 18,
   "words": [
     {
-      "word": "evolve",
-      "ipaBrE": "/ɪˈvɒlv/",
-      "ipaAmE": "/ɪˈvɑːlv/",
-      "ipa": "/ɪˈvɒlv/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "进展, 进化, 展开；使发展, 使推断出, 使进化",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "evolve a plan",
-        "evolve carefully",
-        "evolve with others"
-      ],
-      "wordFamily": [
-        "evolve",
-        "evolved",
-        "evolving",
-        "evolves"
-      ],
-      "example": "We can evolve the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exaggerate",
-      "ipaBrE": "/ɪɡˈzædʒəreɪt/",
-      "ipaAmE": "/ɪɡˈzædʒəreɪt/",
-      "ipa": "/ɪɡˈzædʒəreɪt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：exaggerate",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "exaggerate a plan",
-        "exaggerate carefully",
-        "exaggerate with others"
-      ],
-      "wordFamily": [
-        "exaggerate"
-      ],
-      "example": "We can exaggerate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "examination",
-      "ipaBrE": "/ɪɡˌzæmɪˈneɪʃn/",
-      "ipaAmE": "/ɪɡˌzæmɪˈneɪʃn/",
-      "ipa": "/ɪɡˌzæmɪˈneɪʃn/",
+      "word": "marketing",
+      "ipaBrE": "/ˈmɑːkɪtɪŋ/",
+      "ipaAmE": "/ˈmɑːrkɪtɪŋ/",
+      "ipa": "/ˈmɑːkɪtɪŋ/",
       "pos": [
         "noun"
       ],
-      "zh": "考试, 测验, 审查 [医] 检查, 诊察",
-      "cefr": "B2",
+      "zh": "n. 行销, 买卖； 推销, 在市场买卖, 销售",
+      "cefr": "B1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "a examination",
-        "the role of examination",
-        "examination and evidence"
+        "a marketing",
+        "the role of marketing",
+        "marketing and evidence"
       ],
       "wordFamily": [
-        "examination",
-        "examinations",
-        "examinate"
+        "marketing",
+        "market"
       ],
-      "example": "This examination matters when people need to make a clear decision.",
+      "example": "This marketing matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exceed",
-      "ipaBrE": "/ɪkˈsiːd/",
-      "ipaAmE": "/ɪkˈsiːd/",
-      "ipa": "/ɪkˈsiːd/",
+      "word": "laughter",
+      "ipaBrE": "/ˈlɑːftə(r)/",
+      "ipaAmE": "/ˈlæftər/",
+      "ipa": "/ˈlɑːftə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 笑, 笑声； 笑, 大笑",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a laughter",
+        "the role of laughter",
+        "laughter and evidence"
+      ],
+      "wordFamily": [
+        "laughter",
+        "laught"
+      ],
+      "example": "This laughter matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "theater",
+      "ipaBrE": "/ˈθiәtә/",
+      "ipaAmE": "/ˈθiәtә/",
+      "ipa": "/ˈθiәtә/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所",
+      "cefr": "B1",
+      "source": "Oxford 5000 companion",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a theater",
+        "the role of theater",
+        "theater and evidence"
+      ],
+      "wordFamily": [
+        "theater",
+        "theat"
+      ],
+      "example": "This theater matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "another",
+      "ipaBrE": "/əˈnʌðə(r)/",
+      "ipaAmE": "/əˈnʌðər/",
+      "ipa": "/əˈnʌðə(r)/",
+      "pos": [
+        "determiner"
+      ],
+      "zh": "a. 另外的, 再一的, 不同的；pron. 又一个, 另一个, 类似的另一个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a another",
+        "the role of another",
+        "another and evidence"
+      ],
+      "wordFamily": [
+        "another",
+        "anoth"
+      ],
+      "example": "This another matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "either",
+      "ipaBrE": "/ˈiːðə(r)/",
+      "ipaAmE": "/ˈaɪðər/",
+      "ipa": "/ˈiːðə(r)/",
       "pos": [
         "verb"
       ],
-      "zh": "超过, 超越, 胜过；超过其他",
-      "cefr": "B2",
+      "zh": "a. (两者之中)任一的, (两者之中)各一的；pron. (两者之中)任一；conj. 或, 要么",
+      "cefr": "A2",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "exceed a plan",
-        "exceed carefully",
-        "exceed with others"
+        "either a plan",
+        "either carefully",
+        "either with others"
       ],
       "wordFamily": [
-        "exceed",
-        "exceeds",
-        "exceeding",
-        "exceeded"
+        "either",
+        "eith"
       ],
-      "example": "We can exceed the next step together.",
+      "example": "We can either the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "excellence",
-      "ipaBrE": "/ˈeksələns/",
-      "ipaAmE": "/ˈeksələns/",
-      "ipa": "/ˈeksələns/",
+      "word": "afternoon",
+      "ipaBrE": "/ˌɑːftəˈnuːn/",
+      "ipaAmE": "/ˌæftərˈnuːn/",
+      "ipa": "/ˌɑːftəˈnuːn/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：excellence",
-      "cefr": "C1",
+      "zh": "n. 午后, 下午",
+      "cefr": "A1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "a excellence",
-        "the role of excellence",
-        "excellence and evidence"
+        "a afternoon",
+        "the role of afternoon",
+        "afternoon and evidence"
       ],
       "wordFamily": [
-        "excellence"
+        "afternoon",
+        "afternoons"
       ],
-      "example": "This excellence matters when people need to make a clear decision.",
+      "example": "This afternoon matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exception",
-      "ipaBrE": "/ɪkˈsepʃn/",
-      "ipaAmE": "/ɪkˈsepʃn/",
-      "ipa": "/ɪkˈsepʃn/",
+      "word": "vacation",
+      "ipaBrE": "/vəˈkeɪʃn/",
+      "ipaAmE": "/vəˈkeɪʃn/",
+      "ipa": "/vəˈkeɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "例外, 除外, 异议 [计] 例外; 异常",
-      "cefr": "B2",
+      "zh": "n. 假期, 休假； 假期, 停审期, 休庭期",
+      "cefr": "A1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "a exception",
-        "the role of exception",
-        "exception and evidence"
+        "a vacation",
+        "the role of vacation",
+        "vacation and evidence"
       ],
       "wordFamily": [
-        "exception",
-        "exceptions",
-        "excepte"
+        "vacation",
+        "vacations",
+        "vacationing",
+        "vacationed"
       ],
-      "example": "This exception matters when people need to make a clear decision.",
+      "example": "This vacation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exceptional",
-      "ipaBrE": "/ɪkˈsepʃənl/",
-      "ipaAmE": "/ɪkˈsepʃənl/",
-      "ipa": "/ɪkˈsepʃənl/",
+      "word": "by",
+      "ipaBrE": "/baɪ/",
+      "ipaAmE": "/baɪ/",
+      "ipa": "/baɪ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "prep. 被, 经, 由, 在...之旁；adv. 经过, 在近处",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "by a plan",
+        "by carefully",
+        "by with others"
+      ],
+      "wordFamily": [
+        "by"
+      ],
+      "example": "We can by the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "general",
+      "ipaBrE": "/ˈdʒenrəl/",
+      "ipaAmE": "/ˈdʒenrəl/",
+      "ipa": "/ˈdʒenrəl/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：exceptional",
+      "zh": "n. 一般, 将军, 大体；a. 全面的, 大体的, 总的, 一般的, 普遍的；n. 常规； 常规",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a general approach",
+        "remain general",
+        "general enough"
+      ],
+      "wordFamily": [
+        "general",
+        "generals"
+      ],
+      "example": "A general approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "mention",
+      "ipaBrE": "/ˈmenʃn/",
+      "ipaAmE": "/ˈmenʃn/",
+      "ipa": "/ˈmenʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 提到, 言及, 陈述；vt. 提到, 提及",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a mention",
+        "the role of mention",
+        "mention and evidence"
+      ],
+      "wordFamily": [
+        "mention",
+        "mentioned",
+        "mentioning",
+        "mentions"
+      ],
+      "example": "This mention matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cigarette",
+      "ipaBrE": "/ˌsɪɡəˈret/",
+      "ipaAmE": "/ˈsɪɡəret/",
+      "ipa": "/ˌsɪɡəˈret/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 香烟, 纸烟",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a cigarette",
+        "the role of cigarette",
+        "cigarette and evidence"
+      ],
+      "wordFamily": [
+        "cigarette",
+        "cigarettes"
+      ],
+      "example": "This cigarette matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "disappointed",
+      "ipaBrE": "/ˌdɪsəˈpɔɪntɪd/",
+      "ipaAmE": "/ˌdɪsəˈpɔɪntɪd/",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 失望的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a disappointed approach",
+        "remain disappointed",
+        "disappointed enough"
+      ],
+      "wordFamily": [
+        "disappointed",
+        "pd",
+        "disappoint"
+      ],
+      "example": "A disappointed approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ride",
+      "ipaBrE": "/raɪd/",
+      "ipaAmE": "/raɪd/",
+      "ipa": "/raɪd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 骑马, 乘坐, 乘车, 搭便车；vt. 骑, 乘坐, 压迫, 控制；vi. 骑马, 乘车, 漂游",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a ride",
+        "the role of ride",
+        "ride and evidence"
+      ],
+      "wordFamily": [
+        "ride",
+        "riding",
+        "rode",
+        "ridden"
+      ],
+      "example": "This ride matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "discovery",
+      "ipaBrE": "/dɪˈskʌvəri/",
+      "ipaAmE": "/dɪˈskʌvəri/",
+      "ipa": "/dɪˈskʌvəri/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 发现, 被发现的事物； 要求告知, 发现, 发觉",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a discovery",
+        "the role of discovery",
+        "discovery and evidence"
+      ],
+      "wordFamily": [
+        "discovery",
+        "discoveries"
+      ],
+      "example": "This discovery matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "knowledge",
+      "ipaBrE": "/ˈnɒlɪdʒ/",
+      "ipaAmE": "/ˈnɑːlɪdʒ/",
+      "ipa": "/ˈnɒlɪdʒ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 知识, 学问, 认识, 知道",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a knowledge",
+        "the role of knowledge",
+        "knowledge and evidence"
+      ],
+      "wordFamily": [
+        "knowledge",
+        "knowledges"
+      ],
+      "example": "This knowledge matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "rough",
+      "ipaBrE": "/rʌf/",
+      "ipaAmE": "/rʌf/",
+      "ipa": "/rʌf/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 粗糙的东西, 毛坯, 未加工品, 梗概, 草图, 暴徒, 艰难",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a rough approach",
+        "remain rough",
+        "rough enough"
+      ],
+      "wordFamily": [
+        "rough",
+        "rougher",
+        "roughest",
+        "roughed"
+      ],
+      "example": "A rough approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "competition",
+      "ipaBrE": "/ˌkɒmpəˈtɪʃn/",
+      "ipaAmE": "/ˌkɑːmpəˈtɪʃn/",
+      "ipa": "/ˌkɒmpəˈtɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 竞争, 竞赛； 竞争, 竞销, 比赛",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a competition",
+        "the role of competition",
+        "competition and evidence"
+      ],
+      "wordFamily": [
+        "competition",
+        "competitions",
+        "competite"
+      ],
+      "example": "This competition matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "farmer",
+      "ipaBrE": "/ˈfɑːmə(r)/",
+      "ipaAmE": "/ˈfɑːrmər/",
+      "ipa": "/ˈfɑːmə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 农夫, 农场主； 农民, 农场主, 承包者",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a farmer",
+        "the role of farmer",
+        "farmer and evidence"
+      ],
+      "wordFamily": [
+        "farmer",
+        "farmers",
+        "farm"
+      ],
+      "example": "This farmer matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "disadvantage",
+      "ipaBrE": "/ˌdɪsədˈvɑːntɪdʒ/",
+      "ipaAmE": "/ˌdɪsədˈvæntɪdʒ/",
+      "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 缺点, 不利, 坏处",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a disadvantage",
+        "the role of disadvantage",
+        "disadvantage and evidence"
+      ],
+      "wordFamily": [
+        "disadvantage"
+      ],
+      "example": "This disadvantage matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "morning",
+      "ipaBrE": "/ˈmɔːnɪŋ/",
+      "ipaAmE": "/ˈmɔːrnɪŋ/",
+      "ipa": "/ˈmɔːnɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 早晨, 早上, 初期",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a morning",
+        "the role of morning",
+        "morning and evidence"
+      ],
+      "wordFamily": [
+        "morning",
+        "mornings",
+        "morn"
+      ],
+      "example": "This morning matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "property",
+      "ipaBrE": "/ˈprɒpəti/",
+      "ipaAmE": "/ˈprɑːpərti/",
+      "ipa": "/ˈprɒpəti/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 财产, 所有权, 性质, 属性； 属性",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a property",
+        "the role of property",
+        "property and evidence"
+      ],
+      "wordFamily": [
+        "property",
+        "properties"
+      ],
+      "example": "This property matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "queue",
+      "ipaBrE": "/kjuː/",
+      "ipaAmE": "/kjuː/",
+      "ipa": "/kjuː/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 辫子, 一队人, 队列；vt. 使排队, 将...梳成辫子；vi. 排队； 队列",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a queue",
+        "the role of queue",
+        "queue and evidence"
+      ],
+      "wordFamily": [
+        "queue"
+      ],
+      "example": "This queue matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "richard",
+      "ipaBrE": "/ˈritʃәd/",
+      "ipaAmE": "/ˈritʃәd/",
+      "ipa": "/ˈritʃәd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 理查德（男子名）",
+      "cefr": "B1",
+      "source": "Oxford 5000 companion",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a richard",
+        "the role of richard",
+        "richard and evidence"
+      ],
+      "wordFamily": [
+        "richard"
+      ],
+      "example": "This richard matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pollution",
+      "ipaBrE": "/pəˈluːʃn/",
+      "ipaAmE": "/pəˈluːʃn/",
+      "ipa": "/pəˈluːʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 污染, 玷污； 污染",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a pollution",
+        "the role of pollution",
+        "pollution and evidence"
+      ],
+      "wordFamily": [
+        "pollution",
+        "pollutions",
+        "pollute"
+      ],
+      "example": "This pollution matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "annoy",
+      "ipaBrE": "/əˈnɔɪ/",
+      "ipaAmE": "/əˈnɔɪ/",
+      "ipa": "/əˈnɔɪ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 使恼怒, 骚扰",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "annoy a plan",
+        "annoy carefully",
+        "annoy with others"
+      ],
+      "wordFamily": [
+        "annoy"
+      ],
+      "example": "We can annoy the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "usually",
+      "ipaBrE": "/ˈjuːʒəli/",
+      "ipaAmE": "/ˈjuːʒəli/",
+      "ipa": "/ˈjuːʒəli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 通常, 大抵",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "usually a plan",
+        "usually carefully",
+        "usually with others"
+      ],
+      "wordFamily": [
+        "usually",
+        "usual"
+      ],
+      "example": "We can usually the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "turn",
+      "ipaBrE": "/tɜːn/",
+      "ipaAmE": "/tɜːrn/",
+      "ipa": "/tɜːn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a turn",
+        "the role of turn",
+        "turn and evidence"
+      ],
+      "wordFamily": [
+        "turn",
+        "turned",
+        "turning",
+        "turns"
+      ],
+      "example": "This turn matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "costume",
+      "ipaBrE": "/ˈkɒstjuːm/",
+      "ipaAmE": "/ˈkɑːstuːm/",
+      "ipa": "/ˈkɒstjuːm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 装束, 服装",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a costume",
+        "the role of costume",
+        "costume and evidence"
+      ],
+      "wordFamily": [
+        "costume",
+        "costumes",
+        "costumed",
+        "costuming"
+      ],
+      "example": "This costume matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "port",
+      "ipaBrE": "/pɔːt/",
+      "ipaAmE": "/pɔːrt/",
+      "ipa": "/pɔːt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义；vt. 左转舵, 持(枪)；vi. 左转舵",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a port",
+        "the role of port",
+        "port and evidence"
+      ],
+      "wordFamily": [
+        "port",
+        "ports",
+        "ported",
+        "porting"
+      ],
+      "example": "This port matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "complete",
+      "ipaBrE": "/kəmˈpliːt/",
+      "ipaAmE": "/kəmˈpliːt/",
+      "ipa": "/kəmˈpliːt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 完全的, 十足的, 完成的；vt. 完成, 完工, 使圆满",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a complete approach",
+        "remain complete",
+        "complete enough"
+      ],
+      "wordFamily": [
+        "complete",
+        "completed",
+        "completing",
+        "completes"
+      ],
+      "example": "A complete approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pressure",
+      "ipaBrE": "/ˈpreʃə(r)/",
+      "ipaAmE": "/ˈpreʃər/",
+      "ipa": "/ˈpreʃə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 压, 榨, 按, 强制, 压力, 压迫, 压强；vt. 迫使, 使增压, 密封",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a pressure",
+        "the role of pressure",
+        "pressure and evidence"
+      ],
+      "wordFamily": [
+        "pressure",
+        "pressures",
+        "pressured",
+        "pressuring"
+      ],
+      "example": "This pressure matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "year",
+      "ipaBrE": "/jɜː(r)/",
+      "ipaAmE": "/jɪr/",
+      "ipa": "/jɜː(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 年, 年度, 年龄； 年度",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a year",
+        "the role of year",
+        "year and evidence"
+      ],
+      "wordFamily": [
+        "year",
+        "years"
+      ],
+      "example": "This year matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "see",
+      "ipaBrE": "/siː/",
+      "ipaAmE": "/siː/",
+      "ipa": "/siː/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意；vi. 看, 观看, 注意, 知道, 考虑",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "see a plan",
+        "see carefully",
+        "see with others"
+      ],
+      "wordFamily": [
+        "see",
+        "seen",
+        "saw",
+        "seeing"
+      ],
+      "example": "We can see the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "wooden",
+      "ipaBrE": "/ˈwʊdn/",
+      "ipaAmE": "/ˈwʊdn/",
+      "ipa": "/ˈwʊdn/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 木制的, 呆笨的, 木然的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a wooden approach",
+        "remain wooden",
+        "wooden enough"
+      ],
+      "wordFamily": [
+        "wooden"
+      ],
+      "example": "A wooden approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "press",
+      "ipaBrE": "/pres/",
+      "ipaAmE": "/pres/",
+      "ipa": "/pres/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 压, 揿, 按, 人群, 印刷机, 压力, 出版社, 记者, 报刊, 新闻舆论, 紧迫",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a press",
+        "the role of press",
+        "press and evidence"
+      ],
+      "wordFamily": [
+        "press",
+        "pressed",
+        "pressing",
+        "presses"
+      ],
+      "example": "This press matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "legal",
+      "ipaBrE": "/ˈliːɡl/",
+      "ipaAmE": "/ˈliːɡl/",
+      "ipa": "/ˈliːɡl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 法律的, 法定的, 合法的； 法定权利; 法律(上)的, 合法的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a legal approach",
+        "remain legal",
+        "legal enough"
+      ],
+      "wordFamily": [
+        "legal"
+      ],
+      "example": "A legal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "competitive",
+      "ipaBrE": "/kəmˈpetətɪv/",
+      "ipaAmE": "/kəmˈpetətɪv/",
+      "ipa": "/kəmˈpetətɪv/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 竞争的； 竞争的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a competitive approach",
+        "remain competitive",
+        "competitive enough"
+      ],
+      "wordFamily": [
+        "competitive"
+      ],
+      "example": "A competitive approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "plot",
+      "ipaBrE": "/plɒt/",
+      "ipaAmE": "/plɑːt/",
+      "ipa": "/plɒt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小块土地, 地区图, 图, 阴谋, 情节；vt. 划分, 绘图, 密谋；vi. 密谋, 策划； 绘制",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a plot",
+        "the role of plot",
+        "plot and evidence"
+      ],
+      "wordFamily": [
+        "plot",
+        "plots",
+        "plotting",
+        "plotted"
+      ],
+      "example": "This plot matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "thinking",
+      "ipaBrE": "/ˈθɪŋkɪŋ/",
+      "ipaAmE": "/ˈθɪŋkɪŋ/",
+      "ipa": "/ˈθɪŋkɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 思考, 思想；a. 思考的, 有理性的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a thinking",
+        "the role of thinking",
+        "thinking and evidence"
+      ],
+      "wordFamily": [
+        "thinking",
+        "think"
+      ],
+      "example": "This thinking matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ghost",
+      "ipaBrE": "/ɡəʊst/",
+      "ipaAmE": "/ɡəʊst/",
+      "ipa": "/ɡəʊst/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 鬼, 灵魂, 幻影, 一丝, 一点；v. 鬼似地游荡",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a ghost",
+        "the role of ghost",
+        "ghost and evidence"
+      ],
+      "wordFamily": [
+        "ghost",
+        "ghosts",
+        "ghosted",
+        "ghosting"
+      ],
+      "example": "This ghost matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "lip",
+      "ipaBrE": "/lɪp/",
+      "ipaAmE": "/lɪp/",
+      "ipa": "/lɪp/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 唇, 口缘, 唇状构造；vt. 以嘴唇碰, 轻轻说出；a. 口头上的； 大型互连网信息包",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a lip",
+        "the role of lip",
+        "lip and evidence"
+      ],
+      "wordFamily": [
+        "lip",
+        "lips",
+        "lipped"
+      ],
+      "example": "This lip matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "forty",
+      "ipaBrE": "/ˈfɔːti/",
+      "ipaAmE": "/ˈfɔːrti/",
+      "ipa": "/ˈfɔːti/",
+      "pos": [
+        "number"
+      ],
+      "zh": "num. 四十, 四十个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a forty",
+        "the role of forty",
+        "forty and evidence"
+      ],
+      "wordFamily": [
+        "forty"
+      ],
+      "example": "This forty matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "indeed",
+      "ipaBrE": "/ɪnˈdiːd/",
+      "ipaAmE": "/ɪnˈdiːd/",
+      "ipa": "/ɪnˈdiːd/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 的确, 实在, 真正地, 甚至",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "indeed a plan",
+        "indeed carefully",
+        "indeed with others"
+      ],
+      "wordFamily": [
+        "indeed",
+        "inde"
+      ],
+      "example": "We can indeed the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nine",
+      "ipaBrE": "/naɪn/",
+      "ipaAmE": "/naɪn/",
+      "ipa": "/naɪn/",
+      "pos": [
+        "number"
+      ],
+      "zh": "num. 九, 九个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a nine",
+        "the role of nine",
+        "nine and evidence"
+      ],
+      "wordFamily": [
+        "nine"
+      ],
+      "example": "This nine matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "bin",
+      "ipaBrE": "/bɪn/",
+      "ipaAmE": "/bɪn/",
+      "ipa": "/bɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. (贮存谷物等的)容器, 箱子； 二进制, 商业信息网",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a bin",
+        "the role of bin",
+        "bin and evidence"
+      ],
+      "wordFamily": [
+        "bin"
+      ],
+      "example": "This bin matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "temperature",
+      "ipaBrE": "/ˈtemprətʃə(r)/",
+      "ipaAmE": "/ˈtemprətʃʊr/",
+      "ipa": "/ˈtemprətʃə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 温度, 发烧, 热度； 温度",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a temperature",
+        "the role of temperature",
+        "temperature and evidence"
+      ],
+      "wordFamily": [
+        "temperature",
+        "temperatures"
+      ],
+      "example": "This temperature matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "at",
+      "ipaBrE": "/æt/",
+      "ipaAmE": "/æt/",
+      "ipa": "/æt/",
+      "pos": [
+        "preposition"
+      ],
+      "zh": "prep. 在, 向, 对； 地址转换器, 异常传输, 自动订票",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a at",
+        "the role of at",
+        "at and evidence"
+      ],
+      "wordFamily": [
+        "at"
+      ],
+      "example": "This at matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "serious",
+      "ipaBrE": "/ˈsɪəriəs/",
+      "ipaAmE": "/ˈsɪriəs/",
+      "ipa": "/ˈsɪəriəs/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 严肃的, 认真的, 重要的, 严重的； 严重的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a serious approach",
+        "remain serious",
+        "serious enough"
+      ],
+      "wordFamily": [
+        "serious",
+        "seriou"
+      ],
+      "example": "A serious approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "building",
+      "ipaBrE": "/ˈbɪldɪŋ/",
+      "ipaAmE": "/ˈbɪldɪŋ/",
+      "ipa": "/ˈbɪldɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 建筑物, 建筑； 营造, 建筑, 建筑物",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a building",
+        "the role of building",
+        "building and evidence"
+      ],
+      "wordFamily": [
+        "building",
+        "build",
+        "buildings"
+      ],
+      "example": "This building matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "happy",
+      "ipaBrE": "/ˈhæpi/",
+      "ipaAmE": "/ˈhæpi/",
+      "ipa": "/ˈhæpi/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 快乐的, 幸福的, 愉快的, 恰当的",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a happy approach",
+        "remain happy",
+        "happy enough"
+      ],
+      "wordFamily": [
+        "happy",
+        "happier",
+        "happiest"
+      ],
+      "example": "A happy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "handling",
+      "ipaBrE": "/ˈhændlɪŋ/",
+      "ipaAmE": "/ˈhændlɪŋ/",
+      "ipa": "/ˈhændlɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 处理；a. 操作的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exceptional approach",
-        "remain exceptional",
-        "exceptional enough"
+        "a handling",
+        "the role of handling",
+        "handling and evidence"
       ],
       "wordFamily": [
-        "exceptional"
+        "handling",
+        "handl"
       ],
-      "example": "A exceptional approach makes the situation easier to explain.",
+      "example": "This handling matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "urge",
+      "ipaBrE": "/ɜːdʒ/",
+      "ipaAmE": "/ɜːrdʒ/",
+      "ipa": "/ɜːdʒ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "n. 冲动, 推动力, 迫切的要求；vt. 驱策, 力劝, 竭力主张, 推动；vi. 强烈要求",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "urge a plan",
+        "urge carefully",
+        "urge with others"
+      ],
+      "wordFamily": [
+        "urge",
+        "urged",
+        "urging",
+        "urges"
+      ],
+      "example": "We can urge the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "punch",
+      "ipaBrE": "/pʌntʃ/",
+      "ipaAmE": "/pʌntʃ/",
+      "ipa": "/pʌntʃ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒；vt. 以拳重击, 开洞, 冲压；vi. 用拳猛击",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a punch",
+        "the role of punch",
+        "punch and evidence"
+      ],
+      "wordFamily": [
+        "punch",
+        "punched",
+        "punches",
+        "punching"
+      ],
+      "example": "This punch matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "retirement",
+      "ipaBrE": "/rɪˈtaɪəmənt/",
+      "ipaAmE": "/rɪˈtaɪərmənt/",
+      "ipa": "/rɪˈtaɪəmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 退休, 隐居, 撤退； 退休, 退股, (固定资产)报废",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a retirement",
+        "the role of retirement",
+        "retirement and evidence"
+      ],
+      "wordFamily": [
+        "retirement",
+        "retirements",
+        "retire"
+      ],
+      "example": "This retirement matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "unite",
+      "ipaBrE": "/juˈnaɪt/",
+      "ipaAmE": "/juˈnaɪt/",
+      "ipa": "/juˈnaɪt/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vi. 联合, 接合, 混合；vt. 使联合, 统一, 使粘合, 使结合",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "unite a plan",
+        "unite carefully",
+        "unite with others"
+      ],
+      "wordFamily": [
+        "unite",
+        "united",
+        "unites",
+        "uniting"
+      ],
+      "example": "We can unite the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -194,7 +1420,7 @@ export default {
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：excess",
+      "zh": "n. 过度, 剩于, 超过, 超额；a. 过量的, 额外的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
@@ -212,2579 +1438,2568 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "excessive",
-      "ipaBrE": "/ɪkˈsesɪv/",
-      "ipaAmE": "/ɪkˈsesɪv/",
-      "ipa": "/ɪkˈsesɪv/",
+      "word": "comparative",
+      "ipaBrE": "/kəmˈpærətɪv/",
+      "ipaAmE": "/kəmˈpærətɪv/",
+      "ipa": "/kəmˈpærətɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "过度的, 过多的, 极端的 [法] 过度的, 过分的, 额外的",
+      "zh": "a. 比较的, 相对的；n. 对手",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a excessive approach",
-        "remain excessive",
-        "excessive enough"
+        "a comparative approach",
+        "remain comparative",
+        "comparative enough"
       ],
       "wordFamily": [
-        "excessive"
+        "comparative"
       ],
-      "example": "A excessive approach makes the situation easier to explain.",
+      "example": "A comparative approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclude",
-      "ipaBrE": "/ɪkˈskluːd/",
-      "ipaAmE": "/ɪkˈskluːd/",
-      "ipa": "/ɪkˈskluːd/",
+      "word": "appropriately",
+      "ipaBrE": "/əˈprəʊpriətli/",
+      "ipaAmE": "/əˈprəʊpriətli/",
+      "ipa": "/əˈprəʊpriətli/",
       "pos": [
         "verb"
       ],
-      "zh": "除外, 排除, 排斥 [医] 除外(诊断)",
+      "zh": "adv. 适当的, 恰如其分的, 恰当的, 合适的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exclude a plan",
-        "exclude carefully",
-        "exclude with others"
+        "appropriately a plan",
+        "appropriately carefully",
+        "appropriately with others"
       ],
       "wordFamily": [
-        "exclude",
-        "excluded",
-        "excluding",
-        "excludes"
+        "appropriately",
+        "appropriate"
       ],
-      "example": "We can exclude the next step together.",
+      "example": "We can appropriately the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclusion",
-      "ipaBrE": "/ɪkˈskluːʒn/",
-      "ipaAmE": "/ɪkˈskluːʒn/",
-      "ipa": "/ɪkˈskluːʒn/",
+      "word": "magnificent",
+      "ipaBrE": "/mæɡˈnɪfɪsnt/",
+      "ipaAmE": "/mæɡˈnɪfɪsnt/",
+      "ipa": "/mæɡˈnɪfɪsnt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 华丽的, 高尚的, 宏伟的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a magnificent approach",
+        "remain magnificent",
+        "magnificent enough"
+      ],
+      "wordFamily": [
+        "magnificent"
+      ],
+      "example": "A magnificent approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "obstacle",
+      "ipaBrE": "/ˈɒbstəkl/",
+      "ipaAmE": "/ˈɑːbstəkl/",
+      "ipa": "/ˈɒbstəkl/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：exclusion",
+      "zh": "n. 障碍, 妨害物, 阻碍",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a obstacle",
+        "the role of obstacle",
+        "obstacle and evidence"
+      ],
+      "wordFamily": [
+        "obstacle",
+        "obstacles"
+      ],
+      "example": "This obstacle matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "decent",
+      "ipaBrE": "/ˈdiːsnt/",
+      "ipaAmE": "/ˈdiːsnt/",
+      "ipa": "/ˈdiːsnt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 有分寸的, 得体的, 大方的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a decent approach",
+        "remain decent",
+        "decent enough"
+      ],
+      "wordFamily": [
+        "decent"
+      ],
+      "example": "A decent approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "sensitive",
+      "ipaBrE": "/ˈsensətɪv/",
+      "ipaAmE": "/ˈsensətɪv/",
+      "ipa": "/ˈsensətɪv/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 敏感的, 易感的, 灵敏的, 感光的； 敏感的, 灵敏的, 感度高的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a sensitive approach",
+        "remain sensitive",
+        "sensitive enough"
+      ],
+      "wordFamily": [
+        "sensitive",
+        "sensitives"
+      ],
+      "example": "A sensitive approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ton",
+      "ipaBrE": "/tʌn/",
+      "ipaAmE": "/tʌn/",
+      "ipa": "/tʌn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 吨； 吨",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a ton",
+        "the role of ton",
+        "ton and evidence"
+      ],
+      "wordFamily": [
+        "ton",
+        "tons",
+        "toning",
+        "tonner"
+      ],
+      "example": "This ton matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pulse",
+      "ipaBrE": "/pʌls/",
+      "ipaAmE": "/pʌls/",
+      "ipa": "/pʌls/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类；vi. 跳动, 脉跳；vt. 使跳动, 用脉冲调制； 脉冲",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exclusion",
-        "the role of exclusion",
-        "exclusion and evidence"
+        "a pulse",
+        "the role of pulse",
+        "pulse and evidence"
       ],
       "wordFamily": [
-        "exclusion"
+        "pulse",
+        "pulses",
+        "pulsed",
+        "pulsing"
       ],
-      "example": "This exclusion matters when people need to make a clear decision.",
+      "example": "This pulse matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclusive",
-      "ipaBrE": "/ɪkˈskluːsɪv/",
-      "ipaAmE": "/ɪkˈskluːsɪv/",
-      "ipa": "/ɪkˈskluːsɪv/",
+      "word": "abolish",
+      "ipaBrE": "/əˈbɒlɪʃ/",
+      "ipaAmE": "/əˈbɑːlɪʃ/",
+      "ipa": "/əˈbɒlɪʃ/",
       "pos": [
-        "adjective"
+        "verb"
       ],
-      "zh": "排外的, 独占的, 唯一的 [计] 独占的",
+      "zh": "vt. 废止, 革除, 消灭； 废除, 取消, 裁撤",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exclusive approach",
-        "remain exclusive",
-        "exclusive enough"
+        "abolish a plan",
+        "abolish carefully",
+        "abolish with others"
       ],
       "wordFamily": [
-        "exclusive",
-        "exclusives"
+        "abolish"
       ],
-      "example": "A exclusive approach makes the situation easier to explain.",
+      "example": "We can abolish the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclusively",
-      "ipaBrE": "/ɪkˈskluːsɪvli/",
-      "ipaAmE": "/ɪkˈskluːsɪvli/",
-      "ipa": "/ɪkˈskluːsɪvli/",
+      "word": "dual",
+      "ipaBrE": "/ˈdjuːəl/",
+      "ipaAmE": "/ˈduːəl/",
+      "ipa": "/ˈdjuːəl/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地",
+      "zh": "a. 双重的, 双的；n. 双数",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exclusively a plan",
-        "exclusively carefully",
-        "exclusively with others"
+        "a dual approach",
+        "remain dual",
+        "dual enough"
       ],
       "wordFamily": [
-        "exclusively",
-        "exclusive"
+        "dual"
       ],
-      "example": "We can exclusively the next step together.",
+      "example": "A dual approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "excuse",
-      "ipaBrE": "/ɪkˈskjuːs/",
-      "ipaAmE": "/ɪkˈskjuːs/",
-      "ipa": "/ɪkˈskjuːs/",
+      "word": "long-term",
+      "ipaBrE": "/ˌlɒŋ ˈtɜːm/",
+      "ipaAmE": "/ˌlɔːŋ ˈtɜːrm/",
+      "ipa": "/ˌlɒŋ ˈtɜːm/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "原谅, 申辩, 做为...的托辞；致歉, 理由, 饶恕, 借口",
+      "zh": "a. 长期的； 长期, (通常指一年以上)",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a excuse",
-        "the role of excuse",
-        "excuse and evidence"
+        "a long-term approach",
+        "remain long-term",
+        "long-term enough"
       ],
       "wordFamily": [
-        "excuse",
-        "excuses",
-        "excused",
-        "excusing"
+        "long-term"
       ],
-      "example": "This excuse matters when people need to make a clear decision.",
+      "example": "A long-term approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "execute",
-      "ipaBrE": "/ˈeksɪkjuːt/",
-      "ipaAmE": "/ˈeksɪkjuːt/",
-      "ipa": "/ˈeksɪkjuːt/",
+      "word": "coordinate",
+      "ipaBrE": "/kəʊˈɔːdɪneɪt/",
+      "ipaAmE": "/kəʊˈɔːrdɪneɪt/",
+      "ipa": "/kəʊˈɔːdɪneɪt/",
       "pos": [
         "verb"
       ],
-      "zh": "执行, 实行, 完成, 处死, 制成 [计] 执行",
+      "zh": "n. 同等的人(或物), 坐标；a. 同等的, 并列的；v. (使)协调",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "execute a plan",
-        "execute carefully",
-        "execute with others"
+        "coordinate a plan",
+        "coordinate carefully",
+        "coordinate with others"
       ],
       "wordFamily": [
-        "execute",
-        "executed",
-        "executing",
-        "executes"
+        "coordinate",
+        "coordinates",
+        "coordinating",
+        "coordinated"
       ],
-      "example": "We can execute the next step together.",
+      "example": "We can coordinate the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "execution",
-      "ipaBrE": "/ˌeksɪˈkjuːʃn/",
-      "ipaAmE": "/ˌeksɪˈkjuːʃn/",
-      "ipa": "/ˌeksɪˈkjuːʃn/",
+      "word": "sexy",
+      "ipaBrE": "/ˈseksi/",
+      "ipaAmE": "/ˈseksi/",
+      "ipa": "/ˈseksi/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 有性感的, 色情的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a sexy approach",
+        "remain sexy",
+        "sexy enough"
+      ],
+      "wordFamily": [
+        "sexy",
+        "sexiest",
+        "sexier"
+      ],
+      "example": "A sexy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "scream",
+      "ipaBrE": "/skriːm/",
+      "ipaAmE": "/skriːm/",
+      "ipa": "/skriːm/",
       "pos": [
         "noun"
       ],
-      "zh": "实行, 完成, 执行, 死刑 [计] 执行",
+      "zh": "n. 尖叫声；vi. 尖叫, 大笑, 尖啸, 令人震惊；vt. 尖叫着说, 大叫大嚷着要求",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a scream",
+        "the role of scream",
+        "scream and evidence"
+      ],
+      "wordFamily": [
+        "scream",
+        "screaming",
+        "screamed",
+        "screams"
+      ],
+      "example": "This scream matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "allegation",
+      "ipaBrE": "/ˌæləˈɡeɪʃn/",
+      "ipaAmE": "/ˌæləˈɡeɪʃn/",
+      "ipa": "/ˌæləˈɡeɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 断言, 主张, 申辩； 声明, 事实陈述, 断言",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a execution",
-        "the role of execution",
-        "execution and evidence"
+        "a allegation",
+        "the role of allegation",
+        "allegation and evidence"
       ],
       "wordFamily": [
-        "execution",
-        "executions",
-        "execute"
+        "allegation",
+        "allegations",
+        "allegate"
       ],
-      "example": "This execution matters when people need to make a clear decision.",
+      "example": "This allegation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "executive",
-      "ipaBrE": "/ɪɡˈzekjətɪv/",
-      "ipaAmE": "/ɪɡˈzekjətɪv/",
-      "ipa": "/ɪɡˈzekjətɪv/",
+      "word": "toxic",
+      "ipaBrE": "/ˈtɒksɪk/",
+      "ipaAmE": "/ˈtɑːksɪk/",
+      "ipa": "/ˈtɒksɪk/",
       "pos": [
         "adjective"
       ],
-      "zh": "执行部门, 执行委员会, 执行者, 经理主管人员；执行的, 善于执行的, 善于经营的 [计] 执行程序",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a executive approach",
-        "remain executive",
-        "executive enough"
-      ],
-      "wordFamily": [
-        "executive",
-        "executives"
-      ],
-      "example": "A executive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exert",
-      "ipaBrE": "/ɪɡˈzɜːt/",
-      "ipaAmE": "/ɪɡˈzɜːrt/",
-      "ipa": "/ɪɡˈzɜːt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：exert",
+      "zh": "a. 有毒的, 中毒的； 中毒的, 毒物的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exert a plan",
-        "exert carefully",
-        "exert with others"
+        "a toxic approach",
+        "remain toxic",
+        "toxic enough"
       ],
       "wordFamily": [
-        "exert"
+        "toxic",
+        "toxics"
       ],
-      "example": "We can exert the next step together.",
+      "example": "A toxic approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exhibit",
-      "ipaBrE": "/ɪɡˈzɪbɪt/",
-      "ipaAmE": "/ɪɡˈzɪbɪt/",
-      "ipa": "/ɪɡˈzɪbɪt/",
+      "word": "silk",
+      "ipaBrE": "/sɪlk/",
+      "ipaAmE": "/sɪlk/",
+      "ipa": "/sɪlk/",
       "pos": [
         "noun"
       ],
-      "zh": "显示, 显现, 展览品, 陈列品, 展览；展现, 陈列, 展览；开展览会",
+      "zh": "n. 丝, 绸, 绸锻类, 丝织品；a. 丝的, 丝织的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exhibit",
-        "the role of exhibit",
-        "exhibit and evidence"
+        "a silk",
+        "the role of silk",
+        "silk and evidence"
       ],
       "wordFamily": [
-        "exhibit",
-        "exhibited",
-        "exhibits",
-        "exhibiting"
+        "silk",
+        "silks"
       ],
-      "example": "This exhibit matters when people need to make a clear decision.",
+      "example": "This silk matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exile",
-      "ipaBrE": "/ˈeɡzaɪl/",
-      "ipaAmE": "/ˈeɡzaɪl/",
-      "ipa": "/ˈeɡzaɪl/",
+      "word": "neat",
+      "ipaBrE": "/niːt/",
+      "ipaAmE": "/niːt/",
+      "ipa": "/niːt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 整洁的, 巧妙的, 匀称的, 简洁的；n. 牛",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a neat approach",
+        "remain neat",
+        "neat enough"
+      ],
+      "wordFamily": [
+        "neat",
+        "neater",
+        "neatest"
+      ],
+      "example": "A neat approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "spill",
+      "ipaBrE": "/spɪl/",
+      "ipaAmE": "/spɪl/",
+      "ipa": "/spɪl/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "n. 溢出, 溅出, 摔下, 溢出量, 木片, 小塞子；vt. 使溢出, 使散落, 洒, 使流出, 倒出, 使摔下",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "spill a plan",
+        "spill carefully",
+        "spill with others"
+      ],
+      "wordFamily": [
+        "spill",
+        "spilling",
+        "spilled",
+        "spills"
+      ],
+      "example": "We can spill the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "strict",
+      "ipaBrE": "/strɪkt/",
+      "ipaAmE": "/strɪkt/",
+      "ipa": "/strɪkt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 严厉的, 绝对的, 详尽的, 严格的, 精确的； 严格的, 精确的, 绝对的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a strict approach",
+        "remain strict",
+        "strict enough"
+      ],
+      "wordFamily": [
+        "strict",
+        "stricter",
+        "strictest"
+      ],
+      "example": "A strict approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "dignity",
+      "ipaBrE": "/ˈdɪɡnəti/",
+      "ipaAmE": "/ˈdɪɡnəti/",
+      "ipa": "/ˈdɪɡnəti/",
       "pos": [
         "noun"
       ],
-      "zh": "放逐, 流放, 被放逐者；放逐, 流放, 使背井离乡",
+      "zh": "n. 尊严, 高贵； 尊严, 高位, 高贵",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exile",
-        "the role of exile",
-        "exile and evidence"
+        "a dignity",
+        "the role of dignity",
+        "dignity and evidence"
       ],
       "wordFamily": [
-        "exile",
-        "exiles",
-        "exiled",
-        "exiling"
+        "dignity",
+        "dignities",
+        "dign"
       ],
-      "example": "This exile matters when people need to make a clear decision.",
+      "example": "This dignity matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "existence",
-      "ipaBrE": "/ɪɡˈzɪstəns/",
-      "ipaAmE": "/ɪɡˈzɪstəns/",
-      "ipa": "/ɪɡˈzɪstəns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "存在, 生存 [法] 存在, 存在状态, 实体",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a existence",
-        "the role of existence",
-        "existence and evidence"
-      ],
-      "wordFamily": [
-        "existence",
-        "existences"
-      ],
-      "example": "This existence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exit",
-      "ipaBrE": "/ˈeɡzɪt/",
-      "ipaAmE": "/ˈeɡzɪt/",
-      "ipa": "/ˈeɡzɪt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "出口, 退场, 离去, 去世；退出, 脱离, 去世 [计] 退出; DOS内部命令:本命令用于退出当前的命令处理器(COMMAND.COM) 恢复前一个命令处理器",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exit",
-        "the role of exit",
-        "exit and evidence"
-      ],
-      "wordFamily": [
-        "exit",
-        "exits",
-        "exiting",
-        "exited"
-      ],
-      "example": "This exit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exotic",
-      "ipaBrE": "/ɪɡˈzɒtɪk/",
-      "ipaAmE": "/ɪɡˈzɑːtɪk/",
-      "ipa": "/ɪɡˈzɒtɪk/",
+      "word": "ideological",
+      "ipaBrE": "/ˌaɪdiəˈlɒdʒɪkl/",
+      "ipaAmE": "/ˌaɪdiəˈlɑːdʒɪkl/",
+      "ipa": "/ˌaɪdiəˈlɒdʒɪkl/",
       "pos": [
         "adjective"
       ],
-      "zh": "异国的, 外来的；外来人, 外来物, 舶来品",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exotic approach",
-        "remain exotic",
-        "exotic enough"
-      ],
-      "wordFamily": [
-        "exotic",
-        "exotics"
-      ],
-      "example": "A exotic approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expansion",
-      "ipaBrE": "/ɪkˈspænʃn/",
-      "ipaAmE": "/ɪkˈspænʃn/",
-      "ipa": "/ɪkˈspænʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "扩充, 开展, 膨胀 [计] 扩展",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a expansion",
-        "the role of expansion",
-        "expansion and evidence"
-      ],
-      "wordFamily": [
-        "expansion",
-        "expansions"
-      ],
-      "example": "This expansion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expectation",
-      "ipaBrE": "/ˌekspekˈteɪʃn/",
-      "ipaAmE": "/ˌekspekˈteɪʃn/",
-      "ipa": "/ˌekspekˈteɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "期待, 指望, 展望 [化] 期望值",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a expectation",
-        "the role of expectation",
-        "expectation and evidence"
-      ],
-      "wordFamily": [
-        "expectation",
-        "expectations",
-        "expectate"
-      ],
-      "example": "This expectation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expenditure",
-      "ipaBrE": "/ɪkˈspendɪtʃə(r)/",
-      "ipaAmE": "/ɪkˈspendɪtʃər/",
-      "ipa": "/ɪkˈspendɪtʃə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "开支, 费用, 用光, 消费额 [经] 支出, 费用, 消费",
+      "zh": "a. 意识形态的, 空想的； 思想的, 思想上的, 意识形态的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a expenditure",
-        "the role of expenditure",
-        "expenditure and evidence"
+        "a ideological approach",
+        "remain ideological",
+        "ideological enough"
       ],
       "wordFamily": [
-        "expenditure",
-        "expenditures"
+        "ideological"
       ],
-      "example": "This expenditure matters when people need to make a clear decision.",
+      "example": "A ideological approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expense",
-      "ipaBrE": "/ɪkˈspens/",
-      "ipaAmE": "/ɪkˈspens/",
-      "ipa": "/ɪkˈspens/",
+      "word": "intellectual",
+      "ipaBrE": "/ˌɪntəˈlektʃuəl/",
+      "ipaAmE": "/ˌɪntəˈlektʃuəl/",
+      "ipa": "/ˌɪntəˈlektʃuəl/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "费用, 代价, 开支, 损失 [经] 费用, 开支, 将支出转为费用",
+      "zh": "n. 有知识者, 知识分子, 凭理智做事者；a. 智力的, 用脑力的, 聪明的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a expense",
-        "the role of expense",
-        "expense and evidence"
+        "a intellectual approach",
+        "remain intellectual",
+        "intellectual enough"
       ],
       "wordFamily": [
-        "expense",
-        "expenses"
+        "intellectual",
+        "intellectuals"
       ],
-      "example": "This expense matters when people need to make a clear decision.",
+      "example": "A intellectual approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "experimental",
-      "ipaBrE": "/ɪkˌsperɪˈmentl/",
-      "ipaAmE": "/ɪkˌsperɪˈmentl/",
-      "ipa": "/ɪkˌsperɪˈmentl/",
+      "word": "defend",
+      "ipaBrE": "/dɪˈfend/",
+      "ipaAmE": "/dɪˈfend/",
+      "ipa": "/dɪˈfend/",
       "pos": [
-        "adjective"
+        "verb"
       ],
-      "zh": "实验的, 根据实验的 [医] 实验的",
+      "zh": "vt. 防护, 辩护, 防卫； 作...的辩护律师, 辩护, 为...答辩",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "defend a plan",
+        "defend carefully",
+        "defend with others"
+      ],
+      "wordFamily": [
+        "defend",
+        "defending",
+        "defended",
+        "defends"
+      ],
+      "example": "We can defend the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "subsequently",
+      "ipaBrE": "/ˈsʌbsɪkwəntli/",
+      "ipaAmE": "/ˈsʌbsɪkwəntli/",
+      "ipa": "/ˈsʌbsɪkwəntli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 后来, 随后",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "subsequently a plan",
+        "subsequently carefully",
+        "subsequently with others"
+      ],
+      "wordFamily": [
+        "subsequently",
+        "subsequent"
+      ],
+      "example": "We can subsequently the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "slash",
+      "ipaBrE": "/slæʃ/",
+      "ipaAmE": "/slæʃ/",
+      "ipa": "/slæʃ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "v. 猛砍, 乱砍；n. 猛砍, 乱砍, 删减； 斜线",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a experimental approach",
-        "remain experimental",
-        "experimental enough"
+        "slash a plan",
+        "slash carefully",
+        "slash with others"
       ],
       "wordFamily": [
-        "experimental"
+        "slash"
       ],
-      "example": "A experimental approach makes the situation easier to explain.",
+      "example": "We can slash the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expertise",
-      "ipaBrE": "/ˌekspɜːˈtiːz/",
-      "ipaAmE": "/ˌekspɜːrˈtiːz/",
-      "ipa": "/ˌekspɜːˈtiːz/",
+      "word": "critic",
+      "ipaBrE": "/ˈkrɪtɪk/",
+      "ipaAmE": "/ˈkrɪtɪk/",
+      "ipa": "/ˈkrɪtɪk/",
       "pos": [
         "noun"
       ],
-      "zh": "专家意见, 专门技术 [法] 专门知识, 专家意见",
+      "zh": "n. 批评家, 鉴定家",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a expertise",
-        "the role of expertise",
-        "expertise and evidence"
+        "a critic",
+        "the role of critic",
+        "critic and evidence"
       ],
       "wordFamily": [
-        "expertise",
-        "expertises"
+        "critic",
+        "critics"
       ],
-      "example": "This expertise matters when people need to make a clear decision.",
+      "example": "This critic matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expire",
-      "ipaBrE": "/ɪkˈspaɪə(r)/",
-      "ipaAmE": "/ɪkˈspaɪər/",
-      "ipa": "/ɪkˈspaɪə(r)/",
+      "word": "pregnant",
+      "ipaBrE": "/ˈpreɡnənt/",
+      "ipaAmE": "/ˈpreɡnənt/",
+      "ipa": "/ˈpreɡnənt/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "verb：expire",
+      "zh": "a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的； 妊娠的, 有孕的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a pregnant approach",
+        "remain pregnant",
+        "pregnant enough"
+      ],
+      "wordFamily": [
+        "pregnant"
+      ],
+      "example": "A pregnant approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "province",
+      "ipaBrE": "/ˈprɒvɪns/",
+      "ipaAmE": "/ˈprɑːvɪns/",
+      "ipa": "/ˈprɒvɪns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 省, 地方, 职权, 领域； 省, 地方, 领域",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "expire a plan",
-        "expire carefully",
-        "expire with others"
+        "a province",
+        "the role of province",
+        "province and evidence"
       ],
       "wordFamily": [
-        "expire"
+        "province",
+        "provinces"
       ],
-      "example": "We can expire the next step together.",
+      "example": "This province matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "explicit",
-      "ipaBrE": "/ɪkˈsplɪsɪt/",
-      "ipaAmE": "/ɪkˈsplɪsɪt/",
-      "ipa": "/ɪkˈsplɪsɪt/",
+      "word": "completion",
+      "ipaBrE": "/kəmˈpliːʃn/",
+      "ipaAmE": "/kəmˈpliːʃn/",
+      "ipa": "/kəmˈpliːʃn/",
       "pos": [
-        "adjective"
+        "noun"
       ],
-      "zh": "详述的, 清楚的, 直言的",
+      "zh": "n. 完成； 完井, 结束, 完工",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a completion",
+        "the role of completion",
+        "completion and evidence"
+      ],
+      "wordFamily": [
+        "completion",
+        "completions",
+        "complete"
+      ],
+      "example": "This completion matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "objection",
+      "ipaBrE": "/əbˈdʒekʃn/",
+      "ipaAmE": "/əbˈdʒekʃn/",
+      "ipa": "/əbˈdʒekʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 异议, 反对, 不喜欢, 缺点, 缺陷, 妨碍, 拒绝之理由； 异议, 反对, 抗议",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a explicit approach",
-        "remain explicit",
-        "explicit enough"
+        "a objection",
+        "the role of objection",
+        "objection and evidence"
       ],
       "wordFamily": [
-        "explicit"
+        "objection",
+        "objections",
+        "objecte"
       ],
-      "example": "A explicit approach makes the situation easier to explain.",
+      "example": "This objection matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "explicitly",
-      "ipaBrE": "/ɪkˈsplɪsɪtli/",
-      "ipaAmE": "/ɪkˈsplɪsɪtli/",
-      "ipa": "/ɪkˈsplɪsɪtli/",
+      "word": "awkward",
+      "ipaBrE": "/ˈɔːkwəd/",
+      "ipaAmE": "/ˈɔːkwərd/",
+      "ipa": "/ˈɔːkwəd/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "adverb：explicitly",
+      "zh": "a. 笨拙的, 棘手的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a awkward approach",
+        "remain awkward",
+        "awkward enough"
+      ],
+      "wordFamily": [
+        "awkward"
+      ],
+      "example": "A awkward approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "objective",
+      "ipaBrE": "/əbˈdʒektɪv/",
+      "ipaAmE": "/əbˈdʒektɪv/",
+      "ipa": "/əbˈdʒektɪv/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 目的, 目标, 宗旨, 宾格, 实物；a. 客观的, 如实的, 无偏见的, 宾格的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a objective approach",
+        "remain objective",
+        "objective enough"
+      ],
+      "wordFamily": [
+        "objective",
+        "objectives"
+      ],
+      "example": "A objective approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "synthesis",
+      "ipaBrE": "/ˈsɪnθəsɪs/",
+      "ipaAmE": "/ˈsɪnθəsɪs/",
+      "ipa": "/ˈsɪnθəsɪs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 综合, 组织, 综合体； 合成",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "explicitly a plan",
-        "explicitly carefully",
-        "explicitly with others"
+        "a synthesis",
+        "the role of synthesis",
+        "synthesis and evidence"
       ],
       "wordFamily": [
-        "explicitly",
-        "explicit"
+        "synthesis",
+        "synthesi"
       ],
-      "example": "We can explicitly the next step together.",
+      "example": "This synthesis matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exploit",
-      "ipaBrE": "/ɪkˈsplɔɪt/",
-      "ipaAmE": "/ɪkˈsplɔɪt/",
-      "ipa": "/ɪkˈsplɔɪt/",
+      "word": "bombing",
+      "ipaBrE": "/ˈbɒmɪŋ/",
+      "ipaAmE": "/ˈbɑːmɪŋ/",
+      "ipa": "/ˈbɒmɪŋ/",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "zh": "功绩, 勋绩；开发, 利用, 开拓, 剥削",
+      "zh": "n. 轰炸, 投弹",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exploit a plan",
-        "exploit carefully",
-        "exploit with others"
+        "a bombing",
+        "the role of bombing",
+        "bombing and evidence"
       ],
       "wordFamily": [
-        "exploit",
-        "exploited",
-        "exploiting",
-        "exploits"
+        "bombing",
+        "bomb",
+        "bombings"
       ],
-      "example": "We can exploit the next step together.",
+      "example": "This bombing matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exploitation",
-      "ipaBrE": "/ˌeksplɔɪˈteɪʃn/",
-      "ipaAmE": "/ˌeksplɔɪˈteɪʃn/",
-      "ipa": "/ˌeksplɔɪˈteɪʃn/",
+      "word": "line-up",
+      "ipaBrE": "/ˈlaɪn ʌp/",
+      "ipaAmE": "/ˈlaɪn ʌp/",
+      "ipa": "/ˈlaɪn ʌp/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：exploitation",
+      "zh": "n. 一排人; 一组人; （用途相同的）一批东西; （比赛时）球员的阵容；v. 排成行, 排成直线",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exploitation",
-        "the role of exploitation",
-        "exploitation and evidence"
+        "a line-up",
+        "the role of line-up",
+        "line-up and evidence"
       ],
       "wordFamily": [
-        "exploitation",
-        "exploitate"
+        "line-up"
       ],
-      "example": "This exploitation matters when people need to make a clear decision.",
+      "example": "This line-up matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exploration",
-      "ipaBrE": "/ˌekspləˈreɪʃn/",
-      "ipaAmE": "/ˌekspləˈreɪʃn/",
-      "ipa": "/ˌekspləˈreɪʃn/",
+      "word": "inspect",
+      "ipaBrE": "/ɪnˈspekt/",
+      "ipaAmE": "/ɪnˈspekt/",
+      "ipa": "/ɪnˈspekt/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "探险, 踏勘, 探测 [医] 探察",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exploration",
-        "the role of exploration",
-        "exploration and evidence"
-      ],
-      "wordFamily": [
-        "exploration",
-        "explorations",
-        "explorate"
-      ],
-      "example": "This exploration matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explosive",
-      "ipaBrE": "/ɪkˈspləʊzɪv/",
-      "ipaAmE": "/ɪkˈspləʊzɪv/",
-      "ipa": "/ɪkˈspləʊzɪv/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：explosive",
+      "zh": "vt. 检查, 检阅, 检验；vi. 检查",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a explosive approach",
-        "remain explosive",
-        "explosive enough"
+        "inspect a plan",
+        "inspect carefully",
+        "inspect with others"
       ],
       "wordFamily": [
-        "explosive"
+        "inspect",
+        "inspected",
+        "inspecting",
+        "inspects"
       ],
-      "example": "A explosive approach makes the situation easier to explain.",
+      "example": "We can inspect the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expose",
-      "ipaBrE": "/ɪkˈspəʊz/",
-      "ipaAmE": "/ɪkˈspəʊz/",
-      "ipa": "/ɪkˈspəʊz/",
+      "word": "upwards",
+      "ipaBrE": "/ˈʌpwədz/",
+      "ipaAmE": "/ˈʌpwərdz/",
+      "ipa": "/ˈʌpwədz/",
       "pos": [
         "verb"
       ],
-      "zh": "使暴露, 使曝光, 揭穿, 陈列 [医] 暴露, 露置",
+      "zh": "adv. 以上, 向上",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "expose a plan",
-        "expose carefully",
-        "expose with others"
+        "upwards a plan",
+        "upwards carefully",
+        "upwards with others"
       ],
       "wordFamily": [
-        "expose",
-        "exposed",
-        "exposing",
-        "exposes"
+        "upwards",
+        "upward"
       ],
-      "example": "We can expose the next step together.",
+      "example": "We can upwards the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exposure",
-      "ipaBrE": "/ɪkˈspəʊʒə(r)/",
-      "ipaAmE": "/ɪkˈspəʊʒər/",
-      "ipa": "/ɪkˈspəʊʒə(r)/",
+      "word": "caution",
+      "ipaBrE": "/ˈkɔːʃn/",
+      "ipaAmE": "/ˈkɔːʃn/",
+      "ipa": "/ˈkɔːʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "暴露, 揭发, 揭露 [化] 曝光量; 照射; 照射量",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exposure",
-        "the role of exposure",
-        "exposure and evidence"
-      ],
-      "wordFamily": [
-        "exposure",
-        "exposures"
-      ],
-      "example": "This exposure matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extend",
-      "ipaBrE": "/ɪkˈstend/",
-      "ipaAmE": "/ɪkˈstend/",
-      "ipa": "/ɪkˈstend/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "扩充, 延伸, 伸展, 扩大 [计] 扩展",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "extend a plan",
-        "extend carefully",
-        "extend with others"
-      ],
-      "wordFamily": [
-        "extend",
-        "extended",
-        "extending",
-        "extends"
-      ],
-      "example": "We can extend the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extension",
-      "ipaBrE": "/ɪkˈstenʃn/",
-      "ipaAmE": "/ɪkˈstenʃn/",
-      "ipa": "/ɪkˈstenʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "延长, 扩充, 范围, 扩展名；伸缩的 [计] 扩展名, 扩充名",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extension",
-        "the role of extension",
-        "extension and evidence"
-      ],
-      "wordFamily": [
-        "extension",
-        "extensions"
-      ],
-      "example": "This extension matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extensive",
-      "ipaBrE": "/ɪkˈstensɪv/",
-      "ipaAmE": "/ɪkˈstensɪv/",
-      "ipa": "/ɪkˈstensɪv/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "广的, 广泛的, 多方面的 [经] 广大的, 扩大的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extensive approach",
-        "remain extensive",
-        "extensive enough"
-      ],
-      "wordFamily": [
-        "extensive"
-      ],
-      "example": "A extensive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extensively",
-      "ipaBrE": "/ɪkˈstensɪvli/",
-      "ipaAmE": "/ɪkˈstensɪvli/",
-      "ipa": "/ɪkˈstensɪvli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "adverb：extensively",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "extensively a plan",
-        "extensively carefully",
-        "extensively with others"
-      ],
-      "wordFamily": [
-        "extensively",
-        "extensive"
-      ],
-      "example": "We can extensively the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extent",
-      "ipaBrE": "/ɪkˈstent/",
-      "ipaAmE": "/ɪkˈstent/",
-      "ipa": "/ɪkˈstent/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "范围, 程度, 区域 [计] 范围",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extent",
-        "the role of extent",
-        "extent and evidence"
-      ],
-      "wordFamily": [
-        "extent",
-        "extents"
-      ],
-      "example": "This extent matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "external",
-      "ipaBrE": "/ɪkˈstɜːnl/",
-      "ipaAmE": "/ɪkˈstɜːrnl/",
-      "ipa": "/ɪkˈstɜːnl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "外部, 外面；外部的, 客观的, 表面的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a external approach",
-        "remain external",
-        "external enough"
-      ],
-      "wordFamily": [
-        "external",
-        "externals"
-      ],
-      "example": "A external approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extract",
-      "ipaBrE": "/ˈekstrækt/",
-      "ipaAmE": "/ˈekstrækt/",
-      "ipa": "/ˈekstrækt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "榨出物, 精汁, 摘录, 选段；(费力地)取出, 采掘, 榨取, 摘录, 吸取 [计] 提取",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extract",
-        "the role of extract",
-        "extract and evidence"
-      ],
-      "wordFamily": [
-        "extract",
-        "extracts",
-        "extracted",
-        "extracting"
-      ],
-      "example": "This extract matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extraordinary",
-      "ipaBrE": "/ɪkˈstrɔːdnri/",
-      "ipaAmE": "/ɪkˈstrɔːrdəneri/",
-      "ipa": "/ɪkˈstrɔːdnri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "非常的, 特别的, 非凡的 [经] 非常的, 特别的, 临时的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extraordinary approach",
-        "remain extraordinary",
-        "extraordinary enough"
-      ],
-      "wordFamily": [
-        "extraordinary",
-        "extraordinaries"
-      ],
-      "example": "A extraordinary approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extremist",
-      "ipaBrE": "/ɪkˈstriːmɪst/",
-      "ipaAmE": "/ɪkˈstriːmɪst/",
-      "ipa": "/ɪkˈstriːmɪst/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：extremist",
+      "zh": "n. 小心, 慎重, 警示；vt. 警告； 警告",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a extremist",
-        "the role of extremist",
-        "extremist and evidence"
+        "a caution",
+        "the role of caution",
+        "caution and evidence"
       ],
       "wordFamily": [
-        "extremist"
+        "caution",
+        "cautioned",
+        "cautions",
+        "cautioning"
       ],
-      "example": "This extremist matters when people need to make a clear decision.",
+      "example": "This caution matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "fabric",
-      "ipaBrE": "/ˈfæbrɪk/",
-      "ipaAmE": "/ˈfæbrɪk/",
-      "ipa": "/ˈfæbrɪk/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "织物, 布, 结构, 构造, 建筑物 [经] 组织, 建筑物, 工厂",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a fabric",
-        "the role of fabric",
-        "fabric and evidence"
-      ],
-      "wordFamily": [
-        "fabric",
-        "fabrics"
-      ],
-      "example": "This fabric matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "fabulous",
-      "ipaBrE": "/ˈfæbjələs/",
-      "ipaAmE": "/ˈfæbjələs/",
-      "ipa": "/ˈfæbjələs/",
+      "word": "offensive",
+      "ipaBrE": "/əˈfensɪv/",
+      "ipaAmE": "/əˈfensɪv/",
+      "ipa": "/əˈfensɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：fabulous",
+      "zh": "a. 令人不快的, 侮辱的, 攻击性的； 攻击的, 进攻的, 冒犯的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a fabulous approach",
-        "remain fabulous",
-        "fabulous enough"
+        "a offensive approach",
+        "remain offensive",
+        "offensive enough"
       ],
       "wordFamily": [
-        "fabulous",
-        "fabulou"
+        "offensive",
+        "offensives"
       ],
-      "example": "A fabulous approach makes the situation easier to explain.",
+      "example": "A offensive approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "facilitate",
-      "ipaBrE": "/fəˈsɪlɪteɪt/",
-      "ipaAmE": "/fəˈsɪlɪteɪt/",
-      "ipa": "/fəˈsɪlɪteɪt/",
+      "word": "ongoing",
+      "ipaBrE": "/ˈɒnɡəʊɪŋ/",
+      "ipaAmE": "/ˈɑːnɡəʊɪŋ/",
+      "ipa": "/ˈɒnɡəʊɪŋ/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "使容易, 促进, 帮助 [法] 使容易, 使便利, 推进",
+      "zh": "a. 前进的, 进行的, 不间断的；n. 前进, 发展",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a ongoing approach",
+        "remain ongoing",
+        "ongoing enough"
+      ],
+      "wordFamily": [
+        "ongoing",
+        "ongo"
+      ],
+      "example": "A ongoing approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "capability",
+      "ipaBrE": "/ˌkeɪpəˈbɪləti/",
+      "ipaAmE": "/ˌkeɪpəˈbɪləti/",
+      "ipa": "/ˌkeɪpəˈbɪləti/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 能力, 性能, 约束力； 能力",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "facilitate a plan",
-        "facilitate carefully",
-        "facilitate with others"
+        "a capability",
+        "the role of capability",
+        "capability and evidence"
       ],
       "wordFamily": [
-        "facilitate",
-        "facilitated",
-        "facilitates",
-        "facilitating"
+        "capability",
+        "capabilities",
+        "capabil"
       ],
-      "example": "We can facilitate the next step together.",
+      "example": "This capability matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "especially",
-      "ipaBrE": "/ɪˈspeʃəli/",
-      "ipaAmE": "/ɪˈspeʃəli/",
-      "ipa": "/ɪˈspeʃəli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "尤其, 特别, 格外",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "especially a plan",
-        "especially carefully",
-        "especially with others"
-      ],
-      "wordFamily": [
-        "especially",
-        "especial"
-      ],
-      "example": "We can especially the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "essay",
-      "ipaBrE": "/ˈeseɪ/",
-      "ipaAmE": "/ˈeseɪ/",
-      "ipa": "/ˈeseɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "随笔, 短文, 评论, 企图；试图",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a essay",
-        "the role of essay",
-        "essay and evidence"
-      ],
-      "wordFamily": [
-        "essay",
-        "essays",
-        "essayed",
-        "essaying"
-      ],
-      "example": "This essay matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "essential",
-      "ipaBrE": "/ɪˈsenʃl/",
-      "ipaAmE": "/ɪˈsenʃl/",
-      "ipa": "/ɪˈsenʃl/",
+      "word": "optical",
+      "ipaBrE": "/ˈɒptɪkl/",
+      "ipaAmE": "/ˈɑːptɪkl/",
+      "ipa": "/ˈɒptɪkl/",
       "pos": [
         "adjective"
       ],
-      "zh": "要素, 要点, 本质；必要的, 重要的, 本质的 [计] 本质冒险",
-      "cefr": "B1",
+      "zh": "a. 眼睛的, 视觉的, 光学的； 光学上的, 光学的",
+      "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "activation",
+      "role": "extension",
       "topic": "work",
       "collocations": [
-        "a essential approach",
-        "remain essential",
-        "essential enough"
+        "a optical approach",
+        "remain optical",
+        "optical enough"
       ],
       "wordFamily": [
-        "essential",
-        "essentials"
+        "optical"
       ],
-      "example": "A essential approach makes the situation easier to explain.",
+      "example": "A optical approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "euro",
-      "ipaBrE": "/ˈjʊərəʊ/",
-      "ipaAmE": "/ˈjʊrəʊ/",
-      "ipa": "/ˈjʊərəʊ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：euro",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a euro",
-        "the role of euro",
-        "euro and evidence"
-      ],
-      "wordFamily": [
-        "euro"
-      ],
-      "example": "This euro matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "evening",
-      "ipaBrE": "/ˈiːvnɪŋ/",
-      "ipaAmE": "/ˈiːvnɪŋ/",
-      "ipa": "/ˈiːvnɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "傍晚, 晚间, 末期",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a evening",
-        "the role of evening",
-        "evening and evidence"
-      ],
-      "wordFamily": [
-        "evening",
-        "even",
-        "evenings"
-      ],
-      "example": "This evening matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "event",
-      "ipaBrE": "/ɪˈvent/",
-      "ipaAmE": "/ɪˈvent/",
-      "ipa": "/ɪˈvent/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "事件, 结果, 事情的进程, 竞赛项目 [计] 事件",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a event",
-        "the role of event",
-        "event and evidence"
-      ],
-      "wordFamily": [
-        "event",
-        "events"
-      ],
-      "example": "This event matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "eventually",
-      "ipaBrE": "/ɪˈventʃuəli/",
-      "ipaAmE": "/ɪˈventʃuəli/",
-      "ipa": "/ɪˈventʃuəli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "最后, 终于",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "eventually a plan",
-        "eventually carefully",
-        "eventually with others"
-      ],
-      "wordFamily": [
-        "eventually",
-        "eventual"
-      ],
-      "example": "We can eventually the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ever",
-      "ipaBrE": "/ˈevə(r)/",
-      "ipaAmE": "/ˈevər/",
-      "ipa": "/ˈevə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "曾经, 究竟, 永远",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "ever a plan",
-        "ever carefully",
-        "ever with others"
-      ],
-      "wordFamily": [
-        "ever"
-      ],
-      "example": "We can ever the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "every",
-      "ipaBrE": "/ˈevri/",
-      "ipaAmE": "/ˈevri/",
-      "ipa": "/ˈevri/",
-      "pos": [
-        "determiner"
-      ],
-      "zh": "每一, 所有的",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a every",
-        "the role of every",
-        "every and evidence"
-      ],
-      "wordFamily": [
-        "every"
-      ],
-      "example": "This every matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everybody",
-      "ipaBrE": "/ˈevribɒdi/",
-      "ipaAmE": "/ˈevribʌdi/",
-      "ipa": "/ˈevribɒdi/",
-      "pos": [
-        "pronoun"
-      ],
-      "zh": "每个人, 人人",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a everybody",
-        "the role of everybody",
-        "everybody and evidence"
-      ],
-      "wordFamily": [
-        "everybody"
-      ],
-      "example": "This everybody matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everyday",
-      "ipaBrE": "/ˈevrideɪ/",
-      "ipaAmE": "/ˈevrideɪ/",
-      "ipa": "/ˈevrideɪ/",
+      "word": "vulnerable",
+      "ipaBrE": "/ˈvʌlnərəbl/",
+      "ipaAmE": "/ˈvʌlnərəbl/",
+      "ipa": "/ˈvʌlnərəbl/",
       "pos": [
         "adjective"
       ],
-      "zh": "每天的, 日常的, 平常的",
-      "cefr": "A2",
+      "zh": "a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的； 易损的",
+      "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "activation",
+      "role": "extension",
       "topic": "work",
       "collocations": [
-        "a everyday approach",
-        "remain everyday",
-        "everyday enough"
+        "a vulnerable approach",
+        "remain vulnerable",
+        "vulnerable enough"
       ],
       "wordFamily": [
-        "everyday"
+        "vulnerable",
+        "vulner"
       ],
-      "example": "A everyday approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everyone",
-      "ipaBrE": "/ˈevriwʌn/",
-      "ipaAmE": "/ˈevriwʌn/",
-      "ipa": "/ˈevriwʌn/",
-      "pos": [
-        "pronoun"
-      ],
-      "zh": "每个人, 人人 [计] 系统中的一个组名",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a everyone",
-        "the role of everyone",
-        "everyone and evidence"
-      ],
-      "wordFamily": [
-        "everyone"
-      ],
-      "example": "This everyone matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everything",
-      "ipaBrE": "/ˈevriθɪŋ/",
-      "ipaAmE": "/ˈevriθɪŋ/",
-      "ipa": "/ˈevriθɪŋ/",
-      "pos": [
-        "pronoun"
-      ],
-      "zh": "每件事物, 所有事物",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a everything",
-        "the role of everything",
-        "everything and evidence"
-      ],
-      "wordFamily": [
-        "everything",
-        "everyth"
-      ],
-      "example": "This everything matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everywhere",
-      "ipaBrE": "/ˈevriweə(r)/",
-      "ipaAmE": "/ˈevriwer/",
-      "ipa": "/ˈevriweə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "各处, 到处",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "everywhere a plan",
-        "everywhere carefully",
-        "everywhere with others"
-      ],
-      "wordFamily": [
-        "everywhere"
-      ],
-      "example": "We can everywhere the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "evidence",
-      "ipaBrE": "/ˈevɪdəns/",
-      "ipaAmE": "/ˈevɪdəns/",
-      "ipa": "/ˈevɪdəns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "根据, 证据, 迹象 [经] 证据, 凭证",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a evidence",
-        "the role of evidence",
-        "evidence and evidence"
-      ],
-      "wordFamily": [
-        "evidence",
-        "evidenced",
-        "evidences",
-        "evidencing"
-      ],
-      "example": "This evidence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exact",
-      "ipaBrE": "/ɪɡˈzækt/",
-      "ipaAmE": "/ɪɡˈzækt/",
-      "ipa": "/ɪɡˈzækt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "精确的, 准确的, 精密的；强求, 急需",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exact approach",
-        "remain exact",
-        "exact enough"
-      ],
-      "wordFamily": [
-        "exact",
-        "exacted",
-        "exacts",
-        "exacting"
-      ],
-      "example": "A exact approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exactly",
-      "ipaBrE": "/ɪɡˈzæktli/",
-      "ipaAmE": "/ɪɡˈzæktli/",
-      "ipa": "/ɪɡˈzæktli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "确切地, 精确地, 恰好, 完全地, 确实, 恰恰正是, 确实如此",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "exactly a plan",
-        "exactly carefully",
-        "exactly with others"
-      ],
-      "wordFamily": [
-        "exactly",
-        "exact"
-      ],
-      "example": "We can exactly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exam",
-      "ipaBrE": "/ɪɡˈzæm/",
-      "ipaAmE": "/ɪɡˈzæm/",
-      "ipa": "/ɪɡˈzæm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "考试, 测验",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exam",
-        "the role of exam",
-        "exam and evidence"
-      ],
-      "wordFamily": [
-        "exam",
-        "exams"
-      ],
-      "example": "This exam matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "examine",
-      "ipaBrE": "/ɪɡˈzæmɪn/",
-      "ipaAmE": "/ɪɡˈzæmɪn/",
-      "ipa": "/ɪɡˈzæmɪn/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "检查, 调查, 考试",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "examine a plan",
-        "examine carefully",
-        "examine with others"
-      ],
-      "wordFamily": [
-        "examine",
-        "examined",
-        "examining",
-        "examines"
-      ],
-      "example": "We can examine the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "example",
-      "ipaBrE": "/ɪɡˈzɑːmpl/",
-      "ipaAmE": "/ɪɡˈzæmpl/",
-      "ipa": "/ɪɡˈzɑːmpl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "例子, 样本, 实例 [化] 实例",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a example",
-        "the role of example",
-        "example and evidence"
-      ],
-      "wordFamily": [
-        "example",
-        "examples"
-      ],
-      "example": "This example matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "excellent",
-      "ipaBrE": "/ˈeksələnt/",
-      "ipaAmE": "/ˈeksələnt/",
-      "ipa": "/ˈeksələnt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "优良的, 杰出的, 出色的",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a excellent approach",
-        "remain excellent",
-        "excellent enough"
-      ],
-      "wordFamily": [
-        "excellent"
-      ],
-      "example": "A excellent approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "except",
-      "ipaBrE": "/ɪkˈsept/",
-      "ipaAmE": "/ɪkˈsept/",
-      "ipa": "/ɪkˈsept/",
-      "pos": [
-        "conjunction"
-      ],
-      "zh": "除, 除外；反对；除了...之外, 若不是, 除非；只是",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a except",
-        "the role of except",
-        "except and evidence"
-      ],
-      "wordFamily": [
-        "except",
-        "excepting",
-        "excepted",
-        "excepts"
-      ],
-      "example": "This except matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exchange",
-      "ipaBrE": "/ɪksˈtʃeɪndʒ/",
-      "ipaAmE": "/ɪksˈtʃeɪndʒ/",
-      "ipa": "/ɪksˈtʃeɪndʒ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "交换, (电话)交换局, 交换机, 汇兑, 交易所；交换, 交易, 兑换 [计] 交换; 电话局",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exchange",
-        "the role of exchange",
-        "exchange and evidence"
-      ],
-      "wordFamily": [
-        "exchange",
-        "exchanges",
-        "exchanged",
-        "exchanging"
-      ],
-      "example": "This exchange matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "excited",
-      "ipaBrE": "/ɪkˈsaɪtɪd/",
-      "ipaAmE": "/ɪkˈsaɪtɪd/",
-      "ipa": "/ɪkˈsaɪtɪd/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "兴奋的, 已励磁的, 已激发的, 激昂的, 激动的",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a excited approach",
-        "remain excited",
-        "excited enough"
-      ],
-      "wordFamily": [
-        "excited",
-        "dp",
-        "excit"
-      ],
-      "example": "A excited approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "excitement",
-      "ipaBrE": "/ɪkˈsaɪtmənt/",
-      "ipaAmE": "/ɪkˈsaɪtmənt/",
-      "ipa": "/ɪkˈsaɪtmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "刺激, 兴奋 [医] 兴奋, 激动",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a excitement",
-        "the role of excitement",
-        "excitement and evidence"
-      ],
-      "wordFamily": [
-        "excitement",
-        "excitements",
-        "excite"
-      ],
-      "example": "This excitement matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exciting",
-      "ipaBrE": "/ɪkˈsaɪtɪŋ/",
-      "ipaAmE": "/ɪkˈsaɪtɪŋ/",
-      "ipa": "/ɪkˈsaɪtɪŋ/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "令人兴奋的, 刺激的 [电] 激磁",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exciting approach",
-        "remain exciting",
-        "exciting enough"
-      ],
-      "wordFamily": [
-        "exciting",
-        "excit"
-      ],
-      "example": "A exciting approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exhibition",
-      "ipaBrE": "/ˌeksɪˈbɪʃn/",
-      "ipaAmE": "/ˌeksɪˈbɪʃn/",
-      "ipa": "/ˌeksɪˈbɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "表现, 展览会, 展览品 [医] 投药, 展览, 展出",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exhibition",
-        "the role of exhibition",
-        "exhibition and evidence"
-      ],
-      "wordFamily": [
-        "exhibition",
-        "exhibitions",
-        "exhibite"
-      ],
-      "example": "This exhibition matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exist",
-      "ipaBrE": "/ɪɡˈzɪst/",
-      "ipaAmE": "/ɪɡˈzɪst/",
-      "ipa": "/ɪɡˈzɪst/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "存在, 生存, 发生",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "exist a plan",
-        "exist carefully",
-        "exist with others"
-      ],
-      "wordFamily": [
-        "exist",
-        "exists",
-        "existed",
-        "existing"
-      ],
-      "example": "We can exist the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "existing",
-      "ipaBrE": "/i^ˈzistiŋ/",
-      "ipaAmE": "/i^ˈzistiŋ/",
-      "ipa": "/i^ˈzistiŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "存在的, 目前的, 现存的, 现有的 [计] 现成的, 已有的, 现存的",
-      "cefr": "B1",
-      "source": "Oxford 5000 companion",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a existing",
-        "the role of existing",
-        "existing and evidence"
-      ],
-      "wordFamily": [
-        "existing",
-        "exist"
-      ],
-      "example": "This existing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expand",
-      "ipaBrE": "/ɪkˈspænd/",
-      "ipaAmE": "/ɪkˈspænd/",
-      "ipa": "/ɪkˈspænd/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "使膨胀, 详述, 扩张；张开, 发展；展开；展开 [计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "expand a plan",
-        "expand carefully",
-        "expand with others"
-      ],
-      "wordFamily": [
-        "expand",
-        "expanded",
-        "expanding",
-        "expands"
-      ],
-      "example": "We can expand the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expect",
-      "ipaBrE": "/ɪkˈspekt/",
-      "ipaAmE": "/ɪkˈspekt/",
-      "ipa": "/ɪkˈspekt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "预期, 盼望, 期待",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "expect a plan",
-        "expect carefully",
-        "expect with others"
-      ],
-      "wordFamily": [
-        "expect",
-        "expected",
-        "expecting",
-        "expects"
-      ],
-      "example": "We can expect the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expected",
-      "ipaBrE": "/ɪkˈspektɪd/",
-      "ipaAmE": "/ɪkˈspektɪd/",
-      "ipa": "/ɪkˈspektɪd/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：expected",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expected approach",
-        "remain expected",
-        "expected enough"
-      ],
-      "wordFamily": [
-        "expected",
-        "expect"
-      ],
-      "example": "A expected approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expedition",
-      "ipaBrE": "/ˌekspəˈdɪʃn/",
-      "ipaAmE": "/ˌekspəˈdɪʃn/",
-      "ipa": "/ˌekspəˈdɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "远征, 探险队, 迅速",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expedition",
-        "the role of expedition",
-        "expedition and evidence"
-      ],
-      "wordFamily": [
-        "expedition",
-        "expeditions",
-        "expedite"
-      ],
-      "example": "This expedition matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expensive",
-      "ipaBrE": "/ɪkˈspensɪv/",
-      "ipaAmE": "/ɪkˈspensɪv/",
-      "ipa": "/ɪkˈspensɪv/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "贵的, 奢华的, 费用浩大的, 乱化钱的 [经] 高价的, 昂贵的, 浪费的",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expensive approach",
-        "remain expensive",
-        "expensive enough"
-      ],
-      "wordFamily": [
-        "expensive"
-      ],
-      "example": "A expensive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "experience",
-      "ipaBrE": "/ɪkˈspɪəriəns/",
-      "ipaAmE": "/ɪkˈspɪriəns/",
-      "ipa": "/ɪkˈspɪəriəns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "经历, 经验, 体验；经历, 经验, 体验",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a experience",
-        "the role of experience",
-        "experience and evidence"
-      ],
-      "wordFamily": [
-        "experience",
-        "experiences",
-        "experienced",
-        "experiencing"
-      ],
-      "example": "This experience matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "experienced",
-      "ipaBrE": "/ɪkˈspɪəriənst/",
-      "ipaAmE": "/ɪkˈspɪriənst/",
-      "ipa": "/ɪkˈspɪəriənst/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "富有经验的, 老练的, 熟练的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a experienced approach",
-        "remain experienced",
-        "experienced enough"
-      ],
-      "wordFamily": [
-        "experienced",
-        "experience",
-        "dp",
-        "experienc"
-      ],
-      "example": "A experienced approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "experiment",
-      "ipaBrE": "/ɪkˈsperɪmənt/",
-      "ipaAmE": "/ɪkˈsperɪmənt/",
-      "ipa": "/ɪkˈsperɪmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "实验, 试验, 实验仪器；实验, 尝试",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a experiment",
-        "the role of experiment",
-        "experiment and evidence"
-      ],
-      "wordFamily": [
-        "experiment",
-        "experiments",
-        "experimenting",
-        "experimented"
-      ],
-      "example": "This experiment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expert",
-      "ipaBrE": "/ˈekspɜːt/",
-      "ipaAmE": "/ˈekspɜːrt/",
-      "ipa": "/ˈekspɜːt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "专家, 行家；老练的, 内行的, 专门的 [计] 高级",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expert approach",
-        "remain expert",
-        "expert enough"
-      ],
-      "wordFamily": [
-        "expert",
-        "experts"
-      ],
-      "example": "A expert approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explain",
-      "ipaBrE": "/ɪkˈspleɪn/",
-      "ipaAmE": "/ɪkˈspleɪn/",
-      "ipa": "/ɪkˈspleɪn/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "解释, 说明",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "explain a plan",
-        "explain carefully",
-        "explain with others"
-      ],
-      "wordFamily": [
-        "explain",
-        "explained",
-        "explains",
-        "explaining"
-      ],
-      "example": "We can explain the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explanation",
-      "ipaBrE": "/ˌekspləˈneɪʃn/",
-      "ipaAmE": "/ˌekspləˈneɪʃn/",
-      "ipa": "/ˌekspləˈneɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "解释, 说明, 辩解, 表明 [经] 解释, 注释, 说明",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a explanation",
-        "the role of explanation",
-        "explanation and evidence"
-      ],
-      "wordFamily": [
-        "explanation",
-        "explanations",
-        "explanate"
-      ],
-      "example": "This explanation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explode",
-      "ipaBrE": "/ɪkˈspləʊd/",
-      "ipaAmE": "/ɪkˈspləʊd/",
-      "ipa": "/ɪkˈspləʊd/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "爆炸, 爆发, 激增；使爆炸",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "explode a plan",
-        "explode carefully",
-        "explode with others"
-      ],
-      "wordFamily": [
-        "explode",
-        "exploded",
-        "exploding",
-        "explodes"
-      ],
-      "example": "We can explode the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explore",
-      "ipaBrE": "/ɪkˈsplɔː(r)/",
-      "ipaAmE": "/ɪkˈsplɔːr/",
-      "ipa": "/ɪkˈsplɔː(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "探险, 探测, 探究",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "explore a plan",
-        "explore carefully",
-        "explore with others"
-      ],
-      "wordFamily": [
-        "explore",
-        "exploring",
-        "explored",
-        "explores"
-      ],
-      "example": "We can explore the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explosion",
-      "ipaBrE": "/ɪkˈspləʊʒn/",
-      "ipaAmE": "/ɪkˈspləʊʒn/",
-      "ipa": "/ɪkˈspləʊʒn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "爆发, 激增, 爆炸(声) [化] 爆炸",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a explosion",
-        "the role of explosion",
-        "explosion and evidence"
-      ],
-      "wordFamily": [
-        "explosion",
-        "explosions"
-      ],
-      "example": "This explosion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "export",
-      "ipaBrE": "/ˈekspɔːt/",
-      "ipaAmE": "/ˈekspɔːrt/",
-      "ipa": "/ˈekspɔːt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "输出品, 输出；输出, 出口；输出物资 [计] 导出",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a export",
-        "the role of export",
-        "export and evidence"
-      ],
-      "wordFamily": [
-        "export",
-        "exports",
-        "exported",
-        "exporting"
-      ],
-      "example": "This export matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "express",
-      "ipaBrE": "/ɪkˈspres/",
-      "ipaAmE": "/ɪkˈspres/",
-      "ipa": "/ɪkˈspres/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "快车, 快递, 专使；明确的, 丝毫不差的, 专门的, 快的；表达, 表示, 表露",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "express a plan",
-        "express carefully",
-        "express with others"
-      ],
-      "wordFamily": [
-        "express",
-        "expressed",
-        "expressing",
-        "expresses"
-      ],
-      "example": "We can express the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expression",
-      "ipaBrE": "/ɪkˈspreʃn/",
-      "ipaAmE": "/ɪkˈspreʃn/",
-      "ipa": "/ɪkˈspreʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "表达, 表现, 词语, 措辞 [计] 表达式",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expression",
-        "the role of expression",
-        "expression and evidence"
-      ],
-      "wordFamily": [
-        "expression",
-        "expressions"
-      ],
-      "example": "This expression matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extra",
-      "ipaBrE": "/ˈekstrə/",
-      "ipaAmE": "/ˈekstrə/",
-      "ipa": "/ˈekstrə/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "额外的事物, 另外的收费；额外的, 特别的 adv. 额外地, 特别地, 非常地",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a extra approach",
-        "remain extra",
-        "extra enough"
-      ],
-      "wordFamily": [
-        "extra",
-        "extras"
-      ],
-      "example": "A extra approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extreme",
-      "ipaBrE": "/ɪkˈstriːm/",
-      "ipaAmE": "/ɪkˈstriːm/",
-      "ipa": "/ɪkˈstriːm/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "极端, 末端；极端的, 尽头的, 极度的, 偏激的",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a extreme approach",
-        "remain extreme",
-        "extreme enough"
-      ],
-      "wordFamily": [
-        "extreme",
-        "extremes",
-        "extremest"
-      ],
-      "example": "A extreme approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extremely",
-      "ipaBrE": "/ɪkˈstriːmli/",
-      "ipaAmE": "/ɪkˈstriːmli/",
-      "ipa": "/ɪkˈstriːmli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "极端地, 非常地",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "extremely a plan",
-        "extremely carefully",
-        "extremely with others"
-      ],
-      "wordFamily": [
-        "extremely",
-        "extreme"
-      ],
-      "example": "We can extremely the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "eye",
-      "ipaBrE": "/aɪ/",
-      "ipaAmE": "/aɪ/",
-      "ipa": "/aɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "眼睛, 视力, 看；看, 注视",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a eye",
-        "the role of eye",
-        "eye and evidence"
-      ],
-      "wordFamily": [
-        "eye",
-        "eyes",
-        "eyed",
-        "eyeing"
-      ],
-      "example": "This eye matters when people need to make a clear decision.",
+      "example": "A vulnerable approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     }
   ],
   "passage": {
     "title": "Present with purpose",
     "paragraphs": [
-      "A real work task usually begins with a small decision. In this lesson, we look at present with purpose through a situation involving email, meetings, feedback, problems, negotiation, trust, presentations, remote work, and careers. The aim is to notice how people explain a choice and keep the next step practical. The first useful terms are evolve, exaggerate, examination, exceed, excellence, exception, exceptional, excess, excessive, exclude.",
-      "When the situation changes, a clear speaker can pause, ask for clarification, and respond with evidence. In this case, the conversation also involves exclusion, exclusive, exclusively, excuse, execute, execution, executive, exert, exhibit, exile. These terms help a learner describe what is happening without forcing every expression into one sentence.",
-      "The final part of the task brings in existence, exit, exotic, expansion, expectation, expenditure, expense, experimental, expertise, expire. By the end, connect at least one phrase to something you have done, need to do, or may discuss tomorrow. A word becomes easier to remember when it helps you complete a real task."
+      "A real work task usually begins with a small decision. In this lesson, we look at present with purpose through a situation involving email, meetings, feedback, problems, negotiation, trust, presentations, remote work, and careers. The aim is to notice how people explain a choice and keep the next step practical. The first useful terms are marketing, laughter, theater, another, either, afternoon, vacation, by, general, mention.",
+      "When the situation changes, a clear speaker can pause, ask for clarification, and respond with evidence. In this case, the conversation also involves cigarette, disappointed, ride, discovery, knowledge, rough, competition, farmer, disadvantage, morning. These terms help a learner describe what is happening without forcing every expression into one sentence.",
+      "The final part of the task brings in property, queue, richard, pollution, annoy, usually, turn, costume, port, complete. By the end, connect at least one phrase to something you have done, need to do, or may discuss tomorrow. A word becomes easier to remember when it helps you complete a real task."
     ],
     "translation": [
       "一个真实的work任务通常从一个小决定开始。本课通过email, meetings, feedback, problems, negotiation, trust, presentations, remote work, and careers相关的情境，理解如何解释选择，并让下一步切实可行。",
       "情况变化时，清晰的表达者可以停顿、请求澄清，并用证据回应。与其把所有新表达硬塞进一句话，不如在对话、例句和后续任务中反复遇见实用语言。",
-      "请用这组词把情境变成自己的经历，从evolve, exaggerate, examination, exceed, excellence, exception, exceptional, excess, excessive, exclude中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
+      "请用这组词把情境变成自己的经历，从marketing, laughter, theater, another, either, afternoon, vacation, by, general, mention中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
     ],
     "highlightedWords": [
-      "evolve",
-      "exaggerate",
-      "examination",
-      "exceed",
-      "excellence",
-      "exception",
-      "exceptional",
-      "excess",
-      "excessive",
-      "exclude",
-      "exclusion",
-      "exclusive",
-      "exclusively",
-      "excuse",
-      "execute",
-      "execution",
-      "executive",
-      "exert",
-      "exhibit",
-      "exile",
-      "existence",
-      "exit",
-      "exotic",
-      "expansion",
-      "expectation",
-      "expenditure",
-      "expense",
-      "experimental",
-      "expertise",
-      "expire"
+      "marketing",
+      "laughter",
+      "theater",
+      "another",
+      "either",
+      "afternoon",
+      "vacation",
+      "by",
+      "general",
+      "mention",
+      "cigarette",
+      "disappointed",
+      "ride",
+      "discovery",
+      "knowledge",
+      "rough",
+      "competition",
+      "farmer",
+      "disadvantage",
+      "morning",
+      "property",
+      "queue",
+      "richard",
+      "pollution",
+      "annoy",
+      "usually",
+      "turn",
+      "costume",
+      "port",
+      "complete"
     ]
   },
   "topic": "work",
   "targetWords": [
     {
-      "word": "evolve",
-      "ipaBrE": "/ɪˈvɒlv/",
-      "ipaAmE": "/ɪˈvɑːlv/",
-      "ipa": "/ɪˈvɒlv/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "进展, 进化, 展开；使发展, 使推断出, 使进化",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "evolve a plan",
-        "evolve carefully",
-        "evolve with others"
-      ],
-      "wordFamily": [
-        "evolve",
-        "evolved",
-        "evolving",
-        "evolves"
-      ],
-      "example": "We can evolve the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exaggerate",
-      "ipaBrE": "/ɪɡˈzædʒəreɪt/",
-      "ipaAmE": "/ɪɡˈzædʒəreɪt/",
-      "ipa": "/ɪɡˈzædʒəreɪt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：exaggerate",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "exaggerate a plan",
-        "exaggerate carefully",
-        "exaggerate with others"
-      ],
-      "wordFamily": [
-        "exaggerate"
-      ],
-      "example": "We can exaggerate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "examination",
-      "ipaBrE": "/ɪɡˌzæmɪˈneɪʃn/",
-      "ipaAmE": "/ɪɡˌzæmɪˈneɪʃn/",
-      "ipa": "/ɪɡˌzæmɪˈneɪʃn/",
+      "word": "marketing",
+      "ipaBrE": "/ˈmɑːkɪtɪŋ/",
+      "ipaAmE": "/ˈmɑːrkɪtɪŋ/",
+      "ipa": "/ˈmɑːkɪtɪŋ/",
       "pos": [
         "noun"
       ],
-      "zh": "考试, 测验, 审查 [医] 检查, 诊察",
-      "cefr": "B2",
+      "zh": "n. 行销, 买卖； 推销, 在市场买卖, 销售",
+      "cefr": "B1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "a examination",
-        "the role of examination",
-        "examination and evidence"
+        "a marketing",
+        "the role of marketing",
+        "marketing and evidence"
       ],
       "wordFamily": [
-        "examination",
-        "examinations",
-        "examinate"
+        "marketing",
+        "market"
       ],
-      "example": "This examination matters when people need to make a clear decision.",
+      "example": "This marketing matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exceed",
-      "ipaBrE": "/ɪkˈsiːd/",
-      "ipaAmE": "/ɪkˈsiːd/",
-      "ipa": "/ɪkˈsiːd/",
+      "word": "laughter",
+      "ipaBrE": "/ˈlɑːftə(r)/",
+      "ipaAmE": "/ˈlæftər/",
+      "ipa": "/ˈlɑːftə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 笑, 笑声； 笑, 大笑",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a laughter",
+        "the role of laughter",
+        "laughter and evidence"
+      ],
+      "wordFamily": [
+        "laughter",
+        "laught"
+      ],
+      "example": "This laughter matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "theater",
+      "ipaBrE": "/ˈθiәtә/",
+      "ipaAmE": "/ˈθiәtә/",
+      "ipa": "/ˈθiәtә/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所",
+      "cefr": "B1",
+      "source": "Oxford 5000 companion",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a theater",
+        "the role of theater",
+        "theater and evidence"
+      ],
+      "wordFamily": [
+        "theater",
+        "theat"
+      ],
+      "example": "This theater matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "another",
+      "ipaBrE": "/əˈnʌðə(r)/",
+      "ipaAmE": "/əˈnʌðər/",
+      "ipa": "/əˈnʌðə(r)/",
+      "pos": [
+        "determiner"
+      ],
+      "zh": "a. 另外的, 再一的, 不同的；pron. 又一个, 另一个, 类似的另一个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a another",
+        "the role of another",
+        "another and evidence"
+      ],
+      "wordFamily": [
+        "another",
+        "anoth"
+      ],
+      "example": "This another matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "either",
+      "ipaBrE": "/ˈiːðə(r)/",
+      "ipaAmE": "/ˈaɪðər/",
+      "ipa": "/ˈiːðə(r)/",
       "pos": [
         "verb"
       ],
-      "zh": "超过, 超越, 胜过；超过其他",
-      "cefr": "B2",
+      "zh": "a. (两者之中)任一的, (两者之中)各一的；pron. (两者之中)任一；conj. 或, 要么",
+      "cefr": "A2",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "exceed a plan",
-        "exceed carefully",
-        "exceed with others"
+        "either a plan",
+        "either carefully",
+        "either with others"
       ],
       "wordFamily": [
-        "exceed",
-        "exceeds",
-        "exceeding",
-        "exceeded"
+        "either",
+        "eith"
       ],
-      "example": "We can exceed the next step together.",
+      "example": "We can either the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "excellence",
-      "ipaBrE": "/ˈeksələns/",
-      "ipaAmE": "/ˈeksələns/",
-      "ipa": "/ˈeksələns/",
+      "word": "afternoon",
+      "ipaBrE": "/ˌɑːftəˈnuːn/",
+      "ipaAmE": "/ˌæftərˈnuːn/",
+      "ipa": "/ˌɑːftəˈnuːn/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：excellence",
-      "cefr": "C1",
+      "zh": "n. 午后, 下午",
+      "cefr": "A1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "a excellence",
-        "the role of excellence",
-        "excellence and evidence"
+        "a afternoon",
+        "the role of afternoon",
+        "afternoon and evidence"
       ],
       "wordFamily": [
-        "excellence"
+        "afternoon",
+        "afternoons"
       ],
-      "example": "This excellence matters when people need to make a clear decision.",
+      "example": "This afternoon matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exception",
-      "ipaBrE": "/ɪkˈsepʃn/",
-      "ipaAmE": "/ɪkˈsepʃn/",
-      "ipa": "/ɪkˈsepʃn/",
+      "word": "vacation",
+      "ipaBrE": "/vəˈkeɪʃn/",
+      "ipaAmE": "/vəˈkeɪʃn/",
+      "ipa": "/vəˈkeɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "例外, 除外, 异议 [计] 例外; 异常",
-      "cefr": "B2",
+      "zh": "n. 假期, 休假； 假期, 停审期, 休庭期",
+      "cefr": "A1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "work",
       "collocations": [
-        "a exception",
-        "the role of exception",
-        "exception and evidence"
+        "a vacation",
+        "the role of vacation",
+        "vacation and evidence"
       ],
       "wordFamily": [
-        "exception",
-        "exceptions",
-        "excepte"
+        "vacation",
+        "vacations",
+        "vacationing",
+        "vacationed"
       ],
-      "example": "This exception matters when people need to make a clear decision.",
+      "example": "This vacation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exceptional",
-      "ipaBrE": "/ɪkˈsepʃənl/",
-      "ipaAmE": "/ɪkˈsepʃənl/",
-      "ipa": "/ɪkˈsepʃənl/",
+      "word": "by",
+      "ipaBrE": "/baɪ/",
+      "ipaAmE": "/baɪ/",
+      "ipa": "/baɪ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "prep. 被, 经, 由, 在...之旁；adv. 经过, 在近处",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "by a plan",
+        "by carefully",
+        "by with others"
+      ],
+      "wordFamily": [
+        "by"
+      ],
+      "example": "We can by the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "general",
+      "ipaBrE": "/ˈdʒenrəl/",
+      "ipaAmE": "/ˈdʒenrəl/",
+      "ipa": "/ˈdʒenrəl/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：exceptional",
+      "zh": "n. 一般, 将军, 大体；a. 全面的, 大体的, 总的, 一般的, 普遍的；n. 常规； 常规",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a general approach",
+        "remain general",
+        "general enough"
+      ],
+      "wordFamily": [
+        "general",
+        "generals"
+      ],
+      "example": "A general approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "mention",
+      "ipaBrE": "/ˈmenʃn/",
+      "ipaAmE": "/ˈmenʃn/",
+      "ipa": "/ˈmenʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 提到, 言及, 陈述；vt. 提到, 提及",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a mention",
+        "the role of mention",
+        "mention and evidence"
+      ],
+      "wordFamily": [
+        "mention",
+        "mentioned",
+        "mentioning",
+        "mentions"
+      ],
+      "example": "This mention matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cigarette",
+      "ipaBrE": "/ˌsɪɡəˈret/",
+      "ipaAmE": "/ˈsɪɡəret/",
+      "ipa": "/ˌsɪɡəˈret/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 香烟, 纸烟",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a cigarette",
+        "the role of cigarette",
+        "cigarette and evidence"
+      ],
+      "wordFamily": [
+        "cigarette",
+        "cigarettes"
+      ],
+      "example": "This cigarette matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "disappointed",
+      "ipaBrE": "/ˌdɪsəˈpɔɪntɪd/",
+      "ipaAmE": "/ˌdɪsəˈpɔɪntɪd/",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 失望的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a disappointed approach",
+        "remain disappointed",
+        "disappointed enough"
+      ],
+      "wordFamily": [
+        "disappointed",
+        "pd",
+        "disappoint"
+      ],
+      "example": "A disappointed approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ride",
+      "ipaBrE": "/raɪd/",
+      "ipaAmE": "/raɪd/",
+      "ipa": "/raɪd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 骑马, 乘坐, 乘车, 搭便车；vt. 骑, 乘坐, 压迫, 控制；vi. 骑马, 乘车, 漂游",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a ride",
+        "the role of ride",
+        "ride and evidence"
+      ],
+      "wordFamily": [
+        "ride",
+        "riding",
+        "rode",
+        "ridden"
+      ],
+      "example": "This ride matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "discovery",
+      "ipaBrE": "/dɪˈskʌvəri/",
+      "ipaAmE": "/dɪˈskʌvəri/",
+      "ipa": "/dɪˈskʌvəri/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 发现, 被发现的事物； 要求告知, 发现, 发觉",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a discovery",
+        "the role of discovery",
+        "discovery and evidence"
+      ],
+      "wordFamily": [
+        "discovery",
+        "discoveries"
+      ],
+      "example": "This discovery matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "knowledge",
+      "ipaBrE": "/ˈnɒlɪdʒ/",
+      "ipaAmE": "/ˈnɑːlɪdʒ/",
+      "ipa": "/ˈnɒlɪdʒ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 知识, 学问, 认识, 知道",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a knowledge",
+        "the role of knowledge",
+        "knowledge and evidence"
+      ],
+      "wordFamily": [
+        "knowledge",
+        "knowledges"
+      ],
+      "example": "This knowledge matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "rough",
+      "ipaBrE": "/rʌf/",
+      "ipaAmE": "/rʌf/",
+      "ipa": "/rʌf/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 粗糙的东西, 毛坯, 未加工品, 梗概, 草图, 暴徒, 艰难",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a rough approach",
+        "remain rough",
+        "rough enough"
+      ],
+      "wordFamily": [
+        "rough",
+        "rougher",
+        "roughest",
+        "roughed"
+      ],
+      "example": "A rough approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "competition",
+      "ipaBrE": "/ˌkɒmpəˈtɪʃn/",
+      "ipaAmE": "/ˌkɑːmpəˈtɪʃn/",
+      "ipa": "/ˌkɒmpəˈtɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 竞争, 竞赛； 竞争, 竞销, 比赛",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a competition",
+        "the role of competition",
+        "competition and evidence"
+      ],
+      "wordFamily": [
+        "competition",
+        "competitions",
+        "competite"
+      ],
+      "example": "This competition matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "farmer",
+      "ipaBrE": "/ˈfɑːmə(r)/",
+      "ipaAmE": "/ˈfɑːrmər/",
+      "ipa": "/ˈfɑːmə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 农夫, 农场主； 农民, 农场主, 承包者",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a farmer",
+        "the role of farmer",
+        "farmer and evidence"
+      ],
+      "wordFamily": [
+        "farmer",
+        "farmers",
+        "farm"
+      ],
+      "example": "This farmer matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "disadvantage",
+      "ipaBrE": "/ˌdɪsədˈvɑːntɪdʒ/",
+      "ipaAmE": "/ˌdɪsədˈvæntɪdʒ/",
+      "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 缺点, 不利, 坏处",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a disadvantage",
+        "the role of disadvantage",
+        "disadvantage and evidence"
+      ],
+      "wordFamily": [
+        "disadvantage"
+      ],
+      "example": "This disadvantage matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "morning",
+      "ipaBrE": "/ˈmɔːnɪŋ/",
+      "ipaAmE": "/ˈmɔːrnɪŋ/",
+      "ipa": "/ˈmɔːnɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 早晨, 早上, 初期",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a morning",
+        "the role of morning",
+        "morning and evidence"
+      ],
+      "wordFamily": [
+        "morning",
+        "mornings",
+        "morn"
+      ],
+      "example": "This morning matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "property",
+      "ipaBrE": "/ˈprɒpəti/",
+      "ipaAmE": "/ˈprɑːpərti/",
+      "ipa": "/ˈprɒpəti/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 财产, 所有权, 性质, 属性； 属性",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a property",
+        "the role of property",
+        "property and evidence"
+      ],
+      "wordFamily": [
+        "property",
+        "properties"
+      ],
+      "example": "This property matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "queue",
+      "ipaBrE": "/kjuː/",
+      "ipaAmE": "/kjuː/",
+      "ipa": "/kjuː/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 辫子, 一队人, 队列；vt. 使排队, 将...梳成辫子；vi. 排队； 队列",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a queue",
+        "the role of queue",
+        "queue and evidence"
+      ],
+      "wordFamily": [
+        "queue"
+      ],
+      "example": "This queue matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "richard",
+      "ipaBrE": "/ˈritʃәd/",
+      "ipaAmE": "/ˈritʃәd/",
+      "ipa": "/ˈritʃәd/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 理查德（男子名）",
+      "cefr": "B1",
+      "source": "Oxford 5000 companion",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a richard",
+        "the role of richard",
+        "richard and evidence"
+      ],
+      "wordFamily": [
+        "richard"
+      ],
+      "example": "This richard matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pollution",
+      "ipaBrE": "/pəˈluːʃn/",
+      "ipaAmE": "/pəˈluːʃn/",
+      "ipa": "/pəˈluːʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 污染, 玷污； 污染",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a pollution",
+        "the role of pollution",
+        "pollution and evidence"
+      ],
+      "wordFamily": [
+        "pollution",
+        "pollutions",
+        "pollute"
+      ],
+      "example": "This pollution matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "annoy",
+      "ipaBrE": "/əˈnɔɪ/",
+      "ipaAmE": "/əˈnɔɪ/",
+      "ipa": "/əˈnɔɪ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 使恼怒, 骚扰",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "annoy a plan",
+        "annoy carefully",
+        "annoy with others"
+      ],
+      "wordFamily": [
+        "annoy"
+      ],
+      "example": "We can annoy the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "usually",
+      "ipaBrE": "/ˈjuːʒəli/",
+      "ipaAmE": "/ˈjuːʒəli/",
+      "ipa": "/ˈjuːʒəli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 通常, 大抵",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "usually a plan",
+        "usually carefully",
+        "usually with others"
+      ],
+      "wordFamily": [
+        "usually",
+        "usual"
+      ],
+      "example": "We can usually the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "turn",
+      "ipaBrE": "/tɜːn/",
+      "ipaAmE": "/tɜːrn/",
+      "ipa": "/tɜːn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a turn",
+        "the role of turn",
+        "turn and evidence"
+      ],
+      "wordFamily": [
+        "turn",
+        "turned",
+        "turning",
+        "turns"
+      ],
+      "example": "This turn matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "costume",
+      "ipaBrE": "/ˈkɒstjuːm/",
+      "ipaAmE": "/ˈkɑːstuːm/",
+      "ipa": "/ˈkɒstjuːm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 装束, 服装",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a costume",
+        "the role of costume",
+        "costume and evidence"
+      ],
+      "wordFamily": [
+        "costume",
+        "costumes",
+        "costumed",
+        "costuming"
+      ],
+      "example": "This costume matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "port",
+      "ipaBrE": "/pɔːt/",
+      "ipaAmE": "/pɔːrt/",
+      "ipa": "/pɔːt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义；vt. 左转舵, 持(枪)；vi. 左转舵",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a port",
+        "the role of port",
+        "port and evidence"
+      ],
+      "wordFamily": [
+        "port",
+        "ports",
+        "ported",
+        "porting"
+      ],
+      "example": "This port matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "complete",
+      "ipaBrE": "/kəmˈpliːt/",
+      "ipaAmE": "/kəmˈpliːt/",
+      "ipa": "/kəmˈpliːt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 完全的, 十足的, 完成的；vt. 完成, 完工, 使圆满",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a complete approach",
+        "remain complete",
+        "complete enough"
+      ],
+      "wordFamily": [
+        "complete",
+        "completed",
+        "completing",
+        "completes"
+      ],
+      "example": "A complete approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pressure",
+      "ipaBrE": "/ˈpreʃə(r)/",
+      "ipaAmE": "/ˈpreʃər/",
+      "ipa": "/ˈpreʃə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 压, 榨, 按, 强制, 压力, 压迫, 压强；vt. 迫使, 使增压, 密封",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a pressure",
+        "the role of pressure",
+        "pressure and evidence"
+      ],
+      "wordFamily": [
+        "pressure",
+        "pressures",
+        "pressured",
+        "pressuring"
+      ],
+      "example": "This pressure matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "year",
+      "ipaBrE": "/jɜː(r)/",
+      "ipaAmE": "/jɪr/",
+      "ipa": "/jɜː(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 年, 年度, 年龄； 年度",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a year",
+        "the role of year",
+        "year and evidence"
+      ],
+      "wordFamily": [
+        "year",
+        "years"
+      ],
+      "example": "This year matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "see",
+      "ipaBrE": "/siː/",
+      "ipaAmE": "/siː/",
+      "ipa": "/siː/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意；vi. 看, 观看, 注意, 知道, 考虑",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "see a plan",
+        "see carefully",
+        "see with others"
+      ],
+      "wordFamily": [
+        "see",
+        "seen",
+        "saw",
+        "seeing"
+      ],
+      "example": "We can see the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "wooden",
+      "ipaBrE": "/ˈwʊdn/",
+      "ipaAmE": "/ˈwʊdn/",
+      "ipa": "/ˈwʊdn/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 木制的, 呆笨的, 木然的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a wooden approach",
+        "remain wooden",
+        "wooden enough"
+      ],
+      "wordFamily": [
+        "wooden"
+      ],
+      "example": "A wooden approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "press",
+      "ipaBrE": "/pres/",
+      "ipaAmE": "/pres/",
+      "ipa": "/pres/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 压, 揿, 按, 人群, 印刷机, 压力, 出版社, 记者, 报刊, 新闻舆论, 紧迫",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a press",
+        "the role of press",
+        "press and evidence"
+      ],
+      "wordFamily": [
+        "press",
+        "pressed",
+        "pressing",
+        "presses"
+      ],
+      "example": "This press matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "legal",
+      "ipaBrE": "/ˈliːɡl/",
+      "ipaAmE": "/ˈliːɡl/",
+      "ipa": "/ˈliːɡl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 法律的, 法定的, 合法的； 法定权利; 法律(上)的, 合法的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a legal approach",
+        "remain legal",
+        "legal enough"
+      ],
+      "wordFamily": [
+        "legal"
+      ],
+      "example": "A legal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "competitive",
+      "ipaBrE": "/kəmˈpetətɪv/",
+      "ipaAmE": "/kəmˈpetətɪv/",
+      "ipa": "/kəmˈpetətɪv/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 竞争的； 竞争的",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a competitive approach",
+        "remain competitive",
+        "competitive enough"
+      ],
+      "wordFamily": [
+        "competitive"
+      ],
+      "example": "A competitive approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "plot",
+      "ipaBrE": "/plɒt/",
+      "ipaAmE": "/plɑːt/",
+      "ipa": "/plɒt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小块土地, 地区图, 图, 阴谋, 情节；vt. 划分, 绘图, 密谋；vi. 密谋, 策划； 绘制",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a plot",
+        "the role of plot",
+        "plot and evidence"
+      ],
+      "wordFamily": [
+        "plot",
+        "plots",
+        "plotting",
+        "plotted"
+      ],
+      "example": "This plot matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "thinking",
+      "ipaBrE": "/ˈθɪŋkɪŋ/",
+      "ipaAmE": "/ˈθɪŋkɪŋ/",
+      "ipa": "/ˈθɪŋkɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 思考, 思想；a. 思考的, 有理性的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a thinking",
+        "the role of thinking",
+        "thinking and evidence"
+      ],
+      "wordFamily": [
+        "thinking",
+        "think"
+      ],
+      "example": "This thinking matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ghost",
+      "ipaBrE": "/ɡəʊst/",
+      "ipaAmE": "/ɡəʊst/",
+      "ipa": "/ɡəʊst/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 鬼, 灵魂, 幻影, 一丝, 一点；v. 鬼似地游荡",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a ghost",
+        "the role of ghost",
+        "ghost and evidence"
+      ],
+      "wordFamily": [
+        "ghost",
+        "ghosts",
+        "ghosted",
+        "ghosting"
+      ],
+      "example": "This ghost matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "lip",
+      "ipaBrE": "/lɪp/",
+      "ipaAmE": "/lɪp/",
+      "ipa": "/lɪp/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 唇, 口缘, 唇状构造；vt. 以嘴唇碰, 轻轻说出；a. 口头上的； 大型互连网信息包",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a lip",
+        "the role of lip",
+        "lip and evidence"
+      ],
+      "wordFamily": [
+        "lip",
+        "lips",
+        "lipped"
+      ],
+      "example": "This lip matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "forty",
+      "ipaBrE": "/ˈfɔːti/",
+      "ipaAmE": "/ˈfɔːrti/",
+      "ipa": "/ˈfɔːti/",
+      "pos": [
+        "number"
+      ],
+      "zh": "num. 四十, 四十个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a forty",
+        "the role of forty",
+        "forty and evidence"
+      ],
+      "wordFamily": [
+        "forty"
+      ],
+      "example": "This forty matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "indeed",
+      "ipaBrE": "/ɪnˈdiːd/",
+      "ipaAmE": "/ɪnˈdiːd/",
+      "ipa": "/ɪnˈdiːd/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 的确, 实在, 真正地, 甚至",
+      "cefr": "B1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "indeed a plan",
+        "indeed carefully",
+        "indeed with others"
+      ],
+      "wordFamily": [
+        "indeed",
+        "inde"
+      ],
+      "example": "We can indeed the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nine",
+      "ipaBrE": "/naɪn/",
+      "ipaAmE": "/naɪn/",
+      "ipa": "/naɪn/",
+      "pos": [
+        "number"
+      ],
+      "zh": "num. 九, 九个",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a nine",
+        "the role of nine",
+        "nine and evidence"
+      ],
+      "wordFamily": [
+        "nine"
+      ],
+      "example": "This nine matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "bin",
+      "ipaBrE": "/bɪn/",
+      "ipaAmE": "/bɪn/",
+      "ipa": "/bɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. (贮存谷物等的)容器, 箱子； 二进制, 商业信息网",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a bin",
+        "the role of bin",
+        "bin and evidence"
+      ],
+      "wordFamily": [
+        "bin"
+      ],
+      "example": "This bin matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "temperature",
+      "ipaBrE": "/ˈtemprətʃə(r)/",
+      "ipaAmE": "/ˈtemprətʃʊr/",
+      "ipa": "/ˈtemprətʃə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 温度, 发烧, 热度； 温度",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a temperature",
+        "the role of temperature",
+        "temperature and evidence"
+      ],
+      "wordFamily": [
+        "temperature",
+        "temperatures"
+      ],
+      "example": "This temperature matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "at",
+      "ipaBrE": "/æt/",
+      "ipaAmE": "/æt/",
+      "ipa": "/æt/",
+      "pos": [
+        "preposition"
+      ],
+      "zh": "prep. 在, 向, 对； 地址转换器, 异常传输, 自动订票",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a at",
+        "the role of at",
+        "at and evidence"
+      ],
+      "wordFamily": [
+        "at"
+      ],
+      "example": "This at matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "serious",
+      "ipaBrE": "/ˈsɪəriəs/",
+      "ipaAmE": "/ˈsɪriəs/",
+      "ipa": "/ˈsɪəriəs/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 严肃的, 认真的, 重要的, 严重的； 严重的",
+      "cefr": "A2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a serious approach",
+        "remain serious",
+        "serious enough"
+      ],
+      "wordFamily": [
+        "serious",
+        "seriou"
+      ],
+      "example": "A serious approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "building",
+      "ipaBrE": "/ˈbɪldɪŋ/",
+      "ipaAmE": "/ˈbɪldɪŋ/",
+      "ipa": "/ˈbɪldɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 建筑物, 建筑； 营造, 建筑, 建筑物",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a building",
+        "the role of building",
+        "building and evidence"
+      ],
+      "wordFamily": [
+        "building",
+        "build",
+        "buildings"
+      ],
+      "example": "This building matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "happy",
+      "ipaBrE": "/ˈhæpi/",
+      "ipaAmE": "/ˈhæpi/",
+      "ipa": "/ˈhæpi/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 快乐的, 幸福的, 愉快的, 恰当的",
+      "cefr": "A1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "work",
+      "collocations": [
+        "a happy approach",
+        "remain happy",
+        "happy enough"
+      ],
+      "wordFamily": [
+        "happy",
+        "happier",
+        "happiest"
+      ],
+      "example": "A happy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "handling",
+      "ipaBrE": "/ˈhændlɪŋ/",
+      "ipaAmE": "/ˈhændlɪŋ/",
+      "ipa": "/ˈhændlɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 处理；a. 操作的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exceptional approach",
-        "remain exceptional",
-        "exceptional enough"
+        "a handling",
+        "the role of handling",
+        "handling and evidence"
       ],
       "wordFamily": [
-        "exceptional"
+        "handling",
+        "handl"
       ],
-      "example": "A exceptional approach makes the situation easier to explain.",
+      "example": "This handling matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "urge",
+      "ipaBrE": "/ɜːdʒ/",
+      "ipaAmE": "/ɜːrdʒ/",
+      "ipa": "/ɜːdʒ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "n. 冲动, 推动力, 迫切的要求；vt. 驱策, 力劝, 竭力主张, 推动；vi. 强烈要求",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "urge a plan",
+        "urge carefully",
+        "urge with others"
+      ],
+      "wordFamily": [
+        "urge",
+        "urged",
+        "urging",
+        "urges"
+      ],
+      "example": "We can urge the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "punch",
+      "ipaBrE": "/pʌntʃ/",
+      "ipaAmE": "/pʌntʃ/",
+      "ipa": "/pʌntʃ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒；vt. 以拳重击, 开洞, 冲压；vi. 用拳猛击",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a punch",
+        "the role of punch",
+        "punch and evidence"
+      ],
+      "wordFamily": [
+        "punch",
+        "punched",
+        "punches",
+        "punching"
+      ],
+      "example": "This punch matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "retirement",
+      "ipaBrE": "/rɪˈtaɪəmənt/",
+      "ipaAmE": "/rɪˈtaɪərmənt/",
+      "ipa": "/rɪˈtaɪəmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 退休, 隐居, 撤退； 退休, 退股, (固定资产)报废",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a retirement",
+        "the role of retirement",
+        "retirement and evidence"
+      ],
+      "wordFamily": [
+        "retirement",
+        "retirements",
+        "retire"
+      ],
+      "example": "This retirement matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "unite",
+      "ipaBrE": "/juˈnaɪt/",
+      "ipaAmE": "/juˈnaɪt/",
+      "ipa": "/juˈnaɪt/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vi. 联合, 接合, 混合；vt. 使联合, 统一, 使粘合, 使结合",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "unite a plan",
+        "unite carefully",
+        "unite with others"
+      ],
+      "wordFamily": [
+        "unite",
+        "united",
+        "unites",
+        "uniting"
+      ],
+      "example": "We can unite the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -2795,7 +4010,7 @@ export default {
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：excess",
+      "zh": "n. 过度, 剩于, 超过, 超额；a. 过量的, 额外的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
@@ -2813,2398 +4028,1161 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "excessive",
-      "ipaBrE": "/ɪkˈsesɪv/",
-      "ipaAmE": "/ɪkˈsesɪv/",
-      "ipa": "/ɪkˈsesɪv/",
+      "word": "comparative",
+      "ipaBrE": "/kəmˈpærətɪv/",
+      "ipaAmE": "/kəmˈpærətɪv/",
+      "ipa": "/kəmˈpærətɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "过度的, 过多的, 极端的 [法] 过度的, 过分的, 额外的",
+      "zh": "a. 比较的, 相对的；n. 对手",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a excessive approach",
-        "remain excessive",
-        "excessive enough"
+        "a comparative approach",
+        "remain comparative",
+        "comparative enough"
       ],
       "wordFamily": [
-        "excessive"
+        "comparative"
       ],
-      "example": "A excessive approach makes the situation easier to explain.",
+      "example": "A comparative approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclude",
-      "ipaBrE": "/ɪkˈskluːd/",
-      "ipaAmE": "/ɪkˈskluːd/",
-      "ipa": "/ɪkˈskluːd/",
+      "word": "appropriately",
+      "ipaBrE": "/əˈprəʊpriətli/",
+      "ipaAmE": "/əˈprəʊpriətli/",
+      "ipa": "/əˈprəʊpriətli/",
       "pos": [
         "verb"
       ],
-      "zh": "除外, 排除, 排斥 [医] 除外(诊断)",
+      "zh": "adv. 适当的, 恰如其分的, 恰当的, 合适的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exclude a plan",
-        "exclude carefully",
-        "exclude with others"
+        "appropriately a plan",
+        "appropriately carefully",
+        "appropriately with others"
       ],
       "wordFamily": [
-        "exclude",
-        "excluded",
-        "excluding",
-        "excludes"
+        "appropriately",
+        "appropriate"
       ],
-      "example": "We can exclude the next step together.",
+      "example": "We can appropriately the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclusion",
-      "ipaBrE": "/ɪkˈskluːʒn/",
-      "ipaAmE": "/ɪkˈskluːʒn/",
-      "ipa": "/ɪkˈskluːʒn/",
+      "word": "magnificent",
+      "ipaBrE": "/mæɡˈnɪfɪsnt/",
+      "ipaAmE": "/mæɡˈnɪfɪsnt/",
+      "ipa": "/mæɡˈnɪfɪsnt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 华丽的, 高尚的, 宏伟的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a magnificent approach",
+        "remain magnificent",
+        "magnificent enough"
+      ],
+      "wordFamily": [
+        "magnificent"
+      ],
+      "example": "A magnificent approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "obstacle",
+      "ipaBrE": "/ˈɒbstəkl/",
+      "ipaAmE": "/ˈɑːbstəkl/",
+      "ipa": "/ˈɒbstəkl/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：exclusion",
+      "zh": "n. 障碍, 妨害物, 阻碍",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a obstacle",
+        "the role of obstacle",
+        "obstacle and evidence"
+      ],
+      "wordFamily": [
+        "obstacle",
+        "obstacles"
+      ],
+      "example": "This obstacle matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "decent",
+      "ipaBrE": "/ˈdiːsnt/",
+      "ipaAmE": "/ˈdiːsnt/",
+      "ipa": "/ˈdiːsnt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 有分寸的, 得体的, 大方的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a decent approach",
+        "remain decent",
+        "decent enough"
+      ],
+      "wordFamily": [
+        "decent"
+      ],
+      "example": "A decent approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "sensitive",
+      "ipaBrE": "/ˈsensətɪv/",
+      "ipaAmE": "/ˈsensətɪv/",
+      "ipa": "/ˈsensətɪv/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 敏感的, 易感的, 灵敏的, 感光的； 敏感的, 灵敏的, 感度高的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a sensitive approach",
+        "remain sensitive",
+        "sensitive enough"
+      ],
+      "wordFamily": [
+        "sensitive",
+        "sensitives"
+      ],
+      "example": "A sensitive approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ton",
+      "ipaBrE": "/tʌn/",
+      "ipaAmE": "/tʌn/",
+      "ipa": "/tʌn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 吨； 吨",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a ton",
+        "the role of ton",
+        "ton and evidence"
+      ],
+      "wordFamily": [
+        "ton",
+        "tons",
+        "toning",
+        "tonner"
+      ],
+      "example": "This ton matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "pulse",
+      "ipaBrE": "/pʌls/",
+      "ipaAmE": "/pʌls/",
+      "ipa": "/pʌls/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类；vi. 跳动, 脉跳；vt. 使跳动, 用脉冲调制； 脉冲",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exclusion",
-        "the role of exclusion",
-        "exclusion and evidence"
+        "a pulse",
+        "the role of pulse",
+        "pulse and evidence"
       ],
       "wordFamily": [
-        "exclusion"
+        "pulse",
+        "pulses",
+        "pulsed",
+        "pulsing"
       ],
-      "example": "This exclusion matters when people need to make a clear decision.",
+      "example": "This pulse matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclusive",
-      "ipaBrE": "/ɪkˈskluːsɪv/",
-      "ipaAmE": "/ɪkˈskluːsɪv/",
-      "ipa": "/ɪkˈskluːsɪv/",
+      "word": "abolish",
+      "ipaBrE": "/əˈbɒlɪʃ/",
+      "ipaAmE": "/əˈbɑːlɪʃ/",
+      "ipa": "/əˈbɒlɪʃ/",
       "pos": [
-        "adjective"
+        "verb"
       ],
-      "zh": "排外的, 独占的, 唯一的 [计] 独占的",
+      "zh": "vt. 废止, 革除, 消灭； 废除, 取消, 裁撤",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exclusive approach",
-        "remain exclusive",
-        "exclusive enough"
+        "abolish a plan",
+        "abolish carefully",
+        "abolish with others"
       ],
       "wordFamily": [
-        "exclusive",
-        "exclusives"
+        "abolish"
       ],
-      "example": "A exclusive approach makes the situation easier to explain.",
+      "example": "We can abolish the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exclusively",
-      "ipaBrE": "/ɪkˈskluːsɪvli/",
-      "ipaAmE": "/ɪkˈskluːsɪvli/",
-      "ipa": "/ɪkˈskluːsɪvli/",
+      "word": "dual",
+      "ipaBrE": "/ˈdjuːəl/",
+      "ipaAmE": "/ˈduːəl/",
+      "ipa": "/ˈdjuːəl/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地",
+      "zh": "a. 双重的, 双的；n. 双数",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exclusively a plan",
-        "exclusively carefully",
-        "exclusively with others"
+        "a dual approach",
+        "remain dual",
+        "dual enough"
       ],
       "wordFamily": [
-        "exclusively",
-        "exclusive"
+        "dual"
       ],
-      "example": "We can exclusively the next step together.",
+      "example": "A dual approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "excuse",
-      "ipaBrE": "/ɪkˈskjuːs/",
-      "ipaAmE": "/ɪkˈskjuːs/",
-      "ipa": "/ɪkˈskjuːs/",
+      "word": "long-term",
+      "ipaBrE": "/ˌlɒŋ ˈtɜːm/",
+      "ipaAmE": "/ˌlɔːŋ ˈtɜːrm/",
+      "ipa": "/ˌlɒŋ ˈtɜːm/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "原谅, 申辩, 做为...的托辞；致歉, 理由, 饶恕, 借口",
+      "zh": "a. 长期的； 长期, (通常指一年以上)",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a excuse",
-        "the role of excuse",
-        "excuse and evidence"
+        "a long-term approach",
+        "remain long-term",
+        "long-term enough"
       ],
       "wordFamily": [
-        "excuse",
-        "excuses",
-        "excused",
-        "excusing"
+        "long-term"
       ],
-      "example": "This excuse matters when people need to make a clear decision.",
+      "example": "A long-term approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "execute",
-      "ipaBrE": "/ˈeksɪkjuːt/",
-      "ipaAmE": "/ˈeksɪkjuːt/",
-      "ipa": "/ˈeksɪkjuːt/",
+      "word": "coordinate",
+      "ipaBrE": "/kəʊˈɔːdɪneɪt/",
+      "ipaAmE": "/kəʊˈɔːrdɪneɪt/",
+      "ipa": "/kəʊˈɔːdɪneɪt/",
       "pos": [
         "verb"
       ],
-      "zh": "执行, 实行, 完成, 处死, 制成 [计] 执行",
+      "zh": "n. 同等的人(或物), 坐标；a. 同等的, 并列的；v. (使)协调",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "execute a plan",
-        "execute carefully",
-        "execute with others"
+        "coordinate a plan",
+        "coordinate carefully",
+        "coordinate with others"
       ],
       "wordFamily": [
-        "execute",
-        "executed",
-        "executing",
-        "executes"
+        "coordinate",
+        "coordinates",
+        "coordinating",
+        "coordinated"
       ],
-      "example": "We can execute the next step together.",
+      "example": "We can coordinate the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "execution",
-      "ipaBrE": "/ˌeksɪˈkjuːʃn/",
-      "ipaAmE": "/ˌeksɪˈkjuːʃn/",
-      "ipa": "/ˌeksɪˈkjuːʃn/",
+      "word": "sexy",
+      "ipaBrE": "/ˈseksi/",
+      "ipaAmE": "/ˈseksi/",
+      "ipa": "/ˈseksi/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 有性感的, 色情的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a sexy approach",
+        "remain sexy",
+        "sexy enough"
+      ],
+      "wordFamily": [
+        "sexy",
+        "sexiest",
+        "sexier"
+      ],
+      "example": "A sexy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "scream",
+      "ipaBrE": "/skriːm/",
+      "ipaAmE": "/skriːm/",
+      "ipa": "/skriːm/",
       "pos": [
         "noun"
       ],
-      "zh": "实行, 完成, 执行, 死刑 [计] 执行",
+      "zh": "n. 尖叫声；vi. 尖叫, 大笑, 尖啸, 令人震惊；vt. 尖叫着说, 大叫大嚷着要求",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a scream",
+        "the role of scream",
+        "scream and evidence"
+      ],
+      "wordFamily": [
+        "scream",
+        "screaming",
+        "screamed",
+        "screams"
+      ],
+      "example": "This scream matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "allegation",
+      "ipaBrE": "/ˌæləˈɡeɪʃn/",
+      "ipaAmE": "/ˌæləˈɡeɪʃn/",
+      "ipa": "/ˌæləˈɡeɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 断言, 主张, 申辩； 声明, 事实陈述, 断言",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a execution",
-        "the role of execution",
-        "execution and evidence"
+        "a allegation",
+        "the role of allegation",
+        "allegation and evidence"
       ],
       "wordFamily": [
-        "execution",
-        "executions",
-        "execute"
+        "allegation",
+        "allegations",
+        "allegate"
       ],
-      "example": "This execution matters when people need to make a clear decision.",
+      "example": "This allegation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "executive",
-      "ipaBrE": "/ɪɡˈzekjətɪv/",
-      "ipaAmE": "/ɪɡˈzekjətɪv/",
-      "ipa": "/ɪɡˈzekjətɪv/",
+      "word": "toxic",
+      "ipaBrE": "/ˈtɒksɪk/",
+      "ipaAmE": "/ˈtɑːksɪk/",
+      "ipa": "/ˈtɒksɪk/",
       "pos": [
         "adjective"
       ],
-      "zh": "执行部门, 执行委员会, 执行者, 经理主管人员；执行的, 善于执行的, 善于经营的 [计] 执行程序",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a executive approach",
-        "remain executive",
-        "executive enough"
-      ],
-      "wordFamily": [
-        "executive",
-        "executives"
-      ],
-      "example": "A executive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exert",
-      "ipaBrE": "/ɪɡˈzɜːt/",
-      "ipaAmE": "/ɪɡˈzɜːrt/",
-      "ipa": "/ɪɡˈzɜːt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：exert",
+      "zh": "a. 有毒的, 中毒的； 中毒的, 毒物的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exert a plan",
-        "exert carefully",
-        "exert with others"
+        "a toxic approach",
+        "remain toxic",
+        "toxic enough"
       ],
       "wordFamily": [
-        "exert"
+        "toxic",
+        "toxics"
       ],
-      "example": "We can exert the next step together.",
+      "example": "A toxic approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exhibit",
-      "ipaBrE": "/ɪɡˈzɪbɪt/",
-      "ipaAmE": "/ɪɡˈzɪbɪt/",
-      "ipa": "/ɪɡˈzɪbɪt/",
+      "word": "silk",
+      "ipaBrE": "/sɪlk/",
+      "ipaAmE": "/sɪlk/",
+      "ipa": "/sɪlk/",
       "pos": [
         "noun"
       ],
-      "zh": "显示, 显现, 展览品, 陈列品, 展览；展现, 陈列, 展览；开展览会",
+      "zh": "n. 丝, 绸, 绸锻类, 丝织品；a. 丝的, 丝织的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exhibit",
-        "the role of exhibit",
-        "exhibit and evidence"
+        "a silk",
+        "the role of silk",
+        "silk and evidence"
       ],
       "wordFamily": [
-        "exhibit",
-        "exhibited",
-        "exhibits",
-        "exhibiting"
+        "silk",
+        "silks"
       ],
-      "example": "This exhibit matters when people need to make a clear decision.",
+      "example": "This silk matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exile",
-      "ipaBrE": "/ˈeɡzaɪl/",
-      "ipaAmE": "/ˈeɡzaɪl/",
-      "ipa": "/ˈeɡzaɪl/",
+      "word": "neat",
+      "ipaBrE": "/niːt/",
+      "ipaAmE": "/niːt/",
+      "ipa": "/niːt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 整洁的, 巧妙的, 匀称的, 简洁的；n. 牛",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a neat approach",
+        "remain neat",
+        "neat enough"
+      ],
+      "wordFamily": [
+        "neat",
+        "neater",
+        "neatest"
+      ],
+      "example": "A neat approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "spill",
+      "ipaBrE": "/spɪl/",
+      "ipaAmE": "/spɪl/",
+      "ipa": "/spɪl/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "n. 溢出, 溅出, 摔下, 溢出量, 木片, 小塞子；vt. 使溢出, 使散落, 洒, 使流出, 倒出, 使摔下",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "spill a plan",
+        "spill carefully",
+        "spill with others"
+      ],
+      "wordFamily": [
+        "spill",
+        "spilling",
+        "spilled",
+        "spills"
+      ],
+      "example": "We can spill the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "strict",
+      "ipaBrE": "/strɪkt/",
+      "ipaAmE": "/strɪkt/",
+      "ipa": "/strɪkt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 严厉的, 绝对的, 详尽的, 严格的, 精确的； 严格的, 精确的, 绝对的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a strict approach",
+        "remain strict",
+        "strict enough"
+      ],
+      "wordFamily": [
+        "strict",
+        "stricter",
+        "strictest"
+      ],
+      "example": "A strict approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "dignity",
+      "ipaBrE": "/ˈdɪɡnəti/",
+      "ipaAmE": "/ˈdɪɡnəti/",
+      "ipa": "/ˈdɪɡnəti/",
       "pos": [
         "noun"
       ],
-      "zh": "放逐, 流放, 被放逐者；放逐, 流放, 使背井离乡",
+      "zh": "n. 尊严, 高贵； 尊严, 高位, 高贵",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exile",
-        "the role of exile",
-        "exile and evidence"
+        "a dignity",
+        "the role of dignity",
+        "dignity and evidence"
       ],
       "wordFamily": [
-        "exile",
-        "exiles",
-        "exiled",
-        "exiling"
+        "dignity",
+        "dignities",
+        "dign"
       ],
-      "example": "This exile matters when people need to make a clear decision.",
+      "example": "This dignity matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "existence",
-      "ipaBrE": "/ɪɡˈzɪstəns/",
-      "ipaAmE": "/ɪɡˈzɪstəns/",
-      "ipa": "/ɪɡˈzɪstəns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "存在, 生存 [法] 存在, 存在状态, 实体",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a existence",
-        "the role of existence",
-        "existence and evidence"
-      ],
-      "wordFamily": [
-        "existence",
-        "existences"
-      ],
-      "example": "This existence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exit",
-      "ipaBrE": "/ˈeɡzɪt/",
-      "ipaAmE": "/ˈeɡzɪt/",
-      "ipa": "/ˈeɡzɪt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "出口, 退场, 离去, 去世；退出, 脱离, 去世 [计] 退出; DOS内部命令:本命令用于退出当前的命令处理器(COMMAND.COM) 恢复前一个命令处理器",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exit",
-        "the role of exit",
-        "exit and evidence"
-      ],
-      "wordFamily": [
-        "exit",
-        "exits",
-        "exiting",
-        "exited"
-      ],
-      "example": "This exit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exotic",
-      "ipaBrE": "/ɪɡˈzɒtɪk/",
-      "ipaAmE": "/ɪɡˈzɑːtɪk/",
-      "ipa": "/ɪɡˈzɒtɪk/",
+      "word": "ideological",
+      "ipaBrE": "/ˌaɪdiəˈlɒdʒɪkl/",
+      "ipaAmE": "/ˌaɪdiəˈlɑːdʒɪkl/",
+      "ipa": "/ˌaɪdiəˈlɒdʒɪkl/",
       "pos": [
         "adjective"
       ],
-      "zh": "异国的, 外来的；外来人, 外来物, 舶来品",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exotic approach",
-        "remain exotic",
-        "exotic enough"
-      ],
-      "wordFamily": [
-        "exotic",
-        "exotics"
-      ],
-      "example": "A exotic approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expansion",
-      "ipaBrE": "/ɪkˈspænʃn/",
-      "ipaAmE": "/ɪkˈspænʃn/",
-      "ipa": "/ɪkˈspænʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "扩充, 开展, 膨胀 [计] 扩展",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a expansion",
-        "the role of expansion",
-        "expansion and evidence"
-      ],
-      "wordFamily": [
-        "expansion",
-        "expansions"
-      ],
-      "example": "This expansion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expectation",
-      "ipaBrE": "/ˌekspekˈteɪʃn/",
-      "ipaAmE": "/ˌekspekˈteɪʃn/",
-      "ipa": "/ˌekspekˈteɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "期待, 指望, 展望 [化] 期望值",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a expectation",
-        "the role of expectation",
-        "expectation and evidence"
-      ],
-      "wordFamily": [
-        "expectation",
-        "expectations",
-        "expectate"
-      ],
-      "example": "This expectation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expenditure",
-      "ipaBrE": "/ɪkˈspendɪtʃə(r)/",
-      "ipaAmE": "/ɪkˈspendɪtʃər/",
-      "ipa": "/ɪkˈspendɪtʃə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "开支, 费用, 用光, 消费额 [经] 支出, 费用, 消费",
+      "zh": "a. 意识形态的, 空想的； 思想的, 思想上的, 意识形态的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a expenditure",
-        "the role of expenditure",
-        "expenditure and evidence"
+        "a ideological approach",
+        "remain ideological",
+        "ideological enough"
       ],
       "wordFamily": [
-        "expenditure",
-        "expenditures"
+        "ideological"
       ],
-      "example": "This expenditure matters when people need to make a clear decision.",
+      "example": "A ideological approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expense",
-      "ipaBrE": "/ɪkˈspens/",
-      "ipaAmE": "/ɪkˈspens/",
-      "ipa": "/ɪkˈspens/",
+      "word": "intellectual",
+      "ipaBrE": "/ˌɪntəˈlektʃuəl/",
+      "ipaAmE": "/ˌɪntəˈlektʃuəl/",
+      "ipa": "/ˌɪntəˈlektʃuəl/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "费用, 代价, 开支, 损失 [经] 费用, 开支, 将支出转为费用",
+      "zh": "n. 有知识者, 知识分子, 凭理智做事者；a. 智力的, 用脑力的, 聪明的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a expense",
-        "the role of expense",
-        "expense and evidence"
+        "a intellectual approach",
+        "remain intellectual",
+        "intellectual enough"
       ],
       "wordFamily": [
-        "expense",
-        "expenses"
+        "intellectual",
+        "intellectuals"
       ],
-      "example": "This expense matters when people need to make a clear decision.",
+      "example": "A intellectual approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "experimental",
-      "ipaBrE": "/ɪkˌsperɪˈmentl/",
-      "ipaAmE": "/ɪkˌsperɪˈmentl/",
-      "ipa": "/ɪkˌsperɪˈmentl/",
+      "word": "defend",
+      "ipaBrE": "/dɪˈfend/",
+      "ipaAmE": "/dɪˈfend/",
+      "ipa": "/dɪˈfend/",
       "pos": [
-        "adjective"
+        "verb"
       ],
-      "zh": "实验的, 根据实验的 [医] 实验的",
+      "zh": "vt. 防护, 辩护, 防卫； 作...的辩护律师, 辩护, 为...答辩",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "defend a plan",
+        "defend carefully",
+        "defend with others"
+      ],
+      "wordFamily": [
+        "defend",
+        "defending",
+        "defended",
+        "defends"
+      ],
+      "example": "We can defend the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "subsequently",
+      "ipaBrE": "/ˈsʌbsɪkwəntli/",
+      "ipaAmE": "/ˈsʌbsɪkwəntli/",
+      "ipa": "/ˈsʌbsɪkwəntli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 后来, 随后",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "subsequently a plan",
+        "subsequently carefully",
+        "subsequently with others"
+      ],
+      "wordFamily": [
+        "subsequently",
+        "subsequent"
+      ],
+      "example": "We can subsequently the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "slash",
+      "ipaBrE": "/slæʃ/",
+      "ipaAmE": "/slæʃ/",
+      "ipa": "/slæʃ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "v. 猛砍, 乱砍；n. 猛砍, 乱砍, 删减； 斜线",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a experimental approach",
-        "remain experimental",
-        "experimental enough"
+        "slash a plan",
+        "slash carefully",
+        "slash with others"
       ],
       "wordFamily": [
-        "experimental"
+        "slash"
       ],
-      "example": "A experimental approach makes the situation easier to explain.",
+      "example": "We can slash the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expertise",
-      "ipaBrE": "/ˌekspɜːˈtiːz/",
-      "ipaAmE": "/ˌekspɜːrˈtiːz/",
-      "ipa": "/ˌekspɜːˈtiːz/",
+      "word": "critic",
+      "ipaBrE": "/ˈkrɪtɪk/",
+      "ipaAmE": "/ˈkrɪtɪk/",
+      "ipa": "/ˈkrɪtɪk/",
       "pos": [
         "noun"
       ],
-      "zh": "专家意见, 专门技术 [法] 专门知识, 专家意见",
+      "zh": "n. 批评家, 鉴定家",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a expertise",
-        "the role of expertise",
-        "expertise and evidence"
+        "a critic",
+        "the role of critic",
+        "critic and evidence"
       ],
       "wordFamily": [
-        "expertise",
-        "expertises"
+        "critic",
+        "critics"
       ],
-      "example": "This expertise matters when people need to make a clear decision.",
+      "example": "This critic matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expire",
-      "ipaBrE": "/ɪkˈspaɪə(r)/",
-      "ipaAmE": "/ɪkˈspaɪər/",
-      "ipa": "/ɪkˈspaɪə(r)/",
+      "word": "pregnant",
+      "ipaBrE": "/ˈpreɡnənt/",
+      "ipaAmE": "/ˈpreɡnənt/",
+      "ipa": "/ˈpreɡnənt/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "verb：expire",
+      "zh": "a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的； 妊娠的, 有孕的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a pregnant approach",
+        "remain pregnant",
+        "pregnant enough"
+      ],
+      "wordFamily": [
+        "pregnant"
+      ],
+      "example": "A pregnant approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "province",
+      "ipaBrE": "/ˈprɒvɪns/",
+      "ipaAmE": "/ˈprɑːvɪns/",
+      "ipa": "/ˈprɒvɪns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 省, 地方, 职权, 领域； 省, 地方, 领域",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "expire a plan",
-        "expire carefully",
-        "expire with others"
+        "a province",
+        "the role of province",
+        "province and evidence"
       ],
       "wordFamily": [
-        "expire"
+        "province",
+        "provinces"
       ],
-      "example": "We can expire the next step together.",
+      "example": "This province matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "explicit",
-      "ipaBrE": "/ɪkˈsplɪsɪt/",
-      "ipaAmE": "/ɪkˈsplɪsɪt/",
-      "ipa": "/ɪkˈsplɪsɪt/",
+      "word": "completion",
+      "ipaBrE": "/kəmˈpliːʃn/",
+      "ipaAmE": "/kəmˈpliːʃn/",
+      "ipa": "/kəmˈpliːʃn/",
       "pos": [
-        "adjective"
+        "noun"
       ],
-      "zh": "详述的, 清楚的, 直言的",
+      "zh": "n. 完成； 完井, 结束, 完工",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a completion",
+        "the role of completion",
+        "completion and evidence"
+      ],
+      "wordFamily": [
+        "completion",
+        "completions",
+        "complete"
+      ],
+      "example": "This completion matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "objection",
+      "ipaBrE": "/əbˈdʒekʃn/",
+      "ipaAmE": "/əbˈdʒekʃn/",
+      "ipa": "/əbˈdʒekʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 异议, 反对, 不喜欢, 缺点, 缺陷, 妨碍, 拒绝之理由； 异议, 反对, 抗议",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a explicit approach",
-        "remain explicit",
-        "explicit enough"
+        "a objection",
+        "the role of objection",
+        "objection and evidence"
       ],
       "wordFamily": [
-        "explicit"
+        "objection",
+        "objections",
+        "objecte"
       ],
-      "example": "A explicit approach makes the situation easier to explain.",
+      "example": "This objection matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "explicitly",
-      "ipaBrE": "/ɪkˈsplɪsɪtli/",
-      "ipaAmE": "/ɪkˈsplɪsɪtli/",
-      "ipa": "/ɪkˈsplɪsɪtli/",
+      "word": "awkward",
+      "ipaBrE": "/ˈɔːkwəd/",
+      "ipaAmE": "/ˈɔːkwərd/",
+      "ipa": "/ˈɔːkwəd/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "adverb：explicitly",
+      "zh": "a. 笨拙的, 棘手的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a awkward approach",
+        "remain awkward",
+        "awkward enough"
+      ],
+      "wordFamily": [
+        "awkward"
+      ],
+      "example": "A awkward approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "objective",
+      "ipaBrE": "/əbˈdʒektɪv/",
+      "ipaAmE": "/əbˈdʒektɪv/",
+      "ipa": "/əbˈdʒektɪv/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 目的, 目标, 宗旨, 宾格, 实物；a. 客观的, 如实的, 无偏见的, 宾格的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a objective approach",
+        "remain objective",
+        "objective enough"
+      ],
+      "wordFamily": [
+        "objective",
+        "objectives"
+      ],
+      "example": "A objective approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "synthesis",
+      "ipaBrE": "/ˈsɪnθəsɪs/",
+      "ipaAmE": "/ˈsɪnθəsɪs/",
+      "ipa": "/ˈsɪnθəsɪs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 综合, 组织, 综合体； 合成",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "explicitly a plan",
-        "explicitly carefully",
-        "explicitly with others"
+        "a synthesis",
+        "the role of synthesis",
+        "synthesis and evidence"
       ],
       "wordFamily": [
-        "explicitly",
-        "explicit"
+        "synthesis",
+        "synthesi"
       ],
-      "example": "We can explicitly the next step together.",
+      "example": "This synthesis matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exploit",
-      "ipaBrE": "/ɪkˈsplɔɪt/",
-      "ipaAmE": "/ɪkˈsplɔɪt/",
-      "ipa": "/ɪkˈsplɔɪt/",
+      "word": "bombing",
+      "ipaBrE": "/ˈbɒmɪŋ/",
+      "ipaAmE": "/ˈbɑːmɪŋ/",
+      "ipa": "/ˈbɒmɪŋ/",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "zh": "功绩, 勋绩；开发, 利用, 开拓, 剥削",
+      "zh": "n. 轰炸, 投弹",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "exploit a plan",
-        "exploit carefully",
-        "exploit with others"
+        "a bombing",
+        "the role of bombing",
+        "bombing and evidence"
       ],
       "wordFamily": [
-        "exploit",
-        "exploited",
-        "exploiting",
-        "exploits"
+        "bombing",
+        "bomb",
+        "bombings"
       ],
-      "example": "We can exploit the next step together.",
+      "example": "This bombing matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exploitation",
-      "ipaBrE": "/ˌeksplɔɪˈteɪʃn/",
-      "ipaAmE": "/ˌeksplɔɪˈteɪʃn/",
-      "ipa": "/ˌeksplɔɪˈteɪʃn/",
+      "word": "line-up",
+      "ipaBrE": "/ˈlaɪn ʌp/",
+      "ipaAmE": "/ˈlaɪn ʌp/",
+      "ipa": "/ˈlaɪn ʌp/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：exploitation",
+      "zh": "n. 一排人; 一组人; （用途相同的）一批东西; （比赛时）球员的阵容；v. 排成行, 排成直线",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a exploitation",
-        "the role of exploitation",
-        "exploitation and evidence"
+        "a line-up",
+        "the role of line-up",
+        "line-up and evidence"
       ],
       "wordFamily": [
-        "exploitation",
-        "exploitate"
+        "line-up"
       ],
-      "example": "This exploitation matters when people need to make a clear decision.",
+      "example": "This line-up matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exploration",
-      "ipaBrE": "/ˌekspləˈreɪʃn/",
-      "ipaAmE": "/ˌekspləˈreɪʃn/",
-      "ipa": "/ˌekspləˈreɪʃn/",
+      "word": "inspect",
+      "ipaBrE": "/ɪnˈspekt/",
+      "ipaAmE": "/ɪnˈspekt/",
+      "ipa": "/ɪnˈspekt/",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "zh": "探险, 踏勘, 探测 [医] 探察",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exploration",
-        "the role of exploration",
-        "exploration and evidence"
-      ],
-      "wordFamily": [
-        "exploration",
-        "explorations",
-        "explorate"
-      ],
-      "example": "This exploration matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explosive",
-      "ipaBrE": "/ɪkˈspləʊzɪv/",
-      "ipaAmE": "/ɪkˈspləʊzɪv/",
-      "ipa": "/ɪkˈspləʊzɪv/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：explosive",
+      "zh": "vt. 检查, 检阅, 检验；vi. 检查",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a explosive approach",
-        "remain explosive",
-        "explosive enough"
+        "inspect a plan",
+        "inspect carefully",
+        "inspect with others"
       ],
       "wordFamily": [
-        "explosive"
+        "inspect",
+        "inspected",
+        "inspecting",
+        "inspects"
       ],
-      "example": "A explosive approach makes the situation easier to explain.",
+      "example": "We can inspect the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "expose",
-      "ipaBrE": "/ɪkˈspəʊz/",
-      "ipaAmE": "/ɪkˈspəʊz/",
-      "ipa": "/ɪkˈspəʊz/",
+      "word": "upwards",
+      "ipaBrE": "/ˈʌpwədz/",
+      "ipaAmE": "/ˈʌpwərdz/",
+      "ipa": "/ˈʌpwədz/",
       "pos": [
         "verb"
       ],
-      "zh": "使暴露, 使曝光, 揭穿, 陈列 [医] 暴露, 露置",
+      "zh": "adv. 以上, 向上",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "expose a plan",
-        "expose carefully",
-        "expose with others"
+        "upwards a plan",
+        "upwards carefully",
+        "upwards with others"
       ],
       "wordFamily": [
-        "expose",
-        "exposed",
-        "exposing",
-        "exposes"
+        "upwards",
+        "upward"
       ],
-      "example": "We can expose the next step together.",
+      "example": "We can upwards the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "exposure",
-      "ipaBrE": "/ɪkˈspəʊʒə(r)/",
-      "ipaAmE": "/ɪkˈspəʊʒər/",
-      "ipa": "/ɪkˈspəʊʒə(r)/",
+      "word": "caution",
+      "ipaBrE": "/ˈkɔːʃn/",
+      "ipaAmE": "/ˈkɔːʃn/",
+      "ipa": "/ˈkɔːʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "暴露, 揭发, 揭露 [化] 曝光量; 照射; 照射量",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a exposure",
-        "the role of exposure",
-        "exposure and evidence"
-      ],
-      "wordFamily": [
-        "exposure",
-        "exposures"
-      ],
-      "example": "This exposure matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extend",
-      "ipaBrE": "/ɪkˈstend/",
-      "ipaAmE": "/ɪkˈstend/",
-      "ipa": "/ɪkˈstend/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "扩充, 延伸, 伸展, 扩大 [计] 扩展",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "extend a plan",
-        "extend carefully",
-        "extend with others"
-      ],
-      "wordFamily": [
-        "extend",
-        "extended",
-        "extending",
-        "extends"
-      ],
-      "example": "We can extend the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extension",
-      "ipaBrE": "/ɪkˈstenʃn/",
-      "ipaAmE": "/ɪkˈstenʃn/",
-      "ipa": "/ɪkˈstenʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "延长, 扩充, 范围, 扩展名；伸缩的 [计] 扩展名, 扩充名",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extension",
-        "the role of extension",
-        "extension and evidence"
-      ],
-      "wordFamily": [
-        "extension",
-        "extensions"
-      ],
-      "example": "This extension matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extensive",
-      "ipaBrE": "/ɪkˈstensɪv/",
-      "ipaAmE": "/ɪkˈstensɪv/",
-      "ipa": "/ɪkˈstensɪv/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "广的, 广泛的, 多方面的 [经] 广大的, 扩大的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extensive approach",
-        "remain extensive",
-        "extensive enough"
-      ],
-      "wordFamily": [
-        "extensive"
-      ],
-      "example": "A extensive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extensively",
-      "ipaBrE": "/ɪkˈstensɪvli/",
-      "ipaAmE": "/ɪkˈstensɪvli/",
-      "ipa": "/ɪkˈstensɪvli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "adverb：extensively",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "extensively a plan",
-        "extensively carefully",
-        "extensively with others"
-      ],
-      "wordFamily": [
-        "extensively",
-        "extensive"
-      ],
-      "example": "We can extensively the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extent",
-      "ipaBrE": "/ɪkˈstent/",
-      "ipaAmE": "/ɪkˈstent/",
-      "ipa": "/ɪkˈstent/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "范围, 程度, 区域 [计] 范围",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extent",
-        "the role of extent",
-        "extent and evidence"
-      ],
-      "wordFamily": [
-        "extent",
-        "extents"
-      ],
-      "example": "This extent matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "external",
-      "ipaBrE": "/ɪkˈstɜːnl/",
-      "ipaAmE": "/ɪkˈstɜːrnl/",
-      "ipa": "/ɪkˈstɜːnl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "外部, 外面；外部的, 客观的, 表面的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a external approach",
-        "remain external",
-        "external enough"
-      ],
-      "wordFamily": [
-        "external",
-        "externals"
-      ],
-      "example": "A external approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extract",
-      "ipaBrE": "/ˈekstrækt/",
-      "ipaAmE": "/ˈekstrækt/",
-      "ipa": "/ˈekstrækt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "榨出物, 精汁, 摘录, 选段；(费力地)取出, 采掘, 榨取, 摘录, 吸取 [计] 提取",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extract",
-        "the role of extract",
-        "extract and evidence"
-      ],
-      "wordFamily": [
-        "extract",
-        "extracts",
-        "extracted",
-        "extracting"
-      ],
-      "example": "This extract matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extraordinary",
-      "ipaBrE": "/ɪkˈstrɔːdnri/",
-      "ipaAmE": "/ɪkˈstrɔːrdəneri/",
-      "ipa": "/ɪkˈstrɔːdnri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "非常的, 特别的, 非凡的 [经] 非常的, 特别的, 临时的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a extraordinary approach",
-        "remain extraordinary",
-        "extraordinary enough"
-      ],
-      "wordFamily": [
-        "extraordinary",
-        "extraordinaries"
-      ],
-      "example": "A extraordinary approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extremist",
-      "ipaBrE": "/ɪkˈstriːmɪst/",
-      "ipaAmE": "/ɪkˈstriːmɪst/",
-      "ipa": "/ɪkˈstriːmɪst/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：extremist",
+      "zh": "n. 小心, 慎重, 警示；vt. 警告； 警告",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a extremist",
-        "the role of extremist",
-        "extremist and evidence"
+        "a caution",
+        "the role of caution",
+        "caution and evidence"
       ],
       "wordFamily": [
-        "extremist"
+        "caution",
+        "cautioned",
+        "cautions",
+        "cautioning"
       ],
-      "example": "This extremist matters when people need to make a clear decision.",
+      "example": "This caution matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "fabric",
-      "ipaBrE": "/ˈfæbrɪk/",
-      "ipaAmE": "/ˈfæbrɪk/",
-      "ipa": "/ˈfæbrɪk/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "织物, 布, 结构, 构造, 建筑物 [经] 组织, 建筑物, 工厂",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "work",
-      "collocations": [
-        "a fabric",
-        "the role of fabric",
-        "fabric and evidence"
-      ],
-      "wordFamily": [
-        "fabric",
-        "fabrics"
-      ],
-      "example": "This fabric matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "fabulous",
-      "ipaBrE": "/ˈfæbjələs/",
-      "ipaAmE": "/ˈfæbjələs/",
-      "ipa": "/ˈfæbjələs/",
+      "word": "offensive",
+      "ipaBrE": "/əˈfensɪv/",
+      "ipaAmE": "/əˈfensɪv/",
+      "ipa": "/əˈfensɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：fabulous",
+      "zh": "a. 令人不快的, 侮辱的, 攻击性的； 攻击的, 进攻的, 冒犯的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a fabulous approach",
-        "remain fabulous",
-        "fabulous enough"
+        "a offensive approach",
+        "remain offensive",
+        "offensive enough"
       ],
       "wordFamily": [
-        "fabulous",
-        "fabulou"
+        "offensive",
+        "offensives"
       ],
-      "example": "A fabulous approach makes the situation easier to explain.",
+      "example": "A offensive approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "facilitate",
-      "ipaBrE": "/fəˈsɪlɪteɪt/",
-      "ipaAmE": "/fəˈsɪlɪteɪt/",
-      "ipa": "/fəˈsɪlɪteɪt/",
+      "word": "ongoing",
+      "ipaBrE": "/ˈɒnɡəʊɪŋ/",
+      "ipaAmE": "/ˈɑːnɡəʊɪŋ/",
+      "ipa": "/ˈɒnɡəʊɪŋ/",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "zh": "使容易, 促进, 帮助 [法] 使容易, 使便利, 推进",
+      "zh": "a. 前进的, 进行的, 不间断的；n. 前进, 发展",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "work",
+      "collocations": [
+        "a ongoing approach",
+        "remain ongoing",
+        "ongoing enough"
+      ],
+      "wordFamily": [
+        "ongoing",
+        "ongo"
+      ],
+      "example": "A ongoing approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "capability",
+      "ipaBrE": "/ˌkeɪpəˈbɪləti/",
+      "ipaAmE": "/ˌkeɪpəˈbɪləti/",
+      "ipa": "/ˌkeɪpəˈbɪləti/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 能力, 性能, 约束力； 能力",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "facilitate a plan",
-        "facilitate carefully",
-        "facilitate with others"
+        "a capability",
+        "the role of capability",
+        "capability and evidence"
       ],
       "wordFamily": [
-        "facilitate",
-        "facilitated",
-        "facilitates",
-        "facilitating"
+        "capability",
+        "capabilities",
+        "capabil"
       ],
-      "example": "We can facilitate the next step together.",
+      "example": "This capability matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "especially",
-      "ipaBrE": "/ɪˈspeʃəli/",
-      "ipaAmE": "/ɪˈspeʃəli/",
-      "ipa": "/ɪˈspeʃəli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "尤其, 特别, 格外",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "especially a plan",
-        "especially carefully",
-        "especially with others"
-      ],
-      "wordFamily": [
-        "especially",
-        "especial"
-      ],
-      "example": "We can especially the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "essay",
-      "ipaBrE": "/ˈeseɪ/",
-      "ipaAmE": "/ˈeseɪ/",
-      "ipa": "/ˈeseɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "随笔, 短文, 评论, 企图；试图",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a essay",
-        "the role of essay",
-        "essay and evidence"
-      ],
-      "wordFamily": [
-        "essay",
-        "essays",
-        "essayed",
-        "essaying"
-      ],
-      "example": "This essay matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "essential",
-      "ipaBrE": "/ɪˈsenʃl/",
-      "ipaAmE": "/ɪˈsenʃl/",
-      "ipa": "/ɪˈsenʃl/",
+      "word": "optical",
+      "ipaBrE": "/ˈɒptɪkl/",
+      "ipaAmE": "/ˈɑːptɪkl/",
+      "ipa": "/ˈɒptɪkl/",
       "pos": [
         "adjective"
       ],
-      "zh": "要素, 要点, 本质；必要的, 重要的, 本质的 [计] 本质冒险",
-      "cefr": "B1",
+      "zh": "a. 眼睛的, 视觉的, 光学的； 光学上的, 光学的",
+      "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "activation",
+      "role": "extension",
       "topic": "work",
       "collocations": [
-        "a essential approach",
-        "remain essential",
-        "essential enough"
+        "a optical approach",
+        "remain optical",
+        "optical enough"
       ],
       "wordFamily": [
-        "essential",
-        "essentials"
+        "optical"
       ],
-      "example": "A essential approach makes the situation easier to explain.",
+      "example": "A optical approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "euro",
-      "ipaBrE": "/ˈjʊərəʊ/",
-      "ipaAmE": "/ˈjʊrəʊ/",
-      "ipa": "/ˈjʊərəʊ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：euro",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a euro",
-        "the role of euro",
-        "euro and evidence"
-      ],
-      "wordFamily": [
-        "euro"
-      ],
-      "example": "This euro matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "evening",
-      "ipaBrE": "/ˈiːvnɪŋ/",
-      "ipaAmE": "/ˈiːvnɪŋ/",
-      "ipa": "/ˈiːvnɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "傍晚, 晚间, 末期",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a evening",
-        "the role of evening",
-        "evening and evidence"
-      ],
-      "wordFamily": [
-        "evening",
-        "even",
-        "evenings"
-      ],
-      "example": "This evening matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "event",
-      "ipaBrE": "/ɪˈvent/",
-      "ipaAmE": "/ɪˈvent/",
-      "ipa": "/ɪˈvent/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "事件, 结果, 事情的进程, 竞赛项目 [计] 事件",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a event",
-        "the role of event",
-        "event and evidence"
-      ],
-      "wordFamily": [
-        "event",
-        "events"
-      ],
-      "example": "This event matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "eventually",
-      "ipaBrE": "/ɪˈventʃuəli/",
-      "ipaAmE": "/ɪˈventʃuəli/",
-      "ipa": "/ɪˈventʃuəli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "最后, 终于",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "eventually a plan",
-        "eventually carefully",
-        "eventually with others"
-      ],
-      "wordFamily": [
-        "eventually",
-        "eventual"
-      ],
-      "example": "We can eventually the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ever",
-      "ipaBrE": "/ˈevə(r)/",
-      "ipaAmE": "/ˈevər/",
-      "ipa": "/ˈevə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "曾经, 究竟, 永远",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "ever a plan",
-        "ever carefully",
-        "ever with others"
-      ],
-      "wordFamily": [
-        "ever"
-      ],
-      "example": "We can ever the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "every",
-      "ipaBrE": "/ˈevri/",
-      "ipaAmE": "/ˈevri/",
-      "ipa": "/ˈevri/",
-      "pos": [
-        "determiner"
-      ],
-      "zh": "每一, 所有的",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a every",
-        "the role of every",
-        "every and evidence"
-      ],
-      "wordFamily": [
-        "every"
-      ],
-      "example": "This every matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everybody",
-      "ipaBrE": "/ˈevribɒdi/",
-      "ipaAmE": "/ˈevribʌdi/",
-      "ipa": "/ˈevribɒdi/",
-      "pos": [
-        "pronoun"
-      ],
-      "zh": "每个人, 人人",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a everybody",
-        "the role of everybody",
-        "everybody and evidence"
-      ],
-      "wordFamily": [
-        "everybody"
-      ],
-      "example": "This everybody matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everyday",
-      "ipaBrE": "/ˈevrideɪ/",
-      "ipaAmE": "/ˈevrideɪ/",
-      "ipa": "/ˈevrideɪ/",
+      "word": "vulnerable",
+      "ipaBrE": "/ˈvʌlnərəbl/",
+      "ipaAmE": "/ˈvʌlnərəbl/",
+      "ipa": "/ˈvʌlnərəbl/",
       "pos": [
         "adjective"
       ],
-      "zh": "每天的, 日常的, 平常的",
-      "cefr": "A2",
+      "zh": "a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的； 易损的",
+      "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "activation",
+      "role": "extension",
       "topic": "work",
       "collocations": [
-        "a everyday approach",
-        "remain everyday",
-        "everyday enough"
+        "a vulnerable approach",
+        "remain vulnerable",
+        "vulnerable enough"
       ],
       "wordFamily": [
-        "everyday"
+        "vulnerable",
+        "vulner"
       ],
-      "example": "A everyday approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everyone",
-      "ipaBrE": "/ˈevriwʌn/",
-      "ipaAmE": "/ˈevriwʌn/",
-      "ipa": "/ˈevriwʌn/",
-      "pos": [
-        "pronoun"
-      ],
-      "zh": "每个人, 人人 [计] 系统中的一个组名",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a everyone",
-        "the role of everyone",
-        "everyone and evidence"
-      ],
-      "wordFamily": [
-        "everyone"
-      ],
-      "example": "This everyone matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everything",
-      "ipaBrE": "/ˈevriθɪŋ/",
-      "ipaAmE": "/ˈevriθɪŋ/",
-      "ipa": "/ˈevriθɪŋ/",
-      "pos": [
-        "pronoun"
-      ],
-      "zh": "每件事物, 所有事物",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a everything",
-        "the role of everything",
-        "everything and evidence"
-      ],
-      "wordFamily": [
-        "everything",
-        "everyth"
-      ],
-      "example": "This everything matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "everywhere",
-      "ipaBrE": "/ˈevriweə(r)/",
-      "ipaAmE": "/ˈevriwer/",
-      "ipa": "/ˈevriweə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "各处, 到处",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "everywhere a plan",
-        "everywhere carefully",
-        "everywhere with others"
-      ],
-      "wordFamily": [
-        "everywhere"
-      ],
-      "example": "We can everywhere the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "evidence",
-      "ipaBrE": "/ˈevɪdəns/",
-      "ipaAmE": "/ˈevɪdəns/",
-      "ipa": "/ˈevɪdəns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "根据, 证据, 迹象 [经] 证据, 凭证",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a evidence",
-        "the role of evidence",
-        "evidence and evidence"
-      ],
-      "wordFamily": [
-        "evidence",
-        "evidenced",
-        "evidences",
-        "evidencing"
-      ],
-      "example": "This evidence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exact",
-      "ipaBrE": "/ɪɡˈzækt/",
-      "ipaAmE": "/ɪɡˈzækt/",
-      "ipa": "/ɪɡˈzækt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "精确的, 准确的, 精密的；强求, 急需",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exact approach",
-        "remain exact",
-        "exact enough"
-      ],
-      "wordFamily": [
-        "exact",
-        "exacted",
-        "exacts",
-        "exacting"
-      ],
-      "example": "A exact approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exactly",
-      "ipaBrE": "/ɪɡˈzæktli/",
-      "ipaAmE": "/ɪɡˈzæktli/",
-      "ipa": "/ɪɡˈzæktli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "确切地, 精确地, 恰好, 完全地, 确实, 恰恰正是, 确实如此",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "exactly a plan",
-        "exactly carefully",
-        "exactly with others"
-      ],
-      "wordFamily": [
-        "exactly",
-        "exact"
-      ],
-      "example": "We can exactly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exam",
-      "ipaBrE": "/ɪɡˈzæm/",
-      "ipaAmE": "/ɪɡˈzæm/",
-      "ipa": "/ɪɡˈzæm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "考试, 测验",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exam",
-        "the role of exam",
-        "exam and evidence"
-      ],
-      "wordFamily": [
-        "exam",
-        "exams"
-      ],
-      "example": "This exam matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "examine",
-      "ipaBrE": "/ɪɡˈzæmɪn/",
-      "ipaAmE": "/ɪɡˈzæmɪn/",
-      "ipa": "/ɪɡˈzæmɪn/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "检查, 调查, 考试",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "examine a plan",
-        "examine carefully",
-        "examine with others"
-      ],
-      "wordFamily": [
-        "examine",
-        "examined",
-        "examining",
-        "examines"
-      ],
-      "example": "We can examine the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "example",
-      "ipaBrE": "/ɪɡˈzɑːmpl/",
-      "ipaAmE": "/ɪɡˈzæmpl/",
-      "ipa": "/ɪɡˈzɑːmpl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "例子, 样本, 实例 [化] 实例",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a example",
-        "the role of example",
-        "example and evidence"
-      ],
-      "wordFamily": [
-        "example",
-        "examples"
-      ],
-      "example": "This example matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "excellent",
-      "ipaBrE": "/ˈeksələnt/",
-      "ipaAmE": "/ˈeksələnt/",
-      "ipa": "/ˈeksələnt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "优良的, 杰出的, 出色的",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a excellent approach",
-        "remain excellent",
-        "excellent enough"
-      ],
-      "wordFamily": [
-        "excellent"
-      ],
-      "example": "A excellent approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "except",
-      "ipaBrE": "/ɪkˈsept/",
-      "ipaAmE": "/ɪkˈsept/",
-      "ipa": "/ɪkˈsept/",
-      "pos": [
-        "conjunction"
-      ],
-      "zh": "除, 除外；反对；除了...之外, 若不是, 除非；只是",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a except",
-        "the role of except",
-        "except and evidence"
-      ],
-      "wordFamily": [
-        "except",
-        "excepting",
-        "excepted",
-        "excepts"
-      ],
-      "example": "This except matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exchange",
-      "ipaBrE": "/ɪksˈtʃeɪndʒ/",
-      "ipaAmE": "/ɪksˈtʃeɪndʒ/",
-      "ipa": "/ɪksˈtʃeɪndʒ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "交换, (电话)交换局, 交换机, 汇兑, 交易所；交换, 交易, 兑换 [计] 交换; 电话局",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exchange",
-        "the role of exchange",
-        "exchange and evidence"
-      ],
-      "wordFamily": [
-        "exchange",
-        "exchanges",
-        "exchanged",
-        "exchanging"
-      ],
-      "example": "This exchange matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "excited",
-      "ipaBrE": "/ɪkˈsaɪtɪd/",
-      "ipaAmE": "/ɪkˈsaɪtɪd/",
-      "ipa": "/ɪkˈsaɪtɪd/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "兴奋的, 已励磁的, 已激发的, 激昂的, 激动的",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a excited approach",
-        "remain excited",
-        "excited enough"
-      ],
-      "wordFamily": [
-        "excited",
-        "dp",
-        "excit"
-      ],
-      "example": "A excited approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "excitement",
-      "ipaBrE": "/ɪkˈsaɪtmənt/",
-      "ipaAmE": "/ɪkˈsaɪtmənt/",
-      "ipa": "/ɪkˈsaɪtmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "刺激, 兴奋 [医] 兴奋, 激动",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a excitement",
-        "the role of excitement",
-        "excitement and evidence"
-      ],
-      "wordFamily": [
-        "excitement",
-        "excitements",
-        "excite"
-      ],
-      "example": "This excitement matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exciting",
-      "ipaBrE": "/ɪkˈsaɪtɪŋ/",
-      "ipaAmE": "/ɪkˈsaɪtɪŋ/",
-      "ipa": "/ɪkˈsaɪtɪŋ/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "令人兴奋的, 刺激的 [电] 激磁",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exciting approach",
-        "remain exciting",
-        "exciting enough"
-      ],
-      "wordFamily": [
-        "exciting",
-        "excit"
-      ],
-      "example": "A exciting approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exhibition",
-      "ipaBrE": "/ˌeksɪˈbɪʃn/",
-      "ipaAmE": "/ˌeksɪˈbɪʃn/",
-      "ipa": "/ˌeksɪˈbɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "表现, 展览会, 展览品 [医] 投药, 展览, 展出",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a exhibition",
-        "the role of exhibition",
-        "exhibition and evidence"
-      ],
-      "wordFamily": [
-        "exhibition",
-        "exhibitions",
-        "exhibite"
-      ],
-      "example": "This exhibition matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "exist",
-      "ipaBrE": "/ɪɡˈzɪst/",
-      "ipaAmE": "/ɪɡˈzɪst/",
-      "ipa": "/ɪɡˈzɪst/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "存在, 生存, 发生",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "exist a plan",
-        "exist carefully",
-        "exist with others"
-      ],
-      "wordFamily": [
-        "exist",
-        "exists",
-        "existed",
-        "existing"
-      ],
-      "example": "We can exist the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "existing",
-      "ipaBrE": "/i^ˈzistiŋ/",
-      "ipaAmE": "/i^ˈzistiŋ/",
-      "ipa": "/i^ˈzistiŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "存在的, 目前的, 现存的, 现有的 [计] 现成的, 已有的, 现存的",
-      "cefr": "B1",
-      "source": "Oxford 5000 companion",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a existing",
-        "the role of existing",
-        "existing and evidence"
-      ],
-      "wordFamily": [
-        "existing",
-        "exist"
-      ],
-      "example": "This existing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expand",
-      "ipaBrE": "/ɪkˈspænd/",
-      "ipaAmE": "/ɪkˈspænd/",
-      "ipa": "/ɪkˈspænd/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "使膨胀, 详述, 扩张；张开, 发展；展开；展开 [计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "expand a plan",
-        "expand carefully",
-        "expand with others"
-      ],
-      "wordFamily": [
-        "expand",
-        "expanded",
-        "expanding",
-        "expands"
-      ],
-      "example": "We can expand the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expect",
-      "ipaBrE": "/ɪkˈspekt/",
-      "ipaAmE": "/ɪkˈspekt/",
-      "ipa": "/ɪkˈspekt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "预期, 盼望, 期待",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "expect a plan",
-        "expect carefully",
-        "expect with others"
-      ],
-      "wordFamily": [
-        "expect",
-        "expected",
-        "expecting",
-        "expects"
-      ],
-      "example": "We can expect the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expected",
-      "ipaBrE": "/ɪkˈspektɪd/",
-      "ipaAmE": "/ɪkˈspektɪd/",
-      "ipa": "/ɪkˈspektɪd/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "adjective：expected",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expected approach",
-        "remain expected",
-        "expected enough"
-      ],
-      "wordFamily": [
-        "expected",
-        "expect"
-      ],
-      "example": "A expected approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expedition",
-      "ipaBrE": "/ˌekspəˈdɪʃn/",
-      "ipaAmE": "/ˌekspəˈdɪʃn/",
-      "ipa": "/ˌekspəˈdɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "远征, 探险队, 迅速",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expedition",
-        "the role of expedition",
-        "expedition and evidence"
-      ],
-      "wordFamily": [
-        "expedition",
-        "expeditions",
-        "expedite"
-      ],
-      "example": "This expedition matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expensive",
-      "ipaBrE": "/ɪkˈspensɪv/",
-      "ipaAmE": "/ɪkˈspensɪv/",
-      "ipa": "/ɪkˈspensɪv/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "贵的, 奢华的, 费用浩大的, 乱化钱的 [经] 高价的, 昂贵的, 浪费的",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expensive approach",
-        "remain expensive",
-        "expensive enough"
-      ],
-      "wordFamily": [
-        "expensive"
-      ],
-      "example": "A expensive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "experience",
-      "ipaBrE": "/ɪkˈspɪəriəns/",
-      "ipaAmE": "/ɪkˈspɪriəns/",
-      "ipa": "/ɪkˈspɪəriəns/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "经历, 经验, 体验；经历, 经验, 体验",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a experience",
-        "the role of experience",
-        "experience and evidence"
-      ],
-      "wordFamily": [
-        "experience",
-        "experiences",
-        "experienced",
-        "experiencing"
-      ],
-      "example": "This experience matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "experienced",
-      "ipaBrE": "/ɪkˈspɪəriənst/",
-      "ipaAmE": "/ɪkˈspɪriənst/",
-      "ipa": "/ɪkˈspɪəriənst/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "富有经验的, 老练的, 熟练的",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a experienced approach",
-        "remain experienced",
-        "experienced enough"
-      ],
-      "wordFamily": [
-        "experienced",
-        "experience",
-        "dp",
-        "experienc"
-      ],
-      "example": "A experienced approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "experiment",
-      "ipaBrE": "/ɪkˈsperɪmənt/",
-      "ipaAmE": "/ɪkˈsperɪmənt/",
-      "ipa": "/ɪkˈsperɪmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "实验, 试验, 实验仪器；实验, 尝试",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a experiment",
-        "the role of experiment",
-        "experiment and evidence"
-      ],
-      "wordFamily": [
-        "experiment",
-        "experiments",
-        "experimenting",
-        "experimented"
-      ],
-      "example": "This experiment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expert",
-      "ipaBrE": "/ˈekspɜːt/",
-      "ipaAmE": "/ˈekspɜːrt/",
-      "ipa": "/ˈekspɜːt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "专家, 行家；老练的, 内行的, 专门的 [计] 高级",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expert approach",
-        "remain expert",
-        "expert enough"
-      ],
-      "wordFamily": [
-        "expert",
-        "experts"
-      ],
-      "example": "A expert approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explain",
-      "ipaBrE": "/ɪkˈspleɪn/",
-      "ipaAmE": "/ɪkˈspleɪn/",
-      "ipa": "/ɪkˈspleɪn/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "解释, 说明",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "explain a plan",
-        "explain carefully",
-        "explain with others"
-      ],
-      "wordFamily": [
-        "explain",
-        "explained",
-        "explains",
-        "explaining"
-      ],
-      "example": "We can explain the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explanation",
-      "ipaBrE": "/ˌekspləˈneɪʃn/",
-      "ipaAmE": "/ˌekspləˈneɪʃn/",
-      "ipa": "/ˌekspləˈneɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "解释, 说明, 辩解, 表明 [经] 解释, 注释, 说明",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a explanation",
-        "the role of explanation",
-        "explanation and evidence"
-      ],
-      "wordFamily": [
-        "explanation",
-        "explanations",
-        "explanate"
-      ],
-      "example": "This explanation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explode",
-      "ipaBrE": "/ɪkˈspləʊd/",
-      "ipaAmE": "/ɪkˈspləʊd/",
-      "ipa": "/ɪkˈspləʊd/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "爆炸, 爆发, 激增；使爆炸",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "explode a plan",
-        "explode carefully",
-        "explode with others"
-      ],
-      "wordFamily": [
-        "explode",
-        "exploded",
-        "exploding",
-        "explodes"
-      ],
-      "example": "We can explode the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explore",
-      "ipaBrE": "/ɪkˈsplɔː(r)/",
-      "ipaAmE": "/ɪkˈsplɔːr/",
-      "ipa": "/ɪkˈsplɔː(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "探险, 探测, 探究",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "explore a plan",
-        "explore carefully",
-        "explore with others"
-      ],
-      "wordFamily": [
-        "explore",
-        "exploring",
-        "explored",
-        "explores"
-      ],
-      "example": "We can explore the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "explosion",
-      "ipaBrE": "/ɪkˈspləʊʒn/",
-      "ipaAmE": "/ɪkˈspləʊʒn/",
-      "ipa": "/ɪkˈspləʊʒn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "爆发, 激增, 爆炸(声) [化] 爆炸",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a explosion",
-        "the role of explosion",
-        "explosion and evidence"
-      ],
-      "wordFamily": [
-        "explosion",
-        "explosions"
-      ],
-      "example": "This explosion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "export",
-      "ipaBrE": "/ˈekspɔːt/",
-      "ipaAmE": "/ˈekspɔːrt/",
-      "ipa": "/ˈekspɔːt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "输出品, 输出；输出, 出口；输出物资 [计] 导出",
-      "cefr": "B1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a export",
-        "the role of export",
-        "export and evidence"
-      ],
-      "wordFamily": [
-        "export",
-        "exports",
-        "exported",
-        "exporting"
-      ],
-      "example": "This export matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "express",
-      "ipaBrE": "/ɪkˈspres/",
-      "ipaAmE": "/ɪkˈspres/",
-      "ipa": "/ɪkˈspres/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "快车, 快递, 专使；明确的, 丝毫不差的, 专门的, 快的；表达, 表示, 表露",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "express a plan",
-        "express carefully",
-        "express with others"
-      ],
-      "wordFamily": [
-        "express",
-        "expressed",
-        "expressing",
-        "expresses"
-      ],
-      "example": "We can express the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "expression",
-      "ipaBrE": "/ɪkˈspreʃn/",
-      "ipaAmE": "/ɪkˈspreʃn/",
-      "ipa": "/ɪkˈspreʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "表达, 表现, 词语, 措辞 [计] 表达式",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a expression",
-        "the role of expression",
-        "expression and evidence"
-      ],
-      "wordFamily": [
-        "expression",
-        "expressions"
-      ],
-      "example": "This expression matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extra",
-      "ipaBrE": "/ˈekstrə/",
-      "ipaAmE": "/ˈekstrə/",
-      "ipa": "/ˈekstrə/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "额外的事物, 另外的收费；额外的, 特别的 adv. 额外地, 特别地, 非常地",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a extra approach",
-        "remain extra",
-        "extra enough"
-      ],
-      "wordFamily": [
-        "extra",
-        "extras"
-      ],
-      "example": "A extra approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extreme",
-      "ipaBrE": "/ɪkˈstriːm/",
-      "ipaAmE": "/ɪkˈstriːm/",
-      "ipa": "/ɪkˈstriːm/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "极端, 末端；极端的, 尽头的, 极度的, 偏激的",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a extreme approach",
-        "remain extreme",
-        "extreme enough"
-      ],
-      "wordFamily": [
-        "extreme",
-        "extremes",
-        "extremest"
-      ],
-      "example": "A extreme approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "extremely",
-      "ipaBrE": "/ɪkˈstriːmli/",
-      "ipaAmE": "/ɪkˈstriːmli/",
-      "ipa": "/ɪkˈstriːmli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "极端地, 非常地",
-      "cefr": "A2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "extremely a plan",
-        "extremely carefully",
-        "extremely with others"
-      ],
-      "wordFamily": [
-        "extremely",
-        "extreme"
-      ],
-      "example": "We can extremely the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "eye",
-      "ipaBrE": "/aɪ/",
-      "ipaAmE": "/aɪ/",
-      "ipa": "/aɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "眼睛, 视力, 看；看, 注视",
-      "cefr": "A1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "work",
-      "collocations": [
-        "a eye",
-        "the role of eye",
-        "eye and evidence"
-      ],
-      "wordFamily": [
-        "eye",
-        "eyes",
-        "eyed",
-        "eyeing"
-      ],
-      "example": "This eye matters when people need to make a clear decision.",
+      "example": "A vulnerable approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     }
   ],
   "focusWords": [
-    "evolve",
-    "exaggerate",
-    "examination",
-    "exceed",
-    "excellence",
-    "exception",
-    "exceptional",
-    "excess",
-    "excessive",
-    "exclude",
-    "exclusion",
-    "exclusive"
+    "marketing",
+    "laughter",
+    "theater",
+    "another",
+    "either",
+    "afternoon",
+    "vacation",
+    "by",
+    "general",
+    "mention",
+    "cigarette",
+    "disappointed"
   ],
   "practice": {
     "multipleChoice": [
       {
         "question": "Which expression best fits the work situation?",
         "options": [
-          "evolve a plan",
-          "exaggerate a plan",
+          "a marketing",
+          "a laughter",
           "ignore the context"
         ],
         "answer": 0,
-        "explanation": "Use evolve in a phrase rather than studying it in isolation."
+        "explanation": "Use marketing in a phrase rather than studying it in isolation."
       }
     ],
     "cloze": [
       {
         "sentence": "A clear speaker can ___ the next step and explain the reason.",
-        "answer": "evolve",
+        "answer": "marketing",
         "wordBank": [
-          "evolve",
-          "exaggerate",
+          "marketing",
+          "laughter",
           "forget"
         ]
       }
     ],
     "translation": [
       {
-        "prompt": "请用 evolve 和 exaggerate 说清楚本课场景中的一个下一步。",
-        "answer": "Use evolve and exaggerate to explain the next step in this situation."
+        "prompt": "请用 marketing 和 laughter 说清楚本课场景中的一个下一步。",
+        "answer": "Use marketing and laughter to explain the next step in this situation."
       }
     ]
   },

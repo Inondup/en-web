@@ -9,516 +9,922 @@ export default {
   "grammarId": 44,
   "words": [
     {
-      "word": "puzzle",
-      "ipaBrE": "/ˈpʌzl/",
-      "ipaAmE": "/ˈpʌzl/",
-      "ipa": "/ˈpʌzl/",
+      "word": "suite",
+      "ipaBrE": "/swiːt/",
+      "ipaAmE": "/swiːt/",
+      "ipa": "/swiːt/",
       "pos": [
         "noun"
       ],
-      "zh": "难题, 迷惑；使困惑, 使为难；迷惑, 苦思",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a puzzle",
-        "the role of puzzle",
-        "puzzle and evidence"
-      ],
-      "wordFamily": [
-        "puzzle",
-        "puzzles",
-        "puzzling",
-        "puzzled"
-      ],
-      "example": "This puzzle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "query",
-      "ipaBrE": "/ˈkwɪəri/",
-      "ipaAmE": "/ˈkwɪri/",
-      "ipa": "/ˈkwɪəri/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：query",
+      "zh": "n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事； 程序组",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a query",
-        "the role of query",
-        "query and evidence"
+        "a suite",
+        "the role of suite",
+        "suite and evidence"
       ],
       "wordFamily": [
-        "query"
+        "suite",
+        "suites"
       ],
-      "example": "This query matters when people need to make a clear decision.",
+      "example": "This suite matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quest",
-      "ipaBrE": "/kwest/",
-      "ipaAmE": "/kwest/",
-      "ipa": "/kwest/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "探索, 寻求, 调查；寻找, 找, 追寻猎物",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a quest",
-        "the role of quest",
-        "quest and evidence"
-      ],
-      "wordFamily": [
-        "quest",
-        "quests",
-        "questing",
-        "quested"
-      ],
-      "example": "This quest matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "questionnaire",
-      "ipaBrE": "/ˌkwestʃəˈneə(r)/",
-      "ipaAmE": "/ˌkwestʃəˈner/",
-      "ipa": "/ˌkwestʃəˈneə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "调查表, 问卷 [经] 调查表",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a questionnaire",
-        "the role of questionnaire",
-        "questionnaire and evidence"
-      ],
-      "wordFamily": [
-        "questionnaire",
-        "questionnaires"
-      ],
-      "example": "This questionnaire matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quota",
-      "ipaBrE": "/ˈkwəʊtə/",
-      "ipaAmE": "/ˈkwəʊtə/",
-      "ipa": "/ˈkwəʊtə/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：quota",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a quota",
-        "the role of quota",
-        "quota and evidence"
-      ],
-      "wordFamily": [
-        "quota"
-      ],
-      "example": "This quota matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "racial",
-      "ipaBrE": "/ˈreɪʃl/",
-      "ipaAmE": "/ˈreɪʃl/",
-      "ipa": "/ˈreɪʃl/",
+      "word": "urban",
+      "ipaBrE": "/ˈɜːbən/",
+      "ipaAmE": "/ˈɜːrbən/",
+      "ipa": "/ˈɜːbən/",
       "pos": [
         "adjective"
       ],
-      "zh": "人种的, 种族的 [医] 种族的",
+      "zh": "a. 都市的, 住在都市的, 习惯于都市的； 城市的, 都市的, 市区的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a racial approach",
-        "remain racial",
-        "racial enough"
+        "a urban approach",
+        "remain urban",
+        "urban enough"
       ],
       "wordFamily": [
-        "racial"
+        "urban"
       ],
-      "example": "A racial approach makes the situation easier to explain.",
+      "example": "A urban approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "racism",
-      "ipaBrE": "/ˈreɪsɪzəm/",
-      "ipaAmE": "/ˈreɪsɪzəm/",
-      "ipa": "/ˈreɪsɪzəm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "种族主义, 种族偏见 [法] 种族主义, 种族歧视, 种族歧视主张",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a racism",
-        "the role of racism",
-        "racism and evidence"
-      ],
-      "wordFamily": [
-        "racism",
-        "racisms"
-      ],
-      "example": "This racism matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "racist",
-      "ipaBrE": "/ˈreɪsɪst/",
-      "ipaAmE": "/ˈreɪsɪst/",
-      "ipa": "/ˈreɪsɪst/",
+      "word": "profitable",
+      "ipaBrE": "/ˈprɒfɪtəbl/",
+      "ipaAmE": "/ˈprɑːfɪtəbl/",
+      "ipa": "/ˈprɒfɪtəbl/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：racist",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a racist approach",
-        "remain racist",
-        "racist enough"
-      ],
-      "wordFamily": [
-        "racist"
-      ],
-      "example": "A racist approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "radar",
-      "ipaBrE": "/ˈreɪdɑː(r)/",
-      "ipaAmE": "/ˈreɪdɑːr/",
-      "ipa": "/ˈreɪdɑː(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "雷达, 无线电探测器 [计] 雷达图",
+      "zh": "a. 有利润的, 有利益的, 赚钱的； 有利(可图)的, 合算的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a radar",
-        "the role of radar",
-        "radar and evidence"
+        "a profitable approach",
+        "remain profitable",
+        "profitable enough"
       ],
       "wordFamily": [
-        "radar",
-        "radars"
+        "profitable",
+        "profit"
       ],
-      "example": "This radar matters when people need to make a clear decision.",
+      "example": "A profitable approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "radiation",
-      "ipaBrE": "/ˌreɪdiˈeɪʃn/",
-      "ipaAmE": "/ˌreɪdiˈeɪʃn/",
-      "ipa": "/ˌreɪdiˈeɪʃn/",
+      "word": "delight",
+      "ipaBrE": "/dɪˈlaɪt/",
+      "ipaAmE": "/dɪˈlaɪt/",
+      "ipa": "/dɪˈlaɪt/",
       "pos": [
         "noun"
       ],
-      "zh": "辐射 [化] 放射",
+      "zh": "n. 高兴, 愉快；vt. 使高兴, 乐于；vi. 感到高兴(或愉快、快乐)",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a radiation",
-        "the role of radiation",
-        "radiation and evidence"
+        "a delight",
+        "the role of delight",
+        "delight and evidence"
       ],
       "wordFamily": [
-        "radiation",
-        "radiations",
-        "radiate"
+        "delight",
+        "delights",
+        "delighted",
+        "delighting"
       ],
-      "example": "This radiation matters when people need to make a clear decision.",
+      "example": "This delight matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "radical",
-      "ipaBrE": "/ˈrædɪkl/",
-      "ipaAmE": "/ˈrædɪkl/",
-      "ipa": "/ˈrædɪkl/",
+      "word": "discretion",
+      "ipaBrE": "/dɪˈskreʃn/",
+      "ipaAmE": "/dɪˈskreʃn/",
+      "ipa": "/dɪˈskreʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 慎重, 辨别力, 考虑, 处理权； 有决定权的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a discretion",
+        "the role of discretion",
+        "discretion and evidence"
+      ],
+      "wordFamily": [
+        "discretion",
+        "discrete"
+      ],
+      "example": "This discretion matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "discipline",
+      "ipaBrE": "/ˈdɪsəplɪn/",
+      "ipaAmE": "/ˈdɪsəplɪn/",
+      "ipa": "/ˈdɪsəplɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 训练, 纪律；vt. 训练, 惩罚",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a discipline",
+        "the role of discipline",
+        "discipline and evidence"
+      ],
+      "wordFamily": [
+        "discipline",
+        "disciplines",
+        "disciplined",
+        "disciplining"
+      ],
+      "example": "This discipline matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "intervene",
+      "ipaBrE": "/ˌɪntəˈviːn/",
+      "ipaAmE": "/ˌɪntərˈviːn/",
+      "ipa": "/ˌɪntəˈviːn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vi. 插入, 调停, 干涉； 进场干预",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "intervene a plan",
+        "intervene carefully",
+        "intervene with others"
+      ],
+      "wordFamily": [
+        "intervene",
+        "intervened",
+        "intervenes",
+        "intervening"
+      ],
+      "example": "We can intervene the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "warming",
+      "ipaBrE": "/ˈwɔːmɪŋ/",
+      "ipaAmE": "/ˈwɔːrmɪŋ/",
+      "ipa": "/ˈwɔːmɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 暖和, 加温, 暖热, 温暖, (非正式)打, 鞭打",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a warming",
+        "the role of warming",
+        "warming and evidence"
+      ],
+      "wordFamily": [
+        "warming",
+        "warm"
+      ],
+      "example": "This warming matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "convention",
+      "ipaBrE": "/kənˈvenʃn/",
+      "ipaAmE": "/kənˈvenʃn/",
+      "ipa": "/kənˈvenʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大会, 协定, 惯例, 约定； 约定",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a convention",
+        "the role of convention",
+        "convention and evidence"
+      ],
+      "wordFamily": [
+        "convention",
+        "conventions",
+        "convente"
+      ],
+      "example": "This convention matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "interference",
+      "ipaBrE": "/ˌɪntəˈfɪərəns/",
+      "ipaAmE": "/ˌɪntərˈfɪrəns/",
+      "ipa": "/ˌɪntəˈfɪərəns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 冲突, 干涉； 干扰",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a interference",
+        "the role of interference",
+        "interference and evidence"
+      ],
+      "wordFamily": [
+        "interference"
+      ],
+      "example": "This interference matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "outline",
+      "ipaBrE": "/ˈaʊtlaɪn/",
+      "ipaAmE": "/ˈaʊtlaɪn/",
+      "ipa": "/ˈaʊtlaɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大纲, 轮廓, 概要；vt. 描画轮廓, 描述要点；n. 大纲, 分级, 轮廓； 大纲, 分级, 轮廓",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a outline",
+        "the role of outline",
+        "outline and evidence"
+      ],
+      "wordFamily": [
+        "outline",
+        "outlined",
+        "outlines",
+        "outlining"
+      ],
+      "example": "This outline matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "division",
+      "ipaBrE": "/dɪˈvɪʒn/",
+      "ipaAmE": "/dɪˈvɪʒn/",
+      "ipa": "/dɪˈvɪʒn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 分, 分开, 除法, 部门(如部、处、系等), 师； 部分",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a division",
+        "the role of division",
+        "division and evidence"
+      ],
+      "wordFamily": [
+        "division",
+        "divisions"
+      ],
+      "example": "This division matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "funeral",
+      "ipaBrE": "/ˈfjuːnərəl/",
+      "ipaAmE": "/ˈfjuːnərəl/",
+      "ipa": "/ˈfjuːnərəl/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 葬礼, 出殡",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a funeral",
+        "the role of funeral",
+        "funeral and evidence"
+      ],
+      "wordFamily": [
+        "funeral",
+        "funerals"
+      ],
+      "example": "This funeral matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "resistance",
+      "ipaBrE": "/rɪˈzɪstəns/",
+      "ipaAmE": "/rɪˈzɪstəns/",
+      "ipa": "/rɪˈzɪstəns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 抵抗力, 反抗, 耐力, 阻力, 电阻； 抵抗; 抗性; 阻力; 抗药性; 电阻",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a resistance",
+        "the role of resistance",
+        "resistance and evidence"
+      ],
+      "wordFamily": [
+        "resistance",
+        "resistances"
+      ],
+      "example": "This resistance matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "riot",
+      "ipaBrE": "/ˈraɪət/",
+      "ipaAmE": "/ˈraɪət/",
+      "ipa": "/ˈraɪət/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 暴动, 喧闹, 放纵；vi. 发动, 暴动, 纵情, 放荡；vt. 浪费, 挥霍",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a riot",
+        "the role of riot",
+        "riot and evidence"
+      ],
+      "wordFamily": [
+        "riot",
+        "riots",
+        "rioted",
+        "rioting"
+      ],
+      "example": "This riot matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "simultaneously",
+      "ipaBrE": "/ˌsɪmlˈteɪniəsli/",
+      "ipaAmE": "/ˌsaɪmlˈteɪniəsli/",
+      "ipa": "/ˌsɪmlˈteɪniəsli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 同时发生, 一齐, 同时, 同时存在",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "simultaneously a plan",
+        "simultaneously carefully",
+        "simultaneously with others"
+      ],
+      "wordFamily": [
+        "simultaneously",
+        "simultaneous"
+      ],
+      "example": "We can simultaneously the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "journalism",
+      "ipaBrE": "/ˈdʒɜːnəlɪzəm/",
+      "ipaAmE": "/ˈdʒɜːrnəlɪzəm/",
+      "ipa": "/ˈdʒɜːnəlɪzəm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 新闻业, 报章杂志； 报刊, 新闻业, 新闻出版",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a journalism",
+        "the role of journalism",
+        "journalism and evidence"
+      ],
+      "wordFamily": [
+        "journalism"
+      ],
+      "example": "This journalism matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "launch",
+      "ipaBrE": "/lɔːntʃ/",
+      "ipaAmE": "/lɔːntʃ/",
+      "ipa": "/lɔːntʃ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 下水, 汽艇, 发射；vt. 使下水, 发射, 发动；vi. 起飞, 下水, 投入, 开始",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a launch",
+        "the role of launch",
+        "launch and evidence"
+      ],
+      "wordFamily": [
+        "launch",
+        "launched",
+        "launching",
+        "launches"
+      ],
+      "example": "This launch matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "indictment",
+      "ipaBrE": "/ɪnˈdaɪtmənt/",
+      "ipaAmE": "/ɪnˈdaɪtmənt/",
+      "ipa": "/ɪnˈdaɪtmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 起诉, 控告, 起诉状； 起诉书",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a indictment",
+        "the role of indictment",
+        "indictment and evidence"
+      ],
+      "wordFamily": [
+        "indictment",
+        "indict"
+      ],
+      "example": "This indictment matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "vein",
+      "ipaBrE": "/veɪn/",
+      "ipaAmE": "/veɪn/",
+      "ipa": "/veɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 血管, 静脉, 纹理, 气质, 情绪；vt. 使有脉络, 像脉络般分布于",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a vein",
+        "the role of vein",
+        "vein and evidence"
+      ],
+      "wordFamily": [
+        "vein",
+        "veins",
+        "veined",
+        "veining"
+      ],
+      "example": "This vein matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "disturb",
+      "ipaBrE": "/dɪˈstɜːb/",
+      "ipaAmE": "/dɪˈstɜːrb/",
+      "ipa": "/dɪˈstɜːb/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 扰乱, 妨碍, 使不安； 滋扰, 扰乱",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "disturb a plan",
+        "disturb carefully",
+        "disturb with others"
+      ],
+      "wordFamily": [
+        "disturb",
+        "disturbed",
+        "disturbing",
+        "disturbs"
+      ],
+      "example": "We can disturb the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "grab",
+      "ipaBrE": "/ɡræb/",
+      "ipaAmE": "/ɡræb/",
+      "ipa": "/ɡræb/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "n. 抓握, 掠夺, 强占, 东方沿岸帆船；vi. 抓取, 抢去；vt. 攫取, 捕获, 霸占",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "grab a plan",
+        "grab carefully",
+        "grab with others"
+      ],
+      "wordFamily": [
+        "grab",
+        "grabbed",
+        "grabbing",
+        "grabs"
+      ],
+      "example": "We can grab the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "injection",
+      "ipaBrE": "/ɪnˈdʒekʃn/",
+      "ipaAmE": "/ɪnˈdʒekʃn/",
+      "ipa": "/ɪnˈdʒekʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 注射, 注射剂； 注入; 注射",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a injection",
+        "the role of injection",
+        "injection and evidence"
+      ],
+      "wordFamily": [
+        "injection",
+        "injecte"
+      ],
+      "example": "This injection matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "accuse",
+      "ipaBrE": "/əˈkjuːz/",
+      "ipaAmE": "/əˈkjuːz/",
+      "ipa": "/əˈkjuːz/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 指责, 控告, 归咎于；vi. 指责, 控告",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "accuse a plan",
+        "accuse carefully",
+        "accuse with others"
+      ],
+      "wordFamily": [
+        "accuse",
+        "accused",
+        "accusing",
+        "accuses"
+      ],
+      "example": "We can accuse the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "stark",
+      "ipaBrE": "/stɑːk/",
+      "ipaAmE": "/stɑːrk/",
+      "ipa": "/stɑːk/",
       "pos": [
         "adjective"
       ],
-      "zh": "激进分子, 词根, 基础, 根式, 根；激进的, 根本的, 基本的, 根的",
+      "zh": "a. 僵硬的, 完全的, 刻板的, 明显的, 荒凉的, 结实的；adv. 突出地, 简直, 全然",
       "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a radical approach",
-        "remain radical",
-        "radical enough"
+        "a stark approach",
+        "remain stark",
+        "stark enough"
       ],
       "wordFamily": [
-        "radical",
-        "radicals"
+        "stark"
       ],
-      "example": "A radical approach makes the situation easier to explain.",
+      "example": "A stark approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rage",
-      "ipaBrE": "/reɪdʒ/",
-      "ipaAmE": "/reɪdʒ/",
-      "ipa": "/reɪdʒ/",
+      "word": "appeal",
+      "ipaBrE": "/əˈpiːl/",
+      "ipaAmE": "/əˈpiːl/",
+      "ipa": "/əˈpiːl/",
       "pos": [
         "noun"
       ],
-      "zh": "愤怒, 情绪激动, 狂暴；大怒, 狂吹, 流行",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rage",
-        "the role of rage",
-        "rage and evidence"
-      ],
-      "wordFamily": [
-        "rage",
-        "raged",
-        "raging",
-        "rages"
-      ],
-      "example": "This rage matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "raid",
-      "ipaBrE": "/reɪd/",
-      "ipaAmE": "/reɪd/",
-      "ipa": "/reɪd/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "袭击, 突袭, 搜捕；奇袭, 搜捕 [计] 廉价磁盘冗余阵列",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a raid",
-        "the role of raid",
-        "raid and evidence"
-      ],
-      "wordFamily": [
-        "raid",
-        "raids",
-        "raided",
-        "raiding"
-      ],
-      "example": "This raid matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rail",
-      "ipaBrE": "/reɪl/",
-      "ipaAmE": "/reɪl/",
-      "ipa": "/reɪl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "横杆, 围栏, 栏杆, 铁轨, 扶手, 秧鸡；以横木围栏, 给...铺铁轨；责骂, 抱怨",
+      "zh": "n. 恳求, 诉请, 上诉, 吸引力；vi. 呼吁, 诉请, 要求, 上诉, 有吸引力；vt. 将...上诉",
       "cefr": "B2",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rail",
-        "the role of rail",
-        "rail and evidence"
+        "a appeal",
+        "the role of appeal",
+        "appeal and evidence"
       ],
       "wordFamily": [
-        "rail",
-        "rails",
-        "railed",
-        "railing"
+        "appeal",
+        "appeals",
+        "appealed",
+        "appealing"
       ],
-      "example": "This rail matters when people need to make a clear decision.",
+      "example": "This appeal matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rally",
-      "ipaBrE": "/ˈræli/",
-      "ipaAmE": "/ˈræli/",
-      "ipa": "/ˈræli/",
+      "word": "autonomy",
+      "ipaBrE": "/ɔːˈtɒnəmi/",
+      "ipaAmE": "/ɔːˈtɑːnəmi/",
+      "ipa": "/ɔːˈtɒnəmi/",
       "pos": [
         "noun"
       ],
-      "zh": "重振旗鼓, 集合, 群众集会, 跌停回升；重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑",
+      "zh": "n. 自治, 自治权； 自主性",
       "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rally",
-        "the role of rally",
-        "rally and evidence"
+        "a autonomy",
+        "the role of autonomy",
+        "autonomy and evidence"
       ],
       "wordFamily": [
-        "rally",
-        "rallies",
-        "rallied",
-        "rallying"
+        "autonomy",
+        "autonomies"
       ],
-      "example": "This rally matters when people need to make a clear decision.",
+      "example": "This autonomy matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "random",
-      "ipaBrE": "/ˈrændəm/",
-      "ipaAmE": "/ˈrændəm/",
-      "ipa": "/ˈrændəm/",
+      "word": "irrelevant",
+      "ipaBrE": "/ɪˈreləvənt/",
+      "ipaAmE": "/ɪˈreləvənt/",
+      "ipa": "/ɪˈreləvənt/",
       "pos": [
         "adjective"
       ],
-      "zh": "随意, 随机；任意的, 随便的, 胡乱的, 随机的 adv. 胡乱地",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a random approach",
-        "remain random",
-        "random enough"
-      ],
-      "wordFamily": [
-        "random"
-      ],
-      "example": "A random approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rank",
-      "ipaBrE": "/ræŋk/",
-      "ipaAmE": "/ræŋk/",
-      "ipa": "/ræŋk/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "等级, 排, 横列, 队伍, 阶级；茂密丛生的, 恶臭的, 十足的, 粗俗的；排列, 归类于, 把...分等；列为, 列队；秩 [计] 秩",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rank",
-        "the role of rank",
-        "rank and evidence"
-      ],
-      "wordFamily": [
-        "rank",
-        "ranks",
-        "ranked",
-        "ranking"
-      ],
-      "example": "This rank matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ranking",
-      "ipaBrE": "/ˈræŋkɪŋ/",
-      "ipaAmE": "/ˈræŋkɪŋ/",
-      "ipa": "/ˈræŋkɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "等级, 地位；上级的, 头等的, 超群的",
+      "zh": "a. 不恰当的, 无关系的, 不相干的； 无关的, 不相干的, 离题的",
       "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a ranking",
-        "the role of ranking",
-        "ranking and evidence"
+        "a irrelevant approach",
+        "remain irrelevant",
+        "irrelevant enough"
       ],
       "wordFamily": [
-        "ranking",
-        "rank",
-        "rankings"
+        "irrelevant"
       ],
-      "example": "This ranking matters when people need to make a clear decision.",
+      "example": "A irrelevant approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rape",
-      "ipaBrE": "/reɪp/",
-      "ipaAmE": "/reɪp/",
-      "ipa": "/reɪp/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "抢夺, 掠夺, 强奸, 葡萄渣, 芸苔；掠夺, 抢夺, 强奸",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rape",
-        "the role of rape",
-        "rape and evidence"
-      ],
-      "wordFamily": [
-        "rape",
-        "raped",
-        "raping",
-        "rapes"
-      ],
-      "example": "This rape matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rapid",
-      "ipaBrE": "/ˈræpɪd/",
-      "ipaAmE": "/ˈræpɪd/",
-      "ipa": "/ˈræpɪd/",
+      "word": "coastal",
+      "ipaBrE": "/ˈkəʊstl/",
+      "ipaAmE": "/ˈkəʊstl/",
+      "ipa": "/ˈkəʊstl/",
       "pos": [
         "adjective"
       ],
-      "zh": "迅速的, 飞快的, 急促的, 陡的；急流",
-      "cefr": "B2",
+      "zh": "a. 海岸的, 沿海的, 沿岸的； 海岸的, 沿海的",
+      "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rapid approach",
-        "remain rapid",
-        "rapid enough"
+        "a coastal approach",
+        "remain coastal",
+        "coastal enough"
       ],
       "wordFamily": [
-        "rapid",
-        "rapids"
+        "coastal"
       ],
-      "example": "A rapid approach makes the situation easier to explain.",
+      "example": "A coastal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "municipal",
+      "ipaBrE": "/mjuːˈnɪsɪpl/",
+      "ipaAmE": "/mjuːˈnɪsɪpl/",
+      "ipa": "/mjuːˈnɪsɪpl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 市政的, 自治区的, 内政的； 市政的, 市的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a municipal approach",
+        "remain municipal",
+        "municipal enough"
+      ],
+      "wordFamily": [
+        "municipal",
+        "municipals"
+      ],
+      "example": "A municipal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "trauma",
+      "ipaBrE": "/ˈtrɔːmə/",
+      "ipaAmE": "/ˈtraʊmə/",
+      "ipa": "/ˈtrɔːmə/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 外伤, 损伤； 创伤, 外伤",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a trauma",
+        "the role of trauma",
+        "trauma and evidence"
+      ],
+      "wordFamily": [
+        "trauma",
+        "traumas"
+      ],
+      "example": "This trauma matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "chaos",
+      "ipaBrE": "/ˈkeɪɒs/",
+      "ipaAmE": "/ˈkeɪɑːs/",
+      "ipa": "/ˈkeɪɒs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大混乱, 混沌； 混沌; 浑沌",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a chaos",
+        "the role of chaos",
+        "chaos and evidence"
+      ],
+      "wordFamily": [
+        "chaos",
+        "chao"
+      ],
+      "example": "This chaos matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "entrepreneur",
+      "ipaBrE": "/ˌɒntrəprəˈnɜː(r)/",
+      "ipaAmE": "/ˌɑːntrəprəˈnɜːr/",
+      "ipa": "/ˌɒntrəprəˈnɜː(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 企业家, 主办人； 承包商, 企业家",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a entrepreneur",
+        "the role of entrepreneur",
+        "entrepreneur and evidence"
+      ],
+      "wordFamily": [
+        "entrepreneur",
+        "entrepreneurs"
+      ],
+      "example": "This entrepreneur matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "stunning",
+      "ipaBrE": "/ˈstʌnɪŋ/",
+      "ipaAmE": "/ˈstʌnɪŋ/",
+      "ipa": "/ˈstʌnɪŋ/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 打昏迷的, 弄得人昏头昏脑的, 令人震惊的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a stunning approach",
+        "remain stunning",
+        "stunning enough"
+      ],
+      "wordFamily": [
+        "stunning",
+        "stunn"
+      ],
+      "example": "A stunning approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "visual",
+      "ipaBrE": "/ˈvɪʒuəl/",
+      "ipaAmE": "/ˈvɪʒuəl/",
+      "ipa": "/ˈvɪʒuəl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 视觉的； 视觉的, 视力的, 视觉性记忆优势者",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a visual approach",
+        "remain visual",
+        "visual enough"
+      ],
+      "wordFamily": [
+        "visual",
+        "visuals"
+      ],
+      "example": "A visual approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "silence",
+      "ipaBrE": "/ˈsaɪləns/",
+      "ipaAmE": "/ˈsaɪləns/",
+      "ipa": "/ˈsaɪləns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 沉默, 无声, 静寂, 湮没, 无声息；vt. 使缄默；interj. 安静",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a silence",
+        "the role of silence",
+        "silence and evidence"
+      ],
+      "wordFamily": [
+        "silence",
+        "silenced",
+        "silencing",
+        "silences"
+      ],
+      "example": "This silence matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -529,7 +935,7 @@ export default {
       "pos": [
         "verb"
       ],
-      "zh": "飞快地, 迅速地, 赶紧地",
+      "zh": "adv. 飞快地, 迅速地, 赶紧地",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
@@ -547,1255 +953,162 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rat",
-      "ipaBrE": "/ræt/",
-      "ipaAmE": "/ræt/",
-      "ipa": "/ræt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "鼠, 卑鄙的人, 破坏者, 变节者；捕鼠, 变节；弄蓬松",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rat",
-        "the role of rat",
-        "rat and evidence"
-      ],
-      "wordFamily": [
-        "rat",
-        "rats",
-        "ratting",
-        "ratted"
-      ],
-      "example": "This rat matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rating",
-      "ipaBrE": "/ˈreɪtɪŋ/",
-      "ipaAmE": "/ˈreɪtɪŋ/",
-      "ipa": "/ˈreɪtɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "等级, 额定功率, 责骂 [经] 等级评定",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rating",
-        "the role of rating",
-        "rating and evidence"
-      ],
-      "wordFamily": [
-        "rating",
-        "rate",
-        "ratings",
-        "rat"
-      ],
-      "example": "This rating matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ratio",
-      "ipaBrE": "/ˈreɪʃiəʊ/",
-      "ipaAmE": "/ˈreɪʃiəʊ/",
-      "ipa": "/ˈreɪʃiəʊ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "比, 比率 [医] 比, 比率, 比例",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a ratio",
-        "the role of ratio",
-        "ratio and evidence"
-      ],
-      "wordFamily": [
-        "ratio",
-        "ratios"
-      ],
-      "example": "This ratio matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rational",
-      "ipaBrE": "/ˈræʃnəl/",
-      "ipaAmE": "/ˈræʃnəl/",
-      "ipa": "/ˈræʃnəl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "理性的, 合理的；有理数",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rational approach",
-        "remain rational",
-        "rational enough"
-      ],
-      "wordFamily": [
-        "rational"
-      ],
-      "example": "A rational approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "raw",
-      "ipaBrE": "/rɔː/",
-      "ipaAmE": "/rɔː/",
-      "ipa": "/rɔː/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "擦伤处, 半成品；生的, 未加工的, 生疏的, 不成熟的, 阴冷的, 刺痛的, 擦掉皮的；擦伤 [计] 写后读",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a raw approach",
-        "remain raw",
-        "raw enough"
-      ],
-      "wordFamily": [
-        "raw",
-        "rawest"
-      ],
-      "example": "A raw approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ray",
-      "ipaBrE": "/reɪ/",
-      "ipaAmE": "/reɪ/",
-      "ipa": "/reɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "光线, 射线, 闪烁, 光辉；射出光线, 浮现, 放射光线；放射, 显出",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a ray",
-        "the role of ray",
-        "ray and evidence"
-      ],
-      "wordFamily": [
-        "ray",
-        "rays",
-        "raying",
-        "rayed"
-      ],
-      "example": "This ray matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reach",
-      "ipaBrE": "/riːtʃ/",
-      "ipaAmE": "/riːtʃ/",
-      "ipa": "/riːtʃ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "伸出, 延伸, 区域, 范围, 流域, 岬；到达, 达到, 伸出, 延伸, 影响；达到, 延伸, 伸出手, 传到",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reach",
-        "the role of reach",
-        "reach and evidence"
-      ],
-      "wordFamily": [
-        "reach",
-        "reached",
-        "reaching",
-        "reaches"
-      ],
-      "example": "This reach matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "realistic",
-      "ipaBrE": "/ˌrɪəˈlɪstɪk/",
-      "ipaAmE": "/ˌriːəˈlɪstɪk/",
-      "ipa": "/ˌrɪəˈlɪstɪk/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "现实的, 逼真的, 现实主义的, 实在论的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a realistic approach",
-        "remain realistic",
-        "realistic enough"
-      ],
-      "wordFamily": [
-        "realistic"
-      ],
-      "example": "A realistic approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "realization",
-      "ipaBrE": "/ˌrɪəlaɪˈzeɪʃn/",
-      "ipaAmE": "/ˌriːələˈzeɪʃn/",
-      "ipa": "/ˌrɪəlaɪˈzeɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：realization",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a realization",
-        "the role of realization",
-        "realization and evidence"
-      ],
-      "wordFamily": [
-        "realization",
-        "realizate"
-      ],
-      "example": "This realization matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "realm",
-      "ipaBrE": "/relm/",
-      "ipaAmE": "/relm/",
-      "ipa": "/relm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "王国, 领土, 领域 [计] 领域",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a realm",
-        "the role of realm",
-        "realm and evidence"
-      ],
-      "wordFamily": [
-        "realm",
-        "realms"
-      ],
-      "example": "This realm matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rear",
-      "ipaBrE": "/rɪə(r)/",
-      "ipaAmE": "/rɪr/",
-      "ipa": "/rɪə(r)/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "后面, 背后, 后方；后面的, 背面的, 后方的；养育, 培养, 饲养, 举起, 树立, 栽种；高耸, 暴跳",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rear approach",
-        "remain rear",
-        "rear enough"
-      ],
-      "wordFamily": [
-        "rear",
-        "reared",
-        "rearing",
-        "rears"
-      ],
-      "example": "A rear approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reasonable",
-      "ipaBrE": "/ˈriːznəbl/",
-      "ipaAmE": "/ˈriːznəbl/",
-      "ipa": "/ˈriːznəbl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "合理的, 明理的, 适当的 [法] 合理的, 公道的, 正当的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reasonable approach",
-        "remain reasonable",
-        "reasonable enough"
-      ],
-      "wordFamily": [
-        "reasonable",
-        "reason"
-      ],
-      "example": "A reasonable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reasonably",
-      "ipaBrE": "/ˈriːznəbli/",
-      "ipaAmE": "/ˈriːznəbli/",
-      "ipa": "/ˈriːznəbli/",
+      "word": "threaten",
+      "ipaBrE": "/ˈθretn/",
+      "ipaAmE": "/ˈθretn/",
+      "ipa": "/ˈθretn/",
       "pos": [
         "verb"
       ],
-      "zh": "适度地, 相当地",
+      "zh": "vt. 恐吓, 威胁, 预示...的凶兆；vi. 威胁, 恫吓, 可能来临",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reasonably a plan",
-        "reasonably carefully",
-        "reasonably with others"
+        "threaten a plan",
+        "threaten carefully",
+        "threaten with others"
       ],
       "wordFamily": [
-        "reasonably",
-        "reasonab"
+        "threaten",
+        "threatened",
+        "threatening",
+        "threatens"
       ],
-      "example": "We can reasonably the next step together.",
+      "example": "We can threaten the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reasoning",
-      "ipaBrE": "/ˈriːzənɪŋ/",
-      "ipaAmE": "/ˈriːzənɪŋ/",
-      "ipa": "/ˈriːzənɪŋ/",
+      "word": "monopoly",
+      "ipaBrE": "/məˈnɒpəli/",
+      "ipaAmE": "/məˈnɑːpəli/",
+      "ipa": "/məˈnɒpəli/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：reasoning",
+      "zh": "n. 垄断, 专卖权, 独占事业； 垄断, 专利品, 垄断(权)独占",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reasoning",
-        "the role of reasoning",
-        "reasoning and evidence"
+        "a monopoly",
+        "the role of monopoly",
+        "monopoly and evidence"
       ],
       "wordFamily": [
-        "reasoning",
-        "reason"
+        "monopoly",
+        "monopo"
       ],
-      "example": "This reasoning matters when people need to make a clear decision.",
+      "example": "This monopoly matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reassure",
-      "ipaBrE": "/ˌriːəˈʃɔː(r)/",
-      "ipaAmE": "/ˌriːəˈʃʊr/",
-      "ipa": "/ˌriːəˈʃɔː(r)/",
+      "word": "monster",
+      "ipaBrE": "/ˈmɒnstə(r)/",
+      "ipaAmE": "/ˈmɑːnstər/",
+      "ipa": "/ˈmɒnstə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 怪物, 恶人, 巨物； 畸胎",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a monster",
+        "the role of monster",
+        "monster and evidence"
+      ],
+      "wordFamily": [
+        "monster",
+        "monsters",
+        "monst"
+      ],
+      "example": "This monster matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "enact",
+      "ipaBrE": "/ɪˈnækt/",
+      "ipaAmE": "/ɪˈnækt/",
+      "ipa": "/ɪˈnækt/",
       "pos": [
         "verb"
       ],
-      "zh": "verb：reassure",
+      "zh": "vt. 制定法律, 扮演, 颁布； 法令, 法规, 条例",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reassure a plan",
-        "reassure carefully",
-        "reassure with others"
+        "enact a plan",
+        "enact carefully",
+        "enact with others"
       ],
       "wordFamily": [
-        "reassure"
+        "enact",
+        "enacted",
+        "enacting",
+        "enacts"
       ],
-      "example": "We can reassure the next step together.",
+      "example": "We can enact the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rebel",
-      "ipaBrE": "/ˈrebl/",
-      "ipaAmE": "/ˈrebl/",
-      "ipa": "/ˈrebl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "叛徒, 反叛者；造反, 反抗, 抵抗, 反感；造反的, 反抗的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rebel",
-        "the role of rebel",
-        "rebel and evidence"
-      ],
-      "wordFamily": [
-        "rebel",
-        "rebels",
-        "rebelled",
-        "rebelling"
-      ],
-      "example": "This rebel matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rebellion",
-      "ipaBrE": "/rɪˈbeljən/",
-      "ipaAmE": "/rɪˈbeljən/",
-      "ipa": "/rɪˈbeljən/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：rebellion",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rebellion",
-        "the role of rebellion",
-        "rebellion and evidence"
-      ],
-      "wordFamily": [
-        "rebellion"
-      ],
-      "example": "This rebellion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rebuild",
-      "ipaBrE": "/ˌriːˈbɪld/",
-      "ipaAmE": "/ˌriːˈbɪld/",
-      "ipa": "/ˌriːˈbɪld/",
+      "word": "originate",
+      "ipaBrE": "/əˈrɪdʒɪneɪt/",
+      "ipaAmE": "/əˈrɪdʒɪneɪt/",
+      "ipa": "/əˈrɪdʒɪneɪt/",
       "pos": [
         "verb"
       ],
-      "zh": "改建, 重建, 改造；重建",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "rebuild a plan",
-        "rebuild carefully",
-        "rebuild with others"
-      ],
-      "wordFamily": [
-        "rebuild",
-        "rebuilt",
-        "rebuilding",
-        "rebuilds"
-      ],
-      "example": "We can rebuild the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recall",
-      "ipaBrE": "/rɪˈkɔːl/",
-      "ipaAmE": "/rɪˈkɔːl/",
-      "ipa": "/rɪˈkɔːl/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "回忆, 召回, 撤消；回想, 回忆, 召回, 撤消, 使恢复 [计] 检索",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "recall a plan",
-        "recall carefully",
-        "recall with others"
-      ],
-      "wordFamily": [
-        "recall",
-        "recalled",
-        "recalls",
-        "recalling"
-      ],
-      "example": "We can recall the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "receiver",
-      "ipaBrE": "/rɪˈsiːvə(r)/",
-      "ipaAmE": "/rɪˈsiːvər/",
-      "ipa": "/rɪˈsiːvə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "接收器；接受者；收信机；收款员, 接待者",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a receiver",
-        "the role of receiver",
-        "receiver and evidence"
-      ],
-      "wordFamily": [
-        "receiver",
-        "receivers",
-        "receiv"
-      ],
-      "example": "This receiver matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recession",
-      "ipaBrE": "/rɪˈseʃn/",
-      "ipaAmE": "/rɪˈseʃn/",
-      "ipa": "/rɪˈseʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "后退, 凹处, 衰退, 归还 [医] 退缩",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recession",
-        "the role of recession",
-        "recession and evidence"
-      ],
-      "wordFamily": [
-        "recession",
-        "recessions"
-      ],
-      "example": "This recession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recipient",
-      "ipaBrE": "/rɪˈsɪpiənt/",
-      "ipaAmE": "/rɪˈsɪpiənt/",
-      "ipa": "/rɪˈsɪpiənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "领受的, 容易接受的, 感受性强的；领受者, 容纳者, 容器",
+      "zh": "vt. 创始, 发明, 发起；vi. 发源, 发生, 起航； 发自",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a recipient",
-        "the role of recipient",
-        "recipient and evidence"
+        "originate a plan",
+        "originate carefully",
+        "originate with others"
       ],
       "wordFamily": [
-        "recipient",
-        "recipients"
+        "originate",
+        "originated",
+        "originating",
+        "originates"
       ],
-      "example": "This recipient matters when people need to make a clear decision.",
+      "example": "We can originate the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reckon",
-      "ipaBrE": "/ˈrekən/",
-      "ipaAmE": "/ˈrekən/",
-      "ipa": "/ˈrekən/",
+      "word": "pace",
+      "ipaBrE": "/peɪs/",
+      "ipaAmE": "/peɪs/",
+      "ipa": "/peɪs/",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "zh": "verb：reckon",
+      "zh": "n. 速度, 步调, 步法；vi. 踱步, 缓慢走；vt. 用步测, 踱步于",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reckon a plan",
-        "reckon carefully",
-        "reckon with others"
+        "a pace",
+        "the role of pace",
+        "pace and evidence"
       ],
       "wordFamily": [
-        "reckon"
-      ],
-      "example": "We can reckon the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recognition",
-      "ipaBrE": "/ˌrekəɡˈnɪʃn/",
-      "ipaAmE": "/ˌrekəɡˈnɪʃn/",
-      "ipa": "/ˌrekəɡˈnɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "赞誉, 认得, 识别, 承认, 认可, 认识 [电] 认识",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recognition",
-        "the role of recognition",
-        "recognition and evidence"
-      ],
-      "wordFamily": [
-        "recognition",
-        "recognitions",
-        "recognite"
-      ],
-      "example": "This recognition matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reconstruction",
-      "ipaBrE": "/ˌriːkənˈstrʌkʃn/",
-      "ipaAmE": "/ˌriːkənˈstrʌkʃn/",
-      "ipa": "/ˌriːkənˈstrʌkʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "改造, 再建 [医] 改建, 改造, 翻造",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reconstruction",
-        "the role of reconstruction",
-        "reconstruction and evidence"
-      ],
-      "wordFamily": [
-        "reconstruction",
-        "reconstructions",
-        "reconstructe"
-      ],
-      "example": "This reconstruction matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recount",
-      "ipaBrE": "/rɪˈkaʊnt/",
-      "ipaAmE": "/rɪˈkaʊnt/",
-      "ipa": "/rɪˈkaʊnt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：recount",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "recount a plan",
-        "recount carefully",
-        "recount with others"
-      ],
-      "wordFamily": [
-        "recount"
-      ],
-      "example": "We can recount the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recover",
-      "ipaBrE": "/rɪˈkʌvə(r)/",
-      "ipaAmE": "/rɪˈkʌvər/",
-      "ipa": "/rɪˈkʌvə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "重新获得, 恢复, 复原, 拯救；痊愈, 复原, 胜诉 [计] 恢复",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "recover a plan",
-        "recover carefully",
-        "recover with others"
-      ],
-      "wordFamily": [
-        "recover",
-        "recovered",
-        "recovering",
-        "recovers"
-      ],
-      "example": "We can recover the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recovery",
-      "ipaBrE": "/rɪˈkʌvəri/",
-      "ipaAmE": "/rɪˈkʌvəri/",
-      "ipa": "/rɪˈkʌvəri/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "恢复, 复原, 痊愈, 重获 [计] 恢复",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recovery",
-        "the role of recovery",
-        "recovery and evidence"
-      ],
-      "wordFamily": [
-        "recovery",
-        "recoveries"
-      ],
-      "example": "This recovery matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recruit",
-      "ipaBrE": "/rɪˈkruːt/",
-      "ipaAmE": "/rɪˈkruːt/",
-      "ipa": "/rɪˈkruːt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "新兵, 新手, 新会员, 补给品；恢复, 补充, 充实, 征募；征募新兵, 复原, 得到补充",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recruit",
-        "the role of recruit",
-        "recruit and evidence"
-      ],
-      "wordFamily": [
-        "recruit",
-        "recruited",
-        "recruits",
-        "recruiting"
-      ],
-      "example": "This recruit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recruitment",
-      "ipaBrE": "/rɪˈkruːtmənt/",
-      "ipaAmE": "/rɪˈkruːtmənt/",
-      "ipa": "/rɪˈkruːtmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：recruitment",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recruitment",
-        "the role of recruitment",
-        "recruitment and evidence"
-      ],
-      "wordFamily": [
-        "recruitment",
-        "recruit"
-      ],
-      "example": "This recruitment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reduction",
-      "ipaBrE": "/rɪˈdʌkʃn/",
-      "ipaAmE": "/rɪˈdʌkʃn/",
-      "ipa": "/rɪˈdʌkʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "减少, 缩影, 变化 [化] 还原",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reduction",
-        "the role of reduction",
-        "reduction and evidence"
-      ],
-      "wordFamily": [
-        "reduction",
-        "reductions",
-        "reducte"
-      ],
-      "example": "This reduction matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "referee",
-      "ipaBrE": "/ˌrefəˈriː/",
-      "ipaAmE": "/ˌrefəˈriː/",
-      "ipa": "/ˌrefəˈriː/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：referee",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a referee",
-        "the role of referee",
-        "referee and evidence"
-      ],
-      "wordFamily": [
-        "referee"
-      ],
-      "example": "This referee matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "referendum",
-      "ipaBrE": "/ˌrefəˈrendəm/",
-      "ipaAmE": "/ˌrefəˈrendəm/",
-      "ipa": "/ˌrefəˈrendəm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：referendum",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a referendum",
-        "the role of referendum",
-        "referendum and evidence"
-      ],
-      "wordFamily": [
-        "referendum"
-      ],
-      "example": "This referendum matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reform",
-      "ipaBrE": "/rɪˈfɔːm/",
-      "ipaAmE": "/rɪˈfɔːrm/",
-      "ipa": "/rɪˈfɔːm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "改革, 改正, 改造；改革, 改过, 革新, 重整；革新, 改过",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reform",
-        "the role of reform",
-        "reform and evidence"
-      ],
-      "wordFamily": [
-        "reform",
-        "reforms",
-        "reformed",
-        "reforming"
-      ],
-      "example": "This reform matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "refuge",
-      "ipaBrE": "/ˈrefjuːdʒ/",
-      "ipaAmE": "/ˈrefjuːdʒ/",
-      "ipa": "/ˈrefjuːdʒ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "避难所, 安全地带, 避难, 庇护；躲避；给予...庇护",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a refuge",
-        "the role of refuge",
-        "refuge and evidence"
-      ],
-      "wordFamily": [
-        "refuge",
-        "refuges"
-      ],
-      "example": "This refuge matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "refugee",
-      "ipaBrE": "/ˌrefjuˈdʒiː/",
-      "ipaAmE": "/ˌrefjuˈdʒiː/",
-      "ipa": "/ˌrefjuˈdʒiː/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "难民, 流亡者 [法] 避难者, 流亡者, 难民",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a refugee",
-        "the role of refugee",
-        "refugee and evidence"
-      ],
-      "wordFamily": [
-        "refugee",
-        "refugees"
-      ],
-      "example": "This refugee matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "refusal",
-      "ipaBrE": "/rɪˈfjuːzl/",
-      "ipaAmE": "/rɪˈfjuːzl/",
-      "ipa": "/rɪˈfjuːzl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：refusal",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a refusal",
-        "the role of refusal",
-        "refusal and evidence"
-      ],
-      "wordFamily": [
-        "refusal"
-      ],
-      "example": "This refusal matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regain",
-      "ipaBrE": "/rɪˈɡeɪn/",
-      "ipaAmE": "/rɪˈɡeɪn/",
-      "ipa": "/rɪˈɡeɪn/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "取回, 恢复, 重回, 复得 [化] 回潮",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "regain a plan",
-        "regain carefully",
-        "regain with others"
-      ],
-      "wordFamily": [
-        "regain",
-        "regained",
-        "regaining",
-        "regains"
-      ],
-      "example": "We can regain the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regard",
-      "ipaBrE": "/rɪˈɡɑːd/",
-      "ipaAmE": "/rɪˈɡɑːrd/",
-      "ipa": "/rɪˈɡɑːd/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "关心, 注意, 尊敬, 关系, 问候；视为, 注意, 考虑, 和...有关, 看待；注视, 注意",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regard",
-        "the role of regard",
-        "regard and evidence"
-      ],
-      "wordFamily": [
-        "regard",
-        "regarded",
-        "regards",
-        "regarding"
-      ],
-      "example": "This regard matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regardless",
-      "ipaBrE": "/rɪˈɡɑːdləs/",
-      "ipaAmE": "/rɪˈɡɑːrdləs/",
-      "ipa": "/rɪˈɡɑːdləs/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "不管, 不注意, 不顾",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "regardless a plan",
-        "regardless carefully",
-        "regardless with others"
-      ],
-      "wordFamily": [
-        "regardless",
-        "regardles"
-      ],
-      "example": "We can regardless the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regime",
-      "ipaBrE": "/reɪˈʒiːm/",
-      "ipaAmE": "/reɪˈʒiːm/",
-      "ipa": "/reɪˈʒiːm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "政权, 当权期间, 政体, 社会制度, 体制, 情态 [医] 制度, 生活制度",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regime",
-        "the role of regime",
-        "regime and evidence"
-      ],
-      "wordFamily": [
-        "regime",
-        "regimes"
-      ],
-      "example": "This regime matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regional",
-      "ipaBrE": "/ˈriːdʒənl/",
-      "ipaAmE": "/ˈriːdʒənl/",
-      "ipa": "/ˈriːdʒənl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "地方的, 地域性的 [医] 区的, 部位的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regional approach",
-        "remain regional",
-        "regional enough"
-      ],
-      "wordFamily": [
-        "regional",
-        "regionals"
-      ],
-      "example": "A regional approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "register",
-      "ipaBrE": "/ˈredʒɪstə(r)/",
-      "ipaAmE": "/ˈredʒɪstər/",
-      "ipa": "/ˈredʒɪstə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "寄存器, 记录, 登记簿, 注册；记录, 注册, 提示, 表达, 把...挂号；登记, 注册, 挂号 [计] 寄存器",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a register",
-        "the role of register",
-        "register and evidence"
-      ],
-      "wordFamily": [
-        "register",
-        "registered",
-        "registers",
-        "registering"
-      ],
-      "example": "This register matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "registration",
-      "ipaBrE": "/ˌredʒɪˈstreɪʃn/",
-      "ipaAmE": "/ˌredʒɪˈstreɪʃn/",
-      "ipa": "/ˌredʒɪˈstreɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：registration",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a registration",
-        "the role of registration",
-        "registration and evidence"
-      ],
-      "wordFamily": [
-        "registration",
-        "registrate"
-      ],
-      "example": "This registration matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regret",
-      "ipaBrE": "/rɪˈɡret/",
-      "ipaAmE": "/rɪˈɡret/",
-      "ipa": "/rɪˈɡret/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "遗憾, 后悔, 悔恨, 抱歉, 歉意；为...感到遗憾, 后悔, 惋惜, 懊悔, 抱歉；感到抱歉",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regret",
-        "the role of regret",
-        "regret and evidence"
-      ],
-      "wordFamily": [
-        "regret",
-        "regretted",
-        "regrets",
-        "regretting"
-      ],
-      "example": "This regret matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulate",
-      "ipaBrE": "/ˈreɡjuleɪt/",
-      "ipaAmE": "/ˈreɡjuleɪt/",
-      "ipa": "/ˈreɡjuleɪt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "管理, 控制, 调节, 调整, 校准 [经] 控制, 管理",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "regulate a plan",
-        "regulate carefully",
-        "regulate with others"
-      ],
-      "wordFamily": [
-        "regulate",
-        "regulated",
-        "regulating",
-        "regulates"
-      ],
-      "example": "We can regulate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulation",
-      "ipaBrE": "/ˌreɡjuˈleɪʃn/",
-      "ipaAmE": "/ˌreɡjuˈleɪʃn/",
-      "ipa": "/ˌreɡjuˈleɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "规则, 管理, 调整 [计] 调整; 规章; 规则; 调节",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regulation",
-        "the role of regulation",
-        "regulation and evidence"
-      ],
-      "wordFamily": [
-        "regulation",
-        "regulations",
-        "regulate"
-      ],
-      "example": "This regulation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulator",
-      "ipaBrE": "/ˈreɡjuleɪtə(r)/",
-      "ipaAmE": "/ˈreɡjuleɪtər/",
-      "ipa": "/ˈreɡjuleɪtə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regulator",
-        "the role of regulator",
-        "regulator and evidence"
-      ],
-      "wordFamily": [
-        "regulator",
-        "regulators"
-      ],
-      "example": "This regulator matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulatory",
-      "ipaBrE": "/ˈreɡjələtəri/",
-      "ipaAmE": "/ˈreɡjələtɔːri/",
-      "ipa": "/ˈreɡjələtəri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "受控制的, 统制的, 调整的 [经] 规则的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regulatory approach",
-        "remain regulatory",
-        "regulatory enough"
-      ],
-      "wordFamily": [
-        "regulatory"
-      ],
-      "example": "A regulatory approach makes the situation easier to explain.",
+        "pace",
+        "paces",
+        "pacing",
+        "paced"
+      ],
+      "example": "This pace matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -1806,7 +1119,7 @@ export default {
       "pos": [
         "noun"
       ],
-      "zh": "复原 [医] 复原, 恢复, 康复",
+      "zh": "n. 复原； 复原, 恢复, 康复",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
@@ -1825,231 +1138,229 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reign",
-      "ipaBrE": "/reɪn/",
-      "ipaAmE": "/reɪn/",
-      "ipa": "/reɪn/",
+      "word": "confusion",
+      "ipaBrE": "/kənˈfjuːʒn/",
+      "ipaAmE": "/kənˈfjuːʒn/",
+      "ipa": "/kənˈfjuːʒn/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：reign",
-      "cefr": "C1",
+      "zh": "n. 混乱, 混淆, 无秩序； 含混",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reign",
-        "the role of reign",
-        "reign and evidence"
+        "a confusion",
+        "the role of confusion",
+        "confusion and evidence"
       ],
       "wordFamily": [
-        "reign"
+        "confusion",
+        "confusions"
       ],
-      "example": "This reign matters when people need to make a clear decision.",
+      "example": "This confusion matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reinforce",
-      "ipaBrE": "/ˌriːɪnˈfɔːs/",
-      "ipaAmE": "/ˌriːɪnˈfɔːrs/",
-      "ipa": "/ˌriːɪnˈfɔːs/",
+      "word": "consult",
+      "ipaBrE": "/kənˈsʌlt/",
+      "ipaAmE": "/kənˈsʌlt/",
+      "ipa": "/kənˈsʌlt/",
       "pos": [
         "verb"
       ],
-      "zh": "加强, 增援, 补充；求援, 得到增援；加固材料",
+      "zh": "vi. 商讨, 商量, 协商, 会诊；vt. 向...请教, 查阅, 考虑",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reinforce a plan",
-        "reinforce carefully",
-        "reinforce with others"
+        "consult a plan",
+        "consult carefully",
+        "consult with others"
       ],
       "wordFamily": [
-        "reinforce",
-        "reinforced",
-        "reinforces",
-        "reinforcing"
+        "consult",
+        "consulted",
+        "consulting",
+        "consults"
       ],
-      "example": "We can reinforce the next step together.",
+      "example": "We can consult the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rejection",
-      "ipaBrE": "/rɪˈdʒekʃn/",
-      "ipaAmE": "/rɪˈdʒekʃn/",
-      "ipa": "/rɪˈdʒekʃn/",
+      "word": "suburb",
+      "ipaBrE": "/ˈsʌbɜːb/",
+      "ipaAmE": "/ˈsʌbɜːrb/",
+      "ipa": "/ˈsʌbɜːb/",
       "pos": [
         "noun"
       ],
-      "zh": "拒绝, 抛弃, 驳回, 被抛弃的东西, 呕出物 [化] 报废; 拒收",
-      "cefr": "C1",
+      "zh": "n. 市郊住宅区, 郊区, 边缘",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rejection",
-        "the role of rejection",
-        "rejection and evidence"
+        "a suburb",
+        "the role of suburb",
+        "suburb and evidence"
       ],
       "wordFamily": [
-        "rejection",
-        "rejections",
-        "rejecte"
+        "suburb",
+        "suburbs"
       ],
-      "example": "This rejection matters when people need to make a clear decision.",
+      "example": "This suburb matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relatively",
-      "ipaBrE": "/ˈrelətɪvli/",
-      "ipaAmE": "/ˈrelətɪvli/",
-      "ipa": "/ˈrelətɪvli/",
+      "word": "cope",
+      "ipaBrE": "/kəʊp/",
+      "ipaAmE": "/kəʊp/",
+      "ipa": "/kəʊp/",
       "pos": [
         "verb"
       ],
-      "zh": "相对地, 比较地, 相当地, 相关地 [计] 相对地",
+      "zh": "vi. 竞争, 应付；n. 长袍",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "relatively a plan",
-        "relatively carefully",
-        "relatively with others"
+        "cope a plan",
+        "cope carefully",
+        "cope with others"
       ],
       "wordFamily": [
-        "relatively",
-        "relative"
+        "cope",
+        "coping",
+        "coped",
+        "copes"
       ],
-      "example": "We can relatively the next step together.",
+      "example": "We can cope the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relevance",
-      "ipaBrE": "/ˈreləvəns/",
-      "ipaAmE": "/ˈreləvəns/",
-      "ipa": "/ˈreləvəns/",
+      "word": "badge",
+      "ipaBrE": "/bædʒ/",
+      "ipaAmE": "/bædʒ/",
+      "ipa": "/bædʒ/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：relevance",
+      "zh": "n. 徽章, 标记； 标记",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a badge",
+        "the role of badge",
+        "badge and evidence"
+      ],
+      "wordFamily": [
+        "badge"
+      ],
+      "example": "This badge matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "harbour",
+      "ipaBrE": "/ˈhɑːbə(r)/",
+      "ipaAmE": "/ˈhɑːrbər/",
+      "ipa": "/ˈhɑːbə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 港, 避难所；v. 庇护, 藏匿, (使)入港停泊",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a harbour",
+        "the role of harbour",
+        "harbour and evidence"
+      ],
+      "wordFamily": [
+        "harbour"
+      ],
+      "example": "This harbour matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "beneath",
+      "ipaBrE": "/bɪˈniːθ/",
+      "ipaAmE": "/bɪˈniːθ/",
+      "ipa": "/bɪˈniːθ/",
+      "pos": [
+        "preposition"
+      ],
+      "zh": "prep. 在...下方；adv. 在...下方",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a relevance",
-        "the role of relevance",
-        "relevance and evidence"
+        "a beneath",
+        "the role of beneath",
+        "beneath and evidence"
       ],
       "wordFamily": [
-        "relevance"
+        "beneath"
       ],
-      "example": "This relevance matters when people need to make a clear decision.",
+      "example": "This beneath matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relevant",
-      "ipaBrE": "/ˈreləvənt/",
-      "ipaAmE": "/ˈreləvənt/",
-      "ipa": "/ˈreləvənt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "有关联的, 有关系的, 适当的, 相应的 [法] 有关的, 相关的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a relevant approach",
-        "remain relevant",
-        "relevant enough"
-      ],
-      "wordFamily": [
-        "relevant"
-      ],
-      "example": "A relevant approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reliability",
-      "ipaBrE": "/rɪˌlaɪəˈbɪləti/",
-      "ipaAmE": "/rɪˌlaɪəˈbɪləti/",
-      "ipa": "/rɪˌlaɪəˈbɪləti/",
+      "word": "activation",
+      "ipaBrE": "/ˌæktɪˈveɪʃn/",
+      "ipaAmE": "/ˌæktɪˈveɪʃn/",
+      "ipa": "/ˌæktɪˈveɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "信度, 可靠性 [计] 可靠性",
+      "zh": "n. 活化, 激活； 活化; 活化作用; 激活; 激活作用",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reliability",
-        "the role of reliability",
-        "reliability and evidence"
+        "a activation",
+        "the role of activation",
+        "activation and evidence"
       ],
       "wordFamily": [
-        "reliability",
-        "reliabilities",
-        "reliabil"
+        "activation",
+        "activate"
       ],
-      "example": "This reliability matters when people need to make a clear decision.",
+      "example": "This activation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relief",
-      "ipaBrE": "/rɪˈliːf/",
-      "ipaAmE": "/rɪˈliːf/",
-      "ipa": "/rɪˈliːf/",
+      "word": "emission",
+      "ipaBrE": "/ɪˈmɪʃn/",
+      "ipaAmE": "/ɪˈmɪʃn/",
+      "ipa": "/ɪˈmɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏 [医] 缓减, 减轻, 浮雕(绘画中)",
+      "zh": "n. 发射, 射出, 发行； 发射, 遗精",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a relief",
-        "the role of relief",
-        "relief and evidence"
+        "a emission",
+        "the role of emission",
+        "emission and evidence"
       ],
       "wordFamily": [
-        "relief",
-        "reliefs"
+        "emission",
+        "emissions"
       ],
-      "example": "This relief matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "relieve",
-      "ipaBrE": "/rɪˈliːv/",
-      "ipaAmE": "/rɪˈliːv/",
-      "ipa": "/rɪˈliːv/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著；救济, 当替补投手, 呈鲜明突出",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "relieve a plan",
-        "relieve carefully",
-        "relieve with others"
-      ],
-      "wordFamily": [
-        "relieve",
-        "relieved",
-        "relieving",
-        "relieves"
-      ],
-      "example": "We can relieve the next step together.",
+      "example": "This emission matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -2060,7 +1371,7 @@ export default {
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：relieved",
+      "zh": "a. 宽慰的, 解除的, 减轻的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
@@ -2078,1053 +1389,2149 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reluctant",
-      "ipaBrE": "/rɪˈlʌktənt/",
-      "ipaAmE": "/rɪˈlʌktənt/",
-      "ipa": "/rɪˈlʌktənt/",
+      "word": "jet",
+      "ipaBrE": "/dʒet/",
+      "ipaAmE": "/dʒet/",
+      "ipa": "/dʒet/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 喷射流, 喷嘴, 煤玉；v. 射出, 迸出, 喷射；a. 黑而发亮的, 墨黑的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a jet",
+        "the role of jet",
+        "jet and evidence"
+      ],
+      "wordFamily": [
+        "jet",
+        "jets",
+        "jetting",
+        "jetted"
+      ],
+      "example": "This jet matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "association",
+      "ipaBrE": "/əˌsəʊʃiˈeɪʃn/",
+      "ipaAmE": "/əˌsəʊʃiˈeɪʃn/",
+      "ipa": "/əˌsəʊʃiˈeɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 协会； 关联",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a association",
+        "the role of association",
+        "association and evidence"
+      ],
+      "wordFamily": [
+        "association",
+        "associations",
+        "associate"
+      ],
+      "example": "This association matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "detain",
+      "ipaBrE": "/dɪˈteɪn/",
+      "ipaAmE": "/dɪˈteɪn/",
+      "ipa": "/dɪˈteɪn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 扣留, 扣押, 耽搁； 拘留, 扣押, 留住",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "detain a plan",
+        "detain carefully",
+        "detain with others"
+      ],
+      "wordFamily": [
+        "detain"
+      ],
+      "example": "We can detain the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "resign",
+      "ipaBrE": "/rɪˈzaɪn/",
+      "ipaAmE": "/rɪˈzaɪn/",
+      "ipa": "/rɪˈzaɪn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 辞职, 放弃, 使顺从；vi. 辞职, 屈从",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "resign a plan",
+        "resign carefully",
+        "resign with others"
+      ],
+      "wordFamily": [
+        "resign",
+        "resigned",
+        "resigning",
+        "resigns"
+      ],
+      "example": "We can resign the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "district",
+      "ipaBrE": "/ˈdɪstrɪkt/",
+      "ipaAmE": "/ˈdɪstrɪkt/",
+      "ipa": "/ˈdɪstrɪkt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 区域, 地方； 地区, 地段",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a district",
+        "the role of district",
+        "district and evidence"
+      ],
+      "wordFamily": [
+        "district",
+        "districts",
+        "districting",
+        "districted"
+      ],
+      "example": "This district matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "leaflet",
+      "ipaBrE": "/ˈliːflət/",
+      "ipaAmE": "/ˈliːflət/",
+      "ipa": "/ˈliːflət/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小叶, 传单； 小叶",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a leaflet",
+        "the role of leaflet",
+        "leaflet and evidence"
+      ],
+      "wordFamily": [
+        "leaflet"
+      ],
+      "example": "This leaflet matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "joy",
+      "ipaBrE": "/dʒɔɪ/",
+      "ipaAmE": "/dʒɔɪ/",
+      "ipa": "/dʒɔɪ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 欢喜, 乐事, 高兴；vt. 使快乐, 令人高兴；vi. 欢喜",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a joy",
+        "the role of joy",
+        "joy and evidence"
+      ],
+      "wordFamily": [
+        "joy",
+        "joys",
+        "joying",
+        "joyed"
+      ],
+      "example": "This joy matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "dramatic",
+      "ipaBrE": "/drəˈmætɪk/",
+      "ipaAmE": "/drəˈmætɪk/",
+      "ipa": "/drəˈmætɪk/",
       "pos": [
         "adjective"
       ],
-      "zh": "不情愿的, 勉强的 [法] 不愿的, 勉强的, 难以处理的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reluctant approach",
-        "remain reluctant",
-        "reluctant enough"
-      ],
-      "wordFamily": [
-        "reluctant"
-      ],
-      "example": "A reluctant approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rely",
-      "ipaBrE": "/rɪˈlaɪ/",
-      "ipaAmE": "/rɪˈlaɪ/",
-      "ipa": "/rɪˈlaɪ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "信赖, 依赖, 信任",
+      "zh": "a. 戏剧性的, 生动的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "rely a plan",
-        "rely carefully",
-        "rely with others"
+        "a dramatic approach",
+        "remain dramatic",
+        "dramatic enough"
       ],
       "wordFamily": [
-        "rely",
-        "relying",
-        "relies",
-        "relied"
+        "dramatic",
+        "dramatics"
       ],
-      "example": "We can rely the next step together.",
+      "example": "A dramatic approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "remainder",
-      "ipaBrE": "/rɪˈmeɪndə(r)/",
-      "ipaAmE": "/rɪˈmeɪndər/",
-      "ipa": "/rɪˈmeɪndə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：remainder",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remainder",
-        "the role of remainder",
-        "remainder and evidence"
-      ],
-      "wordFamily": [
-        "remainder",
-        "remaind"
-      ],
-      "example": "This remainder matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remains",
-      "ipaBrE": "/rɪˈmeɪnz/",
-      "ipaAmE": "/rɪˈmeɪnz/",
-      "ipa": "/rɪˈmeɪnz/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "剩余物, 废墟, 残余 [法] 遗体, 尸体, 遗骸",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remains",
-        "the role of remains",
-        "remains and evidence"
-      ],
-      "wordFamily": [
-        "remains",
-        "remain"
-      ],
-      "example": "This remains matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remark",
-      "ipaBrE": "/rɪˈmɑːk/",
-      "ipaAmE": "/rɪˈmɑːrk/",
-      "ipa": "/rɪˈmɑːk/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "评论, 注意；评论, 注意；评论, 谈论 [计] 注释",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remark",
-        "the role of remark",
-        "remark and evidence"
-      ],
-      "wordFamily": [
-        "remark",
-        "remarks",
-        "remarked",
-        "remarking"
-      ],
-      "example": "This remark matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remarkable",
-      "ipaBrE": "/rɪˈmɑːkəbl/",
-      "ipaAmE": "/rɪˈmɑːrkəbl/",
-      "ipa": "/rɪˈmɑːkəbl/",
+      "word": "rational",
+      "ipaBrE": "/ˈræʃnəl/",
+      "ipaAmE": "/ˈræʃnəl/",
+      "ipa": "/ˈræʃnəl/",
       "pos": [
         "adjective"
       ],
-      "zh": "不平常的, 值得注意的, 显著的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remarkable approach",
-        "remain remarkable",
-        "remarkable enough"
-      ],
-      "wordFamily": [
-        "remarkable",
-        "remark"
-      ],
-      "example": "A remarkable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remarkably",
-      "ipaBrE": "/rɪˈmɑːkəbli/",
-      "ipaAmE": "/rɪˈmɑːrkəbli/",
-      "ipa": "/rɪˈmɑːkəbli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "显著地, 引人注目地, 非常地",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "remarkably a plan",
-        "remarkably carefully",
-        "remarkably with others"
-      ],
-      "wordFamily": [
-        "remarkably",
-        "remarkab"
-      ],
-      "example": "We can remarkably the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remedy",
-      "ipaBrE": "/ˈremədi/",
-      "ipaAmE": "/ˈremədi/",
-      "ipa": "/ˈremədi/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "药物, 治疗法, 治疗, 补救, 赔偿；治疗, 补救, 矫正, 改善, 修补, 修缮",
+      "zh": "a. 理性的, 合理的；n. 有理数",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a remedy",
-        "the role of remedy",
-        "remedy and evidence"
+        "a rational approach",
+        "remain rational",
+        "rational enough"
       ],
       "wordFamily": [
-        "remedy",
-        "remedies",
-        "remedied",
-        "remedying"
+        "rational"
       ],
-      "example": "This remedy matters when people need to make a clear decision.",
+      "example": "A rational approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reminder",
-      "ipaBrE": "/rɪˈmaɪndə(r)/",
-      "ipaAmE": "/rɪˈmaɪndər/",
-      "ipa": "/rɪˈmaɪndə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "提醒的人, 暗示 [经] 催单",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reminder",
-        "the role of reminder",
-        "reminder and evidence"
-      ],
-      "wordFamily": [
-        "reminder",
-        "reminders",
-        "remind"
-      ],
-      "example": "This reminder matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "removal",
-      "ipaBrE": "/rɪˈmuːvl/",
-      "ipaAmE": "/rɪˈmuːvl/",
-      "ipa": "/rɪˈmuːvl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "移动, 移居, 迁移, 排除, 切除 [医] 切除, 除去",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a removal",
-        "the role of removal",
-        "removal and evidence"
-      ],
-      "wordFamily": [
-        "removal",
-        "removals"
-      ],
-      "example": "This removal matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "render",
-      "ipaBrE": "/ˈrendə(r)/",
-      "ipaAmE": "/ˈrendər/",
-      "ipa": "/ˈrendə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "回报, 给于, 付给, 汇报, 提出, 舍弃, 反映, 表示, 表演, 致使, 执行, 实施；给予补偿；交纳, 打底",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "render a plan",
-        "render carefully",
-        "render with others"
-      ],
-      "wordFamily": [
-        "render",
-        "rendered",
-        "renders",
-        "rendering"
-      ],
-      "example": "We can render the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "renew",
-      "ipaBrE": "/rɪˈnjuː/",
-      "ipaAmE": "/rɪˈnuː/",
-      "ipa": "/rɪˈnjuː/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：renew",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "renew a plan",
-        "renew carefully",
-        "renew with others"
-      ],
-      "wordFamily": [
-        "renew"
-      ],
-      "example": "We can renew the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "renowned",
-      "ipaBrE": "/rɪˈnaʊnd/",
-      "ipaAmE": "/rɪˈnaʊnd/",
-      "ipa": "/rɪˈnaʊnd/",
+      "word": "selective",
+      "ipaBrE": "/sɪˈlektɪv/",
+      "ipaAmE": "/sɪˈlektɪv/",
+      "ipa": "/sɪˈlektɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：renowned",
+      "zh": "a. 选择的, 选择性的； 选择的, 选择性的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a renowned approach",
-        "remain renowned",
-        "renowned enough"
+        "a selective approach",
+        "remain selective",
+        "selective enough"
       ],
       "wordFamily": [
-        "renowned",
-        "renown"
+        "selective"
       ],
-      "example": "A renowned approach makes the situation easier to explain.",
+      "example": "A selective approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "replacement",
-      "ipaBrE": "/rɪˈpleɪsmənt/",
-      "ipaAmE": "/rɪˈpleɪsmənt/",
-      "ipa": "/rɪˈpleɪsmənt/",
+      "word": "resort",
+      "ipaBrE": "/rɪˈzɔːt/",
+      "ipaAmE": "/rɪˈzɔːrt/",
+      "ipa": "/rɪˈzɔːt/",
       "pos": [
         "noun"
       ],
-      "zh": "归还, 更换, 代替者 [医] 复位, 置换",
+      "zh": "n. 度假胜地, 手段, 凭借, 常去之地；vi. 诉诸, 常去",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a resort",
+        "the role of resort",
+        "resort and evidence"
+      ],
+      "wordFamily": [
+        "resort",
+        "resorts",
+        "resorting",
+        "resorted"
+      ],
+      "example": "This resort matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "sporting",
+      "ipaBrE": "/ˈspɔːtɪŋ/",
+      "ipaAmE": "/ˈspɔːrtɪŋ/",
+      "ipa": "/ˈspɔːtɪŋ/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 喜好运动的, 运动用的, 冒险性的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a sporting approach",
+        "remain sporting",
+        "sporting enough"
+      ],
+      "wordFamily": [
+        "sporting",
+        "sport"
+      ],
+      "example": "A sporting approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "militant",
+      "ipaBrE": "/ˈmɪlɪtənt/",
+      "ipaAmE": "/ˈmɪlɪtənt/",
+      "ipa": "/ˈmɪlɪtənt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 好战的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a replacement",
-        "the role of replacement",
-        "replacement and evidence"
+        "a militant approach",
+        "remain militant",
+        "militant enough"
       ],
       "wordFamily": [
-        "replacement",
-        "replacements",
-        "replace"
+        "militant"
       ],
-      "example": "This replacement matters when people need to make a clear decision.",
+      "example": "A militant approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reproduce",
-      "ipaBrE": "/ˌriːprəˈdjuːs/",
-      "ipaAmE": "/ˌriːprəˈduːs/",
-      "ipa": "/ˌriːprəˈdjuːs/",
+      "word": "behavior",
+      "ipaBrE": "/biˈheivjә/",
+      "ipaAmE": "/biˈheivjә/",
+      "ipa": "/biˈheivjә/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 行为, 举止； 行为",
+      "cefr": "B2",
+      "source": "Oxford 5000 companion",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a behavior",
+        "the role of behavior",
+        "behavior and evidence"
+      ],
+      "wordFamily": [
+        "behavior",
+        "behaviors"
+      ],
+      "example": "This behavior matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ridiculous",
+      "ipaBrE": "/rɪˈdɪkjələs/",
+      "ipaAmE": "/rɪˈdɪkjələs/",
+      "ipa": "/rɪˈdɪkjələs/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 荒谬的, 可笑的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a ridiculous approach",
+        "remain ridiculous",
+        "ridiculous enough"
+      ],
+      "wordFamily": [
+        "ridiculous",
+        "ridiculou"
+      ],
+      "example": "A ridiculous approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "involvement",
+      "ipaBrE": "/ɪnˈvɒlvmənt/",
+      "ipaAmE": "/ɪnˈvɑːlvmənt/",
+      "ipa": "/ɪnˈvɒlvmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 卷入, 牵连, 包含, 困窘； 财政困难, 经济上的困窘",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a involvement",
+        "the role of involvement",
+        "involvement and evidence"
+      ],
+      "wordFamily": [
+        "involvement",
+        "involvements",
+        "involve"
+      ],
+      "example": "This involvement matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "military",
+      "ipaBrE": "/ˈmɪlətri/",
+      "ipaAmE": "/ˈmɪləteri/",
+      "ipa": "/ˈmɪlətri/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 军队；a. 军事的, 军人的, 适于战争的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a military approach",
+        "remain military",
+        "military enough"
+      ],
+      "wordFamily": [
+        "military"
+      ],
+      "example": "A military approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "worthy",
+      "ipaBrE": "/ˈwɜːði/",
+      "ipaAmE": "/ˈwɜːrði/",
+      "ipa": "/ˈwɜːði/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 杰出人物；a. 有价值的, 可敬的, 值得的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a worthy approach",
+        "remain worthy",
+        "worthy enough"
+      ],
+      "wordFamily": [
+        "worthy",
+        "worthies",
+        "worthier",
+        "worthiest"
+      ],
+      "example": "A worthy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "lately",
+      "ipaBrE": "/ˈleɪtli/",
+      "ipaAmE": "/ˈleɪtli/",
+      "ipa": "/ˈleɪtli/",
       "pos": [
         "verb"
       ],
-      "zh": "繁殖, 再生, 复制, 生殖 [计] 复制",
+      "zh": "adv. 近来, 最近",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "lately a plan",
+        "lately carefully",
+        "lately with others"
+      ],
+      "wordFamily": [
+        "lately",
+        "latelier",
+        "late"
+      ],
+      "example": "We can lately the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "foster",
+      "ipaBrE": "/ˈfɒstə(r)/",
+      "ipaAmE": "/ˈfɑːstər/",
+      "ipa": "/ˈfɒstə(r)/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "a. 收养的, 养育的；vt. 养育, 抚育, 培养, 鼓励, 抱(希望)",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reproduce a plan",
-        "reproduce carefully",
-        "reproduce with others"
+        "foster a plan",
+        "foster carefully",
+        "foster with others"
       ],
       "wordFamily": [
-        "reproduce",
-        "reproduced",
-        "reproducing",
-        "reproduces"
+        "foster",
+        "fostered",
+        "fostering",
+        "fosters"
       ],
-      "example": "We can reproduce the next step together.",
+      "example": "We can foster the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reproduction",
-      "ipaBrE": "/ˌriːprəˈdʌkʃn/",
-      "ipaAmE": "/ˌriːprəˈdʌkʃn/",
-      "ipa": "/ˌriːprəˈdʌkʃn/",
+      "word": "harm",
+      "ipaBrE": "/hɑːm/",
+      "ipaAmE": "/hɑːrm/",
+      "ipa": "/hɑːm/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：reproduction",
+      "zh": "n. 伤害, 害处；vt. 伤害, 损害",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a harm",
+        "the role of harm",
+        "harm and evidence"
+      ],
+      "wordFamily": [
+        "harm",
+        "harmed",
+        "harming",
+        "harms"
+      ],
+      "example": "This harm matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cancer",
+      "ipaBrE": "/ˈkænsə(r)/",
+      "ipaAmE": "/ˈkænsər/",
+      "ipa": "/ˈkænsə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 癌, 恶性肿瘤； 癌",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a cancer",
+        "the role of cancer",
+        "cancer and evidence"
+      ],
+      "wordFamily": [
+        "cancer",
+        "cancers",
+        "canc"
+      ],
+      "example": "This cancer matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "therapist",
+      "ipaBrE": "/ˈθerəpɪst/",
+      "ipaAmE": "/ˈθerəpɪst/",
+      "ipa": "/ˈθerəpɪst/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 治疗学家； 治疗学家",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a therapist",
+        "the role of therapist",
+        "therapist and evidence"
+      ],
+      "wordFamily": [
+        "therapist",
+        "therapists"
+      ],
+      "example": "This therapist matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "implementation",
+      "ipaBrE": "/ˌɪmplɪmenˈteɪʃn/",
+      "ipaAmE": "/ˌɪmplɪmenˈteɪʃn/",
+      "ipa": "/ˌɪmplɪmenˈteɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 安装启用, 实行, 履行； 实施; 实现",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reproduction",
-        "the role of reproduction",
-        "reproduction and evidence"
+        "a implementation",
+        "the role of implementation",
+        "implementation and evidence"
       ],
       "wordFamily": [
-        "reproduction",
-        "reproducte"
+        "implementation",
+        "implementations",
+        "implementate"
       ],
-      "example": "This reproduction matters when people need to make a clear decision.",
+      "example": "This implementation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reputation",
-      "ipaBrE": "/ˌrepjuˈteɪʃn/",
-      "ipaAmE": "/ˌrepjuˈteɪʃn/",
-      "ipa": "/ˌrepjuˈteɪʃn/",
+      "word": "astonishing",
+      "ipaBrE": "/əˈstɒnɪʃɪŋ/",
+      "ipaAmE": "/əˈstɑːnɪʃɪŋ/",
+      "ipa": "/əˈstɒnɪʃɪŋ/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "名誉, 名声, 声望 [法] 名声, 名誉, 公认证据",
+      "zh": "a. 令人惊讶的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reputation",
-        "the role of reputation",
-        "reputation and evidence"
+        "a astonishing approach",
+        "remain astonishing",
+        "astonishing enough"
       ],
       "wordFamily": [
-        "reputation",
-        "reputations",
-        "reputate"
+        "astonishing",
+        "astonish"
       ],
-      "example": "This reputation matters when people need to make a clear decision.",
+      "example": "A astonishing approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "requirement",
-      "ipaBrE": "/rɪˈkwaɪəmənt/",
-      "ipaAmE": "/rɪˈkwaɪərmənt/",
-      "ipa": "/rɪˈkwaɪəmənt/",
+      "word": "sustain",
+      "ipaBrE": "/səˈsteɪn/",
+      "ipaAmE": "/səˈsteɪn/",
+      "ipa": "/səˈsteɪn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许； 持续",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "sustain a plan",
+        "sustain carefully",
+        "sustain with others"
+      ],
+      "wordFamily": [
+        "sustain",
+        "sustained",
+        "sustaining",
+        "sustains"
+      ],
+      "example": "We can sustain the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "surplus",
+      "ipaBrE": "/ˈsɜːpləs/",
+      "ipaAmE": "/ˈsɜːrplʌs/",
+      "ipa": "/ˈsɜːpləs/",
       "pos": [
         "noun"
       ],
-      "zh": "需求, 必要条件, 要求 [化] 要求; 合同要求",
+      "zh": "n. 剩余, 过剩, 盈余；a. 过剩的, 剩余的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a surplus",
+        "the role of surplus",
+        "surplus and evidence"
+      ],
+      "wordFamily": [
+        "surplus",
+        "surplu"
+      ],
+      "example": "This surplus matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "delay",
+      "ipaBrE": "/dɪˈleɪ/",
+      "ipaAmE": "/dɪˈleɪ/",
+      "ipa": "/dɪˈleɪ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 耽搁, 迟滞；v. 耽搁, 延迟； 延迟, 延时",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a requirement",
-        "the role of requirement",
-        "requirement and evidence"
+        "a delay",
+        "the role of delay",
+        "delay and evidence"
       ],
       "wordFamily": [
-        "requirement",
-        "requirements",
-        "require"
+        "delay",
+        "delayed",
+        "delays",
+        "delaying"
       ],
-      "example": "This requirement matters when people need to make a clear decision.",
+      "example": "This delay matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rescue",
-      "ipaBrE": "/ˈreskjuː/",
-      "ipaAmE": "/ˈreskjuː/",
-      "ipa": "/ˈreskjuː/",
+      "word": "terrific",
+      "ipaBrE": "/təˈrɪfɪk/",
+      "ipaAmE": "/təˈrɪfɪk/",
+      "ipa": "/təˈrɪfɪk/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 非常好的, 极端的, 可怕的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a terrific approach",
+        "remain terrific",
+        "terrific enough"
+      ],
+      "wordFamily": [
+        "terrific"
+      ],
+      "example": "A terrific approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "lung",
+      "ipaBrE": "/lʌŋ/",
+      "ipaAmE": "/lʌŋ/",
+      "ipa": "/lʌŋ/",
       "pos": [
         "noun"
       ],
-      "zh": "援救, 解救, 营救；援救, 救出, 营救",
+      "zh": "n. 肺, 肺脏, 空地； 肺",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rescue",
-        "the role of rescue",
-        "rescue and evidence"
+        "a lung",
+        "the role of lung",
+        "lung and evidence"
       ],
       "wordFamily": [
-        "rescue",
-        "rescued",
-        "rescuing",
-        "rescues"
+        "lung",
+        "lungs",
+        "lunging"
       ],
-      "example": "This rescue matters when people need to make a clear decision.",
+      "example": "This lung matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "residue",
+      "ipaBrE": "/ˈrezɪdjuː/",
+      "ipaAmE": "/ˈrezɪduː/",
+      "ipa": "/ˈrezɪdjuː/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 残渣, 剩余, 余数； 残基; 残渣; 残液; 釜液",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a residue",
+        "the role of residue",
+        "residue and evidence"
+      ],
+      "wordFamily": [
+        "residue"
+      ],
+      "example": "This residue matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "merely",
+      "ipaBrE": "/ˈmɪəli/",
+      "ipaAmE": "/ˈmɪrli/",
+      "ipa": "/ˈmɪəli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 只",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "merely a plan",
+        "merely carefully",
+        "merely with others"
+      ],
+      "wordFamily": [
+        "merely",
+        "mere"
+      ],
+      "example": "We can merely the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "chamber",
+      "ipaBrE": "/ˈtʃeɪmbə(r)/",
+      "ipaAmE": "/ˈtʃeɪmbər/",
+      "ipa": "/ˈtʃeɪmbə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 室, 房间, 枪膛；vt. 装(弹药), 把...关在室内；a. 室内的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a chamber",
+        "the role of chamber",
+        "chamber and evidence"
+      ],
+      "wordFamily": [
+        "chamber",
+        "chambers",
+        "chambering",
+        "chambered"
+      ],
+      "example": "This chamber matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "occupy",
+      "ipaBrE": "/ˈɒkjupaɪ/",
+      "ipaAmE": "/ˈɑːkjupaɪ/",
+      "ipa": "/ˈɒkjupaɪ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 占领, 占(时间、空间等), 住进, 担任, 使从事, 使全神贯注； 占领, 占据, 占有",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "occupy a plan",
+        "occupy carefully",
+        "occupy with others"
+      ],
+      "wordFamily": [
+        "occupy",
+        "occupied",
+        "occupies",
+        "occupying"
+      ],
+      "example": "We can occupy the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "premium",
+      "ipaBrE": "/ˈpriːmiəm/",
+      "ipaAmE": "/ˈpriːmiəm/",
+      "ipa": "/ˈpriːmiəm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 额外补贴, 奖金, 奖赏, 保险费； 保险费",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a premium",
+        "the role of premium",
+        "premium and evidence"
+      ],
+      "wordFamily": [
+        "premium",
+        "premiums"
+      ],
+      "example": "This premium matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cabin",
+      "ipaBrE": "/ˈkæbɪn/",
+      "ipaAmE": "/ˈkæbɪn/",
+      "ipa": "/ˈkæbɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小屋, 客舱；vt. 关在小屋",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a cabin",
+        "the role of cabin",
+        "cabin and evidence"
+      ],
+      "wordFamily": [
+        "cabin",
+        "cabins",
+        "cabining",
+        "cabined"
+      ],
+      "example": "This cabin matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "mysterious",
+      "ipaBrE": "/mɪˈstɪəriəs/",
+      "ipaAmE": "/mɪˈstɪriəs/",
+      "ipa": "/mɪˈstɪəriəs/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 神秘的, 难解的, 不可思议的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a mysterious approach",
+        "remain mysterious",
+        "mysterious enough"
+      ],
+      "wordFamily": [
+        "mysterious",
+        "mysteriou"
+      ],
+      "example": "A mysterious approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nevertheless",
+      "ipaBrE": "/ˌnevəðəˈles/",
+      "ipaAmE": "/ˌnevərðəˈles/",
+      "ipa": "/ˌnevəðəˈles/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 然而, 虽然如此；conj. 然而",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "nevertheless a plan",
+        "nevertheless carefully",
+        "nevertheless with others"
+      ],
+      "wordFamily": [
+        "nevertheless",
+        "nevertheles"
+      ],
+      "example": "We can nevertheless the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "witness",
+      "ipaBrE": "/ˈwɪtnəs/",
+      "ipaAmE": "/ˈwɪtnəs/",
+      "ipa": "/ˈwɪtnəs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 证人, 目击者, 证据, 证词；vt. 目击, 作证, 证明, 表明；vi. 作证人, 作为证据",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a witness",
+        "the role of witness",
+        "witness and evidence"
+      ],
+      "wordFamily": [
+        "witness",
+        "witnesses",
+        "witnessed",
+        "witnessing"
+      ],
+      "example": "This witness matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "stroke",
+      "ipaBrE": "/strəʊk/",
+      "ipaAmE": "/strəʊk/",
+      "ipa": "/strəʊk/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 笔划, 打, 中风, 抚, 摩, 冲程；vt. 划尾桨, 抚, 摩, 划去； 笔划",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a stroke",
+        "the role of stroke",
+        "stroke and evidence"
+      ],
+      "wordFamily": [
+        "stroke",
+        "strokes",
+        "stroked",
+        "stroking"
+      ],
+      "example": "This stroke matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "regulation",
+      "ipaBrE": "/ˌreɡjuˈleɪʃn/",
+      "ipaAmE": "/ˌreɡjuˈleɪʃn/",
+      "ipa": "/ˌreɡjuˈleɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 规则, 管理, 调整； 调整; 规章; 规则; 调节",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a regulation",
+        "the role of regulation",
+        "regulation and evidence"
+      ],
+      "wordFamily": [
+        "regulation",
+        "regulations",
+        "regulate"
+      ],
+      "example": "This regulation matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "seminar",
+      "ipaBrE": "/ˈsemɪnɑː(r)/",
+      "ipaAmE": "/ˈsemɪnɑːr/",
+      "ipa": "/ˈsemɪnɑː(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 研究班, 专题讨论会； 讨论会, 专家讨论会",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a seminar",
+        "the role of seminar",
+        "seminar and evidence"
+      ],
+      "wordFamily": [
+        "seminar",
+        "seminars"
+      ],
+      "example": "This seminar matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "instrumental",
+      "ipaBrE": "/ˌɪnstrəˈmentl/",
+      "ipaAmE": "/ˌɪnstrəˈmentl/",
+      "ipa": "/ˌɪnstrəˈmentl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 仪器的, 器具的, 可作为手段的； 器械的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a instrumental approach",
+        "remain instrumental",
+        "instrumental enough"
+      ],
+      "wordFamily": [
+        "instrumental"
+      ],
+      "example": "A instrumental approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "embarrassment",
+      "ipaBrE": "/ɪmˈbærəsmənt/",
+      "ipaAmE": "/ɪmˈbærəsmənt/",
+      "ipa": "/ɪmˈbærəsmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 困难, 阻碍, 困窘； 窘迫",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a embarrassment",
+        "the role of embarrassment",
+        "embarrassment and evidence"
+      ],
+      "wordFamily": [
+        "embarrassment",
+        "embarrass"
+      ],
+      "example": "This embarrassment matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "inability",
+      "ipaBrE": "/ˌɪnəˈbɪləti/",
+      "ipaAmE": "/ˌɪnəˈbɪləti/",
+      "ipa": "/ˌɪnəˈbɪləti/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 无能, 无力",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a inability",
+        "the role of inability",
+        "inability and evidence"
+      ],
+      "wordFamily": [
+        "inability",
+        "inabilities",
+        "inabil"
+      ],
+      "example": "This inability matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "equivalent",
+      "ipaBrE": "/ɪˈkwɪvələnt/",
+      "ipaAmE": "/ɪˈkwɪvələnt/",
+      "ipa": "/ɪˈkwɪvələnt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 同等物, 等价物, 相等物；a. 相等的, 相当的, 同意义的； 等价的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a equivalent approach",
+        "remain equivalent",
+        "equivalent enough"
+      ],
+      "wordFamily": [
+        "equivalent",
+        "equivalents"
+      ],
+      "example": "A equivalent approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     }
   ],
   "passage": {
     "title": "Keep what works",
     "paragraphs": [
-      "A real complex-expression task usually begins with a small decision. In this lesson, we look at keep what works through a situation involving decisions, research, explanation, speaking, review, future plans, values, responsibility, and synthesis. The aim is to notice how people explain a choice and keep the next step practical. The first useful terms are puzzle, query, quest, questionnaire, quota, racial, racism, racist, radar, radiation.",
-      "When the situation changes, a clear speaker can pause, ask for clarification, and respond with evidence. In this case, the conversation also involves radical, rage, raid, rail, rally, random, rank, ranking, rape, rapid. These terms help a learner describe what is happening without forcing every expression into one sentence.",
-      "The final part of the task brings in rapidly, rat, rating, ratio, rational, raw, ray, reach, realistic, realization. By the end, connect at least one phrase to something you have done, need to do, or may discuss tomorrow. A word becomes easier to remember when it helps you complete a real task."
+      "A real complex-expression task usually begins with a small decision. In this lesson, we look at keep what works through a situation involving decisions, research, explanation, speaking, review, future plans, values, responsibility, and synthesis. The aim is to notice how people explain a choice and keep the next step practical. The first useful terms are suite, urban, profitable, delight, discretion, discipline, intervene, warming, convention, interference.",
+      "When the situation changes, a clear speaker can pause, ask for clarification, and respond with evidence. In this case, the conversation also involves outline, division, funeral, resistance, riot, simultaneously, journalism, launch, indictment, vein. These terms help a learner describe what is happening without forcing every expression into one sentence.",
+      "The final part of the task brings in disturb, grab, injection, accuse, stark, appeal, autonomy, irrelevant, coastal, municipal. By the end, connect at least one phrase to something you have done, need to do, or may discuss tomorrow. A word becomes easier to remember when it helps you complete a real task."
     ],
     "translation": [
       "一个真实的complex-expression任务通常从一个小决定开始。本课通过decisions, research, explanation, speaking, review, future plans, values, responsibility, and synthesis相关的情境，理解如何解释选择，并让下一步切实可行。",
       "情况变化时，清晰的表达者可以停顿、请求澄清，并用证据回应。与其把所有新表达硬塞进一句话，不如在对话、例句和后续任务中反复遇见实用语言。",
-      "请用这组词把情境变成自己的经历，从puzzle, query, quest, questionnaire, quota, racial, racism, racist, radar, radiation中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
+      "请用这组词把情境变成自己的经历，从suite, urban, profitable, delight, discretion, discipline, intervene, warming, convention, interference中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
     ],
     "highlightedWords": [
-      "puzzle",
-      "query",
-      "quest",
-      "questionnaire",
-      "quota",
-      "racial",
-      "racism",
-      "racist",
-      "radar",
-      "radiation",
-      "radical",
-      "rage",
-      "raid",
-      "rail",
-      "rally",
-      "random",
-      "rank",
-      "ranking",
-      "rape",
-      "rapid",
-      "rapidly",
-      "rat",
-      "rating",
-      "ratio",
-      "rational",
-      "raw",
-      "ray",
-      "reach",
-      "realistic",
-      "realization"
+      "suite",
+      "urban",
+      "profitable",
+      "delight",
+      "discretion",
+      "discipline",
+      "intervene",
+      "warming",
+      "convention",
+      "interference",
+      "outline",
+      "division",
+      "funeral",
+      "resistance",
+      "riot",
+      "simultaneously",
+      "journalism",
+      "launch",
+      "indictment",
+      "vein",
+      "disturb",
+      "grab",
+      "injection",
+      "accuse",
+      "stark",
+      "appeal",
+      "autonomy",
+      "irrelevant",
+      "coastal",
+      "municipal"
     ]
   },
   "topic": "complex-expression",
   "targetWords": [
     {
-      "word": "puzzle",
-      "ipaBrE": "/ˈpʌzl/",
-      "ipaAmE": "/ˈpʌzl/",
-      "ipa": "/ˈpʌzl/",
+      "word": "suite",
+      "ipaBrE": "/swiːt/",
+      "ipaAmE": "/swiːt/",
+      "ipa": "/swiːt/",
       "pos": [
         "noun"
       ],
-      "zh": "难题, 迷惑；使困惑, 使为难；迷惑, 苦思",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a puzzle",
-        "the role of puzzle",
-        "puzzle and evidence"
-      ],
-      "wordFamily": [
-        "puzzle",
-        "puzzles",
-        "puzzling",
-        "puzzled"
-      ],
-      "example": "This puzzle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "query",
-      "ipaBrE": "/ˈkwɪəri/",
-      "ipaAmE": "/ˈkwɪri/",
-      "ipa": "/ˈkwɪəri/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：query",
+      "zh": "n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事； 程序组",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a query",
-        "the role of query",
-        "query and evidence"
+        "a suite",
+        "the role of suite",
+        "suite and evidence"
       ],
       "wordFamily": [
-        "query"
+        "suite",
+        "suites"
       ],
-      "example": "This query matters when people need to make a clear decision.",
+      "example": "This suite matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "quest",
-      "ipaBrE": "/kwest/",
-      "ipaAmE": "/kwest/",
-      "ipa": "/kwest/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "探索, 寻求, 调查；寻找, 找, 追寻猎物",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a quest",
-        "the role of quest",
-        "quest and evidence"
-      ],
-      "wordFamily": [
-        "quest",
-        "quests",
-        "questing",
-        "quested"
-      ],
-      "example": "This quest matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "questionnaire",
-      "ipaBrE": "/ˌkwestʃəˈneə(r)/",
-      "ipaAmE": "/ˌkwestʃəˈner/",
-      "ipa": "/ˌkwestʃəˈneə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "调查表, 问卷 [经] 调查表",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a questionnaire",
-        "the role of questionnaire",
-        "questionnaire and evidence"
-      ],
-      "wordFamily": [
-        "questionnaire",
-        "questionnaires"
-      ],
-      "example": "This questionnaire matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "quota",
-      "ipaBrE": "/ˈkwəʊtə/",
-      "ipaAmE": "/ˈkwəʊtə/",
-      "ipa": "/ˈkwəʊtə/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：quota",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a quota",
-        "the role of quota",
-        "quota and evidence"
-      ],
-      "wordFamily": [
-        "quota"
-      ],
-      "example": "This quota matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "racial",
-      "ipaBrE": "/ˈreɪʃl/",
-      "ipaAmE": "/ˈreɪʃl/",
-      "ipa": "/ˈreɪʃl/",
+      "word": "urban",
+      "ipaBrE": "/ˈɜːbən/",
+      "ipaAmE": "/ˈɜːrbən/",
+      "ipa": "/ˈɜːbən/",
       "pos": [
         "adjective"
       ],
-      "zh": "人种的, 种族的 [医] 种族的",
+      "zh": "a. 都市的, 住在都市的, 习惯于都市的； 城市的, 都市的, 市区的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a racial approach",
-        "remain racial",
-        "racial enough"
+        "a urban approach",
+        "remain urban",
+        "urban enough"
       ],
       "wordFamily": [
-        "racial"
+        "urban"
       ],
-      "example": "A racial approach makes the situation easier to explain.",
+      "example": "A urban approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "racism",
-      "ipaBrE": "/ˈreɪsɪzəm/",
-      "ipaAmE": "/ˈreɪsɪzəm/",
-      "ipa": "/ˈreɪsɪzəm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "种族主义, 种族偏见 [法] 种族主义, 种族歧视, 种族歧视主张",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a racism",
-        "the role of racism",
-        "racism and evidence"
-      ],
-      "wordFamily": [
-        "racism",
-        "racisms"
-      ],
-      "example": "This racism matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "racist",
-      "ipaBrE": "/ˈreɪsɪst/",
-      "ipaAmE": "/ˈreɪsɪst/",
-      "ipa": "/ˈreɪsɪst/",
+      "word": "profitable",
+      "ipaBrE": "/ˈprɒfɪtəbl/",
+      "ipaAmE": "/ˈprɑːfɪtəbl/",
+      "ipa": "/ˈprɒfɪtəbl/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：racist",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a racist approach",
-        "remain racist",
-        "racist enough"
-      ],
-      "wordFamily": [
-        "racist"
-      ],
-      "example": "A racist approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "radar",
-      "ipaBrE": "/ˈreɪdɑː(r)/",
-      "ipaAmE": "/ˈreɪdɑːr/",
-      "ipa": "/ˈreɪdɑː(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "雷达, 无线电探测器 [计] 雷达图",
+      "zh": "a. 有利润的, 有利益的, 赚钱的； 有利(可图)的, 合算的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a radar",
-        "the role of radar",
-        "radar and evidence"
+        "a profitable approach",
+        "remain profitable",
+        "profitable enough"
       ],
       "wordFamily": [
-        "radar",
-        "radars"
+        "profitable",
+        "profit"
       ],
-      "example": "This radar matters when people need to make a clear decision.",
+      "example": "A profitable approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "radiation",
-      "ipaBrE": "/ˌreɪdiˈeɪʃn/",
-      "ipaAmE": "/ˌreɪdiˈeɪʃn/",
-      "ipa": "/ˌreɪdiˈeɪʃn/",
+      "word": "delight",
+      "ipaBrE": "/dɪˈlaɪt/",
+      "ipaAmE": "/dɪˈlaɪt/",
+      "ipa": "/dɪˈlaɪt/",
       "pos": [
         "noun"
       ],
-      "zh": "辐射 [化] 放射",
+      "zh": "n. 高兴, 愉快；vt. 使高兴, 乐于；vi. 感到高兴(或愉快、快乐)",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "complex-expression",
       "collocations": [
-        "a radiation",
-        "the role of radiation",
-        "radiation and evidence"
+        "a delight",
+        "the role of delight",
+        "delight and evidence"
       ],
       "wordFamily": [
-        "radiation",
-        "radiations",
-        "radiate"
+        "delight",
+        "delights",
+        "delighted",
+        "delighting"
       ],
-      "example": "This radiation matters when people need to make a clear decision.",
+      "example": "This delight matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "radical",
-      "ipaBrE": "/ˈrædɪkl/",
-      "ipaAmE": "/ˈrædɪkl/",
-      "ipa": "/ˈrædɪkl/",
+      "word": "discretion",
+      "ipaBrE": "/dɪˈskreʃn/",
+      "ipaAmE": "/dɪˈskreʃn/",
+      "ipa": "/dɪˈskreʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 慎重, 辨别力, 考虑, 处理权； 有决定权的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a discretion",
+        "the role of discretion",
+        "discretion and evidence"
+      ],
+      "wordFamily": [
+        "discretion",
+        "discrete"
+      ],
+      "example": "This discretion matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "discipline",
+      "ipaBrE": "/ˈdɪsəplɪn/",
+      "ipaAmE": "/ˈdɪsəplɪn/",
+      "ipa": "/ˈdɪsəplɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 训练, 纪律；vt. 训练, 惩罚",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a discipline",
+        "the role of discipline",
+        "discipline and evidence"
+      ],
+      "wordFamily": [
+        "discipline",
+        "disciplines",
+        "disciplined",
+        "disciplining"
+      ],
+      "example": "This discipline matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "intervene",
+      "ipaBrE": "/ˌɪntəˈviːn/",
+      "ipaAmE": "/ˌɪntərˈviːn/",
+      "ipa": "/ˌɪntəˈviːn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vi. 插入, 调停, 干涉； 进场干预",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "intervene a plan",
+        "intervene carefully",
+        "intervene with others"
+      ],
+      "wordFamily": [
+        "intervene",
+        "intervened",
+        "intervenes",
+        "intervening"
+      ],
+      "example": "We can intervene the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "warming",
+      "ipaBrE": "/ˈwɔːmɪŋ/",
+      "ipaAmE": "/ˈwɔːrmɪŋ/",
+      "ipa": "/ˈwɔːmɪŋ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 暖和, 加温, 暖热, 温暖, (非正式)打, 鞭打",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a warming",
+        "the role of warming",
+        "warming and evidence"
+      ],
+      "wordFamily": [
+        "warming",
+        "warm"
+      ],
+      "example": "This warming matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "convention",
+      "ipaBrE": "/kənˈvenʃn/",
+      "ipaAmE": "/kənˈvenʃn/",
+      "ipa": "/kənˈvenʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大会, 协定, 惯例, 约定； 约定",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a convention",
+        "the role of convention",
+        "convention and evidence"
+      ],
+      "wordFamily": [
+        "convention",
+        "conventions",
+        "convente"
+      ],
+      "example": "This convention matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "interference",
+      "ipaBrE": "/ˌɪntəˈfɪərəns/",
+      "ipaAmE": "/ˌɪntərˈfɪrəns/",
+      "ipa": "/ˌɪntəˈfɪərəns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 冲突, 干涉； 干扰",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a interference",
+        "the role of interference",
+        "interference and evidence"
+      ],
+      "wordFamily": [
+        "interference"
+      ],
+      "example": "This interference matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "outline",
+      "ipaBrE": "/ˈaʊtlaɪn/",
+      "ipaAmE": "/ˈaʊtlaɪn/",
+      "ipa": "/ˈaʊtlaɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大纲, 轮廓, 概要；vt. 描画轮廓, 描述要点；n. 大纲, 分级, 轮廓； 大纲, 分级, 轮廓",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a outline",
+        "the role of outline",
+        "outline and evidence"
+      ],
+      "wordFamily": [
+        "outline",
+        "outlined",
+        "outlines",
+        "outlining"
+      ],
+      "example": "This outline matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "division",
+      "ipaBrE": "/dɪˈvɪʒn/",
+      "ipaAmE": "/dɪˈvɪʒn/",
+      "ipa": "/dɪˈvɪʒn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 分, 分开, 除法, 部门(如部、处、系等), 师； 部分",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a division",
+        "the role of division",
+        "division and evidence"
+      ],
+      "wordFamily": [
+        "division",
+        "divisions"
+      ],
+      "example": "This division matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "funeral",
+      "ipaBrE": "/ˈfjuːnərəl/",
+      "ipaAmE": "/ˈfjuːnərəl/",
+      "ipa": "/ˈfjuːnərəl/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 葬礼, 出殡",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a funeral",
+        "the role of funeral",
+        "funeral and evidence"
+      ],
+      "wordFamily": [
+        "funeral",
+        "funerals"
+      ],
+      "example": "This funeral matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "resistance",
+      "ipaBrE": "/rɪˈzɪstəns/",
+      "ipaAmE": "/rɪˈzɪstəns/",
+      "ipa": "/rɪˈzɪstəns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 抵抗力, 反抗, 耐力, 阻力, 电阻； 抵抗; 抗性; 阻力; 抗药性; 电阻",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a resistance",
+        "the role of resistance",
+        "resistance and evidence"
+      ],
+      "wordFamily": [
+        "resistance",
+        "resistances"
+      ],
+      "example": "This resistance matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "riot",
+      "ipaBrE": "/ˈraɪət/",
+      "ipaAmE": "/ˈraɪət/",
+      "ipa": "/ˈraɪət/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 暴动, 喧闹, 放纵；vi. 发动, 暴动, 纵情, 放荡；vt. 浪费, 挥霍",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a riot",
+        "the role of riot",
+        "riot and evidence"
+      ],
+      "wordFamily": [
+        "riot",
+        "riots",
+        "rioted",
+        "rioting"
+      ],
+      "example": "This riot matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "simultaneously",
+      "ipaBrE": "/ˌsɪmlˈteɪniəsli/",
+      "ipaAmE": "/ˌsaɪmlˈteɪniəsli/",
+      "ipa": "/ˌsɪmlˈteɪniəsli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 同时发生, 一齐, 同时, 同时存在",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "simultaneously a plan",
+        "simultaneously carefully",
+        "simultaneously with others"
+      ],
+      "wordFamily": [
+        "simultaneously",
+        "simultaneous"
+      ],
+      "example": "We can simultaneously the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "journalism",
+      "ipaBrE": "/ˈdʒɜːnəlɪzəm/",
+      "ipaAmE": "/ˈdʒɜːrnəlɪzəm/",
+      "ipa": "/ˈdʒɜːnəlɪzəm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 新闻业, 报章杂志； 报刊, 新闻业, 新闻出版",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a journalism",
+        "the role of journalism",
+        "journalism and evidence"
+      ],
+      "wordFamily": [
+        "journalism"
+      ],
+      "example": "This journalism matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "launch",
+      "ipaBrE": "/lɔːntʃ/",
+      "ipaAmE": "/lɔːntʃ/",
+      "ipa": "/lɔːntʃ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 下水, 汽艇, 发射；vt. 使下水, 发射, 发动；vi. 起飞, 下水, 投入, 开始",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a launch",
+        "the role of launch",
+        "launch and evidence"
+      ],
+      "wordFamily": [
+        "launch",
+        "launched",
+        "launching",
+        "launches"
+      ],
+      "example": "This launch matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "indictment",
+      "ipaBrE": "/ɪnˈdaɪtmənt/",
+      "ipaAmE": "/ɪnˈdaɪtmənt/",
+      "ipa": "/ɪnˈdaɪtmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 起诉, 控告, 起诉状； 起诉书",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a indictment",
+        "the role of indictment",
+        "indictment and evidence"
+      ],
+      "wordFamily": [
+        "indictment",
+        "indict"
+      ],
+      "example": "This indictment matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "vein",
+      "ipaBrE": "/veɪn/",
+      "ipaAmE": "/veɪn/",
+      "ipa": "/veɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 血管, 静脉, 纹理, 气质, 情绪；vt. 使有脉络, 像脉络般分布于",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "extension",
+      "topic": "complex-expression",
+      "collocations": [
+        "a vein",
+        "the role of vein",
+        "vein and evidence"
+      ],
+      "wordFamily": [
+        "vein",
+        "veins",
+        "veined",
+        "veining"
+      ],
+      "example": "This vein matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "disturb",
+      "ipaBrE": "/dɪˈstɜːb/",
+      "ipaAmE": "/dɪˈstɜːrb/",
+      "ipa": "/dɪˈstɜːb/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 扰乱, 妨碍, 使不安； 滋扰, 扰乱",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "disturb a plan",
+        "disturb carefully",
+        "disturb with others"
+      ],
+      "wordFamily": [
+        "disturb",
+        "disturbed",
+        "disturbing",
+        "disturbs"
+      ],
+      "example": "We can disturb the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "grab",
+      "ipaBrE": "/ɡræb/",
+      "ipaAmE": "/ɡræb/",
+      "ipa": "/ɡræb/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "n. 抓握, 掠夺, 强占, 东方沿岸帆船；vi. 抓取, 抢去；vt. 攫取, 捕获, 霸占",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "grab a plan",
+        "grab carefully",
+        "grab with others"
+      ],
+      "wordFamily": [
+        "grab",
+        "grabbed",
+        "grabbing",
+        "grabs"
+      ],
+      "example": "We can grab the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "injection",
+      "ipaBrE": "/ɪnˈdʒekʃn/",
+      "ipaAmE": "/ɪnˈdʒekʃn/",
+      "ipa": "/ɪnˈdʒekʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 注射, 注射剂； 注入; 注射",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a injection",
+        "the role of injection",
+        "injection and evidence"
+      ],
+      "wordFamily": [
+        "injection",
+        "injecte"
+      ],
+      "example": "This injection matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "accuse",
+      "ipaBrE": "/əˈkjuːz/",
+      "ipaAmE": "/əˈkjuːz/",
+      "ipa": "/əˈkjuːz/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 指责, 控告, 归咎于；vi. 指责, 控告",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "accuse a plan",
+        "accuse carefully",
+        "accuse with others"
+      ],
+      "wordFamily": [
+        "accuse",
+        "accused",
+        "accusing",
+        "accuses"
+      ],
+      "example": "We can accuse the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "stark",
+      "ipaBrE": "/stɑːk/",
+      "ipaAmE": "/stɑːrk/",
+      "ipa": "/stɑːk/",
       "pos": [
         "adjective"
       ],
-      "zh": "激进分子, 词根, 基础, 根式, 根；激进的, 根本的, 基本的, 根的",
+      "zh": "a. 僵硬的, 完全的, 刻板的, 明显的, 荒凉的, 结实的；adv. 突出地, 简直, 全然",
       "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a radical approach",
-        "remain radical",
-        "radical enough"
+        "a stark approach",
+        "remain stark",
+        "stark enough"
       ],
       "wordFamily": [
-        "radical",
-        "radicals"
+        "stark"
       ],
-      "example": "A radical approach makes the situation easier to explain.",
+      "example": "A stark approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rage",
-      "ipaBrE": "/reɪdʒ/",
-      "ipaAmE": "/reɪdʒ/",
-      "ipa": "/reɪdʒ/",
+      "word": "appeal",
+      "ipaBrE": "/əˈpiːl/",
+      "ipaAmE": "/əˈpiːl/",
+      "ipa": "/əˈpiːl/",
       "pos": [
         "noun"
       ],
-      "zh": "愤怒, 情绪激动, 狂暴；大怒, 狂吹, 流行",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rage",
-        "the role of rage",
-        "rage and evidence"
-      ],
-      "wordFamily": [
-        "rage",
-        "raged",
-        "raging",
-        "rages"
-      ],
-      "example": "This rage matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "raid",
-      "ipaBrE": "/reɪd/",
-      "ipaAmE": "/reɪd/",
-      "ipa": "/reɪd/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "袭击, 突袭, 搜捕；奇袭, 搜捕 [计] 廉价磁盘冗余阵列",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a raid",
-        "the role of raid",
-        "raid and evidence"
-      ],
-      "wordFamily": [
-        "raid",
-        "raids",
-        "raided",
-        "raiding"
-      ],
-      "example": "This raid matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rail",
-      "ipaBrE": "/reɪl/",
-      "ipaAmE": "/reɪl/",
-      "ipa": "/reɪl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "横杆, 围栏, 栏杆, 铁轨, 扶手, 秧鸡；以横木围栏, 给...铺铁轨；责骂, 抱怨",
+      "zh": "n. 恳求, 诉请, 上诉, 吸引力；vi. 呼吁, 诉请, 要求, 上诉, 有吸引力；vt. 将...上诉",
       "cefr": "B2",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rail",
-        "the role of rail",
-        "rail and evidence"
+        "a appeal",
+        "the role of appeal",
+        "appeal and evidence"
       ],
       "wordFamily": [
-        "rail",
-        "rails",
-        "railed",
-        "railing"
+        "appeal",
+        "appeals",
+        "appealed",
+        "appealing"
       ],
-      "example": "This rail matters when people need to make a clear decision.",
+      "example": "This appeal matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rally",
-      "ipaBrE": "/ˈræli/",
-      "ipaAmE": "/ˈræli/",
-      "ipa": "/ˈræli/",
+      "word": "autonomy",
+      "ipaBrE": "/ɔːˈtɒnəmi/",
+      "ipaAmE": "/ɔːˈtɑːnəmi/",
+      "ipa": "/ɔːˈtɒnəmi/",
       "pos": [
         "noun"
       ],
-      "zh": "重振旗鼓, 集合, 群众集会, 跌停回升；重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑",
+      "zh": "n. 自治, 自治权； 自主性",
       "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rally",
-        "the role of rally",
-        "rally and evidence"
+        "a autonomy",
+        "the role of autonomy",
+        "autonomy and evidence"
       ],
       "wordFamily": [
-        "rally",
-        "rallies",
-        "rallied",
-        "rallying"
+        "autonomy",
+        "autonomies"
       ],
-      "example": "This rally matters when people need to make a clear decision.",
+      "example": "This autonomy matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "random",
-      "ipaBrE": "/ˈrændəm/",
-      "ipaAmE": "/ˈrændəm/",
-      "ipa": "/ˈrændəm/",
+      "word": "irrelevant",
+      "ipaBrE": "/ɪˈreləvənt/",
+      "ipaAmE": "/ɪˈreləvənt/",
+      "ipa": "/ɪˈreləvənt/",
       "pos": [
         "adjective"
       ],
-      "zh": "随意, 随机；任意的, 随便的, 胡乱的, 随机的 adv. 胡乱地",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a random approach",
-        "remain random",
-        "random enough"
-      ],
-      "wordFamily": [
-        "random"
-      ],
-      "example": "A random approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rank",
-      "ipaBrE": "/ræŋk/",
-      "ipaAmE": "/ræŋk/",
-      "ipa": "/ræŋk/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "等级, 排, 横列, 队伍, 阶级；茂密丛生的, 恶臭的, 十足的, 粗俗的；排列, 归类于, 把...分等；列为, 列队；秩 [计] 秩",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rank",
-        "the role of rank",
-        "rank and evidence"
-      ],
-      "wordFamily": [
-        "rank",
-        "ranks",
-        "ranked",
-        "ranking"
-      ],
-      "example": "This rank matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ranking",
-      "ipaBrE": "/ˈræŋkɪŋ/",
-      "ipaAmE": "/ˈræŋkɪŋ/",
-      "ipa": "/ˈræŋkɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "等级, 地位；上级的, 头等的, 超群的",
+      "zh": "a. 不恰当的, 无关系的, 不相干的； 无关的, 不相干的, 离题的",
       "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a ranking",
-        "the role of ranking",
-        "ranking and evidence"
+        "a irrelevant approach",
+        "remain irrelevant",
+        "irrelevant enough"
       ],
       "wordFamily": [
-        "ranking",
-        "rank",
-        "rankings"
+        "irrelevant"
       ],
-      "example": "This ranking matters when people need to make a clear decision.",
+      "example": "A irrelevant approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rape",
-      "ipaBrE": "/reɪp/",
-      "ipaAmE": "/reɪp/",
-      "ipa": "/reɪp/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "抢夺, 掠夺, 强奸, 葡萄渣, 芸苔；掠夺, 抢夺, 强奸",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "extension",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rape",
-        "the role of rape",
-        "rape and evidence"
-      ],
-      "wordFamily": [
-        "rape",
-        "raped",
-        "raping",
-        "rapes"
-      ],
-      "example": "This rape matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rapid",
-      "ipaBrE": "/ˈræpɪd/",
-      "ipaAmE": "/ˈræpɪd/",
-      "ipa": "/ˈræpɪd/",
+      "word": "coastal",
+      "ipaBrE": "/ˈkəʊstl/",
+      "ipaAmE": "/ˈkəʊstl/",
+      "ipa": "/ˈkəʊstl/",
       "pos": [
         "adjective"
       ],
-      "zh": "迅速的, 飞快的, 急促的, 陡的；急流",
-      "cefr": "B2",
+      "zh": "a. 海岸的, 沿海的, 沿岸的； 海岸的, 沿海的",
+      "cefr": "C1",
       "source": "Oxford 5000",
-      "role": "extension",
+      "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rapid approach",
-        "remain rapid",
-        "rapid enough"
+        "a coastal approach",
+        "remain coastal",
+        "coastal enough"
       ],
       "wordFamily": [
-        "rapid",
-        "rapids"
+        "coastal"
       ],
-      "example": "A rapid approach makes the situation easier to explain.",
+      "example": "A coastal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "municipal",
+      "ipaBrE": "/mjuːˈnɪsɪpl/",
+      "ipaAmE": "/mjuːˈnɪsɪpl/",
+      "ipa": "/mjuːˈnɪsɪpl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 市政的, 自治区的, 内政的； 市政的, 市的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a municipal approach",
+        "remain municipal",
+        "municipal enough"
+      ],
+      "wordFamily": [
+        "municipal",
+        "municipals"
+      ],
+      "example": "A municipal approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "trauma",
+      "ipaBrE": "/ˈtrɔːmə/",
+      "ipaAmE": "/ˈtraʊmə/",
+      "ipa": "/ˈtrɔːmə/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 外伤, 损伤； 创伤, 外伤",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a trauma",
+        "the role of trauma",
+        "trauma and evidence"
+      ],
+      "wordFamily": [
+        "trauma",
+        "traumas"
+      ],
+      "example": "This trauma matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "chaos",
+      "ipaBrE": "/ˈkeɪɒs/",
+      "ipaAmE": "/ˈkeɪɑːs/",
+      "ipa": "/ˈkeɪɒs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 大混乱, 混沌； 混沌; 浑沌",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a chaos",
+        "the role of chaos",
+        "chaos and evidence"
+      ],
+      "wordFamily": [
+        "chaos",
+        "chao"
+      ],
+      "example": "This chaos matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "entrepreneur",
+      "ipaBrE": "/ˌɒntrəprəˈnɜː(r)/",
+      "ipaAmE": "/ˌɑːntrəprəˈnɜːr/",
+      "ipa": "/ˌɒntrəprəˈnɜː(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 企业家, 主办人； 承包商, 企业家",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a entrepreneur",
+        "the role of entrepreneur",
+        "entrepreneur and evidence"
+      ],
+      "wordFamily": [
+        "entrepreneur",
+        "entrepreneurs"
+      ],
+      "example": "This entrepreneur matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "stunning",
+      "ipaBrE": "/ˈstʌnɪŋ/",
+      "ipaAmE": "/ˈstʌnɪŋ/",
+      "ipa": "/ˈstʌnɪŋ/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 打昏迷的, 弄得人昏头昏脑的, 令人震惊的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a stunning approach",
+        "remain stunning",
+        "stunning enough"
+      ],
+      "wordFamily": [
+        "stunning",
+        "stunn"
+      ],
+      "example": "A stunning approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "visual",
+      "ipaBrE": "/ˈvɪʒuəl/",
+      "ipaAmE": "/ˈvɪʒuəl/",
+      "ipa": "/ˈvɪʒuəl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 视觉的； 视觉的, 视力的, 视觉性记忆优势者",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a visual approach",
+        "remain visual",
+        "visual enough"
+      ],
+      "wordFamily": [
+        "visual",
+        "visuals"
+      ],
+      "example": "A visual approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "silence",
+      "ipaBrE": "/ˈsaɪləns/",
+      "ipaAmE": "/ˈsaɪləns/",
+      "ipa": "/ˈsaɪləns/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 沉默, 无声, 静寂, 湮没, 无声息；vt. 使缄默；interj. 安静",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a silence",
+        "the role of silence",
+        "silence and evidence"
+      ],
+      "wordFamily": [
+        "silence",
+        "silenced",
+        "silencing",
+        "silences"
+      ],
+      "example": "This silence matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -3135,7 +3542,7 @@ export default {
       "pos": [
         "verb"
       ],
-      "zh": "飞快地, 迅速地, 赶紧地",
+      "zh": "adv. 飞快地, 迅速地, 赶紧地",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
@@ -3153,1255 +3560,162 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rat",
-      "ipaBrE": "/ræt/",
-      "ipaAmE": "/ræt/",
-      "ipa": "/ræt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "鼠, 卑鄙的人, 破坏者, 变节者；捕鼠, 变节；弄蓬松",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rat",
-        "the role of rat",
-        "rat and evidence"
-      ],
-      "wordFamily": [
-        "rat",
-        "rats",
-        "ratting",
-        "ratted"
-      ],
-      "example": "This rat matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rating",
-      "ipaBrE": "/ˈreɪtɪŋ/",
-      "ipaAmE": "/ˈreɪtɪŋ/",
-      "ipa": "/ˈreɪtɪŋ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "等级, 额定功率, 责骂 [经] 等级评定",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rating",
-        "the role of rating",
-        "rating and evidence"
-      ],
-      "wordFamily": [
-        "rating",
-        "rate",
-        "ratings",
-        "rat"
-      ],
-      "example": "This rating matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ratio",
-      "ipaBrE": "/ˈreɪʃiəʊ/",
-      "ipaAmE": "/ˈreɪʃiəʊ/",
-      "ipa": "/ˈreɪʃiəʊ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "比, 比率 [医] 比, 比率, 比例",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a ratio",
-        "the role of ratio",
-        "ratio and evidence"
-      ],
-      "wordFamily": [
-        "ratio",
-        "ratios"
-      ],
-      "example": "This ratio matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rational",
-      "ipaBrE": "/ˈræʃnəl/",
-      "ipaAmE": "/ˈræʃnəl/",
-      "ipa": "/ˈræʃnəl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "理性的, 合理的；有理数",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rational approach",
-        "remain rational",
-        "rational enough"
-      ],
-      "wordFamily": [
-        "rational"
-      ],
-      "example": "A rational approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "raw",
-      "ipaBrE": "/rɔː/",
-      "ipaAmE": "/rɔː/",
-      "ipa": "/rɔː/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "擦伤处, 半成品；生的, 未加工的, 生疏的, 不成熟的, 阴冷的, 刺痛的, 擦掉皮的；擦伤 [计] 写后读",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a raw approach",
-        "remain raw",
-        "raw enough"
-      ],
-      "wordFamily": [
-        "raw",
-        "rawest"
-      ],
-      "example": "A raw approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "ray",
-      "ipaBrE": "/reɪ/",
-      "ipaAmE": "/reɪ/",
-      "ipa": "/reɪ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "光线, 射线, 闪烁, 光辉；射出光线, 浮现, 放射光线；放射, 显出",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a ray",
-        "the role of ray",
-        "ray and evidence"
-      ],
-      "wordFamily": [
-        "ray",
-        "rays",
-        "raying",
-        "rayed"
-      ],
-      "example": "This ray matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reach",
-      "ipaBrE": "/riːtʃ/",
-      "ipaAmE": "/riːtʃ/",
-      "ipa": "/riːtʃ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "伸出, 延伸, 区域, 范围, 流域, 岬；到达, 达到, 伸出, 延伸, 影响；达到, 延伸, 伸出手, 传到",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reach",
-        "the role of reach",
-        "reach and evidence"
-      ],
-      "wordFamily": [
-        "reach",
-        "reached",
-        "reaching",
-        "reaches"
-      ],
-      "example": "This reach matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "realistic",
-      "ipaBrE": "/ˌrɪəˈlɪstɪk/",
-      "ipaAmE": "/ˌriːəˈlɪstɪk/",
-      "ipa": "/ˌrɪəˈlɪstɪk/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "现实的, 逼真的, 现实主义的, 实在论的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a realistic approach",
-        "remain realistic",
-        "realistic enough"
-      ],
-      "wordFamily": [
-        "realistic"
-      ],
-      "example": "A realistic approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "realization",
-      "ipaBrE": "/ˌrɪəlaɪˈzeɪʃn/",
-      "ipaAmE": "/ˌriːələˈzeɪʃn/",
-      "ipa": "/ˌrɪəlaɪˈzeɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：realization",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a realization",
-        "the role of realization",
-        "realization and evidence"
-      ],
-      "wordFamily": [
-        "realization",
-        "realizate"
-      ],
-      "example": "This realization matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "realm",
-      "ipaBrE": "/relm/",
-      "ipaAmE": "/relm/",
-      "ipa": "/relm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "王国, 领土, 领域 [计] 领域",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a realm",
-        "the role of realm",
-        "realm and evidence"
-      ],
-      "wordFamily": [
-        "realm",
-        "realms"
-      ],
-      "example": "This realm matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rear",
-      "ipaBrE": "/rɪə(r)/",
-      "ipaAmE": "/rɪr/",
-      "ipa": "/rɪə(r)/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "后面, 背后, 后方；后面的, 背面的, 后方的；养育, 培养, 饲养, 举起, 树立, 栽种；高耸, 暴跳",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rear approach",
-        "remain rear",
-        "rear enough"
-      ],
-      "wordFamily": [
-        "rear",
-        "reared",
-        "rearing",
-        "rears"
-      ],
-      "example": "A rear approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reasonable",
-      "ipaBrE": "/ˈriːznəbl/",
-      "ipaAmE": "/ˈriːznəbl/",
-      "ipa": "/ˈriːznəbl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "合理的, 明理的, 适当的 [法] 合理的, 公道的, 正当的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reasonable approach",
-        "remain reasonable",
-        "reasonable enough"
-      ],
-      "wordFamily": [
-        "reasonable",
-        "reason"
-      ],
-      "example": "A reasonable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reasonably",
-      "ipaBrE": "/ˈriːznəbli/",
-      "ipaAmE": "/ˈriːznəbli/",
-      "ipa": "/ˈriːznəbli/",
+      "word": "threaten",
+      "ipaBrE": "/ˈθretn/",
+      "ipaAmE": "/ˈθretn/",
+      "ipa": "/ˈθretn/",
       "pos": [
         "verb"
       ],
-      "zh": "适度地, 相当地",
+      "zh": "vt. 恐吓, 威胁, 预示...的凶兆；vi. 威胁, 恫吓, 可能来临",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reasonably a plan",
-        "reasonably carefully",
-        "reasonably with others"
+        "threaten a plan",
+        "threaten carefully",
+        "threaten with others"
       ],
       "wordFamily": [
-        "reasonably",
-        "reasonab"
+        "threaten",
+        "threatened",
+        "threatening",
+        "threatens"
       ],
-      "example": "We can reasonably the next step together.",
+      "example": "We can threaten the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reasoning",
-      "ipaBrE": "/ˈriːzənɪŋ/",
-      "ipaAmE": "/ˈriːzənɪŋ/",
-      "ipa": "/ˈriːzənɪŋ/",
+      "word": "monopoly",
+      "ipaBrE": "/məˈnɒpəli/",
+      "ipaAmE": "/məˈnɑːpəli/",
+      "ipa": "/məˈnɒpəli/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：reasoning",
+      "zh": "n. 垄断, 专卖权, 独占事业； 垄断, 专利品, 垄断(权)独占",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reasoning",
-        "the role of reasoning",
-        "reasoning and evidence"
+        "a monopoly",
+        "the role of monopoly",
+        "monopoly and evidence"
       ],
       "wordFamily": [
-        "reasoning",
-        "reason"
+        "monopoly",
+        "monopo"
       ],
-      "example": "This reasoning matters when people need to make a clear decision.",
+      "example": "This monopoly matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reassure",
-      "ipaBrE": "/ˌriːəˈʃɔː(r)/",
-      "ipaAmE": "/ˌriːəˈʃʊr/",
-      "ipa": "/ˌriːəˈʃɔː(r)/",
+      "word": "monster",
+      "ipaBrE": "/ˈmɒnstə(r)/",
+      "ipaAmE": "/ˈmɑːnstər/",
+      "ipa": "/ˈmɒnstə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 怪物, 恶人, 巨物； 畸胎",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a monster",
+        "the role of monster",
+        "monster and evidence"
+      ],
+      "wordFamily": [
+        "monster",
+        "monsters",
+        "monst"
+      ],
+      "example": "This monster matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "enact",
+      "ipaBrE": "/ɪˈnækt/",
+      "ipaAmE": "/ɪˈnækt/",
+      "ipa": "/ɪˈnækt/",
       "pos": [
         "verb"
       ],
-      "zh": "verb：reassure",
+      "zh": "vt. 制定法律, 扮演, 颁布； 法令, 法规, 条例",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reassure a plan",
-        "reassure carefully",
-        "reassure with others"
+        "enact a plan",
+        "enact carefully",
+        "enact with others"
       ],
       "wordFamily": [
-        "reassure"
+        "enact",
+        "enacted",
+        "enacting",
+        "enacts"
       ],
-      "example": "We can reassure the next step together.",
+      "example": "We can enact the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rebel",
-      "ipaBrE": "/ˈrebl/",
-      "ipaAmE": "/ˈrebl/",
-      "ipa": "/ˈrebl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "叛徒, 反叛者；造反, 反抗, 抵抗, 反感；造反的, 反抗的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rebel",
-        "the role of rebel",
-        "rebel and evidence"
-      ],
-      "wordFamily": [
-        "rebel",
-        "rebels",
-        "rebelled",
-        "rebelling"
-      ],
-      "example": "This rebel matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rebellion",
-      "ipaBrE": "/rɪˈbeljən/",
-      "ipaAmE": "/rɪˈbeljən/",
-      "ipa": "/rɪˈbeljən/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：rebellion",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a rebellion",
-        "the role of rebellion",
-        "rebellion and evidence"
-      ],
-      "wordFamily": [
-        "rebellion"
-      ],
-      "example": "This rebellion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rebuild",
-      "ipaBrE": "/ˌriːˈbɪld/",
-      "ipaAmE": "/ˌriːˈbɪld/",
-      "ipa": "/ˌriːˈbɪld/",
+      "word": "originate",
+      "ipaBrE": "/əˈrɪdʒɪneɪt/",
+      "ipaAmE": "/əˈrɪdʒɪneɪt/",
+      "ipa": "/əˈrɪdʒɪneɪt/",
       "pos": [
         "verb"
       ],
-      "zh": "改建, 重建, 改造；重建",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "rebuild a plan",
-        "rebuild carefully",
-        "rebuild with others"
-      ],
-      "wordFamily": [
-        "rebuild",
-        "rebuilt",
-        "rebuilding",
-        "rebuilds"
-      ],
-      "example": "We can rebuild the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recall",
-      "ipaBrE": "/rɪˈkɔːl/",
-      "ipaAmE": "/rɪˈkɔːl/",
-      "ipa": "/rɪˈkɔːl/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "回忆, 召回, 撤消；回想, 回忆, 召回, 撤消, 使恢复 [计] 检索",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "recall a plan",
-        "recall carefully",
-        "recall with others"
-      ],
-      "wordFamily": [
-        "recall",
-        "recalled",
-        "recalls",
-        "recalling"
-      ],
-      "example": "We can recall the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "receiver",
-      "ipaBrE": "/rɪˈsiːvə(r)/",
-      "ipaAmE": "/rɪˈsiːvər/",
-      "ipa": "/rɪˈsiːvə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "接收器；接受者；收信机；收款员, 接待者",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a receiver",
-        "the role of receiver",
-        "receiver and evidence"
-      ],
-      "wordFamily": [
-        "receiver",
-        "receivers",
-        "receiv"
-      ],
-      "example": "This receiver matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recession",
-      "ipaBrE": "/rɪˈseʃn/",
-      "ipaAmE": "/rɪˈseʃn/",
-      "ipa": "/rɪˈseʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "后退, 凹处, 衰退, 归还 [医] 退缩",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recession",
-        "the role of recession",
-        "recession and evidence"
-      ],
-      "wordFamily": [
-        "recession",
-        "recessions"
-      ],
-      "example": "This recession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recipient",
-      "ipaBrE": "/rɪˈsɪpiənt/",
-      "ipaAmE": "/rɪˈsɪpiənt/",
-      "ipa": "/rɪˈsɪpiənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "领受的, 容易接受的, 感受性强的；领受者, 容纳者, 容器",
+      "zh": "vt. 创始, 发明, 发起；vi. 发源, 发生, 起航； 发自",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a recipient",
-        "the role of recipient",
-        "recipient and evidence"
+        "originate a plan",
+        "originate carefully",
+        "originate with others"
       ],
       "wordFamily": [
-        "recipient",
-        "recipients"
+        "originate",
+        "originated",
+        "originating",
+        "originates"
       ],
-      "example": "This recipient matters when people need to make a clear decision.",
+      "example": "We can originate the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reckon",
-      "ipaBrE": "/ˈrekən/",
-      "ipaAmE": "/ˈrekən/",
-      "ipa": "/ˈrekən/",
+      "word": "pace",
+      "ipaBrE": "/peɪs/",
+      "ipaAmE": "/peɪs/",
+      "ipa": "/peɪs/",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "zh": "verb：reckon",
+      "zh": "n. 速度, 步调, 步法；vi. 踱步, 缓慢走；vt. 用步测, 踱步于",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reckon a plan",
-        "reckon carefully",
-        "reckon with others"
+        "a pace",
+        "the role of pace",
+        "pace and evidence"
       ],
       "wordFamily": [
-        "reckon"
-      ],
-      "example": "We can reckon the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recognition",
-      "ipaBrE": "/ˌrekəɡˈnɪʃn/",
-      "ipaAmE": "/ˌrekəɡˈnɪʃn/",
-      "ipa": "/ˌrekəɡˈnɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "赞誉, 认得, 识别, 承认, 认可, 认识 [电] 认识",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recognition",
-        "the role of recognition",
-        "recognition and evidence"
-      ],
-      "wordFamily": [
-        "recognition",
-        "recognitions",
-        "recognite"
-      ],
-      "example": "This recognition matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reconstruction",
-      "ipaBrE": "/ˌriːkənˈstrʌkʃn/",
-      "ipaAmE": "/ˌriːkənˈstrʌkʃn/",
-      "ipa": "/ˌriːkənˈstrʌkʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "改造, 再建 [医] 改建, 改造, 翻造",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reconstruction",
-        "the role of reconstruction",
-        "reconstruction and evidence"
-      ],
-      "wordFamily": [
-        "reconstruction",
-        "reconstructions",
-        "reconstructe"
-      ],
-      "example": "This reconstruction matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recount",
-      "ipaBrE": "/rɪˈkaʊnt/",
-      "ipaAmE": "/rɪˈkaʊnt/",
-      "ipa": "/rɪˈkaʊnt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：recount",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "recount a plan",
-        "recount carefully",
-        "recount with others"
-      ],
-      "wordFamily": [
-        "recount"
-      ],
-      "example": "We can recount the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recover",
-      "ipaBrE": "/rɪˈkʌvə(r)/",
-      "ipaAmE": "/rɪˈkʌvər/",
-      "ipa": "/rɪˈkʌvə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "重新获得, 恢复, 复原, 拯救；痊愈, 复原, 胜诉 [计] 恢复",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "recover a plan",
-        "recover carefully",
-        "recover with others"
-      ],
-      "wordFamily": [
-        "recover",
-        "recovered",
-        "recovering",
-        "recovers"
-      ],
-      "example": "We can recover the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recovery",
-      "ipaBrE": "/rɪˈkʌvəri/",
-      "ipaAmE": "/rɪˈkʌvəri/",
-      "ipa": "/rɪˈkʌvəri/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "恢复, 复原, 痊愈, 重获 [计] 恢复",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recovery",
-        "the role of recovery",
-        "recovery and evidence"
-      ],
-      "wordFamily": [
-        "recovery",
-        "recoveries"
-      ],
-      "example": "This recovery matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recruit",
-      "ipaBrE": "/rɪˈkruːt/",
-      "ipaAmE": "/rɪˈkruːt/",
-      "ipa": "/rɪˈkruːt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "新兵, 新手, 新会员, 补给品；恢复, 补充, 充实, 征募；征募新兵, 复原, 得到补充",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recruit",
-        "the role of recruit",
-        "recruit and evidence"
-      ],
-      "wordFamily": [
-        "recruit",
-        "recruited",
-        "recruits",
-        "recruiting"
-      ],
-      "example": "This recruit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "recruitment",
-      "ipaBrE": "/rɪˈkruːtmənt/",
-      "ipaAmE": "/rɪˈkruːtmənt/",
-      "ipa": "/rɪˈkruːtmənt/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：recruitment",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a recruitment",
-        "the role of recruitment",
-        "recruitment and evidence"
-      ],
-      "wordFamily": [
-        "recruitment",
-        "recruit"
-      ],
-      "example": "This recruitment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reduction",
-      "ipaBrE": "/rɪˈdʌkʃn/",
-      "ipaAmE": "/rɪˈdʌkʃn/",
-      "ipa": "/rɪˈdʌkʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "减少, 缩影, 变化 [化] 还原",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reduction",
-        "the role of reduction",
-        "reduction and evidence"
-      ],
-      "wordFamily": [
-        "reduction",
-        "reductions",
-        "reducte"
-      ],
-      "example": "This reduction matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "referee",
-      "ipaBrE": "/ˌrefəˈriː/",
-      "ipaAmE": "/ˌrefəˈriː/",
-      "ipa": "/ˌrefəˈriː/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：referee",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a referee",
-        "the role of referee",
-        "referee and evidence"
-      ],
-      "wordFamily": [
-        "referee"
-      ],
-      "example": "This referee matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "referendum",
-      "ipaBrE": "/ˌrefəˈrendəm/",
-      "ipaAmE": "/ˌrefəˈrendəm/",
-      "ipa": "/ˌrefəˈrendəm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：referendum",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a referendum",
-        "the role of referendum",
-        "referendum and evidence"
-      ],
-      "wordFamily": [
-        "referendum"
-      ],
-      "example": "This referendum matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reform",
-      "ipaBrE": "/rɪˈfɔːm/",
-      "ipaAmE": "/rɪˈfɔːrm/",
-      "ipa": "/rɪˈfɔːm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "改革, 改正, 改造；改革, 改过, 革新, 重整；革新, 改过",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reform",
-        "the role of reform",
-        "reform and evidence"
-      ],
-      "wordFamily": [
-        "reform",
-        "reforms",
-        "reformed",
-        "reforming"
-      ],
-      "example": "This reform matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "refuge",
-      "ipaBrE": "/ˈrefjuːdʒ/",
-      "ipaAmE": "/ˈrefjuːdʒ/",
-      "ipa": "/ˈrefjuːdʒ/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "避难所, 安全地带, 避难, 庇护；躲避；给予...庇护",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a refuge",
-        "the role of refuge",
-        "refuge and evidence"
-      ],
-      "wordFamily": [
-        "refuge",
-        "refuges"
-      ],
-      "example": "This refuge matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "refugee",
-      "ipaBrE": "/ˌrefjuˈdʒiː/",
-      "ipaAmE": "/ˌrefjuˈdʒiː/",
-      "ipa": "/ˌrefjuˈdʒiː/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "难民, 流亡者 [法] 避难者, 流亡者, 难民",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a refugee",
-        "the role of refugee",
-        "refugee and evidence"
-      ],
-      "wordFamily": [
-        "refugee",
-        "refugees"
-      ],
-      "example": "This refugee matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "refusal",
-      "ipaBrE": "/rɪˈfjuːzl/",
-      "ipaAmE": "/rɪˈfjuːzl/",
-      "ipa": "/rɪˈfjuːzl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：refusal",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a refusal",
-        "the role of refusal",
-        "refusal and evidence"
-      ],
-      "wordFamily": [
-        "refusal"
-      ],
-      "example": "This refusal matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regain",
-      "ipaBrE": "/rɪˈɡeɪn/",
-      "ipaAmE": "/rɪˈɡeɪn/",
-      "ipa": "/rɪˈɡeɪn/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "取回, 恢复, 重回, 复得 [化] 回潮",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "regain a plan",
-        "regain carefully",
-        "regain with others"
-      ],
-      "wordFamily": [
-        "regain",
-        "regained",
-        "regaining",
-        "regains"
-      ],
-      "example": "We can regain the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regard",
-      "ipaBrE": "/rɪˈɡɑːd/",
-      "ipaAmE": "/rɪˈɡɑːrd/",
-      "ipa": "/rɪˈɡɑːd/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "关心, 注意, 尊敬, 关系, 问候；视为, 注意, 考虑, 和...有关, 看待；注视, 注意",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regard",
-        "the role of regard",
-        "regard and evidence"
-      ],
-      "wordFamily": [
-        "regard",
-        "regarded",
-        "regards",
-        "regarding"
-      ],
-      "example": "This regard matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regardless",
-      "ipaBrE": "/rɪˈɡɑːdləs/",
-      "ipaAmE": "/rɪˈɡɑːrdləs/",
-      "ipa": "/rɪˈɡɑːdləs/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "不管, 不注意, 不顾",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "regardless a plan",
-        "regardless carefully",
-        "regardless with others"
-      ],
-      "wordFamily": [
-        "regardless",
-        "regardles"
-      ],
-      "example": "We can regardless the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regime",
-      "ipaBrE": "/reɪˈʒiːm/",
-      "ipaAmE": "/reɪˈʒiːm/",
-      "ipa": "/reɪˈʒiːm/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "政权, 当权期间, 政体, 社会制度, 体制, 情态 [医] 制度, 生活制度",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regime",
-        "the role of regime",
-        "regime and evidence"
-      ],
-      "wordFamily": [
-        "regime",
-        "regimes"
-      ],
-      "example": "This regime matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regional",
-      "ipaBrE": "/ˈriːdʒənl/",
-      "ipaAmE": "/ˈriːdʒənl/",
-      "ipa": "/ˈriːdʒənl/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "地方的, 地域性的 [医] 区的, 部位的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regional approach",
-        "remain regional",
-        "regional enough"
-      ],
-      "wordFamily": [
-        "regional",
-        "regionals"
-      ],
-      "example": "A regional approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "register",
-      "ipaBrE": "/ˈredʒɪstə(r)/",
-      "ipaAmE": "/ˈredʒɪstər/",
-      "ipa": "/ˈredʒɪstə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "寄存器, 记录, 登记簿, 注册；记录, 注册, 提示, 表达, 把...挂号；登记, 注册, 挂号 [计] 寄存器",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a register",
-        "the role of register",
-        "register and evidence"
-      ],
-      "wordFamily": [
-        "register",
-        "registered",
-        "registers",
-        "registering"
-      ],
-      "example": "This register matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "registration",
-      "ipaBrE": "/ˌredʒɪˈstreɪʃn/",
-      "ipaAmE": "/ˌredʒɪˈstreɪʃn/",
-      "ipa": "/ˌredʒɪˈstreɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：registration",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a registration",
-        "the role of registration",
-        "registration and evidence"
-      ],
-      "wordFamily": [
-        "registration",
-        "registrate"
-      ],
-      "example": "This registration matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regret",
-      "ipaBrE": "/rɪˈɡret/",
-      "ipaAmE": "/rɪˈɡret/",
-      "ipa": "/rɪˈɡret/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "遗憾, 后悔, 悔恨, 抱歉, 歉意；为...感到遗憾, 后悔, 惋惜, 懊悔, 抱歉；感到抱歉",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regret",
-        "the role of regret",
-        "regret and evidence"
-      ],
-      "wordFamily": [
-        "regret",
-        "regretted",
-        "regrets",
-        "regretting"
-      ],
-      "example": "This regret matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulate",
-      "ipaBrE": "/ˈreɡjuleɪt/",
-      "ipaAmE": "/ˈreɡjuleɪt/",
-      "ipa": "/ˈreɡjuleɪt/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "管理, 控制, 调节, 调整, 校准 [经] 控制, 管理",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "regulate a plan",
-        "regulate carefully",
-        "regulate with others"
-      ],
-      "wordFamily": [
-        "regulate",
-        "regulated",
-        "regulating",
-        "regulates"
-      ],
-      "example": "We can regulate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulation",
-      "ipaBrE": "/ˌreɡjuˈleɪʃn/",
-      "ipaAmE": "/ˌreɡjuˈleɪʃn/",
-      "ipa": "/ˌreɡjuˈleɪʃn/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "规则, 管理, 调整 [计] 调整; 规章; 规则; 调节",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regulation",
-        "the role of regulation",
-        "regulation and evidence"
-      ],
-      "wordFamily": [
-        "regulation",
-        "regulations",
-        "regulate"
-      ],
-      "example": "This regulation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulator",
-      "ipaBrE": "/ˈreɡjuleɪtə(r)/",
-      "ipaAmE": "/ˈreɡjuleɪtər/",
-      "ipa": "/ˈreɡjuleɪtə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "调整者, 校准者, 校准器, 调整器, 标准钟 [化] 调节剂; 调节器",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regulator",
-        "the role of regulator",
-        "regulator and evidence"
-      ],
-      "wordFamily": [
-        "regulator",
-        "regulators"
-      ],
-      "example": "This regulator matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "regulatory",
-      "ipaBrE": "/ˈreɡjələtəri/",
-      "ipaAmE": "/ˈreɡjələtɔːri/",
-      "ipa": "/ˈreɡjələtəri/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "受控制的, 统制的, 调整的 [经] 规则的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a regulatory approach",
-        "remain regulatory",
-        "regulatory enough"
-      ],
-      "wordFamily": [
-        "regulatory"
-      ],
-      "example": "A regulatory approach makes the situation easier to explain.",
+        "pace",
+        "paces",
+        "pacing",
+        "paced"
+      ],
+      "example": "This pace matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -4412,7 +3726,7 @@ export default {
       "pos": [
         "noun"
       ],
-      "zh": "复原 [医] 复原, 恢复, 康复",
+      "zh": "n. 复原； 复原, 恢复, 康复",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
@@ -4431,231 +3745,229 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reign",
-      "ipaBrE": "/reɪn/",
-      "ipaAmE": "/reɪn/",
-      "ipa": "/reɪn/",
+      "word": "confusion",
+      "ipaBrE": "/kənˈfjuːʒn/",
+      "ipaAmE": "/kənˈfjuːʒn/",
+      "ipa": "/kənˈfjuːʒn/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：reign",
-      "cefr": "C1",
+      "zh": "n. 混乱, 混淆, 无秩序； 含混",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reign",
-        "the role of reign",
-        "reign and evidence"
+        "a confusion",
+        "the role of confusion",
+        "confusion and evidence"
       ],
       "wordFamily": [
-        "reign"
+        "confusion",
+        "confusions"
       ],
-      "example": "This reign matters when people need to make a clear decision.",
+      "example": "This confusion matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reinforce",
-      "ipaBrE": "/ˌriːɪnˈfɔːs/",
-      "ipaAmE": "/ˌriːɪnˈfɔːrs/",
-      "ipa": "/ˌriːɪnˈfɔːs/",
+      "word": "consult",
+      "ipaBrE": "/kənˈsʌlt/",
+      "ipaAmE": "/kənˈsʌlt/",
+      "ipa": "/kənˈsʌlt/",
       "pos": [
         "verb"
       ],
-      "zh": "加强, 增援, 补充；求援, 得到增援；加固材料",
+      "zh": "vi. 商讨, 商量, 协商, 会诊；vt. 向...请教, 查阅, 考虑",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reinforce a plan",
-        "reinforce carefully",
-        "reinforce with others"
+        "consult a plan",
+        "consult carefully",
+        "consult with others"
       ],
       "wordFamily": [
-        "reinforce",
-        "reinforced",
-        "reinforces",
-        "reinforcing"
+        "consult",
+        "consulted",
+        "consulting",
+        "consults"
       ],
-      "example": "We can reinforce the next step together.",
+      "example": "We can consult the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rejection",
-      "ipaBrE": "/rɪˈdʒekʃn/",
-      "ipaAmE": "/rɪˈdʒekʃn/",
-      "ipa": "/rɪˈdʒekʃn/",
+      "word": "suburb",
+      "ipaBrE": "/ˈsʌbɜːb/",
+      "ipaAmE": "/ˈsʌbɜːrb/",
+      "ipa": "/ˈsʌbɜːb/",
       "pos": [
         "noun"
       ],
-      "zh": "拒绝, 抛弃, 驳回, 被抛弃的东西, 呕出物 [化] 报废; 拒收",
-      "cefr": "C1",
+      "zh": "n. 市郊住宅区, 郊区, 边缘",
+      "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rejection",
-        "the role of rejection",
-        "rejection and evidence"
+        "a suburb",
+        "the role of suburb",
+        "suburb and evidence"
       ],
       "wordFamily": [
-        "rejection",
-        "rejections",
-        "rejecte"
+        "suburb",
+        "suburbs"
       ],
-      "example": "This rejection matters when people need to make a clear decision.",
+      "example": "This suburb matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relatively",
-      "ipaBrE": "/ˈrelətɪvli/",
-      "ipaAmE": "/ˈrelətɪvli/",
-      "ipa": "/ˈrelətɪvli/",
+      "word": "cope",
+      "ipaBrE": "/kəʊp/",
+      "ipaAmE": "/kəʊp/",
+      "ipa": "/kəʊp/",
       "pos": [
         "verb"
       ],
-      "zh": "相对地, 比较地, 相当地, 相关地 [计] 相对地",
+      "zh": "vi. 竞争, 应付；n. 长袍",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "relatively a plan",
-        "relatively carefully",
-        "relatively with others"
+        "cope a plan",
+        "cope carefully",
+        "cope with others"
       ],
       "wordFamily": [
-        "relatively",
-        "relative"
+        "cope",
+        "coping",
+        "coped",
+        "copes"
       ],
-      "example": "We can relatively the next step together.",
+      "example": "We can cope the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relevance",
-      "ipaBrE": "/ˈreləvəns/",
-      "ipaAmE": "/ˈreləvəns/",
-      "ipa": "/ˈreləvəns/",
+      "word": "badge",
+      "ipaBrE": "/bædʒ/",
+      "ipaAmE": "/bædʒ/",
+      "ipa": "/bædʒ/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：relevance",
+      "zh": "n. 徽章, 标记； 标记",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a badge",
+        "the role of badge",
+        "badge and evidence"
+      ],
+      "wordFamily": [
+        "badge"
+      ],
+      "example": "This badge matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "harbour",
+      "ipaBrE": "/ˈhɑːbə(r)/",
+      "ipaAmE": "/ˈhɑːrbər/",
+      "ipa": "/ˈhɑːbə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 港, 避难所；v. 庇护, 藏匿, (使)入港停泊",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a harbour",
+        "the role of harbour",
+        "harbour and evidence"
+      ],
+      "wordFamily": [
+        "harbour"
+      ],
+      "example": "This harbour matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "beneath",
+      "ipaBrE": "/bɪˈniːθ/",
+      "ipaAmE": "/bɪˈniːθ/",
+      "ipa": "/bɪˈniːθ/",
+      "pos": [
+        "preposition"
+      ],
+      "zh": "prep. 在...下方；adv. 在...下方",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a relevance",
-        "the role of relevance",
-        "relevance and evidence"
+        "a beneath",
+        "the role of beneath",
+        "beneath and evidence"
       ],
       "wordFamily": [
-        "relevance"
+        "beneath"
       ],
-      "example": "This relevance matters when people need to make a clear decision.",
+      "example": "This beneath matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relevant",
-      "ipaBrE": "/ˈreləvənt/",
-      "ipaAmE": "/ˈreləvənt/",
-      "ipa": "/ˈreləvənt/",
-      "pos": [
-        "adjective"
-      ],
-      "zh": "有关联的, 有关系的, 适当的, 相应的 [法] 有关的, 相关的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a relevant approach",
-        "remain relevant",
-        "relevant enough"
-      ],
-      "wordFamily": [
-        "relevant"
-      ],
-      "example": "A relevant approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "reliability",
-      "ipaBrE": "/rɪˌlaɪəˈbɪləti/",
-      "ipaAmE": "/rɪˌlaɪəˈbɪləti/",
-      "ipa": "/rɪˌlaɪəˈbɪləti/",
+      "word": "activation",
+      "ipaBrE": "/ˌæktɪˈveɪʃn/",
+      "ipaAmE": "/ˌæktɪˈveɪʃn/",
+      "ipa": "/ˌæktɪˈveɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "信度, 可靠性 [计] 可靠性",
+      "zh": "n. 活化, 激活； 活化; 活化作用; 激活; 激活作用",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reliability",
-        "the role of reliability",
-        "reliability and evidence"
+        "a activation",
+        "the role of activation",
+        "activation and evidence"
       ],
       "wordFamily": [
-        "reliability",
-        "reliabilities",
-        "reliabil"
+        "activation",
+        "activate"
       ],
-      "example": "This reliability matters when people need to make a clear decision.",
+      "example": "This activation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "relief",
-      "ipaBrE": "/rɪˈliːf/",
-      "ipaAmE": "/rɪˈliːf/",
-      "ipa": "/rɪˈliːf/",
+      "word": "emission",
+      "ipaBrE": "/ɪˈmɪʃn/",
+      "ipaAmE": "/ɪˈmɪʃn/",
+      "ipa": "/ɪˈmɪʃn/",
       "pos": [
         "noun"
       ],
-      "zh": "减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏 [医] 缓减, 减轻, 浮雕(绘画中)",
+      "zh": "n. 发射, 射出, 发行； 发射, 遗精",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a relief",
-        "the role of relief",
-        "relief and evidence"
+        "a emission",
+        "the role of emission",
+        "emission and evidence"
       ],
       "wordFamily": [
-        "relief",
-        "reliefs"
+        "emission",
+        "emissions"
       ],
-      "example": "This relief matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "relieve",
-      "ipaBrE": "/rɪˈliːv/",
-      "ipaAmE": "/rɪˈliːv/",
-      "ipa": "/rɪˈliːv/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著；救济, 当替补投手, 呈鲜明突出",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "relieve a plan",
-        "relieve carefully",
-        "relieve with others"
-      ],
-      "wordFamily": [
-        "relieve",
-        "relieved",
-        "relieving",
-        "relieves"
-      ],
-      "example": "We can relieve the next step together.",
+      "example": "This emission matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
@@ -4666,7 +3978,7 @@ export default {
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：relieved",
+      "zh": "a. 宽慰的, 解除的, 减轻的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
@@ -4684,537 +3996,1227 @@ export default {
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reluctant",
-      "ipaBrE": "/rɪˈlʌktənt/",
-      "ipaAmE": "/rɪˈlʌktənt/",
-      "ipa": "/rɪˈlʌktənt/",
+      "word": "jet",
+      "ipaBrE": "/dʒet/",
+      "ipaAmE": "/dʒet/",
+      "ipa": "/dʒet/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 喷射流, 喷嘴, 煤玉；v. 射出, 迸出, 喷射；a. 黑而发亮的, 墨黑的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a jet",
+        "the role of jet",
+        "jet and evidence"
+      ],
+      "wordFamily": [
+        "jet",
+        "jets",
+        "jetting",
+        "jetted"
+      ],
+      "example": "This jet matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "association",
+      "ipaBrE": "/əˌsəʊʃiˈeɪʃn/",
+      "ipaAmE": "/əˌsəʊʃiˈeɪʃn/",
+      "ipa": "/əˌsəʊʃiˈeɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 协会； 关联",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a association",
+        "the role of association",
+        "association and evidence"
+      ],
+      "wordFamily": [
+        "association",
+        "associations",
+        "associate"
+      ],
+      "example": "This association matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "detain",
+      "ipaBrE": "/dɪˈteɪn/",
+      "ipaAmE": "/dɪˈteɪn/",
+      "ipa": "/dɪˈteɪn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 扣留, 扣押, 耽搁； 拘留, 扣押, 留住",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "detain a plan",
+        "detain carefully",
+        "detain with others"
+      ],
+      "wordFamily": [
+        "detain"
+      ],
+      "example": "We can detain the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "resign",
+      "ipaBrE": "/rɪˈzaɪn/",
+      "ipaAmE": "/rɪˈzaɪn/",
+      "ipa": "/rɪˈzaɪn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 辞职, 放弃, 使顺从；vi. 辞职, 屈从",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "resign a plan",
+        "resign carefully",
+        "resign with others"
+      ],
+      "wordFamily": [
+        "resign",
+        "resigned",
+        "resigning",
+        "resigns"
+      ],
+      "example": "We can resign the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "district",
+      "ipaBrE": "/ˈdɪstrɪkt/",
+      "ipaAmE": "/ˈdɪstrɪkt/",
+      "ipa": "/ˈdɪstrɪkt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 区域, 地方； 地区, 地段",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a district",
+        "the role of district",
+        "district and evidence"
+      ],
+      "wordFamily": [
+        "district",
+        "districts",
+        "districting",
+        "districted"
+      ],
+      "example": "This district matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "leaflet",
+      "ipaBrE": "/ˈliːflət/",
+      "ipaAmE": "/ˈliːflət/",
+      "ipa": "/ˈliːflət/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小叶, 传单； 小叶",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a leaflet",
+        "the role of leaflet",
+        "leaflet and evidence"
+      ],
+      "wordFamily": [
+        "leaflet"
+      ],
+      "example": "This leaflet matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "joy",
+      "ipaBrE": "/dʒɔɪ/",
+      "ipaAmE": "/dʒɔɪ/",
+      "ipa": "/dʒɔɪ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 欢喜, 乐事, 高兴；vt. 使快乐, 令人高兴；vi. 欢喜",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a joy",
+        "the role of joy",
+        "joy and evidence"
+      ],
+      "wordFamily": [
+        "joy",
+        "joys",
+        "joying",
+        "joyed"
+      ],
+      "example": "This joy matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "dramatic",
+      "ipaBrE": "/drəˈmætɪk/",
+      "ipaAmE": "/drəˈmætɪk/",
+      "ipa": "/drəˈmætɪk/",
       "pos": [
         "adjective"
       ],
-      "zh": "不情愿的, 勉强的 [法] 不愿的, 勉强的, 难以处理的",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reluctant approach",
-        "remain reluctant",
-        "reluctant enough"
-      ],
-      "wordFamily": [
-        "reluctant"
-      ],
-      "example": "A reluctant approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "rely",
-      "ipaBrE": "/rɪˈlaɪ/",
-      "ipaAmE": "/rɪˈlaɪ/",
-      "ipa": "/rɪˈlaɪ/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "信赖, 依赖, 信任",
+      "zh": "a. 戏剧性的, 生动的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "rely a plan",
-        "rely carefully",
-        "rely with others"
+        "a dramatic approach",
+        "remain dramatic",
+        "dramatic enough"
       ],
       "wordFamily": [
-        "rely",
-        "relying",
-        "relies",
-        "relied"
+        "dramatic",
+        "dramatics"
       ],
-      "example": "We can rely the next step together.",
+      "example": "A dramatic approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "remainder",
-      "ipaBrE": "/rɪˈmeɪndə(r)/",
-      "ipaAmE": "/rɪˈmeɪndər/",
-      "ipa": "/rɪˈmeɪndə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "noun：remainder",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remainder",
-        "the role of remainder",
-        "remainder and evidence"
-      ],
-      "wordFamily": [
-        "remainder",
-        "remaind"
-      ],
-      "example": "This remainder matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remains",
-      "ipaBrE": "/rɪˈmeɪnz/",
-      "ipaAmE": "/rɪˈmeɪnz/",
-      "ipa": "/rɪˈmeɪnz/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "剩余物, 废墟, 残余 [法] 遗体, 尸体, 遗骸",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remains",
-        "the role of remains",
-        "remains and evidence"
-      ],
-      "wordFamily": [
-        "remains",
-        "remain"
-      ],
-      "example": "This remains matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remark",
-      "ipaBrE": "/rɪˈmɑːk/",
-      "ipaAmE": "/rɪˈmɑːrk/",
-      "ipa": "/rɪˈmɑːk/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "评论, 注意；评论, 注意；评论, 谈论 [计] 注释",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remark",
-        "the role of remark",
-        "remark and evidence"
-      ],
-      "wordFamily": [
-        "remark",
-        "remarks",
-        "remarked",
-        "remarking"
-      ],
-      "example": "This remark matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remarkable",
-      "ipaBrE": "/rɪˈmɑːkəbl/",
-      "ipaAmE": "/rɪˈmɑːrkəbl/",
-      "ipa": "/rɪˈmɑːkəbl/",
+      "word": "rational",
+      "ipaBrE": "/ˈræʃnəl/",
+      "ipaAmE": "/ˈræʃnəl/",
+      "ipa": "/ˈræʃnəl/",
       "pos": [
         "adjective"
       ],
-      "zh": "不平常的, 值得注意的, 显著的",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a remarkable approach",
-        "remain remarkable",
-        "remarkable enough"
-      ],
-      "wordFamily": [
-        "remarkable",
-        "remark"
-      ],
-      "example": "A remarkable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remarkably",
-      "ipaBrE": "/rɪˈmɑːkəbli/",
-      "ipaAmE": "/rɪˈmɑːrkəbli/",
-      "ipa": "/rɪˈmɑːkəbli/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "显著地, 引人注目地, 非常地",
-      "cefr": "B2",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "remarkably a plan",
-        "remarkably carefully",
-        "remarkably with others"
-      ],
-      "wordFamily": [
-        "remarkably",
-        "remarkab"
-      ],
-      "example": "We can remarkably the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "remedy",
-      "ipaBrE": "/ˈremədi/",
-      "ipaAmE": "/ˈremədi/",
-      "ipa": "/ˈremədi/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "药物, 治疗法, 治疗, 补救, 赔偿；治疗, 补救, 矫正, 改善, 修补, 修缮",
+      "zh": "a. 理性的, 合理的；n. 有理数",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a remedy",
-        "the role of remedy",
-        "remedy and evidence"
+        "a rational approach",
+        "remain rational",
+        "rational enough"
       ],
       "wordFamily": [
-        "remedy",
-        "remedies",
-        "remedied",
-        "remedying"
+        "rational"
       ],
-      "example": "This remedy matters when people need to make a clear decision.",
+      "example": "A rational approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reminder",
-      "ipaBrE": "/rɪˈmaɪndə(r)/",
-      "ipaAmE": "/rɪˈmaɪndər/",
-      "ipa": "/rɪˈmaɪndə(r)/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "提醒的人, 暗示 [经] 催单",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a reminder",
-        "the role of reminder",
-        "reminder and evidence"
-      ],
-      "wordFamily": [
-        "reminder",
-        "reminders",
-        "remind"
-      ],
-      "example": "This reminder matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "removal",
-      "ipaBrE": "/rɪˈmuːvl/",
-      "ipaAmE": "/rɪˈmuːvl/",
-      "ipa": "/rɪˈmuːvl/",
-      "pos": [
-        "noun"
-      ],
-      "zh": "移动, 移居, 迁移, 排除, 切除 [医] 切除, 除去",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "a removal",
-        "the role of removal",
-        "removal and evidence"
-      ],
-      "wordFamily": [
-        "removal",
-        "removals"
-      ],
-      "example": "This removal matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "render",
-      "ipaBrE": "/ˈrendə(r)/",
-      "ipaAmE": "/ˈrendər/",
-      "ipa": "/ˈrendə(r)/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "回报, 给于, 付给, 汇报, 提出, 舍弃, 反映, 表示, 表演, 致使, 执行, 实施；给予补偿；交纳, 打底",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "render a plan",
-        "render carefully",
-        "render with others"
-      ],
-      "wordFamily": [
-        "render",
-        "rendered",
-        "renders",
-        "rendering"
-      ],
-      "example": "We can render the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "renew",
-      "ipaBrE": "/rɪˈnjuː/",
-      "ipaAmE": "/rɪˈnuː/",
-      "ipa": "/rɪˈnjuː/",
-      "pos": [
-        "verb"
-      ],
-      "zh": "verb：renew",
-      "cefr": "C1",
-      "source": "Oxford 5000",
-      "role": "activation",
-      "topic": "complex-expression",
-      "collocations": [
-        "renew a plan",
-        "renew carefully",
-        "renew with others"
-      ],
-      "wordFamily": [
-        "renew"
-      ],
-      "example": "We can renew the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
-    },
-    {
-      "word": "renowned",
-      "ipaBrE": "/rɪˈnaʊnd/",
-      "ipaAmE": "/rɪˈnaʊnd/",
-      "ipa": "/rɪˈnaʊnd/",
+      "word": "selective",
+      "ipaBrE": "/sɪˈlektɪv/",
+      "ipaAmE": "/sɪˈlektɪv/",
+      "ipa": "/sɪˈlektɪv/",
       "pos": [
         "adjective"
       ],
-      "zh": "adjective：renowned",
+      "zh": "a. 选择的, 选择性的； 选择的, 选择性的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a renowned approach",
-        "remain renowned",
-        "renowned enough"
+        "a selective approach",
+        "remain selective",
+        "selective enough"
       ],
       "wordFamily": [
-        "renowned",
-        "renown"
+        "selective"
       ],
-      "example": "A renowned approach makes the situation easier to explain.",
+      "example": "A selective approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "replacement",
-      "ipaBrE": "/rɪˈpleɪsmənt/",
-      "ipaAmE": "/rɪˈpleɪsmənt/",
-      "ipa": "/rɪˈpleɪsmənt/",
+      "word": "resort",
+      "ipaBrE": "/rɪˈzɔːt/",
+      "ipaAmE": "/rɪˈzɔːrt/",
+      "ipa": "/rɪˈzɔːt/",
       "pos": [
         "noun"
       ],
-      "zh": "归还, 更换, 代替者 [医] 复位, 置换",
+      "zh": "n. 度假胜地, 手段, 凭借, 常去之地；vi. 诉诸, 常去",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a resort",
+        "the role of resort",
+        "resort and evidence"
+      ],
+      "wordFamily": [
+        "resort",
+        "resorts",
+        "resorting",
+        "resorted"
+      ],
+      "example": "This resort matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "sporting",
+      "ipaBrE": "/ˈspɔːtɪŋ/",
+      "ipaAmE": "/ˈspɔːrtɪŋ/",
+      "ipa": "/ˈspɔːtɪŋ/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 喜好运动的, 运动用的, 冒险性的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a sporting approach",
+        "remain sporting",
+        "sporting enough"
+      ],
+      "wordFamily": [
+        "sporting",
+        "sport"
+      ],
+      "example": "A sporting approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "militant",
+      "ipaBrE": "/ˈmɪlɪtənt/",
+      "ipaAmE": "/ˈmɪlɪtənt/",
+      "ipa": "/ˈmɪlɪtənt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 好战的",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a replacement",
-        "the role of replacement",
-        "replacement and evidence"
+        "a militant approach",
+        "remain militant",
+        "militant enough"
       ],
       "wordFamily": [
-        "replacement",
-        "replacements",
-        "replace"
+        "militant"
       ],
-      "example": "This replacement matters when people need to make a clear decision.",
+      "example": "A militant approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reproduce",
-      "ipaBrE": "/ˌriːprəˈdjuːs/",
-      "ipaAmE": "/ˌriːprəˈduːs/",
-      "ipa": "/ˌriːprəˈdjuːs/",
+      "word": "behavior",
+      "ipaBrE": "/biˈheivjә/",
+      "ipaAmE": "/biˈheivjә/",
+      "ipa": "/biˈheivjә/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 行为, 举止； 行为",
+      "cefr": "B2",
+      "source": "Oxford 5000 companion",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a behavior",
+        "the role of behavior",
+        "behavior and evidence"
+      ],
+      "wordFamily": [
+        "behavior",
+        "behaviors"
+      ],
+      "example": "This behavior matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "ridiculous",
+      "ipaBrE": "/rɪˈdɪkjələs/",
+      "ipaAmE": "/rɪˈdɪkjələs/",
+      "ipa": "/rɪˈdɪkjələs/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 荒谬的, 可笑的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a ridiculous approach",
+        "remain ridiculous",
+        "ridiculous enough"
+      ],
+      "wordFamily": [
+        "ridiculous",
+        "ridiculou"
+      ],
+      "example": "A ridiculous approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "involvement",
+      "ipaBrE": "/ɪnˈvɒlvmənt/",
+      "ipaAmE": "/ɪnˈvɑːlvmənt/",
+      "ipa": "/ɪnˈvɒlvmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 卷入, 牵连, 包含, 困窘； 财政困难, 经济上的困窘",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a involvement",
+        "the role of involvement",
+        "involvement and evidence"
+      ],
+      "wordFamily": [
+        "involvement",
+        "involvements",
+        "involve"
+      ],
+      "example": "This involvement matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "military",
+      "ipaBrE": "/ˈmɪlətri/",
+      "ipaAmE": "/ˈmɪləteri/",
+      "ipa": "/ˈmɪlətri/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 军队；a. 军事的, 军人的, 适于战争的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a military approach",
+        "remain military",
+        "military enough"
+      ],
+      "wordFamily": [
+        "military"
+      ],
+      "example": "A military approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "worthy",
+      "ipaBrE": "/ˈwɜːði/",
+      "ipaAmE": "/ˈwɜːrði/",
+      "ipa": "/ˈwɜːði/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 杰出人物；a. 有价值的, 可敬的, 值得的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a worthy approach",
+        "remain worthy",
+        "worthy enough"
+      ],
+      "wordFamily": [
+        "worthy",
+        "worthies",
+        "worthier",
+        "worthiest"
+      ],
+      "example": "A worthy approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "lately",
+      "ipaBrE": "/ˈleɪtli/",
+      "ipaAmE": "/ˈleɪtli/",
+      "ipa": "/ˈleɪtli/",
       "pos": [
         "verb"
       ],
-      "zh": "繁殖, 再生, 复制, 生殖 [计] 复制",
+      "zh": "adv. 近来, 最近",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "lately a plan",
+        "lately carefully",
+        "lately with others"
+      ],
+      "wordFamily": [
+        "lately",
+        "latelier",
+        "late"
+      ],
+      "example": "We can lately the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "foster",
+      "ipaBrE": "/ˈfɒstə(r)/",
+      "ipaAmE": "/ˈfɑːstər/",
+      "ipa": "/ˈfɒstə(r)/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "a. 收养的, 养育的；vt. 养育, 抚育, 培养, 鼓励, 抱(希望)",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "reproduce a plan",
-        "reproduce carefully",
-        "reproduce with others"
+        "foster a plan",
+        "foster carefully",
+        "foster with others"
       ],
       "wordFamily": [
-        "reproduce",
-        "reproduced",
-        "reproducing",
-        "reproduces"
+        "foster",
+        "fostered",
+        "fostering",
+        "fosters"
       ],
-      "example": "We can reproduce the next step together.",
+      "example": "We can foster the next step together.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reproduction",
-      "ipaBrE": "/ˌriːprəˈdʌkʃn/",
-      "ipaAmE": "/ˌriːprəˈdʌkʃn/",
-      "ipa": "/ˌriːprəˈdʌkʃn/",
+      "word": "harm",
+      "ipaBrE": "/hɑːm/",
+      "ipaAmE": "/hɑːrm/",
+      "ipa": "/hɑːm/",
       "pos": [
         "noun"
       ],
-      "zh": "noun：reproduction",
+      "zh": "n. 伤害, 害处；vt. 伤害, 损害",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a harm",
+        "the role of harm",
+        "harm and evidence"
+      ],
+      "wordFamily": [
+        "harm",
+        "harmed",
+        "harming",
+        "harms"
+      ],
+      "example": "This harm matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cancer",
+      "ipaBrE": "/ˈkænsə(r)/",
+      "ipaAmE": "/ˈkænsər/",
+      "ipa": "/ˈkænsə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 癌, 恶性肿瘤； 癌",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a cancer",
+        "the role of cancer",
+        "cancer and evidence"
+      ],
+      "wordFamily": [
+        "cancer",
+        "cancers",
+        "canc"
+      ],
+      "example": "This cancer matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "therapist",
+      "ipaBrE": "/ˈθerəpɪst/",
+      "ipaAmE": "/ˈθerəpɪst/",
+      "ipa": "/ˈθerəpɪst/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 治疗学家； 治疗学家",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a therapist",
+        "the role of therapist",
+        "therapist and evidence"
+      ],
+      "wordFamily": [
+        "therapist",
+        "therapists"
+      ],
+      "example": "This therapist matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "implementation",
+      "ipaBrE": "/ˌɪmplɪmenˈteɪʃn/",
+      "ipaAmE": "/ˌɪmplɪmenˈteɪʃn/",
+      "ipa": "/ˌɪmplɪmenˈteɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 安装启用, 实行, 履行； 实施; 实现",
       "cefr": "C1",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reproduction",
-        "the role of reproduction",
-        "reproduction and evidence"
+        "a implementation",
+        "the role of implementation",
+        "implementation and evidence"
       ],
       "wordFamily": [
-        "reproduction",
-        "reproducte"
+        "implementation",
+        "implementations",
+        "implementate"
       ],
-      "example": "This reproduction matters when people need to make a clear decision.",
+      "example": "This implementation matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "reputation",
-      "ipaBrE": "/ˌrepjuˈteɪʃn/",
-      "ipaAmE": "/ˌrepjuˈteɪʃn/",
-      "ipa": "/ˌrepjuˈteɪʃn/",
+      "word": "astonishing",
+      "ipaBrE": "/əˈstɒnɪʃɪŋ/",
+      "ipaAmE": "/əˈstɑːnɪʃɪŋ/",
+      "ipa": "/əˈstɒnɪʃɪŋ/",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "zh": "名誉, 名声, 声望 [法] 名声, 名誉, 公认证据",
+      "zh": "a. 令人惊讶的",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a reputation",
-        "the role of reputation",
-        "reputation and evidence"
+        "a astonishing approach",
+        "remain astonishing",
+        "astonishing enough"
       ],
       "wordFamily": [
-        "reputation",
-        "reputations",
-        "reputate"
+        "astonishing",
+        "astonish"
       ],
-      "example": "This reputation matters when people need to make a clear decision.",
+      "example": "A astonishing approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "requirement",
-      "ipaBrE": "/rɪˈkwaɪəmənt/",
-      "ipaAmE": "/rɪˈkwaɪərmənt/",
-      "ipa": "/rɪˈkwaɪəmənt/",
+      "word": "sustain",
+      "ipaBrE": "/səˈsteɪn/",
+      "ipaAmE": "/səˈsteɪn/",
+      "ipa": "/səˈsteɪn/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许； 持续",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "sustain a plan",
+        "sustain carefully",
+        "sustain with others"
+      ],
+      "wordFamily": [
+        "sustain",
+        "sustained",
+        "sustaining",
+        "sustains"
+      ],
+      "example": "We can sustain the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "surplus",
+      "ipaBrE": "/ˈsɜːpləs/",
+      "ipaAmE": "/ˈsɜːrplʌs/",
+      "ipa": "/ˈsɜːpləs/",
       "pos": [
         "noun"
       ],
-      "zh": "需求, 必要条件, 要求 [化] 要求; 合同要求",
+      "zh": "n. 剩余, 过剩, 盈余；a. 过剩的, 剩余的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a surplus",
+        "the role of surplus",
+        "surplus and evidence"
+      ],
+      "wordFamily": [
+        "surplus",
+        "surplu"
+      ],
+      "example": "This surplus matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "delay",
+      "ipaBrE": "/dɪˈleɪ/",
+      "ipaAmE": "/dɪˈleɪ/",
+      "ipa": "/dɪˈleɪ/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 耽搁, 迟滞；v. 耽搁, 延迟； 延迟, 延时",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a requirement",
-        "the role of requirement",
-        "requirement and evidence"
+        "a delay",
+        "the role of delay",
+        "delay and evidence"
       ],
       "wordFamily": [
-        "requirement",
-        "requirements",
-        "require"
+        "delay",
+        "delayed",
+        "delays",
+        "delaying"
       ],
-      "example": "This requirement matters when people need to make a clear decision.",
+      "example": "This delay matters when people need to make a clear decision.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     },
     {
-      "word": "rescue",
-      "ipaBrE": "/ˈreskjuː/",
-      "ipaAmE": "/ˈreskjuː/",
-      "ipa": "/ˈreskjuː/",
+      "word": "terrific",
+      "ipaBrE": "/təˈrɪfɪk/",
+      "ipaAmE": "/təˈrɪfɪk/",
+      "ipa": "/təˈrɪfɪk/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 非常好的, 极端的, 可怕的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a terrific approach",
+        "remain terrific",
+        "terrific enough"
+      ],
+      "wordFamily": [
+        "terrific"
+      ],
+      "example": "A terrific approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "lung",
+      "ipaBrE": "/lʌŋ/",
+      "ipaAmE": "/lʌŋ/",
+      "ipa": "/lʌŋ/",
       "pos": [
         "noun"
       ],
-      "zh": "援救, 解救, 营救；援救, 救出, 营救",
+      "zh": "n. 肺, 肺脏, 空地； 肺",
       "cefr": "B2",
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "complex-expression",
       "collocations": [
-        "a rescue",
-        "the role of rescue",
-        "rescue and evidence"
+        "a lung",
+        "the role of lung",
+        "lung and evidence"
       ],
       "wordFamily": [
-        "rescue",
-        "rescued",
-        "rescuing",
-        "rescues"
+        "lung",
+        "lungs",
+        "lunging"
       ],
-      "example": "This rescue matters when people need to make a clear decision.",
+      "example": "This lung matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "residue",
+      "ipaBrE": "/ˈrezɪdjuː/",
+      "ipaAmE": "/ˈrezɪduː/",
+      "ipa": "/ˈrezɪdjuː/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 残渣, 剩余, 余数； 残基; 残渣; 残液; 釜液",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a residue",
+        "the role of residue",
+        "residue and evidence"
+      ],
+      "wordFamily": [
+        "residue"
+      ],
+      "example": "This residue matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "merely",
+      "ipaBrE": "/ˈmɪəli/",
+      "ipaAmE": "/ˈmɪrli/",
+      "ipa": "/ˈmɪəli/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 只",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "merely a plan",
+        "merely carefully",
+        "merely with others"
+      ],
+      "wordFamily": [
+        "merely",
+        "mere"
+      ],
+      "example": "We can merely the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "chamber",
+      "ipaBrE": "/ˈtʃeɪmbə(r)/",
+      "ipaAmE": "/ˈtʃeɪmbər/",
+      "ipa": "/ˈtʃeɪmbə(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 室, 房间, 枪膛；vt. 装(弹药), 把...关在室内；a. 室内的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a chamber",
+        "the role of chamber",
+        "chamber and evidence"
+      ],
+      "wordFamily": [
+        "chamber",
+        "chambers",
+        "chambering",
+        "chambered"
+      ],
+      "example": "This chamber matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "occupy",
+      "ipaBrE": "/ˈɒkjupaɪ/",
+      "ipaAmE": "/ˈɑːkjupaɪ/",
+      "ipa": "/ˈɒkjupaɪ/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "vt. 占领, 占(时间、空间等), 住进, 担任, 使从事, 使全神贯注； 占领, 占据, 占有",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "occupy a plan",
+        "occupy carefully",
+        "occupy with others"
+      ],
+      "wordFamily": [
+        "occupy",
+        "occupied",
+        "occupies",
+        "occupying"
+      ],
+      "example": "We can occupy the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "premium",
+      "ipaBrE": "/ˈpriːmiəm/",
+      "ipaAmE": "/ˈpriːmiəm/",
+      "ipa": "/ˈpriːmiəm/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 额外补贴, 奖金, 奖赏, 保险费； 保险费",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a premium",
+        "the role of premium",
+        "premium and evidence"
+      ],
+      "wordFamily": [
+        "premium",
+        "premiums"
+      ],
+      "example": "This premium matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "cabin",
+      "ipaBrE": "/ˈkæbɪn/",
+      "ipaAmE": "/ˈkæbɪn/",
+      "ipa": "/ˈkæbɪn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 小屋, 客舱；vt. 关在小屋",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a cabin",
+        "the role of cabin",
+        "cabin and evidence"
+      ],
+      "wordFamily": [
+        "cabin",
+        "cabins",
+        "cabining",
+        "cabined"
+      ],
+      "example": "This cabin matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "mysterious",
+      "ipaBrE": "/mɪˈstɪəriəs/",
+      "ipaAmE": "/mɪˈstɪriəs/",
+      "ipa": "/mɪˈstɪəriəs/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 神秘的, 难解的, 不可思议的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a mysterious approach",
+        "remain mysterious",
+        "mysterious enough"
+      ],
+      "wordFamily": [
+        "mysterious",
+        "mysteriou"
+      ],
+      "example": "A mysterious approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "nevertheless",
+      "ipaBrE": "/ˌnevəðəˈles/",
+      "ipaAmE": "/ˌnevərðəˈles/",
+      "ipa": "/ˌnevəðəˈles/",
+      "pos": [
+        "verb"
+      ],
+      "zh": "adv. 然而, 虽然如此；conj. 然而",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "nevertheless a plan",
+        "nevertheless carefully",
+        "nevertheless with others"
+      ],
+      "wordFamily": [
+        "nevertheless",
+        "nevertheles"
+      ],
+      "example": "We can nevertheless the next step together.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "witness",
+      "ipaBrE": "/ˈwɪtnəs/",
+      "ipaAmE": "/ˈwɪtnəs/",
+      "ipa": "/ˈwɪtnəs/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 证人, 目击者, 证据, 证词；vt. 目击, 作证, 证明, 表明；vi. 作证人, 作为证据",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a witness",
+        "the role of witness",
+        "witness and evidence"
+      ],
+      "wordFamily": [
+        "witness",
+        "witnesses",
+        "witnessed",
+        "witnessing"
+      ],
+      "example": "This witness matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "stroke",
+      "ipaBrE": "/strəʊk/",
+      "ipaAmE": "/strəʊk/",
+      "ipa": "/strəʊk/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 笔划, 打, 中风, 抚, 摩, 冲程；vt. 划尾桨, 抚, 摩, 划去； 笔划",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a stroke",
+        "the role of stroke",
+        "stroke and evidence"
+      ],
+      "wordFamily": [
+        "stroke",
+        "strokes",
+        "stroked",
+        "stroking"
+      ],
+      "example": "This stroke matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "regulation",
+      "ipaBrE": "/ˌreɡjuˈleɪʃn/",
+      "ipaAmE": "/ˌreɡjuˈleɪʃn/",
+      "ipa": "/ˌreɡjuˈleɪʃn/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 规则, 管理, 调整； 调整; 规章; 规则; 调节",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a regulation",
+        "the role of regulation",
+        "regulation and evidence"
+      ],
+      "wordFamily": [
+        "regulation",
+        "regulations",
+        "regulate"
+      ],
+      "example": "This regulation matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "seminar",
+      "ipaBrE": "/ˈsemɪnɑː(r)/",
+      "ipaAmE": "/ˈsemɪnɑːr/",
+      "ipa": "/ˈsemɪnɑː(r)/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 研究班, 专题讨论会； 讨论会, 专家讨论会",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a seminar",
+        "the role of seminar",
+        "seminar and evidence"
+      ],
+      "wordFamily": [
+        "seminar",
+        "seminars"
+      ],
+      "example": "This seminar matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "instrumental",
+      "ipaBrE": "/ˌɪnstrəˈmentl/",
+      "ipaAmE": "/ˌɪnstrəˈmentl/",
+      "ipa": "/ˌɪnstrəˈmentl/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "a. 仪器的, 器具的, 可作为手段的； 器械的",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a instrumental approach",
+        "remain instrumental",
+        "instrumental enough"
+      ],
+      "wordFamily": [
+        "instrumental"
+      ],
+      "example": "A instrumental approach makes the situation easier to explain.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "embarrassment",
+      "ipaBrE": "/ɪmˈbærəsmənt/",
+      "ipaAmE": "/ɪmˈbærəsmənt/",
+      "ipa": "/ɪmˈbærəsmənt/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 困难, 阻碍, 困窘； 窘迫",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a embarrassment",
+        "the role of embarrassment",
+        "embarrassment and evidence"
+      ],
+      "wordFamily": [
+        "embarrassment",
+        "embarrass"
+      ],
+      "example": "This embarrassment matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "inability",
+      "ipaBrE": "/ˌɪnəˈbɪləti/",
+      "ipaAmE": "/ˌɪnəˈbɪləti/",
+      "ipa": "/ˌɪnəˈbɪləti/",
+      "pos": [
+        "noun"
+      ],
+      "zh": "n. 无能, 无力",
+      "cefr": "C1",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a inability",
+        "the role of inability",
+        "inability and evidence"
+      ],
+      "wordFamily": [
+        "inability",
+        "inabilities",
+        "inabil"
+      ],
+      "example": "This inability matters when people need to make a clear decision.",
+      "exampleZh": "把这个词放回本课真实场景中使用。"
+    },
+    {
+      "word": "equivalent",
+      "ipaBrE": "/ɪˈkwɪvələnt/",
+      "ipaAmE": "/ɪˈkwɪvələnt/",
+      "ipa": "/ɪˈkwɪvələnt/",
+      "pos": [
+        "adjective"
+      ],
+      "zh": "n. 同等物, 等价物, 相等物；a. 相等的, 相当的, 同意义的； 等价的",
+      "cefr": "B2",
+      "source": "Oxford 5000",
+      "role": "activation",
+      "topic": "complex-expression",
+      "collocations": [
+        "a equivalent approach",
+        "remain equivalent",
+        "equivalent enough"
+      ],
+      "wordFamily": [
+        "equivalent",
+        "equivalents"
+      ],
+      "example": "A equivalent approach makes the situation easier to explain.",
       "exampleZh": "把这个词放回本课真实场景中使用。"
     }
   ],
   "focusWords": [
-    "puzzle",
-    "query",
-    "quest",
-    "questionnaire",
-    "quota",
-    "racial",
-    "racism",
-    "racist",
-    "radar",
-    "radiation",
-    "radical",
-    "rage"
+    "suite",
+    "urban",
+    "profitable",
+    "delight",
+    "discretion",
+    "discipline",
+    "intervene",
+    "warming",
+    "convention",
+    "interference",
+    "outline",
+    "division"
   ],
   "practice": {
     "multipleChoice": [
       {
         "question": "Which expression best fits the complex-expression situation?",
         "options": [
-          "a puzzle",
-          "a query",
+          "a suite",
+          "a urban approach",
           "ignore the context"
         ],
         "answer": 0,
-        "explanation": "Use puzzle in a phrase rather than studying it in isolation."
+        "explanation": "Use suite in a phrase rather than studying it in isolation."
       }
     ],
     "cloze": [
       {
         "sentence": "A clear speaker can ___ the next step and explain the reason.",
-        "answer": "puzzle",
+        "answer": "suite",
         "wordBank": [
-          "puzzle",
-          "query",
+          "suite",
+          "urban",
           "forget"
         ]
       }
     ],
     "translation": [
       {
-        "prompt": "请用 puzzle 和 query 说清楚本课场景中的一个下一步。",
-        "answer": "Use puzzle and query to explain the next step in this situation."
+        "prompt": "请用 suite 和 urban 说清楚本课场景中的一个下一步。",
+        "answer": "Use suite and urban to explain the next step in this situation."
       }
     ]
   },

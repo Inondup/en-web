@@ -8,6 +8,7 @@
 - `src/data/vocabulary.json`：课程词表；每课 100 词，含 IPA 与词频。
 - `src/data/oxford5000/wordbank.json`：固定的 5000 词目标词库，含 CEFR、词性、角色、搭配、词族和例句。
 - `src/data/oxford5000/word-families.json` / `collocations.json`：词族与搭配索引。
+- `src/data/oxford5000/translations.json`：5000 个目标词的中文释义（源自 ECDICT，已清洗），保证每词都有词性、翻译、音标。
 - `scripts/rebuild-curriculum.mjs`：从 Oxford 参考词表一次性重建 50 课；运行时不会重排词汇。
 - `src/data/references.js`：不规则动词、连接词、常用搭配等速查内容。
 - `src/lib/progress.js`：本地学习记录、间隔复习和导入校验。
