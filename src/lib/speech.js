@@ -1,0 +1,1 @@
+export function speakWord(word, lang = 'en-US') { if (typeof window === 'undefined') return; if ('speechSynthesis' in window) { window.speechSynthesis.cancel(); const utterance = new SpeechSynthesisUtterance(word); utterance.lang = lang; utterance.rate = 0.82; window.speechSynthesis.speak(utterance); } }
