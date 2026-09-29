@@ -21,16 +21,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a psychiatric approach",
-        "remain psychiatric",
-        "psychiatric enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "psychiatric"
       ],
-      "example": "A psychiatric approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "undoubtedly",
@@ -45,17 +41,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "undoubtedly a plan",
-        "undoubtedly carefully",
-        "undoubtedly with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "undoubtedly",
         "undoubted"
       ],
-      "example": "We can undoubtedly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "novelist",
@@ -71,15 +63,13 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a novelist",
-        "the role of novelist",
-        "novelist and evidence"
+        "a quiet novelist"
       ],
       "wordFamily": [
         "novelist"
       ],
-      "example": "This novelist matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "A quiet novelist can still write with force.",
+      "exampleZh": "低调的小说家也能写得有力量。"
     },
     {
       "word": "implement",
@@ -94,19 +84,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "implement a plan",
-        "implement carefully",
-        "implement with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "implement",
         "implemented",
         "implementing",
         "implements"
       ],
-      "example": "We can implement the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "faith",
@@ -122,16 +108,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a faith",
-        "the role of faith",
-        "faith and evidence"
+        "a matter of faith"
       ],
       "wordFamily": [
         "faith",
         "faiths"
       ],
-      "example": "This faith matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Trust here is a matter of faith, not proof.",
+      "exampleZh": "这里的信任是信念问题，而非证据问题。"
     },
     {
       "word": "formerly",
@@ -146,17 +130,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "formerly a plan",
-        "formerly carefully",
-        "formerly with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "formerly",
         "former"
       ],
-      "example": "We can formerly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "slavery",
@@ -171,16 +151,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a slavery",
-        "the role of slavery",
-        "slavery and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "slavery"
       ],
-      "example": "This slavery matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "bias",
@@ -196,9 +172,7 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a bias",
-        "the role of bias",
-        "bias and evidence"
+        "a personal bias"
       ],
       "wordFamily": [
         "bias",
@@ -206,8 +180,8 @@ export default {
         "biassing",
         "biases"
       ],
-      "example": "This bias matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Every account carries a personal bias.",
+      "exampleZh": "每种叙述都带个人偏向。"
     },
     {
       "word": "dealer",
@@ -222,18 +196,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a dealer",
-        "the role of dealer",
-        "dealer and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "dealer",
         "dealers",
         "deal"
       ],
-      "example": "This dealer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "heel",
@@ -248,19 +218,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a heel",
-        "the role of heel",
-        "heel and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "heel",
         "heels",
         "heeled",
         "heeling"
       ],
-      "example": "This heel matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "subscription",
@@ -275,17 +241,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a subscription",
-        "the role of subscription",
-        "subscription and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "subscription",
         "subscripte"
       ],
-      "example": "This subscription matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "remarkable",
@@ -301,16 +263,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a remarkable approach",
-        "remain remarkable",
-        "remarkable enough"
+        "a remarkable achievement"
       ],
       "wordFamily": [
         "remarkable",
         "remark"
       ],
-      "example": "A remarkable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The book is a remarkable achievement.",
+      "exampleZh": "这本书是了不起的成就。"
     },
     {
       "word": "underlying",
@@ -326,16 +286,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a underlying approach",
-        "remain underlying",
-        "underlying enough"
+        "an underlying theme"
       ],
       "wordFamily": [
         "underlying",
         "underly"
       ],
-      "example": "A underlying approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Forgiveness is an underlying theme of the story.",
+      "exampleZh": "宽恕是这个故事潜在的主题。"
     },
     {
       "word": "testimony",
@@ -350,17 +308,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a testimony",
-        "the role of testimony",
-        "testimony and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "testimony",
         "testimonies"
       ],
-      "example": "This testimony matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "mission",
@@ -375,17 +329,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a mission",
-        "the role of mission",
-        "mission and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mission",
         "missions"
       ],
-      "example": "This mission matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "cargo",
@@ -400,17 +350,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a cargo",
-        "the role of cargo",
-        "cargo and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "cargo",
         "cargoes"
       ],
-      "example": "This cargo matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "thereby",
@@ -425,16 +371,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "thereby a plan",
-        "thereby carefully",
-        "thereby with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "thereby"
       ],
-      "example": "We can thereby the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "jurisdiction",
@@ -449,18 +391,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a jurisdiction",
-        "the role of jurisdiction",
-        "jurisdiction and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "jurisdiction",
         "jurisdictions",
         "jurisdicte"
       ],
-      "example": "This jurisdiction matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "obsession",
@@ -476,15 +414,13 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a obsession",
-        "the role of obsession",
-        "obsession and evidence"
+        "obsession with"
       ],
       "wordFamily": [
         "obsession"
       ],
-      "example": "This obsession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She had an obsession with a single novel.",
+      "exampleZh": "她曾对一部小说十分痴迷。"
     },
     {
       "word": "serial",
@@ -499,16 +435,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a serial approach",
-        "remain serial",
-        "serial enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "serial"
       ],
-      "example": "A serial approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "circumstance",
@@ -524,16 +456,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a circumstance",
-        "the role of circumstance",
-        "circumstance and evidence"
+        "a difficult circumstance"
       ],
       "wordFamily": [
         "circumstance",
         "circumstances"
       ],
-      "example": "This circumstance matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She read it during a difficult circumstance.",
+      "exampleZh": "她在一段艰难的处境里读了它。"
     },
     {
       "word": "passage",
@@ -549,16 +479,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a passage",
-        "the role of passage",
-        "passage and evidence"
+        "the opening passage"
       ],
       "wordFamily": [
         "passage",
         "passages"
       ],
-      "example": "This passage matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The opening passage is written in diary form.",
+      "exampleZh": "开篇那段文字是日记体。"
     },
     {
       "word": "mask",
@@ -573,19 +501,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a mask",
-        "the role of mask",
-        "mask and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mask",
         "masks",
         "masked",
         "masking"
       ],
-      "example": "This mask matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "violation",
@@ -600,18 +524,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a violation",
-        "the role of violation",
-        "violation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "violation",
         "violations",
         "violate"
       ],
-      "example": "This violation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "pioneer",
@@ -626,19 +546,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a pioneer",
-        "the role of pioneer",
-        "pioneer and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "pioneer",
         "pioneers",
         "pioneered",
         "pioneering"
       ],
-      "example": "This pioneer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "squeeze",
@@ -653,19 +569,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "squeeze a plan",
-        "squeeze carefully",
-        "squeeze with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "squeeze",
         "squeezed",
         "squeezing",
         "squeezes"
       ],
-      "example": "We can squeeze the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "default",
@@ -680,16 +592,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a default",
-        "the role of default",
-        "default and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "default"
       ],
-      "example": "This default matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "consultant",
@@ -704,17 +612,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a consultant",
-        "the role of consultant",
-        "consultant and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "consultant",
         "consultants"
       ],
-      "example": "This consultant matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "load",
@@ -729,19 +633,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a load",
-        "the role of load",
-        "load and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "load",
         "loads",
         "loaded",
         "loading"
       ],
-      "example": "This load matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "timing",
@@ -756,18 +656,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a timing",
-        "the role of timing",
-        "timing and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "timing",
         "timings",
         "tim"
       ],
-      "example": "This timing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "living",
@@ -782,19 +678,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a living approach",
-        "remain living",
-        "living enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "living",
         "live",
         "livings",
         "liv"
       ],
-      "example": "A living approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "library",
@@ -810,16 +702,14 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a library",
-        "the role of library",
-        "library and evidence"
+        "the public library"
       ],
       "wordFamily": [
         "library",
         "libraries"
       ],
-      "example": "This library matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "He borrows most books from the public library.",
+      "exampleZh": "他大多数书都从公共图书馆借。"
     },
     {
       "word": "reject",
@@ -835,9 +725,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "reject a plan",
-        "reject carefully",
-        "reject with others"
+        "reject an idea"
       ],
       "wordFamily": [
         "reject",
@@ -845,8 +733,8 @@ export default {
         "rejecting",
         "rejects"
       ],
-      "example": "We can reject the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Do not reject an idea just because it is hard.",
+      "exampleZh": "不要因为一个想法难就摒弃它。"
     },
     {
       "word": "photo",
@@ -861,17 +749,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a photo",
-        "the role of photo",
-        "photo and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "photo",
         "photos"
       ],
-      "example": "This photo matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "grain",
@@ -886,19 +770,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a grain",
-        "the role of grain",
-        "grain and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "grain",
         "grains",
         "grained",
         "graining"
       ],
-      "example": "This grain matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "careful",
@@ -913,16 +793,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a careful approach",
-        "remain careful",
-        "careful enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "careful"
       ],
-      "example": "A careful approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "schedule",
@@ -937,19 +813,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a schedule",
-        "the role of schedule",
-        "schedule and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "schedule",
         "scheduled",
         "schedules",
         "scheduling"
       ],
-      "example": "This schedule matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "quit",
@@ -964,19 +836,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "quit a plan",
-        "quit carefully",
-        "quit with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "quit",
         "pd",
         "quitting",
         "quits"
       ],
-      "example": "We can quit the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "researcher",
@@ -991,18 +859,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a researcher",
-        "the role of researcher",
-        "researcher and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "researcher",
         "researchers",
         "research"
       ],
-      "example": "This researcher matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lake",
@@ -1017,17 +881,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a lake",
-        "the role of lake",
-        "lake and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lake",
         "lakes"
       ],
-      "example": "This lake matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "chocolate",
@@ -1042,17 +902,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a chocolate",
-        "the role of chocolate",
-        "chocolate and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "chocolate",
         "chocolates"
       ],
-      "example": "This chocolate matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "agreement",
@@ -1067,18 +923,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a agreement",
-        "the role of agreement",
-        "agreement and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "agreement",
         "agreements",
         "agree"
       ],
-      "example": "This agreement matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "headline",
@@ -1093,19 +945,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a headline",
-        "the role of headline",
-        "headline and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "headline",
         "headlines",
         "headlined",
         "headlining"
       ],
-      "example": "This headline matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "next",
@@ -1120,16 +968,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a next approach",
-        "remain next",
-        "next enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "next"
       ],
-      "example": "A next approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "soccer",
@@ -1144,17 +988,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a soccer",
-        "the role of soccer",
-        "soccer and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "soccer",
         "socc"
       ],
-      "example": "This soccer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "night",
@@ -1169,17 +1009,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a night",
-        "the role of night",
-        "night and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "night",
         "nights"
       ],
-      "example": "This night matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "needle",
@@ -1194,19 +1030,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a needle",
-        "the role of needle",
-        "needle and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "needle",
         "needles",
         "needling",
         "needled"
       ],
-      "example": "This needle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "effect",
@@ -1222,9 +1054,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a effect",
-        "the role of effect",
-        "effect and evidence"
+        "a lasting effect"
       ],
       "wordFamily": [
         "effect",
@@ -1232,8 +1062,8 @@ export default {
         "effected",
         "effecting"
       ],
-      "example": "This effect matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "A good book can have a lasting effect.",
+      "exampleZh": "一本好书能产生持久的影响。"
     },
     {
       "word": "combine",
@@ -1249,9 +1079,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "combine a plan",
-        "combine carefully",
-        "combine with others"
+        "combine humour"
       ],
       "wordFamily": [
         "combine",
@@ -1259,8 +1087,8 @@ export default {
         "combining",
         "combines"
       ],
-      "example": "We can combine the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She can combine humour with serious ideas.",
+      "exampleZh": "她能把幽默与严肃的思想融合在一起。"
     },
     {
       "word": "warning",
@@ -1275,18 +1103,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a warning",
-        "the role of warning",
-        "warning and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "warning",
         "warn",
         "warnings"
       ],
-      "example": "This warning matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "ingredient",
@@ -1301,17 +1125,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a ingredient",
-        "the role of ingredient",
-        "ingredient and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "ingredient",
         "ingredients"
       ],
-      "example": "This ingredient matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "arm",
@@ -1326,19 +1146,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a arm",
-        "the role of arm",
-        "arm and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "arm",
         "arms",
         "armed",
         "arming"
       ],
-      "example": "This arm matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "late",
@@ -1353,18 +1169,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a late approach",
-        "remain late",
-        "late enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "late",
         "later",
         "latest"
       ],
-      "example": "A late approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "emotion",
@@ -1380,17 +1192,15 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a emotion",
-        "the role of emotion",
-        "emotion and evidence"
+        "stir emotion"
       ],
       "wordFamily": [
         "emotion",
         "emotions",
         "emote"
       ],
-      "example": "This emotion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "A quiet ending can stir emotion deeply.",
+      "exampleZh": "安静的结尾也能深深打动情感。"
     },
     {
       "word": "voice",
@@ -1406,9 +1216,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a voice",
-        "the role of voice",
-        "voice and evidence"
+        "a powerful voice"
       ],
       "wordFamily": [
         "voice",
@@ -1416,8 +1224,8 @@ export default {
         "voiced",
         "voicing"
       ],
-      "example": "This voice matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The book is told in a powerful voice.",
+      "exampleZh": "这本书以一种有力的声音讲述。"
     },
     {
       "word": "worth",
@@ -1433,15 +1241,13 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a worth approach",
-        "remain worth",
-        "worth enough"
+        "worth reading"
       ],
       "wordFamily": [
         "worth"
       ],
-      "example": "A worth approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "This novel is worth reading twice.",
+      "exampleZh": "这部小说值得读两遍。"
     },
     {
       "word": "build",
@@ -1457,9 +1263,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "build a plan",
-        "build carefully",
-        "build with others"
+        "build a world"
       ],
       "wordFamily": [
         "build",
@@ -1467,8 +1271,8 @@ export default {
         "building",
         "builds"
       ],
-      "example": "We can build the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Great writers build a world you can live in.",
+      "exampleZh": "伟大的作家能构建一个你愿意生活其中的世界。"
     },
     {
       "word": "brush",
@@ -1483,19 +1287,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a brush",
-        "the role of brush",
-        "brush and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "brush",
         "brushed",
         "brushing",
         "brushes"
       ],
-      "example": "This brush matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "script",
@@ -1510,19 +1310,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a script",
-        "the role of script",
-        "script and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "script",
         "scripts",
         "scripted",
         "scripting"
       ],
-      "example": "This script matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "determined",
@@ -1537,17 +1333,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a determined approach",
-        "remain determined",
-        "determined enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "determined",
         "determin"
       ],
-      "example": "A determined approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "topic",
@@ -1563,16 +1355,14 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a topic",
-        "the role of topic",
-        "topic and evidence"
+        "the central topic"
       ],
       "wordFamily": [
         "topic",
         "topics"
       ],
-      "example": "This topic matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The central topic is friendship, not war.",
+      "exampleZh": "核心主题是友谊，而非战争。"
     },
     {
       "word": "ought",
@@ -1587,16 +1377,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "ought a plan",
-        "ought carefully",
-        "ought with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "ought"
       ],
-      "example": "We can ought the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "voter",
@@ -1611,18 +1397,14 @@ export default {
       "source": "Oxford 5000 companion",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a voter",
-        "the role of voter",
-        "voter and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "voter",
         "voters",
         "vot"
       ],
-      "example": "This voter matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "danger",
@@ -1637,18 +1419,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a danger",
-        "the role of danger",
-        "danger and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "danger",
         "dangers",
         "dang"
       ],
-      "example": "This danger matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "advertise",
@@ -1663,19 +1441,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "advertise a plan",
-        "advertise carefully",
-        "advertise with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "advertise",
         "advertised",
         "advertising",
         "advertises"
       ],
-      "example": "We can advertise the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hour",
@@ -1690,17 +1464,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a hour",
-        "the role of hour",
-        "hour and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hour",
         "hours"
       ],
-      "example": "This hour matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "east",
@@ -1715,16 +1485,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a east approach",
-        "remain east",
-        "east enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "east"
       ],
-      "example": "A east approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "pub",
@@ -1739,16 +1505,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a pub",
-        "the role of pub",
-        "pub and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "pub"
       ],
-      "example": "This pub matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "coloured",
@@ -1763,17 +1525,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a coloured approach",
-        "remain coloured",
-        "coloured enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "coloured",
         "colour"
       ],
-      "example": "A coloured approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "line",
@@ -1788,19 +1546,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a line",
-        "the role of line",
-        "line and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "line",
         "lines",
         "lined",
         "lining"
       ],
-      "example": "This line matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "vote",
@@ -1815,19 +1569,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a vote",
-        "the role of vote",
-        "vote and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "vote",
         "votes",
         "voted",
         "voting"
       ],
-      "example": "This vote matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "youth",
@@ -1842,17 +1592,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a youth",
-        "the role of youth",
-        "youth and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "youth",
         "youths"
       ],
-      "example": "This youth matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "eleven",
@@ -1867,16 +1613,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a eleven",
-        "the role of eleven",
-        "eleven and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "eleven"
       ],
-      "example": "This eleven matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "holiday",
@@ -1891,19 +1633,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a holiday",
-        "the role of holiday",
-        "holiday and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "holiday",
         "holidays",
         "holidaying",
         "holidayed"
       ],
-      "example": "This holiday matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "glasgow",
@@ -1918,16 +1656,12 @@ export default {
       "source": "Oxford 5000 companion",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a glasgow",
-        "the role of glasgow",
-        "glasgow and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "glasgow"
       ],
-      "example": "This glasgow matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "destroy",
@@ -1942,19 +1676,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "destroy a plan",
-        "destroy carefully",
-        "destroy with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "destroy",
         "destroyed",
         "destroying",
         "destroys"
       ],
-      "example": "We can destroy the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "mad",
@@ -1969,19 +1699,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a mad approach",
-        "remain mad",
-        "mad enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mad",
         "madder",
         "maddest",
         "mads"
       ],
-      "example": "A mad approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lab",
@@ -1996,17 +1722,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a lab",
-        "the role of lab",
-        "lab and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lab",
         "labs"
       ],
-      "example": "This lab matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "we",
@@ -2021,16 +1743,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a we",
-        "the role of we",
-        "we and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "we"
       ],
-      "example": "This we matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "revise",
@@ -2045,16 +1763,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "revise a plan",
-        "revise carefully",
-        "revise with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "revise"
       ],
-      "example": "We can revise the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "national",
@@ -2069,17 +1783,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a national approach",
-        "remain national",
-        "national enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "national",
         "nationals"
       ],
-      "example": "A national approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "close",
@@ -2094,19 +1804,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a close approach",
-        "remain close",
-        "close enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "close",
         "closed",
         "closer",
         "closing"
       ],
-      "example": "A close approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "brain",
@@ -2121,19 +1827,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a brain",
-        "the role of brain",
-        "brain and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "brain",
         "brains",
         "braining",
         "brained"
       ],
-      "example": "This brain matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "bean",
@@ -2148,17 +1850,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a bean",
-        "the role of bean",
-        "bean and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "bean",
         "beans"
       ],
-      "example": "This bean matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lock",
@@ -2173,19 +1871,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a lock",
-        "the role of lock",
-        "lock and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lock",
         "locked",
         "locks",
         "locking"
       ],
-      "example": "This lock matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "boil",
@@ -2200,19 +1894,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "boil a plan",
-        "boil carefully",
-        "boil with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "boil",
         "boiling",
         "boiled",
         "boils"
       ],
-      "example": "We can boil the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "level",
@@ -2227,19 +1917,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a level approach",
-        "remain level",
-        "level enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "level",
         "levels",
         "levelled",
         "levelling"
       ],
-      "example": "A level approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hot",
@@ -2254,19 +1940,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a hot approach",
-        "remain hot",
-        "hot enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hot",
         "hotter",
         "hottest",
         "hotting"
       ],
-      "example": "A hot approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "involve",
@@ -2281,19 +1963,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "involve a plan",
-        "involve carefully",
-        "involve with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "involve",
         "involved",
         "involving",
         "involves"
       ],
-      "example": "We can involve the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "pocket",
@@ -2308,19 +1986,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a pocket",
-        "the role of pocket",
-        "pocket and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "pocket",
         "pockets",
         "pocketing",
         "pocketed"
       ],
-      "example": "This pocket matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "technical",
@@ -2335,16 +2009,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a technical approach",
-        "remain technical",
-        "technical enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "technical"
       ],
-      "example": "A technical approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "strategy",
@@ -2360,16 +2030,14 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a strategy",
-        "the role of strategy",
-        "strategy and evidence"
+        "a narrative strategy"
       ],
       "wordFamily": [
         "strategy",
         "strategies"
       ],
-      "example": "This strategy matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The novel uses a narrative strategy that surprises you.",
+      "exampleZh": "这部小说用了巧妙的叙事策略。"
     },
     {
       "word": "sheep",
@@ -2384,17 +2052,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a sheep",
-        "the role of sheep",
-        "sheep and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sheep",
         "sheeps"
       ],
-      "example": "This sheep matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "point",
@@ -2410,9 +2074,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a point",
-        "the role of point",
-        "point and evidence"
+        "the main point"
       ],
       "wordFamily": [
         "point",
@@ -2420,8 +2082,8 @@ export default {
         "pointed",
         "pointing"
       ],
-      "example": "This point matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Do not miss the main point of the chapter.",
+      "exampleZh": "别错过这一章的要点。"
     },
     {
       "word": "bride",
@@ -2436,17 +2098,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a bride",
-        "the role of bride",
-        "bride and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "bride",
         "brides"
       ],
-      "example": "This bride matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "invent",
@@ -2461,19 +2119,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "invent a plan",
-        "invent carefully",
-        "invent with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "invent",
         "invented",
         "inventing",
         "invents"
       ],
-      "example": "We can invent the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "coin",
@@ -2488,19 +2142,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a coin",
-        "the role of coin",
-        "coin and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "coin",
         "coins",
         "coined",
         "coining"
       ],
-      "example": "This coin matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "while",
@@ -2515,16 +2165,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a while",
-        "the role of while",
-        "while and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "while"
       ],
-      "example": "This while matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "joke",
@@ -2539,19 +2185,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a joke",
-        "the role of joke",
-        "joke and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "joke",
         "jokes",
         "joking",
         "joked"
       ],
-      "example": "This joke matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "page",
@@ -2567,9 +2209,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a page",
-        "the role of page",
-        "page and evidence"
+        "the final page"
       ],
       "wordFamily": [
         "page",
@@ -2577,53 +2217,55 @@ export default {
         "paging",
         "paged"
       ],
-      "example": "This page matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "He slowed down before the final page.",
+      "exampleZh": "他在读到最后一页之前放慢了速度。"
     }
   ],
   "passage": {
-    "title": "A book that stays with you",
+    "title": "A Book I Rejected Twice",
+    "genre": "阅读随笔",
     "paragraphs": [
-      "A real culture-knowledge task usually begins with a small decision. In this lesson, we look at a book that stays with you through a situation involving learning, books, film, cultural difference, the environment, cities, AI, media, and uncertainty. The aim is to notice how people explain a choice and keep the next step practical. The first useful terms are psychiatric, undoubtedly, novelist, implement, faith, formerly, slavery, bias, dealer, heel.",
-      "When the situation changes, a clear speaker can pause, ask for clarification, and respond with evidence. In this case, the conversation also involves subscription, remarkable, underlying, testimony, mission, cargo, thereby, jurisdiction, obsession, serial. These terms help a learner describe what is happening without forcing every expression into one sentence.",
-      "The final part of the task brings in circumstance, passage, mask, violation, pioneer, squeeze, default, consultant, load, timing. By the end, connect at least one phrase to something you have done, need to do, or may discuss tomorrow. A word becomes easier to remember when it helps you complete a real task."
+      "Last winter I found a novel in the library that I had rejected twice before. The cover was dull, and I assumed it would be an old-fashioned story about a farm. On the train home I read the opening passage, and by the second page I had forgotten my station. The book was undoubtedly worth reading, although it took me three months to finish.",
+      "It follows a railway engineer who keeps a diary for forty years. Nothing dramatic happens: no crime, no war, no love story that ends at a church door. The effect comes from small details, a broken clock, a cup of tea going cold, a letter that is never posted. The novelist never explains the feelings directly; she combines them with what people actually do.",
+      "I noticed, however, that the book carries a personal bias of its own. The railway company is always right, the workers rarely speak, and the only woman with a voice is the engineer's sister. The novel is a remarkable achievement, but it is not a window that shows everything. Reading it closely meant asking what the writer chose not to show.",
+      "I have read it twice, and my obsession with the novel has not faded. I wrote to a researcher who studies the national railway, and she replied with three pages of notes and a warning about the sources. The book is still on my desk and I keep it close. A story can be beautiful and limited at once, and that is part of what keeps it alive.",
+      "The novel that stayed with Omar was not the one everyone praised. Its author, a quiet novelist from a small town, wrote with a powerful voice that felt like a friend talking. An underlying theme of forgiveness ran through every chapter, and the book had a lasting effect on how he treated his brother. Reading it in a difficult circumstance, he found that a story can carry more truth than advice. He borrowed it from the public library and later bought his own copy.",
+      "Omar liked how the writer would build a world slowly, one detail at a time, and combine humour with grief so that neither felt cheap. The central topic was simple, but the book did not reject an idea just because it was uncomfortable. He came to see it as a matter of faith in people rather than a rule. The author used a narrative strategy that felt fresh: each chapter ended on a question. When Omar reached the main point of the ending, he sat still, and no summary could stir emotion the way the final page did."
     ],
     "translation": [
-      "一个真实的culture-knowledge任务通常从一个小决定开始。本课通过learning, books, film, cultural difference, the environment, cities, AI, media, and uncertainty相关的情境，理解如何解释选择，并让下一步切实可行。",
-      "情况变化时，清晰的表达者可以停顿、请求澄清，并用证据回应。与其把所有新表达硬塞进一句话，不如在对话、例句和后续任务中反复遇见实用语言。",
-      "请用这组词把情境变成自己的经历，从psychiatric, undoubtedly, novelist, implement, faith, formerly, slavery, bias, dealer, heel中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
+      "去年冬天，我在图书馆发现一部曾被拒绝过两次的小说。封面乏味，我以为那会是一个关于农场的老派故事。回家的火车上，我读了开篇那段文字，读到第二页就忘了下车。这本书无疑值得一读，尽管我花了三个月才读完。",
+      "小说写一位铁路工程师四十年的日记。没有什么戏剧性事件：没有罪案，没有战争，也没有在教堂门口收场的爱情。效果来自细枝末节：停摆的钟、慢慢凉掉的茶、一封始终没有寄出的信。小说家从不直接解释情绪，她把情绪和人物实际做的事放在一起。",
+      "不过我也注意到，这本书带着作者自身的偏向。铁路公司永远正确，工人几乎没有声音，唯一有发言权的女性是工程师的妹妹。这部小说是了不起的成就，但它不是一扇能看到一切的窗。仔细阅读意味着去问：作者选择不展示什么。",
+      "我读了两遍，对它的痴迷没有消退。我写信给一位研究国营铁路的学者，她回了三页笔记，还对资料出处提出了提醒。这本书还在我桌上，我把它放在手边。故事可以既美又有限，这正是它至今仍有生命力的原因。",
+      "让奥马尔久久难忘的那本小说，并不是人人称赞的那一本。它的作者是一位来自小镇的低调小说家，笔下有一种有力的声音，像朋友在说话。一条关于宽恕的潜在主题贯穿每一章，这本书对他如何对待弟弟产生了持久的影响。在一段艰难的处境里读它，他发现一个故事能承载比劝告更多的真相。他从公共图书馆借来这本书，后来又买了属于自己的一本。",
+      "奥马尔喜欢作者慢慢地、一个细节一个细节地构建一个世界，把幽默与悲伤融合在一起，让两者都不显廉价。核心主题很简单，但这本书不会因为某个想法令人不适就将其摒弃。他渐渐把它看作一种对人的信念，而不是一条规则。作者用了一种巧妙的叙事策略：每一章都以一个问题收尾。当奥马尔读到结尾的要点时，他静静地坐着，任何摘要都无法像最后一页那样打动人心。"
     ],
     "highlightedWords": [
-      "psychiatric",
       "undoubtedly",
       "novelist",
-      "implement",
       "faith",
-      "formerly",
-      "slavery",
       "bias",
-      "dealer",
-      "heel",
-      "subscription",
       "remarkable",
       "underlying",
-      "testimony",
-      "mission",
-      "cargo",
-      "thereby",
-      "jurisdiction",
       "obsession",
-      "serial",
       "circumstance",
       "passage",
-      "mask",
-      "violation",
-      "pioneer",
-      "squeeze",
-      "default",
-      "consultant",
-      "load",
-      "timing"
+      "library",
+      "reject",
+      "researcher",
+      "effect",
+      "combine",
+      "warning",
+      "emotion",
+      "voice",
+      "worth",
+      "build",
+      "topic",
+      "national",
+      "close",
+      "strategy",
+      "point",
+      "page"
     ]
   },
   "topic": "culture-knowledge",
@@ -2641,16 +2283,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a psychiatric approach",
-        "remain psychiatric",
-        "psychiatric enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "psychiatric"
       ],
-      "example": "A psychiatric approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "undoubtedly",
@@ -2665,17 +2303,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "undoubtedly a plan",
-        "undoubtedly carefully",
-        "undoubtedly with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "undoubtedly",
         "undoubted"
       ],
-      "example": "We can undoubtedly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "novelist",
@@ -2691,15 +2325,13 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a novelist",
-        "the role of novelist",
-        "novelist and evidence"
+        "a quiet novelist"
       ],
       "wordFamily": [
         "novelist"
       ],
-      "example": "This novelist matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "A quiet novelist can still write with force.",
+      "exampleZh": "低调的小说家也能写得有力量。"
     },
     {
       "word": "implement",
@@ -2714,19 +2346,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "implement a plan",
-        "implement carefully",
-        "implement with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "implement",
         "implemented",
         "implementing",
         "implements"
       ],
-      "example": "We can implement the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "faith",
@@ -2742,16 +2370,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a faith",
-        "the role of faith",
-        "faith and evidence"
+        "a matter of faith"
       ],
       "wordFamily": [
         "faith",
         "faiths"
       ],
-      "example": "This faith matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Trust here is a matter of faith, not proof.",
+      "exampleZh": "这里的信任是信念问题，而非证据问题。"
     },
     {
       "word": "formerly",
@@ -2766,17 +2392,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "formerly a plan",
-        "formerly carefully",
-        "formerly with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "formerly",
         "former"
       ],
-      "example": "We can formerly the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "slavery",
@@ -2791,16 +2413,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a slavery",
-        "the role of slavery",
-        "slavery and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "slavery"
       ],
-      "example": "This slavery matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "bias",
@@ -2816,9 +2434,7 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a bias",
-        "the role of bias",
-        "bias and evidence"
+        "a personal bias"
       ],
       "wordFamily": [
         "bias",
@@ -2826,8 +2442,8 @@ export default {
         "biassing",
         "biases"
       ],
-      "example": "This bias matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Every account carries a personal bias.",
+      "exampleZh": "每种叙述都带个人偏向。"
     },
     {
       "word": "dealer",
@@ -2842,18 +2458,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a dealer",
-        "the role of dealer",
-        "dealer and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "dealer",
         "dealers",
         "deal"
       ],
-      "example": "This dealer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "heel",
@@ -2868,19 +2480,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a heel",
-        "the role of heel",
-        "heel and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "heel",
         "heels",
         "heeled",
         "heeling"
       ],
-      "example": "This heel matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "subscription",
@@ -2895,17 +2503,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a subscription",
-        "the role of subscription",
-        "subscription and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "subscription",
         "subscripte"
       ],
-      "example": "This subscription matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "remarkable",
@@ -2921,16 +2525,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a remarkable approach",
-        "remain remarkable",
-        "remarkable enough"
+        "a remarkable achievement"
       ],
       "wordFamily": [
         "remarkable",
         "remark"
       ],
-      "example": "A remarkable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The book is a remarkable achievement.",
+      "exampleZh": "这本书是了不起的成就。"
     },
     {
       "word": "underlying",
@@ -2946,16 +2548,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a underlying approach",
-        "remain underlying",
-        "underlying enough"
+        "an underlying theme"
       ],
       "wordFamily": [
         "underlying",
         "underly"
       ],
-      "example": "A underlying approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Forgiveness is an underlying theme of the story.",
+      "exampleZh": "宽恕是这个故事潜在的主题。"
     },
     {
       "word": "testimony",
@@ -2970,17 +2570,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a testimony",
-        "the role of testimony",
-        "testimony and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "testimony",
         "testimonies"
       ],
-      "example": "This testimony matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "mission",
@@ -2995,17 +2591,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a mission",
-        "the role of mission",
-        "mission and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mission",
         "missions"
       ],
-      "example": "This mission matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "cargo",
@@ -3020,17 +2612,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a cargo",
-        "the role of cargo",
-        "cargo and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "cargo",
         "cargoes"
       ],
-      "example": "This cargo matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "thereby",
@@ -3045,16 +2633,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "thereby a plan",
-        "thereby carefully",
-        "thereby with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "thereby"
       ],
-      "example": "We can thereby the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "jurisdiction",
@@ -3069,18 +2653,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a jurisdiction",
-        "the role of jurisdiction",
-        "jurisdiction and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "jurisdiction",
         "jurisdictions",
         "jurisdicte"
       ],
-      "example": "This jurisdiction matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "obsession",
@@ -3096,15 +2676,13 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a obsession",
-        "the role of obsession",
-        "obsession and evidence"
+        "obsession with"
       ],
       "wordFamily": [
         "obsession"
       ],
-      "example": "This obsession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She had an obsession with a single novel.",
+      "exampleZh": "她曾对一部小说十分痴迷。"
     },
     {
       "word": "serial",
@@ -3119,16 +2697,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a serial approach",
-        "remain serial",
-        "serial enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "serial"
       ],
-      "example": "A serial approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "circumstance",
@@ -3144,16 +2718,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a circumstance",
-        "the role of circumstance",
-        "circumstance and evidence"
+        "a difficult circumstance"
       ],
       "wordFamily": [
         "circumstance",
         "circumstances"
       ],
-      "example": "This circumstance matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She read it during a difficult circumstance.",
+      "exampleZh": "她在一段艰难的处境里读了它。"
     },
     {
       "word": "passage",
@@ -3169,16 +2741,14 @@ export default {
       "role": "extension",
       "topic": "culture-knowledge",
       "collocations": [
-        "a passage",
-        "the role of passage",
-        "passage and evidence"
+        "the opening passage"
       ],
       "wordFamily": [
         "passage",
         "passages"
       ],
-      "example": "This passage matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The opening passage is written in diary form.",
+      "exampleZh": "开篇那段文字是日记体。"
     },
     {
       "word": "mask",
@@ -3193,19 +2763,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a mask",
-        "the role of mask",
-        "mask and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mask",
         "masks",
         "masked",
         "masking"
       ],
-      "example": "This mask matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "violation",
@@ -3220,18 +2786,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a violation",
-        "the role of violation",
-        "violation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "violation",
         "violations",
         "violate"
       ],
-      "example": "This violation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "pioneer",
@@ -3246,19 +2808,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a pioneer",
-        "the role of pioneer",
-        "pioneer and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "pioneer",
         "pioneers",
         "pioneered",
         "pioneering"
       ],
-      "example": "This pioneer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "squeeze",
@@ -3273,19 +2831,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "squeeze a plan",
-        "squeeze carefully",
-        "squeeze with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "squeeze",
         "squeezed",
         "squeezing",
         "squeezes"
       ],
-      "example": "We can squeeze the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "default",
@@ -3300,16 +2854,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a default",
-        "the role of default",
-        "default and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "default"
       ],
-      "example": "This default matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "consultant",
@@ -3324,17 +2874,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a consultant",
-        "the role of consultant",
-        "consultant and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "consultant",
         "consultants"
       ],
-      "example": "This consultant matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "load",
@@ -3349,19 +2895,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a load",
-        "the role of load",
-        "load and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "load",
         "loads",
         "loaded",
         "loading"
       ],
-      "example": "This load matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "timing",
@@ -3376,18 +2918,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a timing",
-        "the role of timing",
-        "timing and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "timing",
         "timings",
         "tim"
       ],
-      "example": "This timing matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "living",
@@ -3402,19 +2940,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a living approach",
-        "remain living",
-        "living enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "living",
         "live",
         "livings",
         "liv"
       ],
-      "example": "A living approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "library",
@@ -3430,16 +2964,14 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a library",
-        "the role of library",
-        "library and evidence"
+        "the public library"
       ],
       "wordFamily": [
         "library",
         "libraries"
       ],
-      "example": "This library matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "He borrows most books from the public library.",
+      "exampleZh": "他大多数书都从公共图书馆借。"
     },
     {
       "word": "reject",
@@ -3455,9 +2987,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "reject a plan",
-        "reject carefully",
-        "reject with others"
+        "reject an idea"
       ],
       "wordFamily": [
         "reject",
@@ -3465,8 +2995,8 @@ export default {
         "rejecting",
         "rejects"
       ],
-      "example": "We can reject the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Do not reject an idea just because it is hard.",
+      "exampleZh": "不要因为一个想法难就摒弃它。"
     },
     {
       "word": "photo",
@@ -3481,17 +3011,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a photo",
-        "the role of photo",
-        "photo and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "photo",
         "photos"
       ],
-      "example": "This photo matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "grain",
@@ -3506,19 +3032,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a grain",
-        "the role of grain",
-        "grain and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "grain",
         "grains",
         "grained",
         "graining"
       ],
-      "example": "This grain matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "careful",
@@ -3533,16 +3055,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a careful approach",
-        "remain careful",
-        "careful enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "careful"
       ],
-      "example": "A careful approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "schedule",
@@ -3557,19 +3075,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a schedule",
-        "the role of schedule",
-        "schedule and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "schedule",
         "scheduled",
         "schedules",
         "scheduling"
       ],
-      "example": "This schedule matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "quit",
@@ -3584,19 +3098,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "quit a plan",
-        "quit carefully",
-        "quit with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "quit",
         "pd",
         "quitting",
         "quits"
       ],
-      "example": "We can quit the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "researcher",
@@ -3611,18 +3121,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a researcher",
-        "the role of researcher",
-        "researcher and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "researcher",
         "researchers",
         "research"
       ],
-      "example": "This researcher matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lake",
@@ -3637,17 +3143,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a lake",
-        "the role of lake",
-        "lake and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lake",
         "lakes"
       ],
-      "example": "This lake matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "chocolate",
@@ -3662,17 +3164,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a chocolate",
-        "the role of chocolate",
-        "chocolate and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "chocolate",
         "chocolates"
       ],
-      "example": "This chocolate matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "agreement",
@@ -3687,18 +3185,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a agreement",
-        "the role of agreement",
-        "agreement and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "agreement",
         "agreements",
         "agree"
       ],
-      "example": "This agreement matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "headline",
@@ -3713,19 +3207,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a headline",
-        "the role of headline",
-        "headline and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "headline",
         "headlines",
         "headlined",
         "headlining"
       ],
-      "example": "This headline matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "next",
@@ -3740,16 +3230,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a next approach",
-        "remain next",
-        "next enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "next"
       ],
-      "example": "A next approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "soccer",
@@ -3764,17 +3250,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a soccer",
-        "the role of soccer",
-        "soccer and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "soccer",
         "socc"
       ],
-      "example": "This soccer matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "night",
@@ -3789,17 +3271,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a night",
-        "the role of night",
-        "night and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "night",
         "nights"
       ],
-      "example": "This night matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "needle",
@@ -3814,19 +3292,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a needle",
-        "the role of needle",
-        "needle and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "needle",
         "needles",
         "needling",
         "needled"
       ],
-      "example": "This needle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "effect",
@@ -3842,9 +3316,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a effect",
-        "the role of effect",
-        "effect and evidence"
+        "a lasting effect"
       ],
       "wordFamily": [
         "effect",
@@ -3852,8 +3324,8 @@ export default {
         "effected",
         "effecting"
       ],
-      "example": "This effect matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "A good book can have a lasting effect.",
+      "exampleZh": "一本好书能产生持久的影响。"
     },
     {
       "word": "combine",
@@ -3869,9 +3341,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "combine a plan",
-        "combine carefully",
-        "combine with others"
+        "combine humour"
       ],
       "wordFamily": [
         "combine",
@@ -3879,8 +3349,8 @@ export default {
         "combining",
         "combines"
       ],
-      "example": "We can combine the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She can combine humour with serious ideas.",
+      "exampleZh": "她能把幽默与严肃的思想融合在一起。"
     },
     {
       "word": "warning",
@@ -3895,18 +3365,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a warning",
-        "the role of warning",
-        "warning and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "warning",
         "warn",
         "warnings"
       ],
-      "example": "This warning matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "ingredient",
@@ -3921,17 +3387,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a ingredient",
-        "the role of ingredient",
-        "ingredient and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "ingredient",
         "ingredients"
       ],
-      "example": "This ingredient matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "arm",
@@ -3946,19 +3408,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a arm",
-        "the role of arm",
-        "arm and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "arm",
         "arms",
         "armed",
         "arming"
       ],
-      "example": "This arm matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "late",
@@ -3973,18 +3431,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a late approach",
-        "remain late",
-        "late enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "late",
         "later",
         "latest"
       ],
-      "example": "A late approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "emotion",
@@ -4000,17 +3454,15 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a emotion",
-        "the role of emotion",
-        "emotion and evidence"
+        "stir emotion"
       ],
       "wordFamily": [
         "emotion",
         "emotions",
         "emote"
       ],
-      "example": "This emotion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "A quiet ending can stir emotion deeply.",
+      "exampleZh": "安静的结尾也能深深打动情感。"
     },
     {
       "word": "voice",
@@ -4026,9 +3478,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a voice",
-        "the role of voice",
-        "voice and evidence"
+        "a powerful voice"
       ],
       "wordFamily": [
         "voice",
@@ -4036,8 +3486,8 @@ export default {
         "voiced",
         "voicing"
       ],
-      "example": "This voice matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The book is told in a powerful voice.",
+      "exampleZh": "这本书以一种有力的声音讲述。"
     },
     {
       "word": "worth",
@@ -4053,15 +3503,13 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a worth approach",
-        "remain worth",
-        "worth enough"
+        "worth reading"
       ],
       "wordFamily": [
         "worth"
       ],
-      "example": "A worth approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "This novel is worth reading twice.",
+      "exampleZh": "这部小说值得读两遍。"
     },
     {
       "word": "build",
@@ -4077,9 +3525,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "build a plan",
-        "build carefully",
-        "build with others"
+        "build a world"
       ],
       "wordFamily": [
         "build",
@@ -4087,8 +3533,8 @@ export default {
         "building",
         "builds"
       ],
-      "example": "We can build the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Great writers build a world you can live in.",
+      "exampleZh": "伟大的作家能构建一个你愿意生活其中的世界。"
     },
     {
       "word": "brush",
@@ -4103,19 +3549,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a brush",
-        "the role of brush",
-        "brush and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "brush",
         "brushed",
         "brushing",
         "brushes"
       ],
-      "example": "This brush matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "script",
@@ -4130,19 +3572,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a script",
-        "the role of script",
-        "script and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "script",
         "scripts",
         "scripted",
         "scripting"
       ],
-      "example": "This script matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "determined",
@@ -4157,17 +3595,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a determined approach",
-        "remain determined",
-        "determined enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "determined",
         "determin"
       ],
-      "example": "A determined approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "topic",
@@ -4183,16 +3617,14 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a topic",
-        "the role of topic",
-        "topic and evidence"
+        "the central topic"
       ],
       "wordFamily": [
         "topic",
         "topics"
       ],
-      "example": "This topic matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The central topic is friendship, not war.",
+      "exampleZh": "核心主题是友谊，而非战争。"
     },
     {
       "word": "ought",
@@ -4207,16 +3639,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "ought a plan",
-        "ought carefully",
-        "ought with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "ought"
       ],
-      "example": "We can ought the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "voter",
@@ -4231,18 +3659,14 @@ export default {
       "source": "Oxford 5000 companion",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a voter",
-        "the role of voter",
-        "voter and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "voter",
         "voters",
         "vot"
       ],
-      "example": "This voter matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "danger",
@@ -4257,18 +3681,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a danger",
-        "the role of danger",
-        "danger and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "danger",
         "dangers",
         "dang"
       ],
-      "example": "This danger matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "advertise",
@@ -4283,19 +3703,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "advertise a plan",
-        "advertise carefully",
-        "advertise with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "advertise",
         "advertised",
         "advertising",
         "advertises"
       ],
-      "example": "We can advertise the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hour",
@@ -4310,17 +3726,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a hour",
-        "the role of hour",
-        "hour and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hour",
         "hours"
       ],
-      "example": "This hour matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "east",
@@ -4335,16 +3747,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a east approach",
-        "remain east",
-        "east enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "east"
       ],
-      "example": "A east approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "pub",
@@ -4359,16 +3767,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a pub",
-        "the role of pub",
-        "pub and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "pub"
       ],
-      "example": "This pub matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "coloured",
@@ -4383,17 +3787,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a coloured approach",
-        "remain coloured",
-        "coloured enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "coloured",
         "colour"
       ],
-      "example": "A coloured approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "line",
@@ -4408,19 +3808,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a line",
-        "the role of line",
-        "line and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "line",
         "lines",
         "lined",
         "lining"
       ],
-      "example": "This line matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "vote",
@@ -4435,19 +3831,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a vote",
-        "the role of vote",
-        "vote and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "vote",
         "votes",
         "voted",
         "voting"
       ],
-      "example": "This vote matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "youth",
@@ -4462,17 +3854,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a youth",
-        "the role of youth",
-        "youth and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "youth",
         "youths"
       ],
-      "example": "This youth matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "eleven",
@@ -4487,16 +3875,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a eleven",
-        "the role of eleven",
-        "eleven and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "eleven"
       ],
-      "example": "This eleven matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "holiday",
@@ -4511,19 +3895,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a holiday",
-        "the role of holiday",
-        "holiday and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "holiday",
         "holidays",
         "holidaying",
         "holidayed"
       ],
-      "example": "This holiday matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "glasgow",
@@ -4538,16 +3918,12 @@ export default {
       "source": "Oxford 5000 companion",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a glasgow",
-        "the role of glasgow",
-        "glasgow and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "glasgow"
       ],
-      "example": "This glasgow matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "destroy",
@@ -4562,19 +3938,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "destroy a plan",
-        "destroy carefully",
-        "destroy with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "destroy",
         "destroyed",
         "destroying",
         "destroys"
       ],
-      "example": "We can destroy the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "mad",
@@ -4589,19 +3961,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a mad approach",
-        "remain mad",
-        "mad enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mad",
         "madder",
         "maddest",
         "mads"
       ],
-      "example": "A mad approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lab",
@@ -4616,17 +3984,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a lab",
-        "the role of lab",
-        "lab and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lab",
         "labs"
       ],
-      "example": "This lab matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "we",
@@ -4641,16 +4005,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a we",
-        "the role of we",
-        "we and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "we"
       ],
-      "example": "This we matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "revise",
@@ -4665,16 +4025,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "revise a plan",
-        "revise carefully",
-        "revise with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "revise"
       ],
-      "example": "We can revise the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "national",
@@ -4689,17 +4045,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a national approach",
-        "remain national",
-        "national enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "national",
         "nationals"
       ],
-      "example": "A national approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "close",
@@ -4714,19 +4066,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a close approach",
-        "remain close",
-        "close enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "close",
         "closed",
         "closer",
         "closing"
       ],
-      "example": "A close approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "brain",
@@ -4741,19 +4089,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a brain",
-        "the role of brain",
-        "brain and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "brain",
         "brains",
         "braining",
         "brained"
       ],
-      "example": "This brain matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "bean",
@@ -4768,17 +4112,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a bean",
-        "the role of bean",
-        "bean and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "bean",
         "beans"
       ],
-      "example": "This bean matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lock",
@@ -4793,19 +4133,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a lock",
-        "the role of lock",
-        "lock and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lock",
         "locked",
         "locks",
         "locking"
       ],
-      "example": "This lock matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "boil",
@@ -4820,19 +4156,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "boil a plan",
-        "boil carefully",
-        "boil with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "boil",
         "boiling",
         "boiled",
         "boils"
       ],
-      "example": "We can boil the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "level",
@@ -4847,19 +4179,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a level approach",
-        "remain level",
-        "level enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "level",
         "levels",
         "levelled",
         "levelling"
       ],
-      "example": "A level approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hot",
@@ -4874,19 +4202,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a hot approach",
-        "remain hot",
-        "hot enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hot",
         "hotter",
         "hottest",
         "hotting"
       ],
-      "example": "A hot approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "involve",
@@ -4901,19 +4225,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "involve a plan",
-        "involve carefully",
-        "involve with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "involve",
         "involved",
         "involving",
         "involves"
       ],
-      "example": "We can involve the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "pocket",
@@ -4928,19 +4248,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a pocket",
-        "the role of pocket",
-        "pocket and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "pocket",
         "pockets",
         "pocketing",
         "pocketed"
       ],
-      "example": "This pocket matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "technical",
@@ -4955,16 +4271,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a technical approach",
-        "remain technical",
-        "technical enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "technical"
       ],
-      "example": "A technical approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "strategy",
@@ -4980,16 +4292,14 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a strategy",
-        "the role of strategy",
-        "strategy and evidence"
+        "a narrative strategy"
       ],
       "wordFamily": [
         "strategy",
         "strategies"
       ],
-      "example": "This strategy matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The novel uses a narrative strategy that surprises you.",
+      "exampleZh": "这部小说用了巧妙的叙事策略。"
     },
     {
       "word": "sheep",
@@ -5004,17 +4314,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a sheep",
-        "the role of sheep",
-        "sheep and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sheep",
         "sheeps"
       ],
-      "example": "This sheep matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "point",
@@ -5030,9 +4336,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a point",
-        "the role of point",
-        "point and evidence"
+        "the main point"
       ],
       "wordFamily": [
         "point",
@@ -5040,8 +4344,8 @@ export default {
         "pointed",
         "pointing"
       ],
-      "example": "This point matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Do not miss the main point of the chapter.",
+      "exampleZh": "别错过这一章的要点。"
     },
     {
       "word": "bride",
@@ -5056,17 +4360,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a bride",
-        "the role of bride",
-        "bride and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "bride",
         "brides"
       ],
-      "example": "This bride matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "invent",
@@ -5081,19 +4381,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "invent a plan",
-        "invent carefully",
-        "invent with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "invent",
         "invented",
         "inventing",
         "invents"
       ],
-      "example": "We can invent the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "coin",
@@ -5108,19 +4404,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a coin",
-        "the role of coin",
-        "coin and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "coin",
         "coins",
         "coined",
         "coining"
       ],
-      "example": "This coin matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "while",
@@ -5135,16 +4427,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a while",
-        "the role of while",
-        "while and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "while"
       ],
-      "example": "This while matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "joke",
@@ -5159,19 +4447,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "culture-knowledge",
-      "collocations": [
-        "a joke",
-        "the role of joke",
-        "joke and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "joke",
         "jokes",
         "joking",
         "joked"
       ],
-      "example": "This joke matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "page",
@@ -5187,9 +4471,7 @@ export default {
       "role": "activation",
       "topic": "culture-knowledge",
       "collocations": [
-        "a page",
-        "the role of page",
-        "page and evidence"
+        "the final page"
       ],
       "wordFamily": [
         "page",
@@ -5197,59 +4479,518 @@ export default {
         "paging",
         "paged"
       ],
-      "example": "This page matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "He slowed down before the final page.",
+      "exampleZh": "他在读到最后一页之前放慢了速度。"
     }
   ],
   "focusWords": [
-    "psychiatric",
-    "undoubtedly",
-    "novelist",
-    "implement",
-    "faith",
-    "formerly",
-    "slavery",
+    "worth",
+    "remarkable",
     "bias",
-    "dealer",
-    "heel",
-    "subscription",
-    "remarkable"
+    "passage",
+    "obsession",
+    "novelist",
+    "voice",
+    "underlying",
+    "effect",
+    "circumstance",
+    "library",
+    "build"
   ],
   "practice": {
     "multipleChoice": [
       {
-        "question": "Which expression best fits the culture-knowledge situation?",
+        "question": "Why does the writer consider the book limited as well as beautiful?",
         "options": [
-          "a psychiatric approach",
-          "undoubtedly a plan",
-          "ignore the context"
+          "It is too short to describe the period.",
+          "It repeats the company's view and silences the workers.",
+          "It was never published properly."
         ],
-        "answer": 0,
-        "explanation": "Use psychiatric in a phrase rather than studying it in isolation."
+        "answer": 1,
+        "explanation": "小说始终站在公司一边，工人几乎没有声音，说明它并非面面俱到。"
       }
     ],
     "cloze": [
       {
-        "sentence": "A clear speaker can ___ the next step and explain the reason.",
-        "answer": "psychiatric",
+        "sentence": "This novel is ___ twice.",
+        "answer": "worth reading",
         "wordBank": [
-          "psychiatric",
-          "undoubtedly",
-          "forget"
-        ]
+          "a personal bias",
+          "a remarkable achievement",
+          "worth reading"
+        ],
+        "explanation": "值得一读。be worth + 动名词，表示值得做；不接 worth to do。",
+        "phraseId": "32-1"
+      },
+      {
+        "sentence": "The book is ___.",
+        "answer": "a remarkable achievement",
+        "wordBank": [
+          "a personal bias",
+          "a remarkable achievement",
+          "the opening passage"
+        ],
+        "explanation": "了不起的成就。remarkable + achievement / success，表示非凡、令人赞叹。",
+        "phraseId": "32-2"
+      },
+      {
+        "sentence": "Every account carries ___.",
+        "answer": "a personal bias",
+        "wordBank": [
+          "a personal bias",
+          "obsession with",
+          "the opening passage"
+        ],
+        "explanation": "个人偏向。a bias in / towards ... 指偏向某一方；bias 可数。",
+        "phraseId": "32-3"
+      },
+      {
+        "sentence": "___ is written in diary form.",
+        "answer": "the opening passage",
+        "wordBank": [
+          "a quiet novelist",
+          "obsession with",
+          "the opening passage"
+        ],
+        "explanation": "开篇段落。a passage from a book 指引文；也与 passage of time 区别。",
+        "phraseId": "32-4"
+      },
+      {
+        "sentence": "She had an ___ a single novel.",
+        "answer": "obsession with",
+        "wordBank": [
+          "a powerful voice",
+          "a quiet novelist",
+          "obsession with"
+        ],
+        "explanation": "对……的痴迷。an obsession with ... 表示执念，语气比 interest 强，常带贬义。",
+        "phraseId": "32-5"
+      },
+      {
+        "sentence": "___ can still write with force.",
+        "answer": "a quiet novelist",
+        "wordBank": [
+          "a powerful voice",
+          "a quiet novelist",
+          "an underlying theme"
+        ],
+        "explanation": "低调的小说家。novelist 指小说家；quiet 表示低调的、不张扬的。",
+        "phraseId": "32-6"
+      },
+      {
+        "sentence": "The book is told in ___.",
+        "answer": "a powerful voice",
+        "wordBank": [
+          "a lasting effect",
+          "a powerful voice",
+          "an underlying theme"
+        ],
+        "explanation": "有力的声音。voice 在此指写作或表达的风格；powerful 表示有力的。",
+        "phraseId": "32-7"
+      },
+      {
+        "sentence": "Forgiveness is ___ of the story.",
+        "answer": "an underlying theme",
+        "wordBank": [
+          "a difficult circumstance",
+          "a lasting effect",
+          "an underlying theme"
+        ],
+        "explanation": "潜在的主题。underlying 表示潜在的、根本的；theme 指主题。",
+        "phraseId": "32-8"
+      },
+      {
+        "sentence": "A good book can have ___.",
+        "answer": "a lasting effect",
+        "wordBank": [
+          "a difficult circumstance",
+          "a lasting effect",
+          "the public library"
+        ],
+        "explanation": "持久的影响。effect 指影响；lasting 表示持久的。",
+        "phraseId": "32-9"
+      },
+      {
+        "sentence": "She read it during ___.",
+        "answer": "a difficult circumstance",
+        "wordBank": [
+          "a difficult circumstance",
+          "build a world",
+          "the public library"
+        ],
+        "explanation": "艰难的处境。circumstance 指情形、境况；difficult 表示艰难的。",
+        "phraseId": "32-10"
+      },
+      {
+        "sentence": "He borrows most books from ___.",
+        "answer": "the public library",
+        "wordBank": [
+          "build a world",
+          "combine humour",
+          "the public library"
+        ],
+        "explanation": "公共图书馆。library 指图书馆；public 表示公共的。",
+        "phraseId": "32-11"
+      },
+      {
+        "sentence": "Great writers ___ you can live in.",
+        "answer": "build a world",
+        "wordBank": [
+          "build a world",
+          "combine humour",
+          "the central topic"
+        ],
+        "explanation": "构建一个世界。build 指构建、营造，此处指小说世界。",
+        "phraseId": "32-12"
+      },
+      {
+        "sentence": "She can ___ with serious ideas.",
+        "answer": "combine humour",
+        "wordBank": [
+          "combine humour",
+          "reject an idea",
+          "the central topic"
+        ],
+        "explanation": "融合幽默。combine A with B 指把两者结合。",
+        "phraseId": "32-13"
+      },
+      {
+        "sentence": "___ is friendship, not war.",
+        "answer": "the central topic",
+        "wordBank": [
+          "a matter of faith",
+          "reject an idea",
+          "the central topic"
+        ],
+        "explanation": "核心主题。topic 指话题、主题；central 表示核心的。",
+        "phraseId": "32-14"
+      },
+      {
+        "sentence": "Do not ___ just because it is hard.",
+        "answer": "reject an idea",
+        "wordBank": [
+          "a matter of faith",
+          "a narrative strategy",
+          "reject an idea"
+        ],
+        "explanation": "摒弃一个想法。reject 指拒绝、摒弃；idea 指想法。",
+        "phraseId": "32-15"
+      },
+      {
+        "sentence": "Trust here is ___, not proof.",
+        "answer": "a matter of faith",
+        "wordBank": [
+          "a matter of faith",
+          "a narrative strategy",
+          "the main point"
+        ],
+        "explanation": "信念的问题。faith 指信念、信仰；a matter of 指关乎……。",
+        "phraseId": "32-16"
+      },
+      {
+        "sentence": "The novel uses ___ that surprises you.",
+        "answer": "a narrative strategy",
+        "wordBank": [
+          "a narrative strategy",
+          "stir emotion",
+          "the main point"
+        ],
+        "explanation": "叙事策略。narrative 指叙事；strategy 指策略。",
+        "phraseId": "32-17"
+      },
+      {
+        "sentence": "Do not miss ___ of the chapter.",
+        "answer": "the main point",
+        "wordBank": [
+          "stir emotion",
+          "the final page",
+          "the main point"
+        ],
+        "explanation": "要点；主旨。point 指要点；main 表示主要的。",
+        "phraseId": "32-18"
+      },
+      {
+        "sentence": "A quiet ending can ___ deeply.",
+        "answer": "stir emotion",
+        "wordBank": [
+          "stir emotion",
+          "the final page",
+          "worth reading"
+        ],
+        "explanation": "打动情感。stir 指激起；emotion 指情感。",
+        "phraseId": "32-19"
+      },
+      {
+        "sentence": "He slowed down before ___.",
+        "answer": "the final page",
+        "wordBank": [
+          "a remarkable achievement",
+          "the final page",
+          "worth reading"
+        ],
+        "explanation": "最后一页。page 指书页；final 表示最后的。",
+        "phraseId": "32-20"
       }
     ],
     "translation": [
       {
-        "prompt": "请用 psychiatric 和 undoubtedly 说清楚本课场景中的一个下一步。",
-        "answer": "Use psychiatric and undoubtedly to explain the next step in this situation."
+        "prompt": "请用 worth reading 翻译：这部小说值得读两遍。",
+        "answer": "This novel is worth reading twice."
+      },
+      {
+        "prompt": "请用 a remarkable achievement 翻译：这本书是了不起的成就。",
+        "answer": "The book is a remarkable achievement."
       }
     ]
   },
   "stats": {
     "extensionWords": 30,
     "activationWords": 70,
-    "passageWords": 30,
-    "collocations": 300
-  }
+    "passageWords": 25,
+    "collocations": 20,
+    "readingWords": 439,
+    "phrases": 20
+  },
+  "phrases": [
+    {
+      "id": "32-1",
+      "en": "worth reading",
+      "zh": "值得一读",
+      "usage": "be worth + 动名词，表示值得做；不接 worth to do。",
+      "example": "This novel is worth reading twice.",
+      "exampleZh": "这部小说值得读两遍。",
+      "paragraph": 0,
+      "targetWords": [
+        "worth"
+      ]
+    },
+    {
+      "id": "32-2",
+      "en": "a remarkable achievement",
+      "zh": "了不起的成就",
+      "usage": "remarkable + achievement / success，表示非凡、令人赞叹。",
+      "example": "The book is a remarkable achievement.",
+      "exampleZh": "这本书是了不起的成就。",
+      "paragraph": 2,
+      "targetWords": [
+        "remarkable"
+      ]
+    },
+    {
+      "id": "32-3",
+      "en": "a personal bias",
+      "zh": "个人偏向",
+      "usage": "a bias in / towards ... 指偏向某一方；bias 可数。",
+      "example": "Every account carries a personal bias.",
+      "exampleZh": "每种叙述都带个人偏向。",
+      "paragraph": 2,
+      "targetWords": [
+        "bias"
+      ]
+    },
+    {
+      "id": "32-4",
+      "en": "the opening passage",
+      "zh": "开篇段落",
+      "usage": "a passage from a book 指引文；也与 passage of time 区别。",
+      "example": "The opening passage is written in diary form.",
+      "exampleZh": "开篇那段文字是日记体。",
+      "paragraph": 0,
+      "targetWords": [
+        "passage"
+      ]
+    },
+    {
+      "id": "32-5",
+      "en": "obsession with",
+      "zh": "对……的痴迷",
+      "usage": "an obsession with ... 表示执念，语气比 interest 强，常带贬义。",
+      "example": "She had an obsession with a single novel.",
+      "exampleZh": "她曾对一部小说十分痴迷。",
+      "paragraph": 3,
+      "targetWords": [
+        "obsession"
+      ]
+    },
+    {
+      "id": "32-6",
+      "en": "a quiet novelist",
+      "zh": "低调的小说家",
+      "usage": "novelist 指小说家；quiet 表示低调的、不张扬的。",
+      "example": "A quiet novelist can still write with force.",
+      "exampleZh": "低调的小说家也能写得有力量。",
+      "paragraph": 4,
+      "targetWords": [
+        "novelist"
+      ]
+    },
+    {
+      "id": "32-7",
+      "en": "a powerful voice",
+      "zh": "有力的声音",
+      "usage": "voice 在此指写作或表达的风格；powerful 表示有力的。",
+      "example": "The book is told in a powerful voice.",
+      "exampleZh": "这本书以一种有力的声音讲述。",
+      "paragraph": 4,
+      "targetWords": [
+        "voice"
+      ]
+    },
+    {
+      "id": "32-8",
+      "en": "an underlying theme",
+      "zh": "潜在的主题",
+      "usage": "underlying 表示潜在的、根本的；theme 指主题。",
+      "example": "Forgiveness is an underlying theme of the story.",
+      "exampleZh": "宽恕是这个故事潜在的主题。",
+      "paragraph": 4,
+      "targetWords": [
+        "underlying"
+      ]
+    },
+    {
+      "id": "32-9",
+      "en": "a lasting effect",
+      "zh": "持久的影响",
+      "usage": "effect 指影响；lasting 表示持久的。",
+      "example": "A good book can have a lasting effect.",
+      "exampleZh": "一本好书能产生持久的影响。",
+      "paragraph": 4,
+      "targetWords": [
+        "effect"
+      ]
+    },
+    {
+      "id": "32-10",
+      "en": "a difficult circumstance",
+      "zh": "艰难的处境",
+      "usage": "circumstance 指情形、境况；difficult 表示艰难的。",
+      "example": "She read it during a difficult circumstance.",
+      "exampleZh": "她在一段艰难的处境里读了它。",
+      "paragraph": 4,
+      "targetWords": [
+        "circumstance"
+      ]
+    },
+    {
+      "id": "32-11",
+      "en": "the public library",
+      "zh": "公共图书馆",
+      "usage": "library 指图书馆；public 表示公共的。",
+      "example": "He borrows most books from the public library.",
+      "exampleZh": "他大多数书都从公共图书馆借。",
+      "paragraph": 4,
+      "targetWords": [
+        "library"
+      ]
+    },
+    {
+      "id": "32-12",
+      "en": "build a world",
+      "zh": "构建一个世界",
+      "usage": "build 指构建、营造，此处指小说世界。",
+      "example": "Great writers build a world you can live in.",
+      "exampleZh": "伟大的作家能构建一个你愿意生活其中的世界。",
+      "paragraph": 5,
+      "targetWords": [
+        "build"
+      ]
+    },
+    {
+      "id": "32-13",
+      "en": "combine humour",
+      "zh": "融合幽默",
+      "usage": "combine A with B 指把两者结合。",
+      "example": "She can combine humour with serious ideas.",
+      "exampleZh": "她能把幽默与严肃的思想融合在一起。",
+      "paragraph": 5,
+      "targetWords": [
+        "combine"
+      ]
+    },
+    {
+      "id": "32-14",
+      "en": "the central topic",
+      "zh": "核心主题",
+      "usage": "topic 指话题、主题；central 表示核心的。",
+      "example": "The central topic is friendship, not war.",
+      "exampleZh": "核心主题是友谊，而非战争。",
+      "paragraph": 5,
+      "targetWords": [
+        "topic"
+      ]
+    },
+    {
+      "id": "32-15",
+      "en": "reject an idea",
+      "zh": "摒弃一个想法",
+      "usage": "reject 指拒绝、摒弃；idea 指想法。",
+      "example": "Do not reject an idea just because it is hard.",
+      "exampleZh": "不要因为一个想法难就摒弃它。",
+      "paragraph": 5,
+      "targetWords": [
+        "reject"
+      ]
+    },
+    {
+      "id": "32-16",
+      "en": "a matter of faith",
+      "zh": "信念的问题",
+      "usage": "faith 指信念、信仰；a matter of 指关乎……。",
+      "example": "Trust here is a matter of faith, not proof.",
+      "exampleZh": "这里的信任是信念问题，而非证据问题。",
+      "paragraph": 5,
+      "targetWords": [
+        "faith"
+      ]
+    },
+    {
+      "id": "32-17",
+      "en": "a narrative strategy",
+      "zh": "叙事策略",
+      "usage": "narrative 指叙事；strategy 指策略。",
+      "example": "The novel uses a narrative strategy that surprises you.",
+      "exampleZh": "这部小说用了巧妙的叙事策略。",
+      "paragraph": 5,
+      "targetWords": [
+        "strategy"
+      ]
+    },
+    {
+      "id": "32-18",
+      "en": "the main point",
+      "zh": "要点；主旨",
+      "usage": "point 指要点；main 表示主要的。",
+      "example": "Do not miss the main point of the chapter.",
+      "exampleZh": "别错过这一章的要点。",
+      "paragraph": 5,
+      "targetWords": [
+        "point"
+      ]
+    },
+    {
+      "id": "32-19",
+      "en": "stir emotion",
+      "zh": "打动情感",
+      "usage": "stir 指激起；emotion 指情感。",
+      "example": "A quiet ending can stir emotion deeply.",
+      "exampleZh": "安静的结尾也能深深打动情感。",
+      "paragraph": 5,
+      "targetWords": [
+        "emotion"
+      ]
+    },
+    {
+      "id": "32-20",
+      "en": "the final page",
+      "zh": "最后一页",
+      "usage": "page 指书页；final 表示最后的。",
+      "example": "He slowed down before the final page.",
+      "exampleZh": "他在读到最后一页之前放慢了速度。",
+      "paragraph": 5,
+      "targetWords": [
+        "page"
+      ]
+    }
+  ]
 };

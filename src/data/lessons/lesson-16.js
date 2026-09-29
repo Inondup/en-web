@@ -21,17 +21,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a various approach",
-        "remain various",
-        "various enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "various",
         "variou"
       ],
-      "example": "A various approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "participate",
@@ -46,19 +42,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "participate a plan",
-        "participate carefully",
-        "participate with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "participate",
         "participating",
         "participated",
         "participates"
       ],
-      "example": "We can participate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "payment",
@@ -74,17 +66,15 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a payment",
-        "the role of payment",
-        "payment and evidence"
+        "a fair payment"
       ],
       "wordFamily": [
         "payment",
         "payments",
         "pay"
       ],
-      "example": "This payment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Workers deserve a fair payment for extra hours.",
+      "exampleZh": "工人加班理应得到公平的报酬。"
     },
     {
       "word": "enjoy",
@@ -99,19 +89,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "enjoy a plan",
-        "enjoy carefully",
-        "enjoy with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "enjoy",
         "enjoyed",
         "enjoying",
         "enjoys"
       ],
-      "example": "We can enjoy the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "reception",
@@ -126,18 +112,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a reception",
-        "the role of reception",
-        "reception and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "reception",
         "receptions",
         "recepte"
       ],
-      "example": "This reception matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "start",
@@ -152,19 +134,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a start",
-        "the role of start",
-        "start and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "start",
         "started",
         "starts",
         "starting"
       ],
-      "example": "This start matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "battle",
@@ -179,19 +157,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a battle",
-        "the role of battle",
-        "battle and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "battle",
         "battles",
         "battling",
         "battled"
       ],
-      "example": "This battle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "smile",
@@ -206,19 +180,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a smile",
-        "the role of smile",
-        "smile and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "smile",
         "smiled",
         "smiling",
         "smiles"
       ],
-      "example": "This smile matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "bee",
@@ -233,17 +203,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a bee",
-        "the role of bee",
-        "bee and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "bee",
         "bees"
       ],
-      "example": "This bee matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "appointment",
@@ -258,18 +224,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a appointment",
-        "the role of appointment",
-        "appointment and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "appointment",
         "appointments",
         "appoint"
       ],
-      "example": "This appointment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "horror",
@@ -284,17 +246,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a horror",
-        "the role of horror",
-        "horror and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "horror",
         "horrors"
       ],
-      "example": "This horror matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "if",
@@ -309,16 +267,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a if",
-        "the role of if",
-        "if and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "if"
       ],
-      "example": "This if matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hit",
@@ -333,19 +287,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a hit",
-        "the role of hit",
-        "hit and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hit",
         "pd",
         "hitting",
         "hits"
       ],
-      "example": "This hit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "recipe",
@@ -360,17 +310,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a recipe",
-        "the role of recipe",
-        "recipe and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "recipe",
         "recipes"
       ],
-      "example": "This recipe matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "stop",
@@ -385,19 +331,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a stop",
-        "the role of stop",
-        "stop and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "stop",
         "stopped",
         "stopping",
         "stops"
       ],
-      "example": "This stop matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "website",
@@ -412,16 +354,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a website",
-        "the role of website",
-        "website and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "website"
       ],
-      "example": "This website matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "anyway",
@@ -436,17 +374,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "anyway a plan",
-        "anyway carefully",
-        "anyway with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "anyway",
         "anyways"
       ],
-      "example": "We can anyway the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "united",
@@ -461,18 +395,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a united approach",
-        "remain united",
-        "united enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "united",
         "dp",
         "unit"
       ],
-      "example": "A united approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "birthday",
@@ -487,17 +417,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a birthday",
-        "the role of birthday",
-        "birthday and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "birthday",
         "birthdays"
       ],
-      "example": "This birthday matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "myself",
@@ -512,16 +438,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a myself",
-        "the role of myself",
-        "myself and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "myself"
       ],
-      "example": "This myself matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "into",
@@ -536,16 +458,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a into",
-        "the role of into",
-        "into and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "into"
       ],
-      "example": "This into matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "gym",
@@ -560,17 +478,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a gym",
-        "the role of gym",
-        "gym and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "gym",
         "gyms"
       ],
-      "example": "This gym matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "creative",
@@ -585,17 +499,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a creative approach",
-        "remain creative",
-        "creative enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "creative",
         "creatives"
       ],
-      "example": "A creative approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "nervous",
@@ -610,17 +520,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a nervous approach",
-        "remain nervous",
-        "nervous enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "nervous",
         "nervou"
       ],
-      "example": "A nervous approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "sense",
@@ -635,19 +541,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a sense",
-        "the role of sense",
-        "sense and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sense",
         "senses",
         "sensed",
         "sensing"
       ],
-      "example": "This sense matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "compare",
@@ -662,19 +564,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "compare a plan",
-        "compare carefully",
-        "compare with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "compare",
         "compared",
         "comparing",
         "compares"
       ],
-      "example": "We can compare the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "arrival",
@@ -689,17 +587,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a arrival",
-        "the role of arrival",
-        "arrival and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "arrival",
         "arrivals"
       ],
-      "example": "This arrival matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "small",
@@ -714,18 +608,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a small approach",
-        "remain small",
-        "small enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "small",
         "smaller",
         "smallest"
       ],
-      "example": "A small approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "ground",
@@ -741,9 +631,7 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a ground",
-        "the role of ground",
-        "ground and evidence"
+        "common ground"
       ],
       "wordFamily": [
         "ground",
@@ -751,8 +639,8 @@ export default {
         "grounded",
         "grind"
       ],
-      "example": "This ground matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "We need to find common ground before discussing price.",
+      "exampleZh": "谈价格前，我们需要找到共同立场。"
     },
     {
       "word": "rubbish",
@@ -767,16 +655,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a rubbish",
-        "the role of rubbish",
-        "rubbish and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "rubbish"
       ],
-      "example": "This rubbish matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "sweet",
@@ -791,19 +675,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a sweet approach",
-        "remain sweet",
-        "sweet enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sweet",
         "sweets",
         "sweeter",
         "sweetest"
       ],
-      "example": "A sweet approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "unemployed",
@@ -818,17 +698,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a unemployed approach",
-        "remain unemployed",
-        "unemployed enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "unemployed",
         "unemploy"
       ],
-      "example": "A unemployed approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "achieve",
@@ -843,19 +719,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "achieve a plan",
-        "achieve carefully",
-        "achieve with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "achieve",
         "achieved",
         "achieving",
         "achieves"
       ],
-      "example": "We can achieve the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "collection",
@@ -870,18 +742,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a collection",
-        "the role of collection",
-        "collection and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "collection",
         "collections",
         "collecte"
       ],
-      "example": "This collection matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "fancy",
@@ -896,19 +764,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a fancy approach",
-        "remain fancy",
-        "fancy enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "fancy",
         "fancied",
         "fancies",
         "fancying"
       ],
-      "example": "A fancy approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "punish",
@@ -923,19 +787,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "punish a plan",
-        "punish carefully",
-        "punish with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "punish",
         "punished",
         "punishing",
         "punishes"
       ],
-      "example": "We can punish the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hungry",
@@ -950,18 +810,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a hungry approach",
-        "remain hungry",
-        "hungry enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hungry",
         "hungrier",
         "hungriest"
       ],
-      "example": "A hungry approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "written",
@@ -977,16 +833,14 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a written approach",
-        "remain written",
-        "written enough"
+        "a written agreement"
       ],
       "wordFamily": [
         "written",
         "write"
       ],
-      "example": "A written approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "We signed a written agreement before starting.",
+      "exampleZh": "开始前，我们签了书面协议。"
     },
     {
       "word": "professor",
@@ -1001,17 +855,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a professor",
-        "the role of professor",
-        "professor and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "professor",
         "professors"
       ],
-      "example": "This professor matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lady",
@@ -1026,17 +876,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a lady",
-        "the role of lady",
-        "lady and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lady",
         "ladies"
       ],
-      "example": "This lady matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "evening",
@@ -1051,18 +897,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a evening",
-        "the role of evening",
-        "evening and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "evening",
         "even",
         "evenings"
       ],
-      "example": "This evening matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "ahead",
@@ -1077,16 +919,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "ahead a plan",
-        "ahead carefully",
-        "ahead with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "ahead"
       ],
-      "example": "We can ahead the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "dry",
@@ -1101,19 +939,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a dry approach",
-        "remain dry",
-        "dry enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "dry",
         "dried",
         "drying",
         "dries"
       ],
-      "example": "A dry approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "link",
@@ -1128,19 +962,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a link",
-        "the role of link",
-        "link and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "link",
         "linked",
         "links",
         "linking"
       ],
-      "example": "This link matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "eastern",
@@ -1155,16 +985,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a eastern approach",
-        "remain eastern",
-        "eastern enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "eastern"
       ],
-      "example": "A eastern approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "distance",
@@ -1179,19 +1005,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a distance",
-        "the role of distance",
-        "distance and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "distance",
         "distances",
         "distancing",
         "distanced"
       ],
-      "example": "This distance matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "king",
@@ -1206,17 +1028,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a king",
-        "the role of king",
-        "king and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "king",
         "kings"
       ],
-      "example": "This king matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "tall",
@@ -1231,18 +1049,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a tall approach",
-        "remain tall",
-        "tall enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "tall",
         "taller",
         "tallest"
       ],
-      "example": "A tall approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "understanding",
@@ -1258,17 +1072,15 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a understanding",
-        "the role of understanding",
-        "understanding and evidence"
+        "reach an understanding"
       ],
       "wordFamily": [
         "understanding",
         "understand",
         "understandings"
       ],
-      "example": "This understanding matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "We hope to reach an understanding today.",
+      "exampleZh": "我们希望今天达成谅解。"
     },
     {
       "word": "attractive",
@@ -1283,16 +1095,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a attractive approach",
-        "remain attractive",
-        "attractive enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "attractive"
       ],
-      "example": "A attractive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "willingness",
@@ -1308,17 +1116,15 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a willingness",
-        "the role of willingness",
-        "willingness and evidence"
+        "a willingness to"
       ],
       "wordFamily": [
         "willingness",
         "willing",
         "willingnes"
       ],
-      "example": "This willingness matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "They showed a willingness to adjust the plan.",
+      "exampleZh": "他们表示愿意调整计划。"
     },
     {
       "word": "comparable",
@@ -1334,16 +1140,14 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a comparable approach",
-        "remain comparable",
-        "comparable enough"
+        "comparable prices"
       ],
       "wordFamily": [
         "comparable",
         "compar"
       ],
-      "example": "A comparable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The two shops offer comparable prices.",
+      "exampleZh": "两家店的价格相近，可以比较。"
     },
     {
       "word": "contemplate",
@@ -1359,9 +1163,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "contemplate a plan",
-        "contemplate carefully",
-        "contemplate with others"
+        "contemplate a change"
       ],
       "wordFamily": [
         "contemplate",
@@ -1369,8 +1171,8 @@ export default {
         "contemplated",
         "contemplates"
       ],
-      "example": "We can contemplate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "They had to contemplate a change to the plan.",
+      "exampleZh": "他们不得不考虑改变计划。"
     },
     {
       "word": "enforce",
@@ -1386,9 +1188,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "enforce a plan",
-        "enforce carefully",
-        "enforce with others"
+        "enforce the rules"
       ],
       "wordFamily": [
         "enforce",
@@ -1396,8 +1196,8 @@ export default {
         "enforcing",
         "enforces"
       ],
-      "example": "We can enforce the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "It is hard to enforce the rules fairly.",
+      "exampleZh": "公平地执行规则并不容易。"
     },
     {
       "word": "sequence",
@@ -1412,19 +1212,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a sequence",
-        "the role of sequence",
-        "sequence and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sequence",
         "sequences",
         "sequenced",
         "sequencing"
       ],
-      "example": "This sequence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "transparency",
@@ -1440,15 +1236,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a transparency",
-        "the role of transparency",
-        "transparency and evidence"
+        "full transparency"
       ],
       "wordFamily": [
         "transparency"
       ],
-      "example": "This transparency matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Customers expect full transparency about fees.",
+      "exampleZh": "客户期待收费上的充分透明。"
     },
     {
       "word": "intimate",
@@ -1463,19 +1257,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a intimate approach",
-        "remain intimate",
-        "intimate enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "intimate",
         "intimated",
         "intimates",
         "intimating"
       ],
-      "example": "A intimate approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "tragic",
@@ -1490,16 +1280,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a tragic approach",
-        "remain tragic",
-        "tragic enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "tragic"
       ],
-      "example": "A tragic approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "audio",
@@ -1514,16 +1300,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a audio approach",
-        "remain audio",
-        "audio enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "audio"
       ],
-      "example": "A audio approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "besides",
@@ -1538,17 +1320,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "besides a plan",
-        "besides carefully",
-        "besides with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "besides",
         "beside"
       ],
-      "example": "We can besides the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "elite",
@@ -1563,17 +1341,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a elite",
-        "the role of elite",
-        "elite and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "elite",
         "elites"
       ],
-      "example": "This elite matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "institute",
@@ -1588,16 +1362,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a institute",
-        "the role of institute",
-        "institute and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "institute"
       ],
-      "example": "This institute matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "nomination",
@@ -1612,18 +1382,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a nomination",
-        "the role of nomination",
-        "nomination and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "nomination",
         "nominations",
         "nominate"
       ],
-      "example": "This nomination matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "renew",
@@ -1639,15 +1405,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "renew a plan",
-        "renew carefully",
-        "renew with others"
+        "renew the contract"
       ],
       "wordFamily": [
         "renew"
       ],
-      "example": "We can renew the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "They agreed to renew the contract for a year.",
+      "exampleZh": "他们同意把合同续签一年。"
     },
     {
       "word": "purchase",
@@ -1663,9 +1427,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a purchase",
-        "the role of purchase",
-        "purchase and evidence"
+        "a large purchase"
       ],
       "wordFamily": [
         "purchase",
@@ -1673,8 +1435,8 @@ export default {
         "purchases",
         "purchasing"
       ],
-      "example": "This purchase matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Think twice before a large purchase.",
+      "exampleZh": "大额采购前要三思。"
     },
     {
       "word": "presence",
@@ -1689,17 +1451,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a presence",
-        "the role of presence",
-        "presence and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "presence",
         "presences"
       ],
-      "example": "This presence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "opt",
@@ -1714,19 +1472,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "opt a plan",
-        "opt carefully",
-        "opt with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "opt",
         "opting",
         "opted",
         "opts"
       ],
-      "example": "We can opt the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "crucial",
@@ -1742,15 +1496,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a crucial approach",
-        "remain crucial",
-        "crucial enough"
+        "a crucial factor"
       ],
       "wordFamily": [
         "crucial"
       ],
-      "example": "A crucial approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Timing was a crucial factor in the deal.",
+      "exampleZh": "时机是这笔交易中的关键因素。"
     },
     {
       "word": "spine",
@@ -1765,17 +1517,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a spine",
-        "the role of spine",
-        "spine and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "spine",
         "spines"
       ],
-      "example": "This spine matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "undergraduate",
@@ -1790,17 +1538,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a undergraduate",
-        "the role of undergraduate",
-        "undergraduate and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "undergraduate",
         "undergraduates"
       ],
-      "example": "This undergraduate matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "sophisticated",
@@ -1816,9 +1560,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a sophisticated approach",
-        "remain sophisticated",
-        "sophisticated enough"
+        "a sophisticated approach"
       ],
       "wordFamily": [
         "sophisticated",
@@ -1826,8 +1568,8 @@ export default {
         "sophisticate",
         "sophisticat"
       ],
-      "example": "A sophisticated approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The team took a sophisticated approach to pricing.",
+      "exampleZh": "团队在定价上采取了精细的做法。"
     },
     {
       "word": "resignation",
@@ -1842,17 +1584,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a resignation",
-        "the role of resignation",
-        "resignation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "resignation",
         "resignate"
       ],
-      "example": "This resignation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "mineral",
@@ -1867,17 +1605,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a mineral",
-        "the role of mineral",
-        "mineral and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mineral",
         "minerals"
       ],
-      "example": "This mineral matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "isolation",
@@ -1892,18 +1626,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a isolation",
-        "the role of isolation",
-        "isolation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "isolation",
         "isolations",
         "isolate"
       ],
-      "example": "This isolation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "robbery",
@@ -1918,16 +1648,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a robbery",
-        "the role of robbery",
-        "robbery and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "robbery"
       ],
-      "example": "This robbery matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "compensation",
@@ -1942,18 +1668,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a compensation",
-        "the role of compensation",
-        "compensation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "compensation",
         "compensations",
         "compensate"
       ],
-      "example": "This compensation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "tactic",
@@ -1969,16 +1691,14 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a tactic",
-        "the role of tactic",
-        "tactic and evidence"
+        "a negotiating tactic"
       ],
       "wordFamily": [
         "tactic",
         "tactics"
       ],
-      "example": "This tactic matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Silence can be a negotiating tactic.",
+      "exampleZh": "沉默可以是一种谈判策略。"
     },
     {
       "word": "amateur",
@@ -1993,16 +1713,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a amateur approach",
-        "remain amateur",
-        "amateur enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "amateur"
       ],
-      "example": "A amateur approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "artificial",
@@ -2017,17 +1733,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a artificial approach",
-        "remain artificial",
-        "artificial enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "artificial",
         "artificials"
       ],
-      "example": "A artificial approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "allocate",
@@ -2043,15 +1755,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "allocate a plan",
-        "allocate carefully",
-        "allocate with others"
+        "allocate resources"
       ],
       "wordFamily": [
         "allocate"
       ],
-      "example": "We can allocate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The board will allocate resources to the trial.",
+      "exampleZh": "董事会将为这次试行分配资源。"
     },
     {
       "word": "concession",
@@ -2067,16 +1777,14 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a concession",
-        "the role of concession",
-        "concession and evidence"
+        "make a concession"
       ],
       "wordFamily": [
         "concession",
         "concessions"
       ],
-      "example": "This concession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Each side had to make a concession.",
+      "exampleZh": "每一方都得做出一个让步。"
     },
     {
       "word": "receiver",
@@ -2091,18 +1799,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a receiver",
-        "the role of receiver",
-        "receiver and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "receiver",
         "receivers",
         "receiv"
       ],
-      "example": "This receiver matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "concern",
@@ -2118,9 +1822,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a concern",
-        "the role of concern",
-        "concern and evidence"
+        "a genuine concern"
       ],
       "wordFamily": [
         "concern",
@@ -2128,8 +1830,8 @@ export default {
         "concerned",
         "concerning"
       ],
-      "example": "This concern matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She raised a genuine concern about safety.",
+      "exampleZh": "她就安全提出了一个真实的顾虑。"
     },
     {
       "word": "genocide",
@@ -2144,16 +1846,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a genocide",
-        "the role of genocide",
-        "genocide and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "genocide"
       ],
-      "example": "This genocide matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "cell",
@@ -2168,17 +1866,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a cell",
-        "the role of cell",
-        "cell and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "cell",
         "cells"
       ],
-      "example": "This cell matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "senator",
@@ -2193,17 +1887,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a senator",
-        "the role of senator",
-        "senator and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "senator",
         "senators"
       ],
-      "example": "This senator matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "trading",
@@ -2218,18 +1908,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a trading",
-        "the role of trading",
-        "trading and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "trading",
         "trade",
         "trad"
       ],
-      "example": "This trading matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hire",
@@ -2245,9 +1931,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a hire",
-        "the role of hire",
-        "hire and evidence"
+        "hire Sara"
       ],
       "wordFamily": [
         "hire",
@@ -2255,8 +1939,8 @@ export default {
         "hiring",
         "hires"
       ],
-      "example": "This hire matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The gym wants to hire Sara to build its website.",
+      "exampleZh": "健身房想雇萨拉制作网站。"
     },
     {
       "word": "reminder",
@@ -2271,18 +1955,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a reminder",
-        "the role of reminder",
-        "reminder and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "reminder",
         "reminders",
         "remind"
       ],
-      "example": "This reminder matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "placement",
@@ -2297,18 +1977,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a placement",
-        "the role of placement",
-        "placement and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "placement",
         "placements",
         "place"
       ],
-      "example": "This placement matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "dramatically",
@@ -2323,17 +1999,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "dramatically a plan",
-        "dramatically carefully",
-        "dramatically with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "dramatically",
         "dramatical"
       ],
-      "example": "We can dramatically the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "privilege",
@@ -2348,19 +2020,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a privilege",
-        "the role of privilege",
-        "privilege and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "privilege",
         "privileges",
         "privileging",
         "privileged"
       ],
-      "example": "This privilege matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "battlefield",
@@ -2375,16 +2043,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a battlefield",
-        "the role of battlefield",
-        "battlefield and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "battlefield"
       ],
-      "example": "This battlefield matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "labour",
@@ -2399,16 +2063,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a labour",
-        "the role of labour",
-        "labour and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "labour"
       ],
-      "example": "This labour matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "legislature",
@@ -2423,17 +2083,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a legislature",
-        "the role of legislature",
-        "legislature and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "legislature",
         "legislatures"
       ],
-      "example": "This legislature matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "portion",
@@ -2448,19 +2104,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a portion",
-        "the role of portion",
-        "portion and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "portion",
         "portions",
         "portioned",
         "portioning"
       ],
-      "example": "This portion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "trigger",
@@ -2475,19 +2127,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a trigger",
-        "the role of trigger",
-        "trigger and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "trigger",
         "triggered",
         "triggering",
         "triggers"
       ],
-      "example": "This trigger matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hydrogen",
@@ -2502,17 +2150,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a hydrogen",
-        "the role of hydrogen",
-        "hydrogen and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hydrogen",
         "hydrogens"
       ],
-      "example": "This hydrogen matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "impose",
@@ -2528,9 +2172,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "impose a plan",
-        "impose carefully",
-        "impose with others"
+        "impose a condition"
       ],
       "wordFamily": [
         "impose",
@@ -2538,8 +2180,8 @@ export default {
         "imposes",
         "imposing"
       ],
-      "example": "We can impose the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Do not impose a condition at the last minute.",
+      "exampleZh": "不要在最后一刻强加条件。"
     },
     {
       "word": "executive",
@@ -2554,62 +2196,72 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a executive approach",
-        "remain executive",
-        "executive enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "executive",
         "executives"
       ],
-      "example": "A executive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     }
   ],
   "passage": {
-    "title": "Find common ground",
+    "title": "More Than a Lower Price",
+    "genre": "协商故事",
     "paragraphs": [
-      "A real work task usually begins with a small decision. In this lesson, we look at find common ground through a situation involving email, meetings, feedback, problems, negotiation, trust, presentations, remote work, and careers. The aim is to notice how people explain a choice and keep the next step practical. The first useful terms are various, participate, payment, enjoy, reception, start, battle, smile, bee, appointment.",
-      "When the situation changes, a clear speaker can pause, ask for clarification, and respond with evidence. In this case, the conversation also involves horror, if, hit, recipe, stop, website, anyway, united, birthday, myself. These terms help a learner describe what is happening without forcing every expression into one sentence.",
-      "The final part of the task brings in into, gym, creative, nervous, sense, compare, arrival, small, ground, rubbish. By the end, connect at least one phrase to something you have done, need to do, or may discuss tomorrow. A word becomes easier to remember when it helps you complete a real task."
+      "A community gym wanted to hire Sara to create a new website. At their appointment, the executive explained that the payment would be lower than she had expected. Sara felt nervous. She needed the work, but she also knew that the project would require much more than a few attractive pages and a link to the reception desk.",
+      "Rather than treat the discussion as a battle, she asked which features were crucial. The gym wanted visitors to compare classes and purchase a membership. A sophisticated collection of training videos could wait. Sara proposed a small first version, followed by additional work if enough members chose to participate.",
+      "This gave them common ground. The executive showed a willingness to adjust the schedule, and Sara offered a concession on the first payment. In return, the gym would provide written content before she began. Transparency about their limits helped them allocate time and money instead of making promises neither side could keep.",
+      "They left the meeting with a written agreement and a date to review the result. Sara had not achieved every original aim, yet she felt satisfied. A useful negotiation did not always end with one side winning dramatically. Sometimes the creative step was to change the shape of the task so that both sides could start with confidence.",
+      "In the second meeting, the two sides moved from positions to interests. Before they sat down, both had to contemplate a change to their usual terms. Each began with full transparency about what mattered most, and they compared comparable prices from other suppliers so the numbers were not a mystery. Cost was a crucial factor, but not the only one. Rather than a simple demand, they took a sophisticated approach: each side would make a concession that cost little but helped the other. Nobody used a negotiating tactic designed to trick, and both agreed to enforce the rules they set together.",
+      "By the end, they could reach an understanding that both could defend to their teams. They agreed to allocate resources for a trial month, to renew the contract only if it worked, and to set a fair payment schedule. Neither side would impose a condition at the last minute. When a genuine concern came up about delivery, they wrote it down instead of hiding it. A large purchase, they realised, is easier when the relationship is built to last."
     ],
     "translation": [
-      "一个真实的work任务通常从一个小决定开始。本课通过email, meetings, feedback, problems, negotiation, trust, presentations, remote work, and careers相关的情境，理解如何解释选择，并让下一步切实可行。",
-      "情况变化时，清晰的表达者可以停顿、请求澄清，并用证据回应。与其把所有新表达硬塞进一句话，不如在对话、例句和后续任务中反复遇见实用语言。",
-      "请用这组词把情境变成自己的经历，从various, participate, payment, enjoy, reception, start, battle, smile, bee, appointment中至少选一个短语，联系你做过、需要做或明天可能讨论的事情。词汇在完成真实任务时更容易记住。"
+      "一家社区健身房想雇萨拉制作新网站。见面时，负责人说明报酬会低于她的预期。萨拉感到紧张。她需要这份工作，但也知道，项目远不只是几张好看的网页和一个联系前台的链接。",
+      "萨拉没有把讨论当成战斗，而是问哪些功能最关键。健身房希望访客能比较课程并购买会员资格，复杂的训练视频库可以以后再做。她提议先做一个小版本，如果有足够会员参与，再增加功能。",
+      "这样一来，双方有了共同立场。负责人愿意调整时间表，萨拉在首笔付款上作出让步。作为交换，健身房会在她开工前提供书面文案。坦诚说明限制，帮助双方分配时间和资金，而不作无法兑现的承诺。",
+      "他们带着书面协议和评估成果的日期结束了会议。萨拉没有实现最初的每一个目标，但感到满意。有效的协商不一定以某一方大获全胜告终。有时，创造性的做法是改变任务范围，让双方都能有信心地开始。",
+      "第二次会谈时，双方从立场转向了利益。坐下来之前，两边都得考虑改变各自惯常的条款。彼此都以充分的透明开场，说明各自最看重什么，并对比了其他供应商的可比价格，好让数字不再是谜。成本是一个关键因素，但不是唯一的。他们没有简单地提要求，而是采取了更精细的做法：各方都做出一个自己代价不大、却能帮到对方的让步。没有人使用旨在耍手段的谈判策略，双方也同意共同执行他们定下的规则。",
+      "到最后，他们达成了一个双方都能向各自团队交代的谅解。他们同意先拨出资源试行一个月，只有行得通才续签合同，并商定一份公平的付款安排。任何一方都不会在最后一刻强加条件。当出现关于交付的真实顾虑时，他们把它写下来，而不是藏起来。他们意识到，当关系是奔着长久去建立的，一笔大额采购就会容易得多。"
     ],
     "highlightedWords": [
-      "various",
       "participate",
       "payment",
-      "enjoy",
       "reception",
       "start",
       "battle",
-      "smile",
-      "bee",
       "appointment",
-      "horror",
       "if",
-      "hit",
-      "recipe",
-      "stop",
       "website",
-      "anyway",
-      "united",
-      "birthday",
-      "myself",
-      "into",
       "gym",
       "creative",
       "nervous",
-      "sense",
       "compare",
-      "arrival",
       "small",
       "ground",
-      "rubbish"
+      "achieve",
+      "collection",
+      "written",
+      "link",
+      "understanding",
+      "attractive",
+      "willingness",
+      "comparable",
+      "contemplate",
+      "enforce",
+      "transparency",
+      "renew",
+      "purchase",
+      "crucial",
+      "sophisticated",
+      "tactic",
+      "allocate",
+      "concession",
+      "concern",
+      "hire",
+      "dramatically",
+      "impose",
+      "executive"
     ]
   },
   "topic": "work",
@@ -2627,17 +2279,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a various approach",
-        "remain various",
-        "various enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "various",
         "variou"
       ],
-      "example": "A various approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "participate",
@@ -2652,19 +2300,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "participate a plan",
-        "participate carefully",
-        "participate with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "participate",
         "participating",
         "participated",
         "participates"
       ],
-      "example": "We can participate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "payment",
@@ -2680,17 +2324,15 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a payment",
-        "the role of payment",
-        "payment and evidence"
+        "a fair payment"
       ],
       "wordFamily": [
         "payment",
         "payments",
         "pay"
       ],
-      "example": "This payment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Workers deserve a fair payment for extra hours.",
+      "exampleZh": "工人加班理应得到公平的报酬。"
     },
     {
       "word": "enjoy",
@@ -2705,19 +2347,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "enjoy a plan",
-        "enjoy carefully",
-        "enjoy with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "enjoy",
         "enjoyed",
         "enjoying",
         "enjoys"
       ],
-      "example": "We can enjoy the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "reception",
@@ -2732,18 +2370,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a reception",
-        "the role of reception",
-        "reception and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "reception",
         "receptions",
         "recepte"
       ],
-      "example": "This reception matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "start",
@@ -2758,19 +2392,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a start",
-        "the role of start",
-        "start and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "start",
         "started",
         "starts",
         "starting"
       ],
-      "example": "This start matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "battle",
@@ -2785,19 +2415,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a battle",
-        "the role of battle",
-        "battle and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "battle",
         "battles",
         "battling",
         "battled"
       ],
-      "example": "This battle matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "smile",
@@ -2812,19 +2438,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a smile",
-        "the role of smile",
-        "smile and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "smile",
         "smiled",
         "smiling",
         "smiles"
       ],
-      "example": "This smile matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "bee",
@@ -2839,17 +2461,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a bee",
-        "the role of bee",
-        "bee and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "bee",
         "bees"
       ],
-      "example": "This bee matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "appointment",
@@ -2864,18 +2482,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a appointment",
-        "the role of appointment",
-        "appointment and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "appointment",
         "appointments",
         "appoint"
       ],
-      "example": "This appointment matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "horror",
@@ -2890,17 +2504,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a horror",
-        "the role of horror",
-        "horror and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "horror",
         "horrors"
       ],
-      "example": "This horror matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "if",
@@ -2915,16 +2525,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a if",
-        "the role of if",
-        "if and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "if"
       ],
-      "example": "This if matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hit",
@@ -2939,19 +2545,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a hit",
-        "the role of hit",
-        "hit and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hit",
         "pd",
         "hitting",
         "hits"
       ],
-      "example": "This hit matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "recipe",
@@ -2966,17 +2568,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a recipe",
-        "the role of recipe",
-        "recipe and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "recipe",
         "recipes"
       ],
-      "example": "This recipe matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "stop",
@@ -2991,19 +2589,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a stop",
-        "the role of stop",
-        "stop and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "stop",
         "stopped",
         "stopping",
         "stops"
       ],
-      "example": "This stop matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "website",
@@ -3018,16 +2612,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a website",
-        "the role of website",
-        "website and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "website"
       ],
-      "example": "This website matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "anyway",
@@ -3042,17 +2632,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "anyway a plan",
-        "anyway carefully",
-        "anyway with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "anyway",
         "anyways"
       ],
-      "example": "We can anyway the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "united",
@@ -3067,18 +2653,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a united approach",
-        "remain united",
-        "united enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "united",
         "dp",
         "unit"
       ],
-      "example": "A united approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "birthday",
@@ -3093,17 +2675,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a birthday",
-        "the role of birthday",
-        "birthday and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "birthday",
         "birthdays"
       ],
-      "example": "This birthday matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "myself",
@@ -3118,16 +2696,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a myself",
-        "the role of myself",
-        "myself and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "myself"
       ],
-      "example": "This myself matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "into",
@@ -3142,16 +2716,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a into",
-        "the role of into",
-        "into and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "into"
       ],
-      "example": "This into matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "gym",
@@ -3166,17 +2736,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a gym",
-        "the role of gym",
-        "gym and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "gym",
         "gyms"
       ],
-      "example": "This gym matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "creative",
@@ -3191,17 +2757,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a creative approach",
-        "remain creative",
-        "creative enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "creative",
         "creatives"
       ],
-      "example": "A creative approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "nervous",
@@ -3216,17 +2778,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a nervous approach",
-        "remain nervous",
-        "nervous enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "nervous",
         "nervou"
       ],
-      "example": "A nervous approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "sense",
@@ -3241,19 +2799,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a sense",
-        "the role of sense",
-        "sense and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sense",
         "senses",
         "sensed",
         "sensing"
       ],
-      "example": "This sense matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "compare",
@@ -3268,19 +2822,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "compare a plan",
-        "compare carefully",
-        "compare with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "compare",
         "compared",
         "comparing",
         "compares"
       ],
-      "example": "We can compare the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "arrival",
@@ -3295,17 +2845,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a arrival",
-        "the role of arrival",
-        "arrival and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "arrival",
         "arrivals"
       ],
-      "example": "This arrival matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "small",
@@ -3320,18 +2866,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a small approach",
-        "remain small",
-        "small enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "small",
         "smaller",
         "smallest"
       ],
-      "example": "A small approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "ground",
@@ -3347,9 +2889,7 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a ground",
-        "the role of ground",
-        "ground and evidence"
+        "common ground"
       ],
       "wordFamily": [
         "ground",
@@ -3357,8 +2897,8 @@ export default {
         "grounded",
         "grind"
       ],
-      "example": "This ground matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "We need to find common ground before discussing price.",
+      "exampleZh": "谈价格前，我们需要找到共同立场。"
     },
     {
       "word": "rubbish",
@@ -3373,16 +2913,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a rubbish",
-        "the role of rubbish",
-        "rubbish and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "rubbish"
       ],
-      "example": "This rubbish matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "sweet",
@@ -3397,19 +2933,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a sweet approach",
-        "remain sweet",
-        "sweet enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sweet",
         "sweets",
         "sweeter",
         "sweetest"
       ],
-      "example": "A sweet approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "unemployed",
@@ -3424,17 +2956,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a unemployed approach",
-        "remain unemployed",
-        "unemployed enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "unemployed",
         "unemploy"
       ],
-      "example": "A unemployed approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "achieve",
@@ -3449,19 +2977,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "achieve a plan",
-        "achieve carefully",
-        "achieve with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "achieve",
         "achieved",
         "achieving",
         "achieves"
       ],
-      "example": "We can achieve the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "collection",
@@ -3476,18 +3000,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a collection",
-        "the role of collection",
-        "collection and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "collection",
         "collections",
         "collecte"
       ],
-      "example": "This collection matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "fancy",
@@ -3502,19 +3022,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a fancy approach",
-        "remain fancy",
-        "fancy enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "fancy",
         "fancied",
         "fancies",
         "fancying"
       ],
-      "example": "A fancy approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "punish",
@@ -3529,19 +3045,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "punish a plan",
-        "punish carefully",
-        "punish with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "punish",
         "punished",
         "punishing",
         "punishes"
       ],
-      "example": "We can punish the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hungry",
@@ -3556,18 +3068,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a hungry approach",
-        "remain hungry",
-        "hungry enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hungry",
         "hungrier",
         "hungriest"
       ],
-      "example": "A hungry approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "written",
@@ -3583,16 +3091,14 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a written approach",
-        "remain written",
-        "written enough"
+        "a written agreement"
       ],
       "wordFamily": [
         "written",
         "write"
       ],
-      "example": "A written approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "We signed a written agreement before starting.",
+      "exampleZh": "开始前，我们签了书面协议。"
     },
     {
       "word": "professor",
@@ -3607,17 +3113,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a professor",
-        "the role of professor",
-        "professor and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "professor",
         "professors"
       ],
-      "example": "This professor matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "lady",
@@ -3632,17 +3134,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a lady",
-        "the role of lady",
-        "lady and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "lady",
         "ladies"
       ],
-      "example": "This lady matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "evening",
@@ -3657,18 +3155,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a evening",
-        "the role of evening",
-        "evening and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "evening",
         "even",
         "evenings"
       ],
-      "example": "This evening matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "ahead",
@@ -3683,16 +3177,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "ahead a plan",
-        "ahead carefully",
-        "ahead with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "ahead"
       ],
-      "example": "We can ahead the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "dry",
@@ -3707,19 +3197,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a dry approach",
-        "remain dry",
-        "dry enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "dry",
         "dried",
         "drying",
         "dries"
       ],
-      "example": "A dry approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "link",
@@ -3734,19 +3220,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a link",
-        "the role of link",
-        "link and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "link",
         "linked",
         "links",
         "linking"
       ],
-      "example": "This link matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "eastern",
@@ -3761,16 +3243,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a eastern approach",
-        "remain eastern",
-        "eastern enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "eastern"
       ],
-      "example": "A eastern approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "distance",
@@ -3785,19 +3263,15 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a distance",
-        "the role of distance",
-        "distance and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "distance",
         "distances",
         "distancing",
         "distanced"
       ],
-      "example": "This distance matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "king",
@@ -3812,17 +3286,13 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a king",
-        "the role of king",
-        "king and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "king",
         "kings"
       ],
-      "example": "This king matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "tall",
@@ -3837,18 +3307,14 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a tall approach",
-        "remain tall",
-        "tall enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "tall",
         "taller",
         "tallest"
       ],
-      "example": "A tall approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "understanding",
@@ -3864,17 +3330,15 @@ export default {
       "role": "activation",
       "topic": "work",
       "collocations": [
-        "a understanding",
-        "the role of understanding",
-        "understanding and evidence"
+        "reach an understanding"
       ],
       "wordFamily": [
         "understanding",
         "understand",
         "understandings"
       ],
-      "example": "This understanding matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "We hope to reach an understanding today.",
+      "exampleZh": "我们希望今天达成谅解。"
     },
     {
       "word": "attractive",
@@ -3889,16 +3353,12 @@ export default {
       "source": "Oxford 5000",
       "role": "activation",
       "topic": "work",
-      "collocations": [
-        "a attractive approach",
-        "remain attractive",
-        "attractive enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "attractive"
       ],
-      "example": "A attractive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "willingness",
@@ -3914,17 +3374,15 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a willingness",
-        "the role of willingness",
-        "willingness and evidence"
+        "a willingness to"
       ],
       "wordFamily": [
         "willingness",
         "willing",
         "willingnes"
       ],
-      "example": "This willingness matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "They showed a willingness to adjust the plan.",
+      "exampleZh": "他们表示愿意调整计划。"
     },
     {
       "word": "comparable",
@@ -3940,16 +3398,14 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a comparable approach",
-        "remain comparable",
-        "comparable enough"
+        "comparable prices"
       ],
       "wordFamily": [
         "comparable",
         "compar"
       ],
-      "example": "A comparable approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The two shops offer comparable prices.",
+      "exampleZh": "两家店的价格相近，可以比较。"
     },
     {
       "word": "contemplate",
@@ -3965,9 +3421,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "contemplate a plan",
-        "contemplate carefully",
-        "contemplate with others"
+        "contemplate a change"
       ],
       "wordFamily": [
         "contemplate",
@@ -3975,8 +3429,8 @@ export default {
         "contemplated",
         "contemplates"
       ],
-      "example": "We can contemplate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "They had to contemplate a change to the plan.",
+      "exampleZh": "他们不得不考虑改变计划。"
     },
     {
       "word": "enforce",
@@ -3992,9 +3446,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "enforce a plan",
-        "enforce carefully",
-        "enforce with others"
+        "enforce the rules"
       ],
       "wordFamily": [
         "enforce",
@@ -4002,8 +3454,8 @@ export default {
         "enforcing",
         "enforces"
       ],
-      "example": "We can enforce the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "It is hard to enforce the rules fairly.",
+      "exampleZh": "公平地执行规则并不容易。"
     },
     {
       "word": "sequence",
@@ -4018,19 +3470,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a sequence",
-        "the role of sequence",
-        "sequence and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "sequence",
         "sequences",
         "sequenced",
         "sequencing"
       ],
-      "example": "This sequence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "transparency",
@@ -4046,15 +3494,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a transparency",
-        "the role of transparency",
-        "transparency and evidence"
+        "full transparency"
       ],
       "wordFamily": [
         "transparency"
       ],
-      "example": "This transparency matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Customers expect full transparency about fees.",
+      "exampleZh": "客户期待收费上的充分透明。"
     },
     {
       "word": "intimate",
@@ -4069,19 +3515,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a intimate approach",
-        "remain intimate",
-        "intimate enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "intimate",
         "intimated",
         "intimates",
         "intimating"
       ],
-      "example": "A intimate approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "tragic",
@@ -4096,16 +3538,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a tragic approach",
-        "remain tragic",
-        "tragic enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "tragic"
       ],
-      "example": "A tragic approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "audio",
@@ -4120,16 +3558,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a audio approach",
-        "remain audio",
-        "audio enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "audio"
       ],
-      "example": "A audio approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "besides",
@@ -4144,17 +3578,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "besides a plan",
-        "besides carefully",
-        "besides with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "besides",
         "beside"
       ],
-      "example": "We can besides the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "elite",
@@ -4169,17 +3599,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a elite",
-        "the role of elite",
-        "elite and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "elite",
         "elites"
       ],
-      "example": "This elite matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "institute",
@@ -4194,16 +3620,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a institute",
-        "the role of institute",
-        "institute and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "institute"
       ],
-      "example": "This institute matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "nomination",
@@ -4218,18 +3640,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a nomination",
-        "the role of nomination",
-        "nomination and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "nomination",
         "nominations",
         "nominate"
       ],
-      "example": "This nomination matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "renew",
@@ -4245,15 +3663,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "renew a plan",
-        "renew carefully",
-        "renew with others"
+        "renew the contract"
       ],
       "wordFamily": [
         "renew"
       ],
-      "example": "We can renew the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "They agreed to renew the contract for a year.",
+      "exampleZh": "他们同意把合同续签一年。"
     },
     {
       "word": "purchase",
@@ -4269,9 +3685,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a purchase",
-        "the role of purchase",
-        "purchase and evidence"
+        "a large purchase"
       ],
       "wordFamily": [
         "purchase",
@@ -4279,8 +3693,8 @@ export default {
         "purchases",
         "purchasing"
       ],
-      "example": "This purchase matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Think twice before a large purchase.",
+      "exampleZh": "大额采购前要三思。"
     },
     {
       "word": "presence",
@@ -4295,17 +3709,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a presence",
-        "the role of presence",
-        "presence and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "presence",
         "presences"
       ],
-      "example": "This presence matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "opt",
@@ -4320,19 +3730,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "opt a plan",
-        "opt carefully",
-        "opt with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "opt",
         "opting",
         "opted",
         "opts"
       ],
-      "example": "We can opt the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "crucial",
@@ -4348,15 +3754,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a crucial approach",
-        "remain crucial",
-        "crucial enough"
+        "a crucial factor"
       ],
       "wordFamily": [
         "crucial"
       ],
-      "example": "A crucial approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Timing was a crucial factor in the deal.",
+      "exampleZh": "时机是这笔交易中的关键因素。"
     },
     {
       "word": "spine",
@@ -4371,17 +3775,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a spine",
-        "the role of spine",
-        "spine and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "spine",
         "spines"
       ],
-      "example": "This spine matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "undergraduate",
@@ -4396,17 +3796,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a undergraduate",
-        "the role of undergraduate",
-        "undergraduate and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "undergraduate",
         "undergraduates"
       ],
-      "example": "This undergraduate matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "sophisticated",
@@ -4422,9 +3818,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a sophisticated approach",
-        "remain sophisticated",
-        "sophisticated enough"
+        "a sophisticated approach"
       ],
       "wordFamily": [
         "sophisticated",
@@ -4432,8 +3826,8 @@ export default {
         "sophisticate",
         "sophisticat"
       ],
-      "example": "A sophisticated approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The team took a sophisticated approach to pricing.",
+      "exampleZh": "团队在定价上采取了精细的做法。"
     },
     {
       "word": "resignation",
@@ -4448,17 +3842,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a resignation",
-        "the role of resignation",
-        "resignation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "resignation",
         "resignate"
       ],
-      "example": "This resignation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "mineral",
@@ -4473,17 +3863,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a mineral",
-        "the role of mineral",
-        "mineral and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "mineral",
         "minerals"
       ],
-      "example": "This mineral matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "isolation",
@@ -4498,18 +3884,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a isolation",
-        "the role of isolation",
-        "isolation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "isolation",
         "isolations",
         "isolate"
       ],
-      "example": "This isolation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "robbery",
@@ -4524,16 +3906,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a robbery",
-        "the role of robbery",
-        "robbery and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "robbery"
       ],
-      "example": "This robbery matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "compensation",
@@ -4548,18 +3926,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a compensation",
-        "the role of compensation",
-        "compensation and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "compensation",
         "compensations",
         "compensate"
       ],
-      "example": "This compensation matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "tactic",
@@ -4575,16 +3949,14 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a tactic",
-        "the role of tactic",
-        "tactic and evidence"
+        "a negotiating tactic"
       ],
       "wordFamily": [
         "tactic",
         "tactics"
       ],
-      "example": "This tactic matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Silence can be a negotiating tactic.",
+      "exampleZh": "沉默可以是一种谈判策略。"
     },
     {
       "word": "amateur",
@@ -4599,16 +3971,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a amateur approach",
-        "remain amateur",
-        "amateur enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "amateur"
       ],
-      "example": "A amateur approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "artificial",
@@ -4623,17 +3991,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a artificial approach",
-        "remain artificial",
-        "artificial enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "artificial",
         "artificials"
       ],
-      "example": "A artificial approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "allocate",
@@ -4649,15 +4013,13 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "allocate a plan",
-        "allocate carefully",
-        "allocate with others"
+        "allocate resources"
       ],
       "wordFamily": [
         "allocate"
       ],
-      "example": "We can allocate the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The board will allocate resources to the trial.",
+      "exampleZh": "董事会将为这次试行分配资源。"
     },
     {
       "word": "concession",
@@ -4673,16 +4035,14 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a concession",
-        "the role of concession",
-        "concession and evidence"
+        "make a concession"
       ],
       "wordFamily": [
         "concession",
         "concessions"
       ],
-      "example": "This concession matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Each side had to make a concession.",
+      "exampleZh": "每一方都得做出一个让步。"
     },
     {
       "word": "receiver",
@@ -4697,18 +4057,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a receiver",
-        "the role of receiver",
-        "receiver and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "receiver",
         "receivers",
         "receiv"
       ],
-      "example": "This receiver matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "concern",
@@ -4724,9 +4080,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a concern",
-        "the role of concern",
-        "concern and evidence"
+        "a genuine concern"
       ],
       "wordFamily": [
         "concern",
@@ -4734,8 +4088,8 @@ export default {
         "concerned",
         "concerning"
       ],
-      "example": "This concern matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "She raised a genuine concern about safety.",
+      "exampleZh": "她就安全提出了一个真实的顾虑。"
     },
     {
       "word": "genocide",
@@ -4750,16 +4104,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a genocide",
-        "the role of genocide",
-        "genocide and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "genocide"
       ],
-      "example": "This genocide matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "cell",
@@ -4774,17 +4124,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a cell",
-        "the role of cell",
-        "cell and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "cell",
         "cells"
       ],
-      "example": "This cell matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "senator",
@@ -4799,17 +4145,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a senator",
-        "the role of senator",
-        "senator and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "senator",
         "senators"
       ],
-      "example": "This senator matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "trading",
@@ -4824,18 +4166,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a trading",
-        "the role of trading",
-        "trading and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "trading",
         "trade",
         "trad"
       ],
-      "example": "This trading matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hire",
@@ -4851,9 +4189,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "a hire",
-        "the role of hire",
-        "hire and evidence"
+        "hire Sara"
       ],
       "wordFamily": [
         "hire",
@@ -4861,8 +4197,8 @@ export default {
         "hiring",
         "hires"
       ],
-      "example": "This hire matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "The gym wants to hire Sara to build its website.",
+      "exampleZh": "健身房想雇萨拉制作网站。"
     },
     {
       "word": "reminder",
@@ -4877,18 +4213,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a reminder",
-        "the role of reminder",
-        "reminder and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "reminder",
         "reminders",
         "remind"
       ],
-      "example": "This reminder matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "placement",
@@ -4903,18 +4235,14 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a placement",
-        "the role of placement",
-        "placement and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "placement",
         "placements",
         "place"
       ],
-      "example": "This placement matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "dramatically",
@@ -4929,17 +4257,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "dramatically a plan",
-        "dramatically carefully",
-        "dramatically with others"
-      ],
+      "collocations": [],
       "wordFamily": [
         "dramatically",
         "dramatical"
       ],
-      "example": "We can dramatically the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "privilege",
@@ -4954,19 +4278,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a privilege",
-        "the role of privilege",
-        "privilege and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "privilege",
         "privileges",
         "privileging",
         "privileged"
       ],
-      "example": "This privilege matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "battlefield",
@@ -4981,16 +4301,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a battlefield",
-        "the role of battlefield",
-        "battlefield and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "battlefield"
       ],
-      "example": "This battlefield matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "labour",
@@ -5005,16 +4321,12 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a labour",
-        "the role of labour",
-        "labour and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "labour"
       ],
-      "example": "This labour matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "legislature",
@@ -5029,17 +4341,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a legislature",
-        "the role of legislature",
-        "legislature and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "legislature",
         "legislatures"
       ],
-      "example": "This legislature matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "portion",
@@ -5054,19 +4362,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a portion",
-        "the role of portion",
-        "portion and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "portion",
         "portions",
         "portioned",
         "portioning"
       ],
-      "example": "This portion matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "trigger",
@@ -5081,19 +4385,15 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a trigger",
-        "the role of trigger",
-        "trigger and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "trigger",
         "triggered",
         "triggering",
         "triggers"
       ],
-      "example": "This trigger matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "hydrogen",
@@ -5108,17 +4408,13 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a hydrogen",
-        "the role of hydrogen",
-        "hydrogen and evidence"
-      ],
+      "collocations": [],
       "wordFamily": [
         "hydrogen",
         "hydrogens"
       ],
-      "example": "This hydrogen matters when people need to make a clear decision.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     },
     {
       "word": "impose",
@@ -5134,9 +4430,7 @@ export default {
       "role": "extension",
       "topic": "work",
       "collocations": [
-        "impose a plan",
-        "impose carefully",
-        "impose with others"
+        "impose a condition"
       ],
       "wordFamily": [
         "impose",
@@ -5144,8 +4438,8 @@ export default {
         "imposes",
         "imposing"
       ],
-      "example": "We can impose the next step together.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "Do not impose a condition at the last minute.",
+      "exampleZh": "不要在最后一刻强加条件。"
     },
     {
       "word": "executive",
@@ -5160,68 +4454,521 @@ export default {
       "source": "Oxford 5000",
       "role": "extension",
       "topic": "work",
-      "collocations": [
-        "a executive approach",
-        "remain executive",
-        "executive enough"
-      ],
+      "collocations": [],
       "wordFamily": [
         "executive",
         "executives"
       ],
-      "example": "A executive approach makes the situation easier to explain.",
-      "exampleZh": "把这个词放回本课真实场景中使用。"
+      "example": "",
+      "exampleZh": ""
     }
   ],
   "focusWords": [
-    "various",
-    "participate",
-    "payment",
-    "enjoy",
-    "reception",
-    "start",
-    "battle",
-    "smile",
-    "bee",
-    "appointment",
-    "horror",
-    "if"
+    "hire",
+    "ground",
+    "willingness",
+    "written",
+    "contemplate",
+    "transparency",
+    "comparable",
+    "crucial",
+    "sophisticated",
+    "concession",
+    "tactic",
+    "enforce"
   ],
   "practice": {
     "multipleChoice": [
       {
-        "question": "Which expression best fits the work situation?",
+        "question": "What allows Sara and the gym to reach agreement?",
         "options": [
-          "a various approach",
-          "participate a plan",
-          "ignore the context"
+          "Sara accepts unlimited work for less pay.",
+          "They redefine the first stage of the project.",
+          "The gym abandons its website."
         ],
-        "answer": 0,
-        "explanation": "Use various in a phrase rather than studying it in isolation."
+        "answer": 1,
+        "explanation": "双方缩小首期范围，明确各自提供的内容和时间安排，而非单纯压低价格。"
       }
     ],
     "cloze": [
       {
-        "sentence": "A clear speaker can ___ the next step and explain the reason.",
-        "answer": "various",
+        "sentence": "The gym wants to ___ to build its website.",
+        "answer": "hire Sara",
         "wordBank": [
-          "various",
-          "participate",
-          "forget"
-        ]
+          "a willingness to",
+          "common ground",
+          "hire Sara"
+        ],
+        "explanation": "雇用萨拉。hire + 人 + to do something；也可用 hire someone for a job。",
+        "phraseId": "16-1"
+      },
+      {
+        "sentence": "We need to find ___ before discussing price.",
+        "answer": "common ground",
+        "wordBank": [
+          "a willingness to",
+          "common ground",
+          "in return"
+        ],
+        "explanation": "共同立场；共同点。find common ground 表示找出双方能认同的部分。",
+        "phraseId": "16-2"
+      },
+      {
+        "sentence": "They showed ___ adjust the plan.",
+        "answer": "a willingness to",
+        "wordBank": [
+          "a willingness to",
+          "a written agreement",
+          "in return"
+        ],
+        "explanation": "做……的意愿。show a willingness to + 动词原形。",
+        "phraseId": "16-3"
+      },
+      {
+        "sentence": "I offered more time and asked for clear content ___.",
+        "answer": "in return",
+        "wordBank": [
+          "a written agreement",
+          "contemplate a change",
+          "in return"
+        ],
+        "explanation": "作为交换；作为回报。in return for + 所交换的事物。",
+        "phraseId": "16-4"
+      },
+      {
+        "sentence": "We signed ___ before starting.",
+        "answer": "a written agreement",
+        "wordBank": [
+          "a written agreement",
+          "contemplate a change",
+          "full transparency"
+        ],
+        "explanation": "一份书面协议。written 作定语，与 verbal agreement 口头协议相对。",
+        "phraseId": "16-5"
+      },
+      {
+        "sentence": "They had to ___ to the plan.",
+        "answer": "contemplate a change",
+        "wordBank": [
+          "comparable prices",
+          "contemplate a change",
+          "full transparency"
+        ],
+        "explanation": "考虑做出改变。contemplate 指认真考虑，比 think about 正式。",
+        "phraseId": "16-6"
+      },
+      {
+        "sentence": "Customers expect ___ about fees.",
+        "answer": "full transparency",
+        "wordBank": [
+          "a crucial factor",
+          "comparable prices",
+          "full transparency"
+        ],
+        "explanation": "充分的透明。transparency 指公开透明，常与 full、complete 连用。",
+        "phraseId": "16-7"
+      },
+      {
+        "sentence": "The two shops offer ___.",
+        "answer": "comparable prices",
+        "wordBank": [
+          "a crucial factor",
+          "a sophisticated approach",
+          "comparable prices"
+        ],
+        "explanation": "可比的价格。comparable 表示可比较的，常修饰 prices、data、results。",
+        "phraseId": "16-8"
+      },
+      {
+        "sentence": "Timing was ___ in the deal.",
+        "answer": "a crucial factor",
+        "wordBank": [
+          "a crucial factor",
+          "a sophisticated approach",
+          "make a concession"
+        ],
+        "explanation": "关键因素。crucial 表示至关重要的，常修饰 factor、role、moment。",
+        "phraseId": "16-9"
+      },
+      {
+        "sentence": "The team took ___ to pricing.",
+        "answer": "a sophisticated approach",
+        "wordBank": [
+          "a negotiating tactic",
+          "a sophisticated approach",
+          "make a concession"
+        ],
+        "explanation": "精细的做法。sophisticated 表示复杂精妙的，常修饰 approach、system。",
+        "phraseId": "16-10"
+      },
+      {
+        "sentence": "Each side had to ___.",
+        "answer": "make a concession",
+        "wordBank": [
+          "a negotiating tactic",
+          "enforce the rules",
+          "make a concession"
+        ],
+        "explanation": "做出让步。concession 指让步，常与 make、offer、win 连用。",
+        "phraseId": "16-11"
+      },
+      {
+        "sentence": "Silence can be ___.",
+        "answer": "a negotiating tactic",
+        "wordBank": [
+          "a negotiating tactic",
+          "enforce the rules",
+          "reach an understanding"
+        ],
+        "explanation": "谈判策略。tactic 指手段、策略，常与 use、employ 连用。",
+        "phraseId": "16-12"
+      },
+      {
+        "sentence": "It is hard to ___ fairly.",
+        "answer": "enforce the rules",
+        "wordBank": [
+          "allocate resources",
+          "enforce the rules",
+          "reach an understanding"
+        ],
+        "explanation": "执行规则。enforce 指强制执行，常接 rules、law、policy。",
+        "phraseId": "16-13"
+      },
+      {
+        "sentence": "We hope to ___ today.",
+        "answer": "reach an understanding",
+        "wordBank": [
+          "allocate resources",
+          "reach an understanding",
+          "renew the contract"
+        ],
+        "explanation": "达成谅解。understanding 在此指共识，常与 reach、come to 连用。",
+        "phraseId": "16-14"
+      },
+      {
+        "sentence": "The board will ___ to the trial.",
+        "answer": "allocate resources",
+        "wordBank": [
+          "a fair payment",
+          "allocate resources",
+          "renew the contract"
+        ],
+        "explanation": "分配资源。allocate 指分配，常接 resources、funds、time。",
+        "phraseId": "16-15"
+      },
+      {
+        "sentence": "They agreed to ___ for a year.",
+        "answer": "renew the contract",
+        "wordBank": [
+          "a fair payment",
+          "impose a condition",
+          "renew the contract"
+        ],
+        "explanation": "续签合同。renew 指续期、更新，常接 contract、licence、visa。",
+        "phraseId": "16-16"
+      },
+      {
+        "sentence": "Workers deserve ___ for extra hours.",
+        "answer": "a fair payment",
+        "wordBank": [
+          "a fair payment",
+          "a genuine concern",
+          "impose a condition"
+        ],
+        "explanation": "公平的付款。payment 指付款，常与 fair、late、monthly 连用。",
+        "phraseId": "16-17"
+      },
+      {
+        "sentence": "Do not ___ at the last minute.",
+        "answer": "impose a condition",
+        "wordBank": [
+          "a genuine concern",
+          "a large purchase",
+          "impose a condition"
+        ],
+        "explanation": "强加条件。impose 指强加，常接 condition、rule、tax。",
+        "phraseId": "16-18"
+      },
+      {
+        "sentence": "She raised ___ about safety.",
+        "answer": "a genuine concern",
+        "wordBank": [
+          "a genuine concern",
+          "a large purchase",
+          "hire Sara"
+        ],
+        "explanation": "真实的顾虑。genuine 表示真实的；concern 指担忧、关切。",
+        "phraseId": "16-19"
+      },
+      {
+        "sentence": "Think twice before ___.",
+        "answer": "a large purchase",
+        "wordBank": [
+          "a large purchase",
+          "common ground",
+          "hire Sara"
+        ],
+        "explanation": "大额采购。purchase 指购买，常与 large、bulk、online 连用。",
+        "phraseId": "16-20"
       }
     ],
     "translation": [
       {
-        "prompt": "请用 various 和 participate 说清楚本课场景中的一个下一步。",
-        "answer": "Use various and participate to explain the next step in this situation."
+        "prompt": "请用 hire Sara 翻译：健身房想雇萨拉制作网站。",
+        "answer": "The gym wants to hire Sara to build its website."
+      },
+      {
+        "prompt": "请用 common ground 翻译：谈价格前，我们需要找到共同立场。",
+        "answer": "We need to find common ground before discussing price."
       }
     ]
   },
   "stats": {
     "extensionWords": 50,
     "activationWords": 50,
-    "passageWords": 30,
-    "collocations": 300
-  }
+    "passageWords": 37,
+    "collocations": 20,
+    "readingWords": 397,
+    "phrases": 20
+  },
+  "phrases": [
+    {
+      "id": "16-1",
+      "en": "hire Sara",
+      "zh": "雇用萨拉",
+      "usage": "hire + 人 + to do something；也可用 hire someone for a job。",
+      "example": "The gym wants to hire Sara to build its website.",
+      "exampleZh": "健身房想雇萨拉制作网站。",
+      "paragraph": 0,
+      "targetWords": [
+        "hire"
+      ]
+    },
+    {
+      "id": "16-2",
+      "en": "common ground",
+      "zh": "共同立场；共同点",
+      "usage": "find common ground 表示找出双方能认同的部分。",
+      "example": "We need to find common ground before discussing price.",
+      "exampleZh": "谈价格前，我们需要找到共同立场。",
+      "paragraph": 2,
+      "targetWords": [
+        "ground"
+      ]
+    },
+    {
+      "id": "16-3",
+      "en": "a willingness to",
+      "zh": "做……的意愿",
+      "usage": "show a willingness to + 动词原形。",
+      "example": "They showed a willingness to adjust the plan.",
+      "exampleZh": "他们表示愿意调整计划。",
+      "paragraph": 2,
+      "targetWords": [
+        "willingness"
+      ]
+    },
+    {
+      "id": "16-4",
+      "en": "in return",
+      "zh": "作为交换；作为回报",
+      "usage": "in return for + 所交换的事物。",
+      "example": "I offered more time and asked for clear content in return.",
+      "exampleZh": "我多给了一些时间，并要求以清晰的文案作为交换。",
+      "paragraph": 2,
+      "targetWords": []
+    },
+    {
+      "id": "16-5",
+      "en": "a written agreement",
+      "zh": "一份书面协议",
+      "usage": "written 作定语，与 verbal agreement 口头协议相对。",
+      "example": "We signed a written agreement before starting.",
+      "exampleZh": "开始前，我们签了书面协议。",
+      "paragraph": 3,
+      "targetWords": [
+        "written"
+      ]
+    },
+    {
+      "id": "16-6",
+      "en": "contemplate a change",
+      "zh": "考虑做出改变",
+      "usage": "contemplate 指认真考虑，比 think about 正式。",
+      "example": "They had to contemplate a change to the plan.",
+      "exampleZh": "他们不得不考虑改变计划。",
+      "paragraph": 4,
+      "targetWords": [
+        "contemplate"
+      ]
+    },
+    {
+      "id": "16-7",
+      "en": "full transparency",
+      "zh": "充分的透明",
+      "usage": "transparency 指公开透明，常与 full、complete 连用。",
+      "example": "Customers expect full transparency about fees.",
+      "exampleZh": "客户期待收费上的充分透明。",
+      "paragraph": 4,
+      "targetWords": [
+        "transparency"
+      ]
+    },
+    {
+      "id": "16-8",
+      "en": "comparable prices",
+      "zh": "可比的价格",
+      "usage": "comparable 表示可比较的，常修饰 prices、data、results。",
+      "example": "The two shops offer comparable prices.",
+      "exampleZh": "两家店的价格相近，可以比较。",
+      "paragraph": 4,
+      "targetWords": [
+        "comparable"
+      ]
+    },
+    {
+      "id": "16-9",
+      "en": "a crucial factor",
+      "zh": "关键因素",
+      "usage": "crucial 表示至关重要的，常修饰 factor、role、moment。",
+      "example": "Timing was a crucial factor in the deal.",
+      "exampleZh": "时机是这笔交易中的关键因素。",
+      "paragraph": 4,
+      "targetWords": [
+        "crucial"
+      ]
+    },
+    {
+      "id": "16-10",
+      "en": "a sophisticated approach",
+      "zh": "精细的做法",
+      "usage": "sophisticated 表示复杂精妙的，常修饰 approach、system。",
+      "example": "The team took a sophisticated approach to pricing.",
+      "exampleZh": "团队在定价上采取了精细的做法。",
+      "paragraph": 4,
+      "targetWords": [
+        "sophisticated"
+      ]
+    },
+    {
+      "id": "16-11",
+      "en": "make a concession",
+      "zh": "做出让步",
+      "usage": "concession 指让步，常与 make、offer、win 连用。",
+      "example": "Each side had to make a concession.",
+      "exampleZh": "每一方都得做出一个让步。",
+      "paragraph": 4,
+      "targetWords": [
+        "concession"
+      ]
+    },
+    {
+      "id": "16-12",
+      "en": "a negotiating tactic",
+      "zh": "谈判策略",
+      "usage": "tactic 指手段、策略，常与 use、employ 连用。",
+      "example": "Silence can be a negotiating tactic.",
+      "exampleZh": "沉默可以是一种谈判策略。",
+      "paragraph": 4,
+      "targetWords": [
+        "tactic"
+      ]
+    },
+    {
+      "id": "16-13",
+      "en": "enforce the rules",
+      "zh": "执行规则",
+      "usage": "enforce 指强制执行，常接 rules、law、policy。",
+      "example": "It is hard to enforce the rules fairly.",
+      "exampleZh": "公平地执行规则并不容易。",
+      "paragraph": 4,
+      "targetWords": [
+        "enforce"
+      ]
+    },
+    {
+      "id": "16-14",
+      "en": "reach an understanding",
+      "zh": "达成谅解",
+      "usage": "understanding 在此指共识，常与 reach、come to 连用。",
+      "example": "We hope to reach an understanding today.",
+      "exampleZh": "我们希望今天达成谅解。",
+      "paragraph": 5,
+      "targetWords": [
+        "understanding"
+      ]
+    },
+    {
+      "id": "16-15",
+      "en": "allocate resources",
+      "zh": "分配资源",
+      "usage": "allocate 指分配，常接 resources、funds、time。",
+      "example": "The board will allocate resources to the trial.",
+      "exampleZh": "董事会将为这次试行分配资源。",
+      "paragraph": 5,
+      "targetWords": [
+        "allocate"
+      ]
+    },
+    {
+      "id": "16-16",
+      "en": "renew the contract",
+      "zh": "续签合同",
+      "usage": "renew 指续期、更新，常接 contract、licence、visa。",
+      "example": "They agreed to renew the contract for a year.",
+      "exampleZh": "他们同意把合同续签一年。",
+      "paragraph": 5,
+      "targetWords": [
+        "renew"
+      ]
+    },
+    {
+      "id": "16-17",
+      "en": "a fair payment",
+      "zh": "公平的付款",
+      "usage": "payment 指付款，常与 fair、late、monthly 连用。",
+      "example": "Workers deserve a fair payment for extra hours.",
+      "exampleZh": "工人加班理应得到公平的报酬。",
+      "paragraph": 5,
+      "targetWords": [
+        "payment"
+      ]
+    },
+    {
+      "id": "16-18",
+      "en": "impose a condition",
+      "zh": "强加条件",
+      "usage": "impose 指强加，常接 condition、rule、tax。",
+      "example": "Do not impose a condition at the last minute.",
+      "exampleZh": "不要在最后一刻强加条件。",
+      "paragraph": 5,
+      "targetWords": [
+        "impose"
+      ]
+    },
+    {
+      "id": "16-19",
+      "en": "a genuine concern",
+      "zh": "真实的顾虑",
+      "usage": "genuine 表示真实的；concern 指担忧、关切。",
+      "example": "She raised a genuine concern about safety.",
+      "exampleZh": "她就安全提出了一个真实的顾虑。",
+      "paragraph": 5,
+      "targetWords": [
+        "concern"
+      ]
+    },
+    {
+      "id": "16-20",
+      "en": "a large purchase",
+      "zh": "大额采购",
+      "usage": "purchase 指购买，常与 large、bulk、online 连用。",
+      "example": "Think twice before a large purchase.",
+      "exampleZh": "大额采购前要三思。",
+      "paragraph": 5,
+      "targetWords": [
+        "purchase"
+      ]
+    }
+  ]
 };

@@ -10,6 +10,12 @@
 - `src/data/oxford5000/word-families.json` / `collocations.json`：词族与搭配索引。
 - `src/data/oxford5000/translations.json`：5000 个目标词的中文释义（源自 ECDICT，已清洗），保证每词都有词性、翻译、音标。
 - `scripts/rebuild-curriculum.mjs`：从 Oxford 参考词表一次性重建 50 课；运行时不会重排词汇。
+- `scripts/lesson-content/l01.mjs` ... `l50.mjs`：每课的课文与词组稿件（passage 段落、中文翻译、20 个词组、场景单选），手工编写，供下面脚本写回课程文件。
+- `scripts/lesson-content/additions/a01.mjs` ... `a50.mjs`：为每课补充的 2 段课文与 15 个词组稿件（在原 5 条基础上扩到 20 条）。
+- `scripts/lesson-content/base/`：扩写前 l13–l50 的原始稿件备份，供 `extend.mjs` 幂等重建使用。
+- `scripts/lesson-content/extend.mjs`：把 aNN.mjs 的补充段落与词组合并进 lNN.mjs（按文本去重，幂等）。用法：`node scripts/lesson-content/extend.mjs`（全部）或指定课号。
+- `scripts/apply-lesson-content.mjs`：把 lNN.mjs 的课文与词组写回 `src/data/lessons/lesson-NN.js`。它只替换 passage / phrases / practice / stats，不改 100 个固定目标词的顺序；词组必须出现在课文原句中、例句必须用到该词组。用法：`node scripts/apply-lesson-content.mjs`（全部）、`node scripts/apply-lesson-content.mjs --check 21`（只校验）。
+- `scripts/lesson-content/show-words.mjs`：打印某课的固定 100 词、阶段与语法点，写稿前用它确认可用词汇。
 - `src/data/references.js`：不规则动词、连接词、常用搭配等速查内容。
 - `src/lib/progress.js`：本地学习记录、间隔复习和导入校验。
 - `src/lib/speech.js`：浏览器朗读与在线单词音频回退。
@@ -17,6 +23,8 @@
 - `scripts/split-lessons.mjs`：一次性迁移脚本；默认保护已有课件，只有明确使用 `FORCE=1` 才会重新生成。
 - `tests/`：课程数据与学习进度测试。
 - `public/images/`：课程图片（本地资源）。
+
+课文与词组结构：每课 `passage` 含 title、genre、4 个英文段落及逐段中文翻译；`phrases` 固定 20 条，各含英文词组、中文释义、用法说明、例句与例句翻译，并标出它覆盖的目标词；`practice.cloze` 由这些词组例句自动生成。界面「课文精读」标签下的「词组」页负责词组教学。
 
 运行：`npm install`，`npm run dev`。验证：`npm test`，`npm run build`。
 
